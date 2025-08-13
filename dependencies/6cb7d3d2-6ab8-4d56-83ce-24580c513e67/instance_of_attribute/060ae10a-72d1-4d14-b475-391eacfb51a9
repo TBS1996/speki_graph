@@ -1,0 +1,12 @@
+{
+  "id": "060ae10a-72d1-4d14-b475-391eacfb51a9",
+  "data": {
+    "Instance": {
+      "name": "Landschaft",
+      "back": {
+        "Text": "landscape"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

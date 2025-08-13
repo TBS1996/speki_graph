@@ -1,0 +1,12 @@
+{
+  "id": "d3008711-8028-4af3-a0a0-5f058a7470cf",
+  "data": {
+    "Instance": {
+      "name": "Bedarf",
+      "back": {
+        "Text": "need"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

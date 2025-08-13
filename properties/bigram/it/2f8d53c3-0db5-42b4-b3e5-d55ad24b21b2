@@ -1,0 +1,12 @@
+{
+  "id": "2f8d53c3-0db5-42b4-b3e5-d55ad24b21b2",
+  "data": {
+    "Instance": {
+      "name": "Gelegenheit",
+      "back": {
+        "Text": "opportunity"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

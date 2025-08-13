@@ -1,0 +1,12 @@
+{
+  "id": "fc9e4568-6c06-489a-986b-295b7eb6e072",
+  "data": {
+    "Instance": {
+      "name": "Vereinbarung",
+      "back": {
+        "Text": "agreement"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

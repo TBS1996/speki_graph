@@ -1,0 +1,12 @@
+{
+  "id": "a031a834-abf2-4e1b-a295-142698f194d7",
+  "data": {
+    "Instance": {
+      "name": "Farbe",
+      "back": {
+        "Text": "paint"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

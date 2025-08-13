@@ -1,0 +1,12 @@
+{
+  "id": "53cf1d16-fef7-4d64-857c-f59a6a84c182",
+  "data": {
+    "Instance": {
+      "name": "Welle",
+      "back": {
+        "Text": "wave"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

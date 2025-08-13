@@ -1,0 +1,12 @@
+{
+  "id": "474a3ee8-64b7-4056-a22c-d24d1dfc4ef9",
+  "data": {
+    "Instance": {
+      "name": "Kiste",
+      "back": {
+        "Text": "box"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

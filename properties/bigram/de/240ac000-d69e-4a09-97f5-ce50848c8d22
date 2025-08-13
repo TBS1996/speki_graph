@@ -1,0 +1,12 @@
+{
+  "id": "240ac000-d69e-4a09-97f5-ce50848c8d22",
+  "data": {
+    "Instance": {
+      "name": "Handel",
+      "back": {
+        "Text": "trading"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

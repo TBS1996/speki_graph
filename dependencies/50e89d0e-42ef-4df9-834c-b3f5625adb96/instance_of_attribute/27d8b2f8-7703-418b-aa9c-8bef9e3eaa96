@@ -1,0 +1,12 @@
+{
+  "id": "27d8b2f8-7703-418b-aa9c-8bef9e3eaa96",
+  "data": {
+    "Instance": {
+      "name": "Reise",
+      "back": {
+        "Text": "tour"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

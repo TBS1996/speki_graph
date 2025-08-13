@@ -1,0 +1,12 @@
+{
+  "id": "cc8df988-f331-49ef-8ed1-90e8eb5554cb",
+  "data": {
+    "Instance": {
+      "name": "Straße",
+      "back": {
+        "Text": "street"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

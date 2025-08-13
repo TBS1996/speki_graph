@@ -1,0 +1,12 @@
+{
+  "id": "98761e5b-6b6d-41d8-9f80-ff83a3fcd229",
+  "data": {
+    "Instance": {
+      "name": "Bürger",
+      "back": {
+        "Text": "citizen"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

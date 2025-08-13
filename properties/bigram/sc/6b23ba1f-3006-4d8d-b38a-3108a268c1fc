@@ -1,0 +1,12 @@
+{
+  "id": "6b23ba1f-3006-4d8d-b38a-3108a268c1fc",
+  "data": {
+    "Instance": {
+      "name": "Geschmack",
+      "back": {
+        "Text": "flavour"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

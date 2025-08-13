@@ -1,0 +1,12 @@
+{
+  "id": "4415a509-43d4-4512-9ae1-4e1fe89b0bd1",
+  "data": {
+    "Instance": {
+      "name": "Netzwerk",
+      "back": {
+        "Text": "network"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

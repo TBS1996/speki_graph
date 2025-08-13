@@ -1,0 +1,17 @@
+{
+  "id": "e2c847a3-e9ba-4912-ac90-735e47df4985",
+  "data": {
+    "Class": {
+      "name": "german noun",
+      "attrs": [
+        {
+          "id": "d9bcf644-cb49-4fd4-9a27-51142e36104a",
+          "pattern": "gender",
+          "back_type": {
+            "InstanceOfClass": "0eebab61-4f13-440c-a0ec-25aee4ea12b0"
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "c9102b6f-18db-42d6-9a32-07a5e1f060a2",
+  "data": {
+    "Instance": {
+      "name": "Titel",
+      "back": {
+        "Text": "title"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

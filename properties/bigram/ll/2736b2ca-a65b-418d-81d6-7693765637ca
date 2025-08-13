@@ -1,0 +1,12 @@
+{
+  "id": "2736b2ca-a65b-418d-81d6-7693765637ca",
+  "data": {
+    "Instance": {
+      "name": "Kollege",
+      "back": {
+        "Text": "colleague"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

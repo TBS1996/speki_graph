@@ -1,0 +1,12 @@
+{
+  "id": "15e51e52-6fd1-4f45-9918-ce265141c52a",
+  "data": {
+    "Instance": {
+      "name": "Fehler",
+      "back": {
+        "Text": "error"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

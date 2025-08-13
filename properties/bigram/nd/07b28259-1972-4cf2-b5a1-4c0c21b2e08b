@@ -1,0 +1,12 @@
+{
+  "id": "07b28259-1972-4cf2-b5a1-4c0c21b2e08b",
+  "data": {
+    "Instance": {
+      "name": "Kunde",
+      "back": {
+        "Text": "customer"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

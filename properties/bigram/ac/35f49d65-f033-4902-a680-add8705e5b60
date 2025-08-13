@@ -1,0 +1,12 @@
+{
+  "id": "35f49d65-f033-4902-a680-add8705e5b60",
+  "data": {
+    "Instance": {
+      "name": "Bach",
+      "back": {
+        "Text": "stream"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

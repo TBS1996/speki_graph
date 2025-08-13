@@ -1,0 +1,12 @@
+{
+  "id": "3d713c11-9d06-4626-a7b3-0c340197b0d4",
+  "data": {
+    "Instance": {
+      "name": "Bindung",
+      "back": {
+        "Text": "bond"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "a3b6e5c7-5a79-4525-bf5f-a0572a3a4b59",
+  "data": {
+    "Instance": {
+      "name": "Partei",
+      "back": {
+        "Text": "party"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

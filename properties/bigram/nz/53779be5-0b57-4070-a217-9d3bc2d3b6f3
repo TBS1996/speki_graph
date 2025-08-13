@@ -1,0 +1,12 @@
+{
+  "id": "53779be5-0b57-4070-a217-9d3bc2d3b6f3",
+  "data": {
+    "Instance": {
+      "name": "Grenze",
+      "back": {
+        "Text": "limit"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

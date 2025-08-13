@@ -1,0 +1,12 @@
+{
+  "id": "c87d0d4c-91a6-43ba-9d27-f1e36fe586bb",
+  "data": {
+    "Instance": {
+      "name": "Herz",
+      "back": {
+        "Text": "heart"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

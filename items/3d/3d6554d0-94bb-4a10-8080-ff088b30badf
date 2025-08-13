@@ -1,0 +1,12 @@
+{
+  "id": "3d6554d0-94bb-4a10-8080-ff088b30badf",
+  "data": {
+    "Instance": {
+      "name": "Prozess",
+      "back": {
+        "Text": "process"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "8a967aef-55b0-4526-a4e7-d4f535606600",
+  "data": {
+    "Instance": {
+      "name": "Luft",
+      "back": {
+        "Text": "air"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

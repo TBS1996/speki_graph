@@ -1,0 +1,12 @@
+{
+  "id": "eb2ee584-0c17-46f3-adcc-8fa56fa3dda6",
+  "data": {
+    "Instance": {
+      "name": "Redewendung",
+      "back": {
+        "Text": "phrase"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

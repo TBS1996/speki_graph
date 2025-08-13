@@ -1,0 +1,12 @@
+{
+  "id": "381b799f-e2c0-4cd2-b8ee-c48fad076b72",
+  "data": {
+    "Instance": {
+      "name": "Schokolade",
+      "back": {
+        "Text": "chocolate"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

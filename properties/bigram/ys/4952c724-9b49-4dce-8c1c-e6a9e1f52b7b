@@ -1,0 +1,12 @@
+{
+  "id": "4952c724-9b49-4dce-8c1c-e6a9e1f52b7b",
+  "data": {
+    "Instance": {
+      "name": "System",
+      "back": {
+        "Text": "system"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "607d1896-cf3c-4e5d-a5d3-3d22044fd519",
+  "data": {
+    "Instance": {
+      "name": "Mittagessen",
+      "back": {
+        "Text": "lunch"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

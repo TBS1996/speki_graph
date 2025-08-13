@@ -1,0 +1,12 @@
+{
+  "id": "5ffea740-9eca-4324-924e-1a423f79b577",
+  "data": {
+    "Instance": {
+      "name": "Eröffnung",
+      "back": {
+        "Text": "opening"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "59359cab-b594-4ce1-a200-119ade104420",
+  "data": {
+    "Instance": {
+      "name": "Kaffee",
+      "back": {
+        "Text": "coffee"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

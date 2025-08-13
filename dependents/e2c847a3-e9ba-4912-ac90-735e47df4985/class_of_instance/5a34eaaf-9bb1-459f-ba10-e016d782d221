@@ -1,0 +1,12 @@
+{
+  "id": "5a34eaaf-9bb1-459f-ba10-e016d782d221",
+  "data": {
+    "Instance": {
+      "name": "Wettbewerb",
+      "back": {
+        "Text": "competition"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "bf4077b4-0b7e-4448-ad32-a9d108aef28c",
+  "data": {
+    "Instance": {
+      "name": "Waffe",
+      "back": {
+        "Text": "gun"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

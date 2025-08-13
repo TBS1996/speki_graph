@@ -1,0 +1,12 @@
+{
+  "id": "b998ff8d-a65b-49bf-ab6c-341b43aa6168",
+  "data": {
+    "Instance": {
+      "name": "Sport",
+      "back": {
+        "Text": "sport"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "063eb86a-c586-443c-bea0-e5c12c682c57",
+  "data": {
+    "Instance": {
+      "name": "Montag",
+      "back": {
+        "Text": "monday"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

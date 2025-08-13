@@ -1,0 +1,12 @@
+{
+  "id": "c562a90e-8c94-4289-b75f-d9b7fe791adc",
+  "data": {
+    "Instance": {
+      "name": "Komfort",
+      "back": {
+        "Text": "comfort"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "fe988879-d027-43d0-a3b9-959940f82077",
+  "data": {
+    "Instance": {
+      "name": "Beobachtung",
+      "back": {
+        "Text": "observation"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "4fe2061f-eaa7-4dd3-b893-0e3d1f22777d",
+  "data": {
+    "Instance": {
+      "name": "Band",
+      "back": {
+        "Text": "volume"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

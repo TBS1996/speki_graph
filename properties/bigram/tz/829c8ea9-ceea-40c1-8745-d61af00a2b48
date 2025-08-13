@@ -1,0 +1,12 @@
+{
+  "id": "829c8ea9-ceea-40c1-8745-d61af00a2b48",
+  "data": {
+    "Instance": {
+      "name": "Besitzer",
+      "back": {
+        "Text": "owner"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

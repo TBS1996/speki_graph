@@ -1,0 +1,12 @@
+{
+  "id": "708046d4-e32a-4543-a4fe-1bc21a48d20c",
+  "data": {
+    "Instance": {
+      "name": "Tee",
+      "back": {
+        "Text": "tea"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

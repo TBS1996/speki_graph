@@ -1,0 +1,12 @@
+{
+  "id": "86cd61de-6c5a-40e5-a8f1-6d21accc83a3",
+  "data": {
+    "Instance": {
+      "name": "Schwester",
+      "back": {
+        "Text": "sister"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

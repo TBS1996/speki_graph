@@ -1,0 +1,12 @@
+{
+  "id": "7a42e1d8-2155-474e-af9a-336dcb2796f3",
+  "data": {
+    "Instance": {
+      "name": "Mahlzeit",
+      "back": {
+        "Text": "meal"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

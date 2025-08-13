@@ -1,0 +1,12 @@
+{
+  "id": "b6fb20f2-96a0-4795-86cd-83c8dd94d78d",
+  "data": {
+    "Instance": {
+      "name": "Auto",
+      "back": {
+        "Text": "car"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

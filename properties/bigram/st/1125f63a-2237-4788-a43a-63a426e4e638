@@ -1,0 +1,12 @@
+{
+  "id": "1125f63a-2237-4788-a43a-63a426e4e638",
+  "data": {
+    "Instance": {
+      "name": "Leistung",
+      "back": {
+        "Text": "performance"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

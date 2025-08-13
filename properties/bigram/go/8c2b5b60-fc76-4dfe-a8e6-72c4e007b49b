@@ -1,0 +1,12 @@
+{
+  "id": "8c2b5b60-fc76-4dfe-a8e6-72c4e007b49b",
+  "data": {
+    "Instance": {
+      "name": "Gold",
+      "back": {
+        "Text": "gold"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

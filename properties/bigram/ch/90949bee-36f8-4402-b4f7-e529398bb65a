@@ -1,0 +1,12 @@
+{
+  "id": "90949bee-36f8-4402-b4f7-e529398bb65a",
+  "data": {
+    "Instance": {
+      "name": "Schätzung",
+      "back": {
+        "Text": "estimate"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

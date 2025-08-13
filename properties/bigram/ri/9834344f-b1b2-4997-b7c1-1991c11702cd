@@ -1,0 +1,12 @@
+{
+  "id": "9834344f-b1b2-4997-b7c1-1991c11702cd",
+  "data": {
+    "Instance": {
+      "name": "Experiment",
+      "back": {
+        "Text": "experiment"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

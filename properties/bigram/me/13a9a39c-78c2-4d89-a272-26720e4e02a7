@@ -1,0 +1,12 @@
+{
+  "id": "13a9a39c-78c2-4d89-a272-26720e4e02a7",
+  "data": {
+    "Instance": {
+      "name": "Meister",
+      "back": {
+        "Text": "master"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

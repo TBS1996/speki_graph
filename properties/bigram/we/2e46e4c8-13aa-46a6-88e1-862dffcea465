@@ -1,0 +1,12 @@
+{
+  "id": "2e46e4c8-13aa-46a6-88e1-862dffcea465",
+  "data": {
+    "Instance": {
+      "name": "Wetter",
+      "back": {
+        "Text": "weather"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

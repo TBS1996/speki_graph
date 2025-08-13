@@ -1,0 +1,12 @@
+{
+  "id": "0967c4b8-48ae-4c2f-983e-6ebc8cff1bcc",
+  "data": {
+    "Instance": {
+      "name": "Glaube",
+      "back": {
+        "Text": "faith"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

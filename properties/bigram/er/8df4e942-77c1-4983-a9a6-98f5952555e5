@@ -1,0 +1,12 @@
+{
+  "id": "8df4e942-77c1-4983-a9a6-98f5952555e5",
+  "data": {
+    "Instance": {
+      "name": "Jahrhundert",
+      "back": {
+        "Text": "century"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

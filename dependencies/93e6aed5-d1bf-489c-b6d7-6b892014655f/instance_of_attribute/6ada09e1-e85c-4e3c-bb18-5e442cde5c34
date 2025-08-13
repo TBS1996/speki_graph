@@ -1,0 +1,12 @@
+{
+  "id": "6ada09e1-e85c-4e3c-bb18-5e442cde5c34",
+  "data": {
+    "Instance": {
+      "name": "Macht",
+      "back": {
+        "Text": "power"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "497e1ff3-086b-40aa-9820-69fb8aaa1d9e",
+  "data": {
+    "Instance": {
+      "name": "Soldat",
+      "back": {
+        "Text": "soldier"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

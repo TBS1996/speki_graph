@@ -1,0 +1,12 @@
+{
+  "id": "61529ef8-599f-4b4f-bdcd-6c841986e12d",
+  "data": {
+    "Instance": {
+      "name": "Schreibtisch",
+      "back": {
+        "Text": "desk"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

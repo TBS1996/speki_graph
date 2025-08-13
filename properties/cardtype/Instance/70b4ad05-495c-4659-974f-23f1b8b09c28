@@ -1,0 +1,12 @@
+{
+  "id": "70b4ad05-495c-4659-974f-23f1b8b09c28",
+  "data": {
+    "Instance": {
+      "name": "Tasche",
+      "back": {
+        "Text": "pocket"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

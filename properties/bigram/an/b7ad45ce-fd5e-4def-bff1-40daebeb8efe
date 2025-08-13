@@ -1,0 +1,12 @@
+{
+  "id": "b7ad45ce-fd5e-4def-bff1-40daebeb8efe",
+  "data": {
+    "Instance": {
+      "name": "Hand",
+      "back": {
+        "Text": "hand"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "5b9bc093-f1ba-4325-88c2-c8cf5c0b1130",
+  "data": {
+    "Instance": {
+      "name": "Kuchen",
+      "back": {
+        "Text": "cake"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

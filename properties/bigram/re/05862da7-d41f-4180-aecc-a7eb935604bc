@@ -1,0 +1,12 @@
+{
+  "id": "05862da7-d41f-4180-aecc-a7eb935604bc",
+  "data": {
+    "Instance": {
+      "name": "Fahrer",
+      "back": {
+        "Text": "driver"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

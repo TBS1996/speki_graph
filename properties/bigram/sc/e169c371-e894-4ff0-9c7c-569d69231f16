@@ -1,0 +1,12 @@
+{
+  "id": "e169c371-e894-4ff0-9c7c-569d69231f16",
+  "data": {
+    "Instance": {
+      "name": "Schnur",
+      "back": {
+        "Text": "string"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

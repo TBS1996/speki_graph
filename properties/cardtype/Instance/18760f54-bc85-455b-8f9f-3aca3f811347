@@ -1,0 +1,12 @@
+{
+  "id": "18760f54-bc85-455b-8f9f-3aca3f811347",
+  "data": {
+    "Instance": {
+      "name": "Grund",
+      "back": {
+        "Text": "reason"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "caa4df12-3072-4f6d-a0d4-885e16c875f3",
+  "data": {
+    "Instance": {
+      "name": "Veröffentlichung",
+      "back": {
+        "Text": "publication"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

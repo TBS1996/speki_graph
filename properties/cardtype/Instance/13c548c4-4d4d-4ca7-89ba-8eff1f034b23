@@ -1,0 +1,12 @@
+{
+  "id": "13c548c4-4d4d-4ca7-89ba-8eff1f034b23",
+  "data": {
+    "Instance": {
+      "name": "Wettbewerb",
+      "back": {
+        "Text": "contest"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "dc00dbcc-60c8-45a6-bbad-7427d8360206",
+  "data": {
+    "Instance": {
+      "name": "Einstellung",
+      "back": {
+        "Text": "setting"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

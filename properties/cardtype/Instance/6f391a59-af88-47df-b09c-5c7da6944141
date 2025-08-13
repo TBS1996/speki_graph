@@ -1,0 +1,12 @@
+{
+  "id": "6f391a59-af88-47df-b09c-5c7da6944141",
+  "data": {
+    "Instance": {
+      "name": "Kind",
+      "back": {
+        "Text": "child"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

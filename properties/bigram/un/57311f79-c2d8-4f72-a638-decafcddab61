@@ -1,0 +1,12 @@
+{
+  "id": "57311f79-c2d8-4f72-a638-decafcddab61",
+  "data": {
+    "Instance": {
+      "name": "Beziehung",
+      "back": {
+        "Text": "relationship"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

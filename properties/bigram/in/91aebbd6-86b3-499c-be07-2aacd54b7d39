@@ -1,0 +1,12 @@
+{
+  "id": "91aebbd6-86b3-499c-be07-2aacd54b7d39",
+  "data": {
+    "Instance": {
+      "name": "Kind",
+      "back": {
+        "Text": "kid"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

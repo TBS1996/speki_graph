@@ -1,0 +1,12 @@
+{
+  "id": "52930102-d30d-474f-9a5b-99c8a92cafab",
+  "data": {
+    "Instance": {
+      "name": "Verein",
+      "back": {
+        "Text": "association"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

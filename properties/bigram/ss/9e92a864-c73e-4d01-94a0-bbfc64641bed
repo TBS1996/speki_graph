@@ -1,0 +1,12 @@
+{
+  "id": "9e92a864-c73e-4d01-94a0-bbfc64641bed",
+  "data": {
+    "Instance": {
+      "name": "Prozess",
+      "back": {
+        "Text": "trial"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "8b2b73a2-c3a6-48bd-9244-7cde3e420209",
+  "data": {
+    "Instance": {
+      "name": "Zahn",
+      "back": {
+        "Text": "tooth"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

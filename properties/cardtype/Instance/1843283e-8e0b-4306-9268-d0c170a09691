@@ -1,0 +1,12 @@
+{
+  "id": "1843283e-8e0b-4306-9268-d0c170a09691",
+  "data": {
+    "Instance": {
+      "name": "Vorschlag",
+      "back": {
+        "Text": "suggestion"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

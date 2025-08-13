@@ -1,0 +1,12 @@
+{
+  "id": "d8889af6-c8a0-4f1a-bf90-d1d0572110dd",
+  "data": {
+    "Instance": {
+      "name": "Lieferung",
+      "back": {
+        "Text": "supply"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

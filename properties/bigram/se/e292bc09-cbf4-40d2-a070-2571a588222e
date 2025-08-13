@@ -1,0 +1,12 @@
+{
+  "id": "e292bc09-cbf4-40d2-a070-2571a588222e",
+  "data": {
+    "Instance": {
+      "name": "Interesse",
+      "back": {
+        "Text": "interest"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

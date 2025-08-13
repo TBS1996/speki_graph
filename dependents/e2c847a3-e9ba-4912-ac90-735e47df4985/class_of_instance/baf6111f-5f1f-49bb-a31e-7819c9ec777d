@@ -1,0 +1,12 @@
+{
+  "id": "baf6111f-5f1f-49bb-a31e-7819c9ec777d",
+  "data": {
+    "Instance": {
+      "name": "Thema",
+      "back": {
+        "Text": "topic"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "7245ed5e-f610-4222-9ac6-68e1b500d214",
+  "data": {
+    "Instance": {
+      "name": "Woche",
+      "back": {
+        "Text": "week"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

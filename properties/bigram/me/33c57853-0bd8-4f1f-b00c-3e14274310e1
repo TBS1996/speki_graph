@@ -1,0 +1,12 @@
+{
+  "id": "33c57853-0bd8-4f1f-b00c-3e14274310e1",
+  "data": {
+    "Instance": {
+      "name": "Rahmen",
+      "back": {
+        "Text": "frame"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

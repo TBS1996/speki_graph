@@ -1,0 +1,12 @@
+{
+  "id": "d3a13735-2372-4ec5-9a01-7ed3beff193a",
+  "data": {
+    "Instance": {
+      "name": "Lager",
+      "back": {
+        "Text": "camp"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

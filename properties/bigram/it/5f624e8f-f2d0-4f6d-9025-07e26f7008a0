@@ -1,0 +1,12 @@
+{
+  "id": "5f624e8f-f2d0-4f6d-9025-07e26f7008a0",
+  "data": {
+    "Instance": {
+      "name": "Investition",
+      "back": {
+        "Text": "investment"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

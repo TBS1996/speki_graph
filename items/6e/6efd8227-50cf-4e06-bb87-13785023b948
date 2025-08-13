@@ -1,0 +1,12 @@
+{
+  "id": "6efd8227-50cf-4e06-bb87-13785023b948",
+  "data": {
+    "Instance": {
+      "name": "Ecke",
+      "back": {
+        "Text": "corner"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

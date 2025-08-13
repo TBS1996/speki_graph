@@ -1,0 +1,12 @@
+{
+  "id": "002d6f4a-621e-4fef-bb3f-ed536fcb45d8",
+  "data": {
+    "Instance": {
+      "name": "Mode",
+      "back": {
+        "Text": "fashion"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

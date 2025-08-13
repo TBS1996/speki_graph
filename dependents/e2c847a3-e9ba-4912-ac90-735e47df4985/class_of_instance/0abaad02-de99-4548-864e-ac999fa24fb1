@@ -1,0 +1,12 @@
+{
+  "id": "0abaad02-de99-4548-864e-ac999fa24fb1",
+  "data": {
+    "Instance": {
+      "name": "Verhalten",
+      "back": {
+        "Text": "behaviour"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

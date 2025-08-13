@@ -1,0 +1,12 @@
+{
+  "id": "74c7a64c-21c3-4be2-bc89-e169ffa117dc",
+  "data": {
+    "Instance": {
+      "name": "Gemeinschaft",
+      "back": {
+        "Text": "community"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "78351f2f-4630-445a-a286-90f6610d68b5",
+  "data": {
+    "Instance": {
+      "name": "Geschäft",
+      "back": {
+        "Text": "store"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

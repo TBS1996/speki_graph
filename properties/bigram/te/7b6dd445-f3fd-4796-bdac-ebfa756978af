@@ -1,0 +1,12 @@
+{
+  "id": "7b6dd445-f3fd-4796-bdac-ebfa756978af",
+  "data": {
+    "Instance": {
+      "name": "Vorstellung",
+      "back": {
+        "Text": "notion"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

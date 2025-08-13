@@ -1,0 +1,12 @@
+{
+  "id": "a27adfdc-f1ce-4bf2-bbbd-5c140a5df0f6",
+  "data": {
+    "Instance": {
+      "name": "Lektüre",
+      "back": {
+        "Text": "reading"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

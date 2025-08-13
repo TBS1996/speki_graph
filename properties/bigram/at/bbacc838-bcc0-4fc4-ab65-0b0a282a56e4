@@ -1,0 +1,12 @@
+{
+  "id": "bbacc838-bcc0-4fc4-ab65-0b0a282a56e4",
+  "data": {
+    "Instance": {
+      "name": "Natur",
+      "back": {
+        "Text": "nature"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

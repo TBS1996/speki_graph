@@ -1,0 +1,12 @@
+{
+  "id": "0170fcec-e19a-4353-905d-690b427de6d1",
+  "data": {
+    "Instance": {
+      "name": "Disziplin",
+      "back": {
+        "Text": "discipline"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "28c05877-bced-41f9-80a2-f18e569c06c3",
+  "data": {
+    "Instance": {
+      "name": "Brief",
+      "back": {
+        "Text": "letter"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

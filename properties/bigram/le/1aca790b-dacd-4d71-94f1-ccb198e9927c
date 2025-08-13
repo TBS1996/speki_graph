@@ -1,0 +1,12 @@
+{
+  "id": "1aca790b-dacd-4d71-94f1-ccb198e9927c",
+  "data": {
+    "Instance": {
+      "name": "Telefon",
+      "back": {
+        "Text": "phone"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

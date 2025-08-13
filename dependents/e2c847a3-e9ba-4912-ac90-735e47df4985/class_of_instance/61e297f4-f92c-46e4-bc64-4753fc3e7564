@@ -1,0 +1,12 @@
+{
+  "id": "61e297f4-f92c-46e4-bc64-4753fc3e7564",
+  "data": {
+    "Instance": {
+      "name": "Zahl",
+      "back": {
+        "Text": "number"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

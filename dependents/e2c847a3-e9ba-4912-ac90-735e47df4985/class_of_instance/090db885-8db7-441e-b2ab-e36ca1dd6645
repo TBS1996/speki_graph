@@ -1,0 +1,12 @@
+{
+  "id": "090db885-8db7-441e-b2ab-e36ca1dd6645",
+  "data": {
+    "Instance": {
+      "name": "Summe",
+      "back": {
+        "Text": "total"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

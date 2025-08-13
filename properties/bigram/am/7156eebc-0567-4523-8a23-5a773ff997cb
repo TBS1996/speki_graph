@@ -1,0 +1,12 @@
+{
+  "id": "7156eebc-0567-4523-8a23-5a773ff997cb",
+  "data": {
+    "Instance": {
+      "name": "Beamter",
+      "back": {
+        "Text": "officer"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

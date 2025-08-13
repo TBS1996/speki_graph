@@ -1,0 +1,12 @@
+{
+  "id": "f6274d2d-f3c6-4d59-a7da-2d1ac03ca2ce",
+  "data": {
+    "Instance": {
+      "name": "Belohnung",
+      "back": {
+        "Text": "reward"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

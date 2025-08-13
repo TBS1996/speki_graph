@@ -1,0 +1,12 @@
+{
+  "id": "ff1d5a2c-54ef-4ba5-a8d0-bd2c47df0a3f",
+  "data": {
+    "Instance": {
+      "name": "Klassenzimmer",
+      "back": {
+        "Text": "classroom"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

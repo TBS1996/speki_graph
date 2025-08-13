@@ -1,0 +1,12 @@
+{
+  "id": "65e6aa74-e066-4e8b-b7b7-120fc3445fcf",
+  "data": {
+    "Instance": {
+      "name": "Symbol",
+      "back": {
+        "Text": "symbol"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "07517976-206c-4083-a9f8-4dab023fbb15",
+  "data": {
+    "Instance": {
+      "name": "Rechnung",
+      "back": {
+        "Text": "bill"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

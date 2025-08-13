@@ -1,0 +1,12 @@
+{
+  "id": "1370ce18-0072-4895-a1d1-5def43345d68",
+  "data": {
+    "Instance": {
+      "name": "Ressource",
+      "back": {
+        "Text": "resource"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

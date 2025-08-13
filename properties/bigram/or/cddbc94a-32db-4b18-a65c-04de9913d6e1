@@ -1,0 +1,12 @@
+{
+  "id": "cddbc94a-32db-4b18-a65c-04de9913d6e1",
+  "data": {
+    "Instance": {
+      "name": "Kategorie",
+      "back": {
+        "Text": "category"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

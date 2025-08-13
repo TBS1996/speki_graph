@@ -1,0 +1,12 @@
+{
+  "id": "9232bf47-789c-45de-9c2d-3c4216b58986",
+  "data": {
+    "Instance": {
+      "name": "Papier",
+      "back": {
+        "Text": "paper"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

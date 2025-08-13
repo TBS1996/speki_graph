@@ -1,0 +1,12 @@
+{
+  "id": "8da48366-e831-4b3f-8ef1-a9fbe619dcd8",
+  "data": {
+    "Instance": {
+      "name": "Tisch",
+      "back": {
+        "Text": "table"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

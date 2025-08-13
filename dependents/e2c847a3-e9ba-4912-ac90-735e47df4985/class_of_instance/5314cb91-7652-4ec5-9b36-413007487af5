@@ -1,0 +1,12 @@
+{
+  "id": "5314cb91-7652-4ec5-9b36-413007487af5",
+  "data": {
+    "Instance": {
+      "name": "Anteil",
+      "back": {
+        "Text": "share"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

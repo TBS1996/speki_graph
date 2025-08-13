@@ -1,0 +1,12 @@
+{
+  "id": "4ca052bd-495c-4b05-a653-a004b9ae9dc0",
+  "data": {
+    "Instance": {
+      "name": "Fähigkeit",
+      "back": {
+        "Text": "skill"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

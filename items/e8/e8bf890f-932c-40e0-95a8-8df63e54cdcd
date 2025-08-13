@@ -1,0 +1,12 @@
+{
+  "id": "e8bf890f-932c-40e0-95a8-8df63e54cdcd",
+  "data": {
+    "Instance": {
+      "name": "Garten",
+      "back": {
+        "Text": "garden"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "1ab80afb-377c-4d2e-a341-6319b219a04d",
+  "data": {
+    "Instance": {
+      "name": "Ziel",
+      "back": {
+        "Text": "aim"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

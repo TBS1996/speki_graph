@@ -1,0 +1,12 @@
+{
+  "id": "1bdbb87b-4ebd-4152-bdb3-3f2b45e575ca",
+  "data": {
+    "Instance": {
+      "name": "Wasser",
+      "back": {
+        "Text": "water"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

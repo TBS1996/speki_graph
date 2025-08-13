@@ -1,0 +1,12 @@
+{
+  "id": "f4756ffc-9038-4b79-9cc2-dd828d323ad9",
+  "data": {
+    "Instance": {
+      "name": "Aussage",
+      "back": {
+        "Text": "statement"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "e7485aa6-14e5-4c2c-8917-4c90fca9ce6f",
+  "data": {
+    "Instance": {
+      "name": "Widerstand",
+      "back": {
+        "Text": "resistance"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

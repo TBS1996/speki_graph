@@ -1,0 +1,12 @@
+{
+  "id": "5e2a042e-05d0-4072-a37f-119ede0fbd69",
+  "data": {
+    "Instance": {
+      "name": "Notiz",
+      "back": {
+        "Text": "note"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

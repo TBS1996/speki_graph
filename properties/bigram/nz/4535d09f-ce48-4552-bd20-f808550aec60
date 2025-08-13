@@ -1,0 +1,12 @@
+{
+  "id": "4535d09f-ce48-4552-bd20-f808550aec60",
+  "data": {
+    "Instance": {
+      "name": "Finanzen",
+      "back": {
+        "Text": "finance"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "418a71c2-520d-4e0c-829f-17b74c4a80c3",
+  "data": {
+    "Instance": {
+      "name": "Bett",
+      "back": {
+        "Text": "bed"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

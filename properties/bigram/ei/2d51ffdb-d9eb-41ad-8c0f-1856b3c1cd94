@@ -1,0 +1,12 @@
+{
+  "id": "2d51ffdb-d9eb-41ad-8c0f-1856b3c1cd94",
+  "data": {
+    "Instance": {
+      "name": "Beteiligung",
+      "back": {
+        "Text": "involvement"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

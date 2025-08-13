@@ -1,0 +1,12 @@
+{
+  "id": "bd430794-7a06-4c42-b0e1-5616d109b033",
+  "data": {
+    "Instance": {
+      "name": "Lächeln",
+      "back": {
+        "Text": "smile"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

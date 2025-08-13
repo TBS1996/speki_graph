@@ -1,0 +1,12 @@
+{
+  "id": "22292c0f-4d3b-4865-b9a9-9e0bf7d42e2d",
+  "data": {
+    "Instance": {
+      "name": "Schwierigkeit",
+      "back": {
+        "Text": "difficulty"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

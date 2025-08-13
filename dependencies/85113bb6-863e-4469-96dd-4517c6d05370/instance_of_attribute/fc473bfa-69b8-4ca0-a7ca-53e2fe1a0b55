@@ -1,0 +1,12 @@
+{
+  "id": "fc473bfa-69b8-4ca0-a7ca-53e2fe1a0b55",
+  "data": {
+    "Instance": {
+      "name": "Qualität",
+      "back": {
+        "Text": "quality"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

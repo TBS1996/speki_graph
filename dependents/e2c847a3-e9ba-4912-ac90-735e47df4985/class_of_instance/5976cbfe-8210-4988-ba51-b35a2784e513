@@ -1,0 +1,12 @@
+{
+  "id": "5976cbfe-8210-4988-ba51-b35a2784e513",
+  "data": {
+    "Instance": {
+      "name": "Vater",
+      "back": {
+        "Text": "father"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

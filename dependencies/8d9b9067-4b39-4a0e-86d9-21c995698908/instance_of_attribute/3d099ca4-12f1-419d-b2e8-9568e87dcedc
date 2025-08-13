@@ -1,0 +1,12 @@
+{
+  "id": "3d099ca4-12f1-419d-b2e8-9568e87dcedc",
+  "data": {
+    "Instance": {
+      "name": "Verlobung",
+      "back": {
+        "Text": "engagement"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

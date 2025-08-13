@@ -1,0 +1,12 @@
+{
+  "id": "e550066e-316e-4882-b1b3-9e9a3bb3a74b",
+  "data": {
+    "Instance": {
+      "name": "Etikett",
+      "back": {
+        "Text": "label"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

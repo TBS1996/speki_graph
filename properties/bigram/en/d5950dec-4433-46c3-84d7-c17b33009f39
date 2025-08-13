@@ -1,0 +1,12 @@
+{
+  "id": "d5950dec-4433-46c3-84d7-c17b33009f39",
+  "data": {
+    "Instance": {
+      "name": "Abend",
+      "back": {
+        "Text": "evening"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

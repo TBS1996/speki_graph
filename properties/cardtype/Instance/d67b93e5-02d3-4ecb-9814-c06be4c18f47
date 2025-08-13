@@ -1,0 +1,12 @@
+{
+  "id": "d67b93e5-02d3-4ecb-9814-c06be4c18f47",
+  "data": {
+    "Instance": {
+      "name": "Sonntag",
+      "back": {
+        "Text": "sunday"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

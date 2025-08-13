@@ -1,0 +1,12 @@
+{
+  "id": "c04a61f2-0f73-4951-8c6b-bb31f7da1e34",
+  "data": {
+    "Instance": {
+      "name": "Masse",
+      "back": {
+        "Text": "mass"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "a311cf7f-a3a3-46e2-80f5-ce73bf2923bb",
+  "data": {
+    "Instance": {
+      "name": "Diät",
+      "back": {
+        "Text": "diet"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

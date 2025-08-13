@@ -1,0 +1,12 @@
+{
+  "id": "1e34bb42-47b8-457d-9eee-aecfa815bcb9",
+  "data": {
+    "Instance": {
+      "name": "Norden",
+      "back": {
+        "Text": "north"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

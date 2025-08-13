@@ -1,0 +1,12 @@
+{
+  "id": "6221e417-9d1b-4227-a725-1e6fc7f0db2d",
+  "data": {
+    "Instance": {
+      "name": "Dorf",
+      "back": {
+        "Text": "village"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "419a346b-7791-410a-b113-f71e1b188b18",
+  "data": {
+    "Instance": {
+      "name": "Opfer",
+      "back": {
+        "Text": "victim"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

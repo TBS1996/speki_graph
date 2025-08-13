@@ -1,0 +1,12 @@
+{
+  "id": "4578fd4b-4d04-4fdf-9e13-b1fa8ef343ca",
+  "data": {
+    "Instance": {
+      "name": "Nachfrage",
+      "back": {
+        "Text": "demand"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

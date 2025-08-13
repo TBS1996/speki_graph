@@ -1,0 +1,12 @@
+{
+  "id": "95659fbd-62be-467d-ad2f-3eaa9d26dde9",
+  "data": {
+    "Instance": {
+      "name": "Leistung",
+      "back": {
+        "Text": "achievement"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

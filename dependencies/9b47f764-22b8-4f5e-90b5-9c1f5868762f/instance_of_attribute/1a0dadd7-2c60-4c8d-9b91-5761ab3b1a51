@@ -1,0 +1,12 @@
+{
+  "id": "1a0dadd7-2c60-4c8d-9b91-5761ab3b1a51",
+  "data": {
+    "Instance": {
+      "name": "Tätigkeit",
+      "back": {
+        "Text": "activity"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

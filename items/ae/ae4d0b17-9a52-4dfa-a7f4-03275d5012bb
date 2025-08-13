@@ -1,0 +1,12 @@
+{
+  "id": "ae4d0b17-9a52-4dfa-a7f4-03275d5012bb",
+  "data": {
+    "Instance": {
+      "name": "Morgen",
+      "back": {
+        "Text": "morning"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

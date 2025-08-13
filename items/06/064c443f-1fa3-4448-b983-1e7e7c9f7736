@@ -1,0 +1,12 @@
+{
+  "id": "064c443f-1fa3-4448-b983-1e7e7c9f7736",
+  "data": {
+    "Instance": {
+      "name": "Problem",
+      "back": {
+        "Text": "problem"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

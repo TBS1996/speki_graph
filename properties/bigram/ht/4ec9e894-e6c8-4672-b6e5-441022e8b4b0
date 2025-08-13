@@ -1,0 +1,12 @@
+{
+  "id": "4ec9e894-e6c8-4672-b6e5-441022e8b4b0",
+  "data": {
+    "Instance": {
+      "name": "Gesicht",
+      "back": {
+        "Text": "face"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

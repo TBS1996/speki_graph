@@ -1,0 +1,12 @@
+{
+  "id": "8c12649d-f6e6-41ee-951e-b4f9881f5eef",
+  "data": {
+    "Instance": {
+      "name": "Fahrt",
+      "back": {
+        "Text": "drive"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

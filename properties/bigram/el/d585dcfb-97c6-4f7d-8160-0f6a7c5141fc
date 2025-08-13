@@ -1,0 +1,12 @@
+{
+  "id": "d585dcfb-97c6-4f7d-8160-0f6a7c5141fc",
+  "data": {
+    "Instance": {
+      "name": "Insel",
+      "back": {
+        "Text": "island"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

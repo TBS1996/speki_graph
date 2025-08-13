@@ -1,0 +1,12 @@
+{
+  "id": "14f39d26-5033-4ae7-9f47-b969937e9b46",
+  "data": {
+    "Instance": {
+      "name": "Bewegung",
+      "back": {
+        "Text": "movement"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

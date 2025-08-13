@@ -1,0 +1,12 @@
+{
+  "id": "94ab7db9-6c57-452e-914e-f614b0c6b629",
+  "data": {
+    "Instance": {
+      "name": "Größe",
+      "back": {
+        "Text": "size"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

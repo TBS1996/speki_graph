@@ -1,0 +1,12 @@
+{
+  "id": "7c934937-3b2b-48e2-815d-a591f30ad759",
+  "data": {
+    "Instance": {
+      "name": "Huhn",
+      "back": {
+        "Text": "chicken"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

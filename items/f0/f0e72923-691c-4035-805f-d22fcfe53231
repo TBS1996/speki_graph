@@ -1,0 +1,12 @@
+{
+  "id": "f0e72923-691c-4035-805f-d22fcfe53231",
+  "data": {
+    "Instance": {
+      "name": "Skala",
+      "back": {
+        "Text": "scale"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

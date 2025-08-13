@@ -1,0 +1,12 @@
+{
+  "id": "046504ec-aef7-478f-812f-37c7e358942d",
+  "data": {
+    "Instance": {
+      "name": "Licht",
+      "back": {
+        "Text": "light"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

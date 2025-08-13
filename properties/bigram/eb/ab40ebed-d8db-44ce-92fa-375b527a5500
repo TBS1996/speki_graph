@@ -1,0 +1,12 @@
+{
+  "id": "ab40ebed-d8db-44ce-92fa-375b527a5500",
+  "data": {
+    "Instance": {
+      "name": "Vorliebe",
+      "back": {
+        "Text": "preference"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

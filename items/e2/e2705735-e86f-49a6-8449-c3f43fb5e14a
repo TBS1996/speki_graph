@@ -1,0 +1,12 @@
+{
+  "id": "e2705735-e86f-49a6-8449-c3f43fb5e14a",
+  "data": {
+    "Instance": {
+      "name": "Film",
+      "back": {
+        "Text": "movie"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

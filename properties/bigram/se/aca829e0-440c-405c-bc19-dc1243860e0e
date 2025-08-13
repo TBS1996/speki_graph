@@ -1,0 +1,12 @@
+{
+  "id": "aca829e0-440c-405c-bc19-dc1243860e0e",
+  "data": {
+    "Instance": {
+      "name": "Schlüssel",
+      "back": {
+        "Text": "key"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

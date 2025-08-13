@@ -1,0 +1,12 @@
+{
+  "id": "f176c2f9-5dce-4323-a39b-8d49677d986a",
+  "data": {
+    "Instance": {
+      "name": "Viertel",
+      "back": {
+        "Text": "neighbourhood"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

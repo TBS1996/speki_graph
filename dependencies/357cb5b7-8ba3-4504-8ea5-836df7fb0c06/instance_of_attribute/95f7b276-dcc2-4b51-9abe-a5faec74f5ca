@@ -1,0 +1,12 @@
+{
+  "id": "95f7b276-dcc2-4b51-9abe-a5faec74f5ca",
+  "data": {
+    "Instance": {
+      "name": "Panzer",
+      "back": {
+        "Text": "tank"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

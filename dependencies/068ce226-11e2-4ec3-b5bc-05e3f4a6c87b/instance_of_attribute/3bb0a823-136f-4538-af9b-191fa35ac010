@@ -1,0 +1,12 @@
+{
+  "id": "3bb0a823-136f-4538-af9b-191fa35ac010",
+  "data": {
+    "Instance": {
+      "name": "Urteil",
+      "back": {
+        "Text": "judgement"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

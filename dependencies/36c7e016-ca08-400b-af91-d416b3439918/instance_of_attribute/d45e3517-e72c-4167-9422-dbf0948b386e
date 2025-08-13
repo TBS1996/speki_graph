@@ -1,0 +1,12 @@
+{
+  "id": "d45e3517-e72c-4167-9422-dbf0948b386e",
+  "data": {
+    "Instance": {
+      "name": "Krebs",
+      "back": {
+        "Text": "cancer"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "dc0278a3-99ce-499a-af86-b4f7ce53eca0",
+  "data": {
+    "Instance": {
+      "name": "Manager",
+      "back": {
+        "Text": "manager"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

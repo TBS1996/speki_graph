@@ -1,0 +1,12 @@
+{
+  "id": "ebfb025e-22ec-4842-a61a-fc8999bd557b",
+  "data": {
+    "Instance": {
+      "name": "Forderung",
+      "back": {
+        "Text": "claim"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

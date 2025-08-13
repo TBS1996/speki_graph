@@ -1,0 +1,12 @@
+{
+  "id": "6753f5ff-5e81-4ee3-b0af-a00a254edf6c",
+  "data": {
+    "Instance": {
+      "name": "Kante",
+      "back": {
+        "Text": "edge"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

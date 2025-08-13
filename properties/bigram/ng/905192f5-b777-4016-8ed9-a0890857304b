@@ -1,0 +1,12 @@
+{
+  "id": "905192f5-b777-4016-8ed9-a0890857304b",
+  "data": {
+    "Instance": {
+      "name": "Eingriff",
+      "back": {
+        "Text": "intervention"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "0a1c6661-4f42-4a95-b35f-8677d203ec1f",
+  "data": {
+    "Instance": {
+      "name": "Baum",
+      "back": {
+        "Text": "tree"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

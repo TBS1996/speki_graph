@@ -1,0 +1,12 @@
+{
+  "id": "8be15399-3b2f-4ccd-8717-fda68ed6e934",
+  "data": {
+    "Instance": {
+      "name": "Jahr",
+      "back": {
+        "Text": "year"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

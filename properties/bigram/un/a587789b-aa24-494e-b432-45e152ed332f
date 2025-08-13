@@ -1,0 +1,12 @@
+{
+  "id": "a587789b-aa24-494e-b432-45e152ed332f",
+  "data": {
+    "Instance": {
+      "name": "Hund",
+      "back": {
+        "Text": "dog"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

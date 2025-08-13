@@ -1,0 +1,12 @@
+{
+  "id": "9bec519f-aef3-4bbc-ad1d-bd62053cbf05",
+  "data": {
+    "Instance": {
+      "name": "Integration",
+      "back": {
+        "Text": "integration"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

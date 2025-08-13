@@ -1,0 +1,12 @@
+{
+  "id": "0693d811-2b01-4874-adc4-d35a0f833594",
+  "data": {
+    "Instance": {
+      "name": "Verbindung",
+      "back": {
+        "Text": "link"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "28f8d286-b13a-4a0c-ab1f-118f79278167",
+  "data": {
+    "Instance": {
+      "name": "Menge",
+      "back": {
+        "Text": "amount"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

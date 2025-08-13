@@ -1,0 +1,12 @@
+{
+  "id": "c6f5124a-ea69-4e68-852d-828e277682ef",
+  "data": {
+    "Instance": {
+      "name": "Blick",
+      "back": {
+        "Text": "look"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

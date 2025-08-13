@@ -1,0 +1,12 @@
+{
+  "id": "fbfe5755-9447-4097-8d22-64e61ff5d456",
+  "data": {
+    "Instance": {
+      "name": "Anruf",
+      "back": {
+        "Text": "call"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

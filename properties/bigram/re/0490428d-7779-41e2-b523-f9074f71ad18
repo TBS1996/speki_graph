@@ -1,0 +1,12 @@
+{
+  "id": "0490428d-7779-41e2-b523-f9074f71ad18",
+  "data": {
+    "Instance": {
+      "name": "Kreatur",
+      "back": {
+        "Text": "creature"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

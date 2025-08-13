@@ -1,0 +1,12 @@
+{
+  "id": "374ecfa8-1088-4764-ad7a-25ef352fa521",
+  "data": {
+    "Instance": {
+      "name": "Literatur",
+      "back": {
+        "Text": "literature"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

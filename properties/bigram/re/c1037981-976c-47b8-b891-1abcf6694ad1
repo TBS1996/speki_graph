@@ -1,0 +1,12 @@
+{
+  "id": "c1037981-976c-47b8-b891-1abcf6694ad1",
+  "data": {
+    "Instance": {
+      "name": "Verfahren",
+      "back": {
+        "Text": "procedure"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "a1d52a08-c443-4b6e-8f9b-160e400a893e",
+  "data": {
+    "Instance": {
+      "name": "Kreislauf",
+      "back": {
+        "Text": "cycle"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

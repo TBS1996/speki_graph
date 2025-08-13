@@ -1,0 +1,12 @@
+{
+  "id": "c21d49a9-3613-4a53-b305-365dfb83a876",
+  "data": {
+    "Instance": {
+      "name": "Winkel",
+      "back": {
+        "Text": "angle"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "4a02be4c-3d27-4013-9bfd-3bb092650913",
+  "data": {
+    "Instance": {
+      "name": "Sammlung",
+      "back": {
+        "Text": "collection"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

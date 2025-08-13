@@ -1,0 +1,12 @@
+{
+  "id": "f45e7077-4004-4a94-98c8-554d6f1226a9",
+  "data": {
+    "Instance": {
+      "name": "Gemüse",
+      "back": {
+        "Text": "vegetable"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

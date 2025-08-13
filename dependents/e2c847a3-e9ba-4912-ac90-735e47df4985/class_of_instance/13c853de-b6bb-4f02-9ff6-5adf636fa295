@@ -1,0 +1,12 @@
+{
+  "id": "13c853de-b6bb-4f02-9ff6-5adf636fa295",
+  "data": {
+    "Instance": {
+      "name": "Kette",
+      "back": {
+        "Text": "chain"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "7c8dd624-7b4a-4ea5-8850-e55fbd8cc142",
+  "data": {
+    "Instance": {
+      "name": "Verkauf",
+      "back": {
+        "Text": "sale"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

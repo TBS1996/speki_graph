@@ -1,0 +1,12 @@
+{
+  "id": "f65efc2e-96d6-4644-bc66-0a276b65bedb",
+  "data": {
+    "Instance": {
+      "name": "Einheit",
+      "back": {
+        "Text": "unit"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

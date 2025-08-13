@@ -1,0 +1,12 @@
+{
+  "id": "13c20f4f-ef45-430e-9b04-5ed9e049599a",
+  "data": {
+    "Instance": {
+      "name": "Mutter",
+      "back": {
+        "Text": "mother"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

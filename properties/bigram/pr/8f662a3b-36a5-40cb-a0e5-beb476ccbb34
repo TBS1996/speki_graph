@@ -1,0 +1,12 @@
+{
+  "id": "8f662a3b-36a5-40cb-a0e5-beb476ccbb34",
+  "data": {
+    "Instance": {
+      "name": "Preis",
+      "back": {
+        "Text": "prize"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

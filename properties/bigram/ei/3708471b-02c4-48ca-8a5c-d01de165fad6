@@ -1,0 +1,12 @@
+{
+  "id": "3708471b-02c4-48ca-8a5c-d01de165fad6",
+  "data": {
+    "Instance": {
+      "name": "Reise",
+      "back": {
+        "Text": "trip"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "eea54fc9-97e3-44c0-bf9a-b26a740cd8b8",
+  "data": {
+    "Instance": {
+      "name": "Firma",
+      "back": {
+        "Text": "company"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

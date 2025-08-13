@@ -1,0 +1,12 @@
+{
+  "id": "0d357f40-814a-46ac-8165-bcad37e7a1e6",
+  "data": {
+    "Instance": {
+      "name": "Widerstand",
+      "back": {
+        "Text": "opposition"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

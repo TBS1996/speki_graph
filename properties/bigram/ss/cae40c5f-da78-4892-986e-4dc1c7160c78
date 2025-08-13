@@ -1,0 +1,12 @@
+{
+  "id": "cae40c5f-da78-4892-986e-4dc1c7160c78",
+  "data": {
+    "Instance": {
+      "name": "Aussicht",
+      "back": {
+        "Text": "view"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

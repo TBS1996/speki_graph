@@ -1,0 +1,12 @@
+{
+  "id": "08cbb7f7-967c-4d90-8f84-87b4f23bfd93",
+  "data": {
+    "Instance": {
+      "name": "Fakultät",
+      "back": {
+        "Text": "faculty"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "7b139447-2713-4955-94c6-8e96b9d1778c",
+  "data": {
+    "Instance": {
+      "name": "Himmel",
+      "back": {
+        "Text": "sky"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "d4c47f06-4039-4975-81f1-24ec0f970fd3",
+  "data": {
+    "Instance": {
+      "name": "Chip",
+      "back": {
+        "Text": "chip"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

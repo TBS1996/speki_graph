@@ -1,0 +1,12 @@
+{
+  "id": "aa2326cf-ef55-445f-a26c-4f94d7ed25c7",
+  "data": {
+    "Instance": {
+      "name": "Stimmung",
+      "back": {
+        "Text": "mood"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

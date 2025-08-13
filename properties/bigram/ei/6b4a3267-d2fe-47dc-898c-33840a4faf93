@@ -1,0 +1,12 @@
+{
+  "id": "6b4a3267-d2fe-47dc-898c-33840a4faf93",
+  "data": {
+    "Instance": {
+      "name": "Wohltätigkeit",
+      "back": {
+        "Text": "charity"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

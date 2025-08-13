@@ -1,0 +1,12 @@
+{
+  "id": "290bb0a2-561b-4313-be91-eabd3bd43831",
+  "data": {
+    "Instance": {
+      "name": "Zweig",
+      "back": {
+        "Text": "branch"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "7a20f141-ab80-4aa0-adee-033a792d271d",
+  "data": {
+    "Instance": {
+      "name": "Liste",
+      "back": {
+        "Text": "list"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

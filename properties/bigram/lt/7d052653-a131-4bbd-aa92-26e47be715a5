@@ -1,0 +1,12 @@
+{
+  "id": "7d052653-a131-4bbd-aa92-26e47be715a5",
+  "data": {
+    "Instance": {
+      "name": "Anwalt",
+      "back": {
+        "Text": "lawyer"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

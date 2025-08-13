@@ -1,0 +1,12 @@
+{
+  "id": "7b451351-c630-49fb-8073-8a008c2df699",
+  "data": {
+    "Instance": {
+      "name": "Lauf",
+      "back": {
+        "Text": "run"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

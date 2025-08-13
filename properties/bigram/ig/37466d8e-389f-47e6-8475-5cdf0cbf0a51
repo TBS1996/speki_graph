@@ -1,0 +1,12 @@
+{
+  "id": "37466d8e-389f-47e6-8475-5cdf0cbf0a51",
+  "data": {
+    "Instance": {
+      "name": "Anzeige",
+      "back": {
+        "Text": "display"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

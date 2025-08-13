@@ -1,0 +1,12 @@
+{
+  "id": "ebdb83fb-830b-4aa9-9135-8dd639c9f820",
+  "data": {
+    "Instance": {
+      "name": "Verteilung",
+      "back": {
+        "Text": "distribution"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

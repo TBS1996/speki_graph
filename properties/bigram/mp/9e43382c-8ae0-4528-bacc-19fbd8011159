@@ -1,0 +1,12 @@
+{
+  "id": "9e43382c-8ae0-4528-bacc-19fbd8011159",
+  "data": {
+    "Instance": {
+      "name": "Empfehlung",
+      "back": {
+        "Text": "recommendation"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

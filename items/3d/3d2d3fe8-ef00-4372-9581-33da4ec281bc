@@ -1,0 +1,12 @@
+{
+  "id": "3d2d3fe8-ef00-4372-9581-33da4ec281bc",
+  "data": {
+    "Instance": {
+      "name": "Dach",
+      "back": {
+        "Text": "roof"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

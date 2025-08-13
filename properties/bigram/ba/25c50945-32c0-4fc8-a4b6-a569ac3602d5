@@ -1,0 +1,12 @@
+{
+  "id": "25c50945-32c0-4fc8-a4b6-a569ac3602d5",
+  "data": {
+    "Instance": {
+      "name": "Bauernhof",
+      "back": {
+        "Text": "farm"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

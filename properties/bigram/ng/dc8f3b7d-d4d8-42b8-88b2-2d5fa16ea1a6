@@ -1,0 +1,12 @@
+{
+  "id": "dc8f3b7d-d4d8-42b8-88b2-2d5fa16ea1a6",
+  "data": {
+    "Instance": {
+      "name": "Veranstaltungsort",
+      "back": {
+        "Text": "venue"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

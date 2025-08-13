@@ -1,0 +1,12 @@
+{
+  "id": "e42821cd-48bd-48ac-a838-ca923c6d6d54",
+  "data": {
+    "Instance": {
+      "name": "Finanzierung",
+      "back": {
+        "Text": "funding"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

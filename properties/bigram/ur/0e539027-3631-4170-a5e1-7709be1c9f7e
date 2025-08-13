@@ -1,0 +1,12 @@
+{
+  "id": "0e539027-3631-4170-a5e1-7709be1c9f7e",
+  "data": {
+    "Instance": {
+      "name": "Geburtstag",
+      "back": {
+        "Text": "birthday"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

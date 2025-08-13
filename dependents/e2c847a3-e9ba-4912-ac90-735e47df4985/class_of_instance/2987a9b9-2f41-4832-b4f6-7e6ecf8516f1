@@ -1,0 +1,12 @@
+{
+  "id": "2987a9b9-2f41-4832-b4f6-7e6ecf8516f1",
+  "data": {
+    "Instance": {
+      "name": "Führer",
+      "back": {
+        "Text": "guide"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

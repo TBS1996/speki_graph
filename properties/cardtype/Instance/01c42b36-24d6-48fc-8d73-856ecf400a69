@@ -1,0 +1,12 @@
+{
+  "id": "01c42b36-24d6-48fc-8d73-856ecf400a69",
+  "data": {
+    "Instance": {
+      "name": "Land",
+      "back": {
+        "Text": "country"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

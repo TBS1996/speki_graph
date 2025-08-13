@@ -1,0 +1,12 @@
+{
+  "id": "e16315e1-5858-4dd6-80fd-0b4804cbbee5",
+  "data": {
+    "Instance": {
+      "name": "Paar",
+      "back": {
+        "Text": "couple"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

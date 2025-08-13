@@ -1,0 +1,12 @@
+{
+  "id": "52656bc8-f298-4c7c-a501-38ec5e352bb4",
+  "data": {
+    "Instance": {
+      "name": "Raum",
+      "back": {
+        "Text": "space"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

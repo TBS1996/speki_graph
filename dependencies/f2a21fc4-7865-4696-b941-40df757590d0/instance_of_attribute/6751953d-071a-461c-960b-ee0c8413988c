@@ -1,0 +1,12 @@
+{
+  "id": "6751953d-071a-461c-960b-ee0c8413988c",
+  "data": {
+    "Instance": {
+      "name": "Schlafzimmer",
+      "back": {
+        "Text": "bedroom"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

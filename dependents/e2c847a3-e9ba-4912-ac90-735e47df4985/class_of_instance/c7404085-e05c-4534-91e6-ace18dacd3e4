@@ -1,0 +1,12 @@
+{
+  "id": "c7404085-e05c-4534-91e6-ace18dacd3e4",
+  "data": {
+    "Instance": {
+      "name": "Wahl",
+      "back": {
+        "Text": "election"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

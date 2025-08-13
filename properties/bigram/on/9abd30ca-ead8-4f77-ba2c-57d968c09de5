@@ -1,0 +1,12 @@
+{
+  "id": "9abd30ca-ead8-4f77-ba2c-57d968c09de5",
+  "data": {
+    "Instance": {
+      "name": "Mission",
+      "back": {
+        "Text": "mission"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

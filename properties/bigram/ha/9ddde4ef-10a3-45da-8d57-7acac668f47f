@@ -1,0 +1,12 @@
+{
+  "id": "9ddde4ef-10a3-45da-8d57-7acac668f47f",
+  "data": {
+    "Instance": {
+      "name": "Zuhause",
+      "back": {
+        "Text": "home"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

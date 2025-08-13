@@ -1,0 +1,12 @@
+{
+  "id": "78890149-092b-455f-9d2a-27aaf9820aa2",
+  "data": {
+    "Instance": {
+      "name": "Zustimmung",
+      "back": {
+        "Text": "approval"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

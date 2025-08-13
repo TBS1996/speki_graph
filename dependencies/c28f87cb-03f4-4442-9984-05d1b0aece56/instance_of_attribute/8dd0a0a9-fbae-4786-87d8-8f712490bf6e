@@ -1,0 +1,12 @@
+{
+  "id": "8dd0a0a9-fbae-4786-87d8-8f712490bf6e",
+  "data": {
+    "Instance": {
+      "name": "Kohlenstoff",
+      "back": {
+        "Text": "carbon"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

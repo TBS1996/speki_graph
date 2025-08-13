@@ -1,0 +1,12 @@
+{
+  "id": "242cd879-79c7-4ce2-88f9-08ca222b06c5",
+  "data": {
+    "Instance": {
+      "name": "Angelegenheit",
+      "back": {
+        "Text": "matter"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

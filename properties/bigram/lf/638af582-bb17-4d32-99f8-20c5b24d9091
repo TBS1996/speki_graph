@@ -1,0 +1,12 @@
+{
+  "id": "638af582-bb17-4d32-99f8-20c5b24d9091",
+  "data": {
+    "Instance": {
+      "name": "Hilfe",
+      "back": {
+        "Text": "assistance"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

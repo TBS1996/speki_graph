@@ -1,0 +1,12 @@
+{
+  "id": "52d73aff-84d5-48e7-ad50-b74515ea9022",
+  "data": {
+    "Instance": {
+      "name": "Weg",
+      "back": {
+        "Text": "way"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

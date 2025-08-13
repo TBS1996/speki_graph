@@ -1,0 +1,12 @@
+{
+  "id": "d2dd5431-d736-4712-9441-e26db704cfbd",
+  "data": {
+    "Instance": {
+      "name": "Projekt",
+      "back": {
+        "Text": "project"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

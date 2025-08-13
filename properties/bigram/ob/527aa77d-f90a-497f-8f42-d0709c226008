@@ -1,0 +1,12 @@
+{
+  "id": "527aa77d-f90a-497f-8f42-d0709c226008",
+  "data": {
+    "Instance": {
+      "name": "Oberteil",
+      "back": {
+        "Text": "top"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

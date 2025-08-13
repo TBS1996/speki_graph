@@ -1,0 +1,12 @@
+{
+  "id": "0cb352de-752b-4bfc-b910-83749b32aaa0",
+  "data": {
+    "Instance": {
+      "name": "Sekunde",
+      "back": {
+        "Text": "second"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

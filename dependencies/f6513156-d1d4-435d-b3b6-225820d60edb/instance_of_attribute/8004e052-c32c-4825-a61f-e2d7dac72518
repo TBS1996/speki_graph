@@ -1,0 +1,12 @@
+{
+  "id": "8004e052-c32c-4825-a61f-e2d7dac72518",
+  "data": {
+    "Instance": {
+      "name": "Politik",
+      "back": {
+        "Text": "policy"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

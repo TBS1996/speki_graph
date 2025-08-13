@@ -1,0 +1,12 @@
+{
+  "id": "75a180ae-8835-4f9e-aa5c-a45c704db86f",
+  "data": {
+    "Instance": {
+      "name": "Ergebnis",
+      "back": {
+        "Text": "result"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

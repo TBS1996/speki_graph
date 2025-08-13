@@ -1,0 +1,12 @@
+{
+  "id": "789d1b9d-b470-4dbb-b342-d3785c4298f5",
+  "data": {
+    "Instance": {
+      "name": "Plattform",
+      "back": {
+        "Text": "platform"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

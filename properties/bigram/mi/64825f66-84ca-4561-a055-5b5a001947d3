@@ -1,0 +1,12 @@
+{
+  "id": "64825f66-84ca-4561-a055-5b5a001947d3",
+  "data": {
+    "Instance": {
+      "name": "Mitglied",
+      "back": {
+        "Text": "member"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

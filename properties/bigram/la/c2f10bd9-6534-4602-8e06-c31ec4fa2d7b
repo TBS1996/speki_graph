@@ -1,0 +1,12 @@
+{
+  "id": "c2f10bd9-6534-4602-8e06-c31ec4fa2d7b",
+  "data": {
+    "Instance": {
+      "name": "Verlangen",
+      "back": {
+        "Text": "desire"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

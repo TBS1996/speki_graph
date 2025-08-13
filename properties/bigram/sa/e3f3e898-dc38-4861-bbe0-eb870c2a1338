@@ -1,0 +1,12 @@
+{
+  "id": "e3f3e898-dc38-4861-bbe0-eb870c2a1338",
+  "data": {
+    "Instance": {
+      "name": "Satz",
+      "back": {
+        "Text": "sentence"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

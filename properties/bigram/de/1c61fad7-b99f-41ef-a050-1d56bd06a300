@@ -1,0 +1,12 @@
+{
+  "id": "1c61fad7-b99f-41ef-a050-1d56bd06a300",
+  "data": {
+    "Instance": {
+      "name": "Gemälde",
+      "back": {
+        "Text": "painting"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

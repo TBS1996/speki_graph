@@ -1,0 +1,12 @@
+{
+  "id": "3b76182e-b2e7-4db3-8a3c-f9e5893005fa",
+  "data": {
+    "Instance": {
+      "name": "Schicht",
+      "back": {
+        "Text": "layer"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

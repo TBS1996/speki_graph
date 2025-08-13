@@ -1,0 +1,12 @@
+{
+  "id": "463e4d15-0a1d-459c-96d6-d29e9dcc6e18",
+  "data": {
+    "Instance": {
+      "name": "Budget",
+      "back": {
+        "Text": "budget"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

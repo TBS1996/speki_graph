@@ -1,0 +1,12 @@
+{
+  "id": "b980937d-c13d-408e-b7ab-4fc43918de9a",
+  "data": {
+    "Instance": {
+      "name": "Kraft",
+      "back": {
+        "Text": "force"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

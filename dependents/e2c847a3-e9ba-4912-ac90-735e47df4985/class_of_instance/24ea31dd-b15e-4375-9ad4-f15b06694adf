@@ -1,0 +1,12 @@
+{
+  "id": "24ea31dd-b15e-4375-9ad4-f15b06694adf",
+  "data": {
+    "Instance": {
+      "name": "Werkzeug",
+      "back": {
+        "Text": "tool"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

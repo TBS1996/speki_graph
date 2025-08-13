@@ -1,0 +1,12 @@
+{
+  "id": "30a48c58-2994-45df-bba4-8e011d6da254",
+  "data": {
+    "Instance": {
+      "name": "Gegenwart",
+      "back": {
+        "Text": "presence"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

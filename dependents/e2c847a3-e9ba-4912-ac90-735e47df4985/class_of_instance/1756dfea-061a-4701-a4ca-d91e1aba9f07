@@ -1,0 +1,12 @@
+{
+  "id": "1756dfea-061a-4701-a4ca-d91e1aba9f07",
+  "data": {
+    "Instance": {
+      "name": "Barriere",
+      "back": {
+        "Text": "barrier"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "ebf34834-9ac2-4cbd-857e-b927c21c8d2a",
+  "data": {
+    "Instance": {
+      "name": "Unterstützer",
+      "back": {
+        "Text": "supporter"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

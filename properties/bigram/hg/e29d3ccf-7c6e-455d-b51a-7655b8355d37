@@ -1,0 +1,12 @@
+{
+  "id": "e29d3ccf-7c6e-455d-b51a-7655b8355d37",
+  "data": {
+    "Instance": {
+      "name": "Gleichgewicht",
+      "back": {
+        "Text": "balance"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

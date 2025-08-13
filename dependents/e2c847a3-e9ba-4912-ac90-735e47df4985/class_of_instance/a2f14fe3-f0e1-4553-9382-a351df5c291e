@@ -1,0 +1,12 @@
+{
+  "id": "a2f14fe3-f0e1-4553-9382-a351df5c291e",
+  "data": {
+    "Instance": {
+      "name": "Karte",
+      "back": {
+        "Text": "card"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

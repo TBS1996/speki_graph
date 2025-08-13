@@ -1,0 +1,12 @@
+{
+  "id": "67fe2889-0ad3-42db-9148-8bcab44fc741",
+  "data": {
+    "Instance": {
+      "name": "Metall",
+      "back": {
+        "Text": "metal"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

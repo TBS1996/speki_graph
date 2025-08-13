@@ -1,0 +1,12 @@
+{
+  "id": "4b54a200-8821-4b9f-b04f-a483d6aeb2ff",
+  "data": {
+    "Instance": {
+      "name": "Operation",
+      "back": {
+        "Text": "surgery"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

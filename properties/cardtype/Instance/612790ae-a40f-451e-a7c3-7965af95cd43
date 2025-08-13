@@ -1,0 +1,12 @@
+{
+  "id": "612790ae-a40f-451e-a7c3-7965af95cd43",
+  "data": {
+    "Instance": {
+      "name": "Fluss",
+      "back": {
+        "Text": "river"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "b4be6292-b17a-4339-b7ba-71c2107f4e78",
+  "data": {
+    "Instance": {
+      "name": "Bild",
+      "back": {
+        "Text": "picture"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

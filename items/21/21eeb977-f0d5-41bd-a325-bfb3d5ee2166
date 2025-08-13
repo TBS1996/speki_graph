@@ -1,0 +1,12 @@
+{
+  "id": "21eeb977-f0d5-41bd-a325-bfb3d5ee2166",
+  "data": {
+    "Instance": {
+      "name": "Uhr",
+      "back": {
+        "Text": "clock"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

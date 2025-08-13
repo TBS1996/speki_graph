@@ -1,0 +1,12 @@
+{
+  "id": "b38bb0ea-5280-4931-ad09-b163b4adb1da",
+  "data": {
+    "Instance": {
+      "name": "Verständnis",
+      "back": {
+        "Text": "understanding"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

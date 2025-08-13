@@ -1,0 +1,12 @@
+{
+  "id": "05b7c54b-34a8-4541-a57c-8e81779534a7",
+  "data": {
+    "Instance": {
+      "name": "Zweck",
+      "back": {
+        "Text": "purpose"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "f5d87ab6-ddcc-4d4e-92ce-bae17a4251b0",
+  "data": {
+    "Instance": {
+      "name": "Status",
+      "back": {
+        "Text": "status"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

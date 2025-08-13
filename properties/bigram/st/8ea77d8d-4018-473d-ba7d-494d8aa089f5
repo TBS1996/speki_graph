@@ -1,0 +1,12 @@
+{
+  "id": "8ea77d8d-4018-473d-ba7d-494d8aa089f5",
+  "data": {
+    "Instance": {
+      "name": "Stärke",
+      "back": {
+        "Text": "strength"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

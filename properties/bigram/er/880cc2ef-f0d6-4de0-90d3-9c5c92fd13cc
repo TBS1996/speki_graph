@@ -1,0 +1,12 @@
+{
+  "id": "880cc2ef-f0d6-4de0-90d3-9c5c92fd13cc",
+  "data": {
+    "Instance": {
+      "name": "Vertrauen",
+      "back": {
+        "Text": "trust"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

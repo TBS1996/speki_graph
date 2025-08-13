@@ -1,0 +1,12 @@
+{
+  "id": "b83298a4-a854-4c4e-9429-8038da785282",
+  "data": {
+    "Instance": {
+      "name": "Laden",
+      "back": {
+        "Text": "shop"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

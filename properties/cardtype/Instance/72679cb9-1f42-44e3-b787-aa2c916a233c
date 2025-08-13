@@ -1,0 +1,12 @@
+{
+  "id": "72679cb9-1f42-44e3-b787-aa2c916a233c",
+  "data": {
+    "Instance": {
+      "name": "Grenze",
+      "back": {
+        "Text": "border"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

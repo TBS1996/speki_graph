@@ -1,0 +1,12 @@
+{
+  "id": "3cf58947-b880-488b-8d92-94d4f675e8cd",
+  "data": {
+    "Instance": {
+      "name": "Stück",
+      "back": {
+        "Text": "bit"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

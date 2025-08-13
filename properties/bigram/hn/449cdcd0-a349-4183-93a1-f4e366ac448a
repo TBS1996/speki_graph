@@ -1,0 +1,12 @@
+{
+  "id": "449cdcd0-a349-4183-93a1-f4e366ac448a",
+  "data": {
+    "Instance": {
+      "name": "Wohnung",
+      "back": {
+        "Text": "housing"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

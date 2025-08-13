@@ -1,0 +1,12 @@
+{
+  "id": "331bb8e1-d242-436f-99be-ea296e39ad19",
+  "data": {
+    "Instance": {
+      "name": "Verwaltung",
+      "back": {
+        "Text": "administration"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "05c5f8b5-7400-4f07-86d0-5b65b769af6f",
+  "data": {
+    "Instance": {
+      "name": "Bewerbung",
+      "back": {
+        "Text": "application"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

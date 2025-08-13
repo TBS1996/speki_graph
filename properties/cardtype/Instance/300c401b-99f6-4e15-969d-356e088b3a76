@@ -1,0 +1,12 @@
+{
+  "id": "300c401b-99f6-4e15-969d-356e088b3a76",
+  "data": {
+    "Instance": {
+      "name": "Tatsache",
+      "back": {
+        "Text": "fact"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

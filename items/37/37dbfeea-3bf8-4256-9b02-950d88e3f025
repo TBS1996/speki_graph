@@ -1,0 +1,12 @@
+{
+  "id": "37dbfeea-3bf8-4256-9b02-950d88e3f025",
+  "data": {
+    "Instance": {
+      "name": "Sitz",
+      "back": {
+        "Text": "seat"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

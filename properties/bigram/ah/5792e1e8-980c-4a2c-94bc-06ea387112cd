@@ -1,0 +1,12 @@
+{
+  "id": "5792e1e8-980c-4a2c-94bc-06ea387112cd",
+  "data": {
+    "Instance": {
+      "name": "Gefahr",
+      "back": {
+        "Text": "danger"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

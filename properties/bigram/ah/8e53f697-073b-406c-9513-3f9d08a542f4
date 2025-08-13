@@ -1,0 +1,12 @@
+{
+  "id": "8e53f697-073b-406c-9513-3f9d08a542f4",
+  "data": {
+    "Instance": {
+      "name": "Rahmen",
+      "back": {
+        "Text": "framework"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

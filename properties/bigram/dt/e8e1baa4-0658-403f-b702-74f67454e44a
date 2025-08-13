@@ -1,0 +1,12 @@
+{
+  "id": "e8e1baa4-0658-403f-b702-74f67454e44a",
+  "data": {
+    "Instance": {
+      "name": "Stadt",
+      "back": {
+        "Text": "city"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "541864c8-5ed9-4d01-87d0-790281d40e8a",
+  "data": {
+    "Instance": {
+      "name": "Bauer",
+      "back": {
+        "Text": "farmer"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

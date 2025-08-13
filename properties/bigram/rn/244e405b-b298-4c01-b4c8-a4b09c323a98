@@ -1,0 +1,12 @@
+{
+  "id": "244e405b-b298-4c01-b4c8-a4b09c323a98",
+  "data": {
+    "Instance": {
+      "name": "Gestern",
+      "back": {
+        "Text": "yesterday"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

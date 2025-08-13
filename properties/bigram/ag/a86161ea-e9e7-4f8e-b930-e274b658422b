@@ -1,0 +1,12 @@
+{
+  "id": "a86161ea-e9e7-4f8e-b930-e274b658422b",
+  "data": {
+    "Instance": {
+      "name": "Agentur",
+      "back": {
+        "Text": "agency"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

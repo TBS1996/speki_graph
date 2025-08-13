@@ -1,0 +1,12 @@
+{
+  "id": "b8279d8c-60d3-435e-8f2a-30b7869aa8f0",
+  "data": {
+    "Instance": {
+      "name": "Schiff",
+      "back": {
+        "Text": "ship"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

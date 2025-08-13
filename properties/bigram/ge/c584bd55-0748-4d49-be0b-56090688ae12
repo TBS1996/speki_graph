@@ -1,0 +1,12 @@
+{
+  "id": "c584bd55-0748-4d49-be0b-56090688ae12",
+  "data": {
+    "Instance": {
+      "name": "Agenda",
+      "back": {
+        "Text": "agenda"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

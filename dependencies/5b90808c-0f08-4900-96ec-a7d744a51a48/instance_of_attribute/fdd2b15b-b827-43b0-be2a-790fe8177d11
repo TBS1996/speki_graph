@@ -1,0 +1,12 @@
+{
+  "id": "fdd2b15b-b827-43b0-be2a-790fe8177d11",
+  "data": {
+    "Instance": {
+      "name": "Anforderung",
+      "back": {
+        "Text": "requirement"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "1676bb19-a0bf-4d84-be4f-60c61c922333",
+  "data": {
+    "Instance": {
+      "name": "Urlaub",
+      "back": {
+        "Text": "leave"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

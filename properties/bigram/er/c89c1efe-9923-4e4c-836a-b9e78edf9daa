@@ -1,0 +1,12 @@
+{
+  "id": "c89c1efe-9923-4e4c-836a-b9e78edf9daa",
+  "data": {
+    "Instance": {
+      "name": "Verantwortung",
+      "back": {
+        "Text": "responsibility"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "5436a2f4-5dca-42c1-993b-b585658a00b5",
+  "data": {
+    "Instance": {
+      "name": "Fischerei",
+      "back": {
+        "Text": "fishing"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

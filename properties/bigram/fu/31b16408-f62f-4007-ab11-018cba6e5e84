@@ -1,0 +1,12 @@
+{
+  "id": "31b16408-f62f-4007-ab11-018cba6e5e84",
+  "data": {
+    "Instance": {
+      "name": "Fuß",
+      "back": {
+        "Text": "foot"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

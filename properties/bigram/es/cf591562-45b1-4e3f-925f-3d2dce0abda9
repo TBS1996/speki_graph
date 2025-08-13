@@ -1,0 +1,12 @@
+{
+  "id": "cf591562-45b1-4e3f-925f-3d2dce0abda9",
+  "data": {
+    "Instance": {
+      "name": "Geschäft",
+      "back": {
+        "Text": "business"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

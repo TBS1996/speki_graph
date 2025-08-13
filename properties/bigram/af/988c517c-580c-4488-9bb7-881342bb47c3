@@ -1,0 +1,12 @@
+{
+  "id": "988c517c-580c-4488-9bb7-881342bb47c3",
+  "data": {
+    "Instance": {
+      "name": "Wissenschaft",
+      "back": {
+        "Text": "science"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

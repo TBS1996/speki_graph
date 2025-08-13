@@ -1,0 +1,12 @@
+{
+  "id": "5adfdce8-f234-47e5-a8fe-31e0991790c2",
+  "data": {
+    "Instance": {
+      "name": "Brust",
+      "back": {
+        "Text": "chest"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

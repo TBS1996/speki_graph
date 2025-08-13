@@ -1,0 +1,12 @@
+{
+  "id": "a99590ae-8d4e-47e3-bf72-7260bc9620b3",
+  "data": {
+    "Instance": {
+      "name": "Austausch",
+      "back": {
+        "Text": "exchange"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

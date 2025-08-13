@@ -1,0 +1,12 @@
+{
+  "id": "d83be1cf-985c-4c9f-a2f2-291668f21c2d",
+  "data": {
+    "Instance": {
+      "name": "Erde",
+      "back": {
+        "Text": "earth"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

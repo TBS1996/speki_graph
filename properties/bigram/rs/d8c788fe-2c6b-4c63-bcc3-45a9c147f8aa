@@ -1,0 +1,12 @@
+{
+  "id": "d8c788fe-2c6b-4c63-bcc3-45a9c147f8aa",
+  "data": {
+    "Instance": {
+      "name": "Versprechen",
+      "back": {
+        "Text": "promise"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

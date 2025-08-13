@@ -1,0 +1,12 @@
+{
+  "id": "b9d26efe-c02d-4753-bf07-c41670f6f4fd",
+  "data": {
+    "Instance": {
+      "name": "Kopie",
+      "back": {
+        "Text": "copy"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

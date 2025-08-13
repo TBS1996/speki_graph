@@ -1,0 +1,12 @@
+{
+  "id": "437ebeb4-c7da-4e32-9047-4b8f37894f09",
+  "data": {
+    "Instance": {
+      "name": "Morgen",
+      "back": {
+        "Text": "tomorrow"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

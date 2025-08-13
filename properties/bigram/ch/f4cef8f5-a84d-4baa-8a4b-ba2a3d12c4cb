@@ -1,0 +1,12 @@
+{
+  "id": "f4cef8f5-a84d-4baa-8a4b-ba2a3d12c4cb",
+  "data": {
+    "Instance": {
+      "name": "Schnitt",
+      "back": {
+        "Text": "cut"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

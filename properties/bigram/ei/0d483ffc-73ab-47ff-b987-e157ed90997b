@@ -1,0 +1,12 @@
+{
+  "id": "0d483ffc-73ab-47ff-b987-e157ed90997b",
+  "data": {
+    "Instance": {
+      "name": "Verteidigung",
+      "back": {
+        "Text": "defence"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

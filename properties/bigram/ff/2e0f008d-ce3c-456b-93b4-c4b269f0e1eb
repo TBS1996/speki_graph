@@ -1,0 +1,12 @@
+{
+  "id": "2e0f008d-ce3c-456b-93b4-c4b269f0e1eb",
+  "data": {
+    "Instance": {
+      "name": "Treffen",
+      "back": {
+        "Text": "meeting"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

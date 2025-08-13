@@ -1,0 +1,12 @@
+{
+  "id": "3a250804-f983-49cd-9f12-76cdaeb1dae4",
+  "data": {
+    "Instance": {
+      "name": "Folge",
+      "back": {
+        "Text": "consequence"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

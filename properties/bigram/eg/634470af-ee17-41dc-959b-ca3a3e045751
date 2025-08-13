@@ -1,0 +1,12 @@
+{
+  "id": "634470af-ee17-41dc-959b-ca3a3e045751",
+  "data": {
+    "Instance": {
+      "name": "Regime",
+      "back": {
+        "Text": "regime"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

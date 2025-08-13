@@ -1,0 +1,12 @@
+{
+  "id": "dd3e1ce1-bffd-4191-9b91-a0d9a668bc99",
+  "data": {
+    "Instance": {
+      "name": "Bezirk",
+      "back": {
+        "Text": "district"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

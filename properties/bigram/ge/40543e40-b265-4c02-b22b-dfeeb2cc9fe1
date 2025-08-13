@@ -1,0 +1,12 @@
+{
+  "id": "40543e40-b265-4c02-b22b-dfeeb2cc9fe1",
+  "data": {
+    "Instance": {
+      "name": "Menge",
+      "back": {
+        "Text": "crowd"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

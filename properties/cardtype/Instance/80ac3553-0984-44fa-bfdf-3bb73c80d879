@@ -1,0 +1,12 @@
+{
+  "id": "80ac3553-0984-44fa-bfdf-3bb73c80d879",
+  "data": {
+    "Instance": {
+      "name": "Atmosphäre",
+      "back": {
+        "Text": "atmosphere"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

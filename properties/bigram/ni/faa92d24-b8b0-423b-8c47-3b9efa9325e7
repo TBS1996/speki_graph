@@ -1,0 +1,12 @@
+{
+  "id": "faa92d24-b8b0-423b-8c47-3b9efa9325e7",
+  "data": {
+    "Instance": {
+      "name": "Abschnitt",
+      "back": {
+        "Text": "section"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

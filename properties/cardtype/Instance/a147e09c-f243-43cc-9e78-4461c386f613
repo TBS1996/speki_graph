@@ -1,0 +1,12 @@
+{
+  "id": "a147e09c-f243-43cc-9e78-4461c386f613",
+  "data": {
+    "Instance": {
+      "name": "Bezirk",
+      "back": {
+        "Text": "county"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

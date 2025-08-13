@@ -1,0 +1,12 @@
+{
+  "id": "4890a31c-e1ba-40c9-8ad3-65aa15df5496",
+  "data": {
+    "Instance": {
+      "name": "Summe",
+      "back": {
+        "Text": "sum"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

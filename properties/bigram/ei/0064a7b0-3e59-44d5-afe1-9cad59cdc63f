@@ -1,0 +1,12 @@
+{
+  "id": "0064a7b0-3e59-44d5-afe1-9cad59cdc63f",
+  "data": {
+    "Instance": {
+      "name": "Zeitung",
+      "back": {
+        "Text": "newspaper"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

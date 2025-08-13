@@ -1,0 +1,12 @@
+{
+  "id": "3988aabe-7848-42be-a593-8ee8efa743dd",
+  "data": {
+    "Instance": {
+      "name": "Handlung",
+      "back": {
+        "Text": "act"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

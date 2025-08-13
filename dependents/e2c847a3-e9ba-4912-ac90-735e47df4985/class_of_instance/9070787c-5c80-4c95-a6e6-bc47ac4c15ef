@@ -1,0 +1,12 @@
+{
+  "id": "9070787c-5c80-4c95-a6e6-bc47ac4c15ef",
+  "data": {
+    "Instance": {
+      "name": "Beweis",
+      "back": {
+        "Text": "evidence"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "58b72748-c691-4381-a28f-339000516399",
+  "data": {
+    "Instance": {
+      "name": "Drohung",
+      "back": {
+        "Text": "threat"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

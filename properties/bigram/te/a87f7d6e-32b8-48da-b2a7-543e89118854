@@ -1,0 +1,12 @@
+{
+  "id": "a87f7d6e-32b8-48da-b2a7-543e89118854",
+  "data": {
+    "Instance": {
+      "name": "Mittelwert",
+      "back": {
+        "Text": "mean"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

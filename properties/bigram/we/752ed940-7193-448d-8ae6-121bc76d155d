@@ -1,0 +1,12 @@
+{
+  "id": "752ed940-7193-448d-8ae6-121bc76d155d",
+  "data": {
+    "Instance": {
+      "name": "Bewertung",
+      "back": {
+        "Text": "rating"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

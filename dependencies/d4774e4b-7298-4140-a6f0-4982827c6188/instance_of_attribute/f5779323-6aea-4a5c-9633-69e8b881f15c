@@ -1,0 +1,12 @@
+{
+  "id": "f5779323-6aea-4a5c-9633-69e8b881f15c",
+  "data": {
+    "Instance": {
+      "name": "Rennen",
+      "back": {
+        "Text": "race"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

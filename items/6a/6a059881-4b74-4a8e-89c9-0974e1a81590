@@ -1,0 +1,12 @@
+{
+  "id": "6a059881-4b74-4a8e-89c9-0974e1a81590",
+  "data": {
+    "Instance": {
+      "name": "Kleid",
+      "back": {
+        "Text": "dress"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "1e19aaa3-d307-4530-98e9-651c8eb04f71",
+  "data": {
+    "Instance": {
+      "name": "Anwesen",
+      "back": {
+        "Text": "estate"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

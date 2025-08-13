@@ -1,0 +1,12 @@
+{
+  "id": "764e02b1-6cd8-4d59-8ffe-5696ef43febc",
+  "data": {
+    "Instance": {
+      "name": "Weihnachten",
+      "back": {
+        "Text": "christmas"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

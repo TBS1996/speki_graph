@@ -1,0 +1,12 @@
+{
+  "id": "ab9aae81-dc53-4052-a7ff-db431bbd6629",
+  "data": {
+    "Instance": {
+      "name": "Überraschung",
+      "back": {
+        "Text": "surprise"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

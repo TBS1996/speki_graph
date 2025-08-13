@@ -1,0 +1,12 @@
+{
+  "id": "d1242905-6194-47e0-b209-b29152615f09",
+  "data": {
+    "Instance": {
+      "name": "Schauspieler",
+      "back": {
+        "Text": "actor"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

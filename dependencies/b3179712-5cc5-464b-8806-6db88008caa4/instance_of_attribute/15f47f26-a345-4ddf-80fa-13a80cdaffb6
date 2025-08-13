@@ -1,0 +1,12 @@
+{
+  "id": "15f47f26-a345-4ddf-80fa-13a80cdaffb6",
+  "data": {
+    "Instance": {
+      "name": "Rat",
+      "back": {
+        "Text": "advice"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

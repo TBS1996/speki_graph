@@ -1,0 +1,12 @@
+{
+  "id": "a02a2917-618a-498a-8fc8-99d9192c8fe8",
+  "data": {
+    "Instance": {
+      "name": "Technologie",
+      "back": {
+        "Text": "technology"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

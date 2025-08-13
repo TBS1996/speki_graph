@@ -1,0 +1,12 @@
+{
+  "id": "e1621fa8-1d7f-4fed-9d2c-c7c1e60d2603",
+  "data": {
+    "Instance": {
+      "name": "Zug",
+      "back": {
+        "Text": "train"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

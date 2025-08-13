@@ -1,0 +1,12 @@
+{
+  "id": "43c621d1-0556-4ab9-ace3-41bb2d3d22d3",
+  "data": {
+    "Instance": {
+      "name": "Interaktion",
+      "back": {
+        "Text": "interaction"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

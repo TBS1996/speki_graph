@@ -1,0 +1,12 @@
+{
+  "id": "1d137fb2-deea-4c44-8855-361e4d58de0c",
+  "data": {
+    "Instance": {
+      "name": "Tropfen",
+      "back": {
+        "Text": "drop"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

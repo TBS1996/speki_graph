@@ -1,0 +1,12 @@
+{
+  "id": "44584709-5582-4796-a986-23d315fb8664",
+  "data": {
+    "Instance": {
+      "name": "Adresse",
+      "back": {
+        "Text": "address"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

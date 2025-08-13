@@ -1,0 +1,12 @@
+{
+  "id": "d64766ef-8154-444f-b497-a1cb74b951d9",
+  "data": {
+    "Instance": {
+      "name": "Fahrzeug",
+      "back": {
+        "Text": "vehicle"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "f4215920-e737-4b86-88b9-467c105de82a",
+  "data": {
+    "Instance": {
+      "name": "Rückgang",
+      "back": {
+        "Text": "decline"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

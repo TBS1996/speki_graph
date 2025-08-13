@@ -1,0 +1,12 @@
+{
+  "id": "42e064eb-215c-4cdc-abd8-11e9c2369d38",
+  "data": {
+    "Instance": {
+      "name": "Symptom",
+      "back": {
+        "Text": "symptom"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

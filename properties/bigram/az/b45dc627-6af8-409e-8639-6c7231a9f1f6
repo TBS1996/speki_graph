@@ -1,0 +1,12 @@
+{
+  "id": "b45dc627-6af8-409e-8639-6c7231a9f1f6",
+  "data": {
+    "Instance": {
+      "name": "Spaziergang",
+      "back": {
+        "Text": "walk"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

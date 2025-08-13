@@ -1,0 +1,12 @@
+{
+  "id": "e15b2f4d-b440-469b-b6e6-93d306a2ca6d",
+  "data": {
+    "Instance": {
+      "name": "Mund",
+      "back": {
+        "Text": "mouth"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

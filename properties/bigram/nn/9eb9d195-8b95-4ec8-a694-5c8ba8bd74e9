@@ -1,0 +1,12 @@
+{
+  "id": "9eb9d195-8b95-4ec8-a694-5c8ba8bd74e9",
+  "data": {
+    "Instance": {
+      "name": "Erinnerung",
+      "back": {
+        "Text": "memory"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

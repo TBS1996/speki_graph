@@ -1,0 +1,12 @@
+{
+  "id": "b3a29212-fc7a-41ac-ae5b-b0938e72b12f",
+  "data": {
+    "Instance": {
+      "name": "Mischung",
+      "back": {
+        "Text": "mixture"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

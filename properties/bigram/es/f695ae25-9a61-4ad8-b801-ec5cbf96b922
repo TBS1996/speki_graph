@@ -1,0 +1,12 @@
+{
+  "id": "f695ae25-9a61-4ad8-b801-ec5cbf96b922",
+  "data": {
+    "Instance": {
+      "name": "Depression",
+      "back": {
+        "Text": "depression"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "2d382a3e-3bad-4035-b4a9-a42304d9f3e2",
+  "data": {
+    "Instance": {
+      "name": "Fach",
+      "back": {
+        "Text": "subject"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

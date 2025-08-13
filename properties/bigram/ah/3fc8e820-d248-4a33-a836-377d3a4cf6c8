@@ -1,0 +1,12 @@
+{
+  "id": "3fc8e820-d248-4a33-a836-377d3a4cf6c8",
+  "data": {
+    "Instance": {
+      "name": "Zahl",
+      "back": {
+        "Text": "figure"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

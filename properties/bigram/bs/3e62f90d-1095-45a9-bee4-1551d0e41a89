@@ -1,0 +1,12 @@
+{
+  "id": "3e62f90d-1095-45a9-bee4-1551d0e41a89",
+  "data": {
+    "Instance": {
+      "name": "Webseite",
+      "back": {
+        "Text": "website"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

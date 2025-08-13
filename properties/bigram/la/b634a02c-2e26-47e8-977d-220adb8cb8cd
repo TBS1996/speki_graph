@@ -1,0 +1,12 @@
+{
+  "id": "b634a02c-2e26-47e8-977d-220adb8cb8cd",
+  "data": {
+    "Instance": {
+      "name": "Freilassung",
+      "back": {
+        "Text": "release"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

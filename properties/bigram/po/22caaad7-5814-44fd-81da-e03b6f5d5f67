@@ -1,0 +1,12 @@
+{
+  "id": "22caaad7-5814-44fd-81da-e03b6f5d5f67",
+  "data": {
+    "Instance": {
+      "name": "Post",
+      "back": {
+        "Text": "mail"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

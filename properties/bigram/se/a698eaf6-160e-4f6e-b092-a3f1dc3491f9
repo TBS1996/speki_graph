@@ -1,0 +1,12 @@
+{
+  "id": "a698eaf6-160e-4f6e-b092-a3f1dc3491f9",
+  "data": {
+    "Instance": {
+      "name": "Ansehen",
+      "back": {
+        "Text": "standing"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

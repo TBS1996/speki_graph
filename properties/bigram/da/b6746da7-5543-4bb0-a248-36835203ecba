@@ -1,0 +1,12 @@
+{
+  "id": "b6746da7-5543-4bb0-a248-36835203ecba",
+  "data": {
+    "Instance": {
+      "name": "Datei",
+      "back": {
+        "Text": "file"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

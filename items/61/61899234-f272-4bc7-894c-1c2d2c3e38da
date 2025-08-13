@@ -1,0 +1,12 @@
+{
+  "id": "61899234-f272-4bc7-894c-1c2d2c3e38da",
+  "data": {
+    "Instance": {
+      "name": "Trinken",
+      "back": {
+        "Text": "drinking"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "d0ab8553-f0e6-43e8-98d5-acbb6f6f6c71",
+  "data": {
+    "Instance": {
+      "name": "Vertreter",
+      "back": {
+        "Text": "representative"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

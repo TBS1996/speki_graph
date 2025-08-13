@@ -1,0 +1,12 @@
+{
+  "id": "e4a05cb4-aa54-4c40-8378-84282afecdab",
+  "data": {
+    "Instance": {
+      "name": "Einstellung",
+      "back": {
+        "Text": "attitude"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

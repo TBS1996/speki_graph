@@ -1,0 +1,12 @@
+{
+  "id": "6e4f5af4-53d4-4966-8dda-172e90bd1e3c",
+  "data": {
+    "Instance": {
+      "name": "Hemd",
+      "back": {
+        "Text": "shirt"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "f69ec49f-653d-403a-b85f-98b074d27895",
+  "data": {
+    "Instance": {
+      "name": "Boden",
+      "back": {
+        "Text": "floor"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

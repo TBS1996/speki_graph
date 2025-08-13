@@ -1,0 +1,12 @@
+{
+  "id": "ffcc42ab-14c5-4c20-bd0a-d0e13d50cc69",
+  "data": {
+    "Instance": {
+      "name": "Vertreter",
+      "back": {
+        "Text": "agent"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

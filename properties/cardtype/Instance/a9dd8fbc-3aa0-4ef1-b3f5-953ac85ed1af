@@ -1,0 +1,12 @@
+{
+  "id": "a9dd8fbc-3aa0-4ef1-b3f5-953ac85ed1af",
+  "data": {
+    "Instance": {
+      "name": "Chemikalie",
+      "back": {
+        "Text": "chemical"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

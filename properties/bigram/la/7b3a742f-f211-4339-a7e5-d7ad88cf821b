@@ -1,0 +1,12 @@
+{
+  "id": "7b3a742f-f211-4339-a7e5-d7ad88cf821b",
+  "data": {
+    "Instance": {
+      "name": "Anlass",
+      "back": {
+        "Text": "occasion"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

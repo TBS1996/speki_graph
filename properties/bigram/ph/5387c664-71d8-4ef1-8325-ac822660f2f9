@@ -1,0 +1,12 @@
+{
+  "id": "5387c664-71d8-4ef1-8325-ac822660f2f9",
+  "data": {
+    "Instance": {
+      "name": "Philosophie",
+      "back": {
+        "Text": "philosophy"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

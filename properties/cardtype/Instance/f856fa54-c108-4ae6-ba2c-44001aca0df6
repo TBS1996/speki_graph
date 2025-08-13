@@ -1,0 +1,12 @@
+{
+  "id": "f856fa54-c108-4ae6-ba2c-44001aca0df6",
+  "data": {
+    "Instance": {
+      "name": "Netz",
+      "back": {
+        "Text": "web"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

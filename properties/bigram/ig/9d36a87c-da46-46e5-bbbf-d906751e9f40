@@ -1,0 +1,12 @@
+{
+  "id": "9d36a87c-da46-46e5-bbbf-d906751e9f40",
+  "data": {
+    "Instance": {
+      "name": "Fähigkeit",
+      "back": {
+        "Text": "ability"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

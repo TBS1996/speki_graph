@@ -1,0 +1,12 @@
+{
+  "id": "411d6da5-0846-4a90-8451-19894ef5009d",
+  "data": {
+    "Instance": {
+      "name": "Direktor",
+      "back": {
+        "Text": "director"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

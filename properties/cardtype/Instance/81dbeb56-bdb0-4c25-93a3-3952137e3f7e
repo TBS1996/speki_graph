@@ -1,0 +1,12 @@
+{
+  "id": "81dbeb56-bdb0-4c25-93a3-3952137e3f7e",
+  "data": {
+    "Instance": {
+      "name": "Ärger",
+      "back": {
+        "Text": "trouble"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

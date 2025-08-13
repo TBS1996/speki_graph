@@ -1,0 +1,12 @@
+{
+  "id": "659b0b8c-c1de-4d79-a604-cf2b8327a9e8",
+  "data": {
+    "Instance": {
+      "name": "Versuch",
+      "back": {
+        "Text": "attempt"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

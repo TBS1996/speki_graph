@@ -1,0 +1,12 @@
+{
+  "id": "fa996e1a-cb3d-41c6-b5c8-fa793cc58119",
+  "data": {
+    "Instance": {
+      "name": "Nachbar",
+      "back": {
+        "Text": "neighbour"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "277cd431-4df9-4377-8e45-ae70e26c2af7",
+  "data": {
+    "Instance": {
+      "name": "Auge",
+      "back": {
+        "Text": "eye"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

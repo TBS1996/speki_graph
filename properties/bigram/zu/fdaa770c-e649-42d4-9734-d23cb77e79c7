@@ -1,0 +1,12 @@
+{
+  "id": "fdaa770c-e649-42d4-9734-d23cb77e79c7",
+  "data": {
+    "Instance": {
+      "name": "Anzug",
+      "back": {
+        "Text": "suit"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

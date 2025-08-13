@@ -1,0 +1,12 @@
+{
+  "id": "5e59173b-f965-4d73-95a1-579361c4041d",
+  "data": {
+    "Instance": {
+      "name": "Behinderung",
+      "back": {
+        "Text": "disability"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

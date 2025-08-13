@@ -1,0 +1,12 @@
+{
+  "id": "14505401-5244-4bec-bb59-f9297e311043",
+  "data": {
+    "Instance": {
+      "name": "Geld",
+      "back": {
+        "Text": "money"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

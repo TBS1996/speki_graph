@@ -1,0 +1,12 @@
+{
+  "id": "1f95f360-705c-4744-98ae-268b653b641b",
+  "data": {
+    "Instance": {
+      "name": "Rat",
+      "back": {
+        "Text": "council"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

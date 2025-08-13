@@ -1,0 +1,12 @@
+{
+  "id": "7334fc45-5ab8-42d4-9a68-823f420c7708",
+  "data": {
+    "Instance": {
+      "name": "Staat",
+      "back": {
+        "Text": "state"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "d37aa9b5-2d42-4f73-8bd0-8c909dc7a8f1",
+  "data": {
+    "Instance": {
+      "name": "Mädchen",
+      "back": {
+        "Text": "girl"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}
