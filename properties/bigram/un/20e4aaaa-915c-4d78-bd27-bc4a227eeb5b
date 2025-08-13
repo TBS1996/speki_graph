@@ -1,0 +1,12 @@
+{
+  "id": "20e4aaaa-915c-4d78-bd27-bc4a227eeb5b",
+  "data": {
+    "Instance": {
+      "name": "lunes",
+      "back": {
+        "Text": "monday"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

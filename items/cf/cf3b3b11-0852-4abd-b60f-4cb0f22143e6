@@ -1,0 +1,12 @@
+{
+  "id": "cf3b3b11-0852-4abd-b60f-4cb0f22143e6",
+  "data": {
+    "Instance": {
+      "name": "consejo",
+      "back": {
+        "Text": "tip"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

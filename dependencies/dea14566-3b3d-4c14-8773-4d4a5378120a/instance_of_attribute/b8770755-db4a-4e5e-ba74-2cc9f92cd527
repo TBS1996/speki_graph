@@ -1,0 +1,12 @@
+{
+  "id": "b8770755-db4a-4e5e-ba74-2cc9f92cd527",
+  "data": {
+    "Instance": {
+      "name": "escena",
+      "back": {
+        "Text": "scene"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

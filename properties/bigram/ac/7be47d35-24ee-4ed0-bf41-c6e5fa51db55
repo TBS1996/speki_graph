@@ -1,0 +1,12 @@
+{
+  "id": "7be47d35-24ee-4ed0-bf41-c6e5fa51db55",
+  "data": {
+    "Instance": {
+      "name": "enlace",
+      "back": {
+        "Text": "link"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

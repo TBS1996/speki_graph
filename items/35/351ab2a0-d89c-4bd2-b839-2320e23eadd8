@@ -1,0 +1,12 @@
+{
+  "id": "351ab2a0-d89c-4bd2-b839-2320e23eadd8",
+  "data": {
+    "Instance": {
+      "name": "adición",
+      "back": {
+        "Text": "addition"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

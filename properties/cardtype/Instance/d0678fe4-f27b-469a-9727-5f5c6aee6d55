@@ -1,0 +1,12 @@
+{
+  "id": "d0678fe4-f27b-469a-9727-5f5c6aee6d55",
+  "data": {
+    "Instance": {
+      "name": "campaña",
+      "back": {
+        "Text": "campaign"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

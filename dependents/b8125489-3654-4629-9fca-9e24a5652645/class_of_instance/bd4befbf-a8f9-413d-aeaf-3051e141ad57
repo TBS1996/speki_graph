@@ -1,0 +1,12 @@
+{
+  "id": "bd4befbf-a8f9-413d-aeaf-3051e141ad57",
+  "data": {
+    "Instance": {
+      "name": "público",
+      "back": {
+        "Text": "public"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

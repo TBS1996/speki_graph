@@ -1,0 +1,12 @@
+{
+  "id": "4d22af95-c855-4be0-b82a-dc76f33a0a0a",
+  "data": {
+    "Instance": {
+      "name": "pantalla",
+      "back": {
+        "Text": "display"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

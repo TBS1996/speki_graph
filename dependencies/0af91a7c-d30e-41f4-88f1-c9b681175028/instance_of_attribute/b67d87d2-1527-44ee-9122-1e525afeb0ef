@@ -1,0 +1,12 @@
+{
+  "id": "b67d87d2-1527-44ee-9122-1e525afeb0ef",
+  "data": {
+    "Instance": {
+      "name": "consecuencia",
+      "back": {
+        "Text": "consequence"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

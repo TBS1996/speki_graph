@@ -1,0 +1,12 @@
+{
+  "id": "b95c1142-eebd-498e-9866-15bc9c91fc36",
+  "data": {
+    "Instance": {
+      "name": "palabra",
+      "back": {
+        "Text": "word"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "69c48585-7994-41f6-a91c-068d4b5007f7",
+  "data": {
+    "Instance": {
+      "name": "intención",
+      "back": {
+        "Text": "intention"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

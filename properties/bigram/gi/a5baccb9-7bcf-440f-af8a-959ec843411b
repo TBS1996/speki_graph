@@ -1,0 +1,12 @@
+{
+  "id": "a5baccb9-7bcf-440f-af8a-959ec843411b",
+  "data": {
+    "Instance": {
+      "name": "longitud",
+      "back": {
+        "Text": "length"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

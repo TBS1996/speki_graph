@@ -1,0 +1,12 @@
+{
+  "id": "17b7ad19-61a5-4a0f-80b3-00c6bf9f1f19",
+  "data": {
+    "Instance": {
+      "name": "instrumento",
+      "back": {
+        "Text": "instrument"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

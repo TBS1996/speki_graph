@@ -1,0 +1,12 @@
+{
+  "id": "e4376c67-b461-43e7-8926-93f249d6d45f",
+  "data": {
+    "Instance": {
+      "name": "pesca",
+      "back": {
+        "Text": "fishing"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

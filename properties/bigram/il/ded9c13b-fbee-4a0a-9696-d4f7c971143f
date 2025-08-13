@@ -1,0 +1,12 @@
+{
+  "id": "ded9c13b-fbee-4a0a-9696-d4f7c971143f",
+  "data": {
+    "Instance": {
+      "name": "habilidad",
+      "back": {
+        "Text": "skill"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

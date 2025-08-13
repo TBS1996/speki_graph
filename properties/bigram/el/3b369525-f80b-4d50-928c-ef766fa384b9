@@ -1,0 +1,12 @@
+{
+  "id": "3b369525-f80b-4d50-928c-ef766fa384b9",
+  "data": {
+    "Instance": {
+      "name": "correo electrónico",
+      "back": {
+        "Text": "email"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "0a2b13c1-7a29-40c6-bd04-503912591e4f",
+  "data": {
+    "Instance": {
+      "name": "entrega",
+      "back": {
+        "Text": "delivery"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

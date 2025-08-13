@@ -1,0 +1,12 @@
+{
+  "id": "c957a9e3-2058-4caf-8752-ece53d13e447",
+  "data": {
+    "Instance": {
+      "name": "puesto",
+      "back": {
+        "Text": "stand"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "dfa35935-2caf-4075-9fc9-a62d2c112d78",
+  "data": {
+    "Instance": {
+      "name": "sustancia",
+      "back": {
+        "Text": "substance"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

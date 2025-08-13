@@ -1,0 +1,12 @@
+{
+  "id": "4cab2b47-182e-4236-b47a-56559b70eebd",
+  "data": {
+    "Instance": {
+      "name": "gasto",
+      "back": {
+        "Text": "spending"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

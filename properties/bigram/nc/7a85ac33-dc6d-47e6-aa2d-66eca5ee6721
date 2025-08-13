@@ -1,0 +1,12 @@
+{
+  "id": "7a85ac33-dc6d-47e6-aa2d-66eca5ee6721",
+  "data": {
+    "Instance": {
+      "name": "competencia",
+      "back": {
+        "Text": "competition"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

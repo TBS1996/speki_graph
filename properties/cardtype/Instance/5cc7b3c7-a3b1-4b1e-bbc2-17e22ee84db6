@@ -1,0 +1,12 @@
+{
+  "id": "5cc7b3c7-a3b1-4b1e-bbc2-17e22ee84db6",
+  "data": {
+    "Instance": {
+      "name": "periódico",
+      "back": {
+        "Text": "newspaper"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

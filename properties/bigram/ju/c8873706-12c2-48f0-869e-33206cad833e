@@ -1,0 +1,12 @@
+{
+  "id": "c8873706-12c2-48f0-869e-33206cad833e",
+  "data": {
+    "Instance": {
+      "name": "jugador",
+      "back": {
+        "Text": "player"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

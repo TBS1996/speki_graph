@@ -1,0 +1,12 @@
+{
+  "id": "5ec5966a-62ba-460a-924f-cfb131661793",
+  "data": {
+    "Instance": {
+      "name": "motor",
+      "back": {
+        "Text": "motor"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

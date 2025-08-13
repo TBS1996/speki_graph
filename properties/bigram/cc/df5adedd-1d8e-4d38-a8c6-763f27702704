@@ -1,0 +1,12 @@
+{
+  "id": "df5adedd-1d8e-4d38-a8c6-763f27702704",
+  "data": {
+    "Instance": {
+      "name": "elección",
+      "back": {
+        "Text": "choice"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

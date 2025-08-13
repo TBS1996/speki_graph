@@ -1,0 +1,12 @@
+{
+  "id": "3f436169-17bb-4098-801b-cbf98d7ecf05",
+  "data": {
+    "Instance": {
+      "name": "núcleo",
+      "back": {
+        "Text": "core"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

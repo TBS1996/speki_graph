@@ -1,0 +1,12 @@
+{
+  "id": "00b46353-3ac8-4539-9cdd-29aff2b8ef81",
+  "data": {
+    "Instance": {
+      "name": "resolución",
+      "back": {
+        "Text": "resolution"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

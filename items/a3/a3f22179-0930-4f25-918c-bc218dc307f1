@@ -1,0 +1,12 @@
+{
+  "id": "a3f22179-0930-4f25-918c-bc218dc307f1",
+  "data": {
+    "Instance": {
+      "name": "precio",
+      "back": {
+        "Text": "price"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

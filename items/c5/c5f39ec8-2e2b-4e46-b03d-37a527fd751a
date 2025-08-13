@@ -1,0 +1,12 @@
+{
+  "id": "c5f39ec8-2e2b-4e46-b03d-37a527fd751a",
+  "data": {
+    "Instance": {
+      "name": "partidario",
+      "back": {
+        "Text": "supporter"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

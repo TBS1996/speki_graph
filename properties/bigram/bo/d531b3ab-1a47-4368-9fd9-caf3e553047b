@@ -1,0 +1,12 @@
+{
+  "id": "d531b3ab-1a47-4368-9fd9-caf3e553047b",
+  "data": {
+    "Instance": {
+      "name": "bota",
+      "back": {
+        "Text": "boot"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

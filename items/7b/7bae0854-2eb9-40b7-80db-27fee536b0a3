@@ -1,0 +1,12 @@
+{
+  "id": "7bae0854-2eb9-40b7-80db-27fee536b0a3",
+  "data": {
+    "Instance": {
+      "name": "poder",
+      "back": {
+        "Text": "power"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "c9441b53-681d-4083-b1d9-e322302ec156",
+  "data": {
+    "Instance": {
+      "name": "comportamiento",
+      "back": {
+        "Text": "behaviour"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

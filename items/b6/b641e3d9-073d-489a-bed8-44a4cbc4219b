@@ -1,0 +1,12 @@
+{
+  "id": "b641e3d9-073d-489a-bed8-44a4cbc4219b",
+  "data": {
+    "Instance": {
+      "name": "liga",
+      "back": {
+        "Text": "league"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

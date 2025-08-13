@@ -1,0 +1,12 @@
+{
+  "id": "04583e3a-fed8-4ce0-943c-ac50052b2614",
+  "data": {
+    "Instance": {
+      "name": "tipo",
+      "back": {
+        "Text": "kind (of)"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

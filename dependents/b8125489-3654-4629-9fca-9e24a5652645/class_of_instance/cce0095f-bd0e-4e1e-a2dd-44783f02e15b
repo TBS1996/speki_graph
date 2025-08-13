@@ -1,0 +1,12 @@
+{
+  "id": "cce0095f-bd0e-4e1e-a2dd-44783f02e15b",
+  "data": {
+    "Instance": {
+      "name": "pago",
+      "back": {
+        "Text": "payment"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

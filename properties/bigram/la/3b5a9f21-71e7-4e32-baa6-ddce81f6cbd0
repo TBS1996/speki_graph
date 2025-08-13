@@ -1,0 +1,12 @@
+{
+  "id": "3b5a9f21-71e7-4e32-baa6-ddce81f6cbd0",
+  "data": {
+    "Instance": {
+      "name": "aula",
+      "back": {
+        "Text": "classroom"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

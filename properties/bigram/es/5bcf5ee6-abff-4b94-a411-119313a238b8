@@ -1,0 +1,12 @@
+{
+  "id": "5bcf5ee6-abff-4b94-a411-119313a238b8",
+  "data": {
+    "Instance": {
+      "name": "acceso",
+      "back": {
+        "Text": "access"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

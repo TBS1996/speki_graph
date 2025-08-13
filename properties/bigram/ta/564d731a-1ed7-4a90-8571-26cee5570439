@@ -1,0 +1,12 @@
+{
+  "id": "564d731a-1ed7-4a90-8571-26cee5570439",
+  "data": {
+    "Instance": {
+      "name": "hospital",
+      "back": {
+        "Text": "hospital"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

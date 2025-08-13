@@ -1,0 +1,12 @@
+{
+  "id": "60e430e8-f1cb-4f86-9449-9b908c2a0250",
+  "data": {
+    "Instance": {
+      "name": "herramienta",
+      "back": {
+        "Text": "tool"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

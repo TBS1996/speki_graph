@@ -1,0 +1,12 @@
+{
+  "id": "1d5cc2f8-ba19-4d9b-ad6e-9d2d5f3414df",
+  "data": {
+    "Instance": {
+      "name": "estabilidad",
+      "back": {
+        "Text": "stability"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

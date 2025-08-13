@@ -1,0 +1,12 @@
+{
+  "id": "13d2a829-4b0b-407d-9423-56828018abf6",
+  "data": {
+    "Instance": {
+      "name": "beneficio",
+      "back": {
+        "Text": "profit"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

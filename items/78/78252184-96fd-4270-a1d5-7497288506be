@@ -1,0 +1,12 @@
+{
+  "id": "78252184-96fd-4270-a1d5-7497288506be",
+  "data": {
+    "Instance": {
+      "name": "respuesta",
+      "back": {
+        "Text": "reply"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "c9b453d9-bf88-4a03-9310-e52885d04ee5",
+  "data": {
+    "Instance": {
+      "name": "juego",
+      "back": {
+        "Text": "game"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

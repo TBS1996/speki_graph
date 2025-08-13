@@ -1,0 +1,12 @@
+{
+  "id": "c9586b14-faeb-4e40-9ca3-6d48e613ae72",
+  "data": {
+    "Instance": {
+      "name": "piscina",
+      "back": {
+        "Text": "pool"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

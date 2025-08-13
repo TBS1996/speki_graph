@@ -1,0 +1,12 @@
+{
+  "id": "87748a31-7ac7-4b60-a1ee-28f71bd4a57e",
+  "data": {
+    "Instance": {
+      "name": "vuelo",
+      "back": {
+        "Text": "flight"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

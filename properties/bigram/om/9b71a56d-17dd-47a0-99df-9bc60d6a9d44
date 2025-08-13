@@ -1,0 +1,12 @@
+{
+  "id": "9b71a56d-17dd-47a0-99df-9bc60d6a9d44",
+  "data": {
+    "Instance": {
+      "name": "hombre",
+      "back": {
+        "Text": "man"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

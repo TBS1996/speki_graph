@@ -1,0 +1,12 @@
+{
+  "id": "833e7cb4-485a-44e6-86f6-f77bf5f87c5a",
+  "data": {
+    "Instance": {
+      "name": "habitación",
+      "back": {
+        "Text": "room"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

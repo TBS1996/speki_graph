@@ -1,0 +1,12 @@
+{
+  "id": "efaa7e95-0697-4105-8f26-860516f9d222",
+  "data": {
+    "Instance": {
+      "name": "fumar",
+      "back": {
+        "Text": "smoking"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

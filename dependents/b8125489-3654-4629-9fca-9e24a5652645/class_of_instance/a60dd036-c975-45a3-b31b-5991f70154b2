@@ -1,0 +1,12 @@
+{
+  "id": "a60dd036-c975-45a3-b31b-5991f70154b2",
+  "data": {
+    "Instance": {
+      "name": "investigación",
+      "back": {
+        "Text": "investigation"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

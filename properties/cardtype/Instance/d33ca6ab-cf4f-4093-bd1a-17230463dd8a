@@ -1,0 +1,12 @@
+{
+  "id": "d33ca6ab-cf4f-4093-bd1a-17230463dd8a",
+  "data": {
+    "Instance": {
+      "name": "minuto",
+      "back": {
+        "Text": "minute"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

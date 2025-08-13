@@ -1,0 +1,12 @@
+{
+  "id": "4871626a-77ff-4ad8-838a-285bded0f776",
+  "data": {
+    "Instance": {
+      "name": "público",
+      "back": {
+        "Text": "audience"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

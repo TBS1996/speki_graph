@@ -1,0 +1,12 @@
+{
+  "id": "b073648c-81dd-49f3-b5f9-c4c0884abd89",
+  "data": {
+    "Instance": {
+      "name": "libra",
+      "back": {
+        "Text": "pound"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

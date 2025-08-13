@@ -1,0 +1,12 @@
+{
+  "id": "ca96d25d-025a-4ea9-93dd-46ca3274dd41",
+  "data": {
+    "Instance": {
+      "name": "lectura",
+      "back": {
+        "Text": "reading"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "119f889a-456b-4d20-bc6e-20fb61944420",
+  "data": {
+    "Instance": {
+      "name": "pez",
+      "back": {
+        "Text": "fish"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

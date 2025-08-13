@@ -1,0 +1,12 @@
+{
+  "id": "394fc812-a889-4dfb-8721-7e10b777da1f",
+  "data": {
+    "Instance": {
+      "name": "prisión",
+      "back": {
+        "Text": "prison"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

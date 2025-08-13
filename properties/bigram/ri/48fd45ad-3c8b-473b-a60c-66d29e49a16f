@@ -1,0 +1,12 @@
+{
+  "id": "48fd45ad-3c8b-473b-a60c-66d29e49a16f",
+  "data": {
+    "Instance": {
+      "name": "criterio",
+      "back": {
+        "Text": "criterion"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

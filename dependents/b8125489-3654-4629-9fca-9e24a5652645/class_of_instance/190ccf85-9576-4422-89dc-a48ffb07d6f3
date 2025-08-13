@@ -1,0 +1,12 @@
+{
+  "id": "190ccf85-9576-4422-89dc-a48ffb07d6f3",
+  "data": {
+    "Instance": {
+      "name": "impresión",
+      "back": {
+        "Text": "impression"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

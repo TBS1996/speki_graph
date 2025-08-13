@@ -1,0 +1,12 @@
+{
+  "id": "dce8a41c-a4d9-4f16-967f-5e2b7404474e",
+  "data": {
+    "Instance": {
+      "name": "comida",
+      "back": {
+        "Text": "meal"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

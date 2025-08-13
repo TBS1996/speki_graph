@@ -1,0 +1,12 @@
+{
+  "id": "28df6441-d824-4fcb-bf4e-3d33c33a404e",
+  "data": {
+    "Instance": {
+      "name": "celebridad",
+      "back": {
+        "Text": "celebrity"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

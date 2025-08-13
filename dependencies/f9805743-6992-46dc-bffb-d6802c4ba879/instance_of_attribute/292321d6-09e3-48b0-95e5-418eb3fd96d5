@@ -1,0 +1,12 @@
+{
+  "id": "292321d6-09e3-48b0-95e5-418eb3fd96d5",
+  "data": {
+    "Instance": {
+      "name": "ola",
+      "back": {
+        "Text": "wave"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

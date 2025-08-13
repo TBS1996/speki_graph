@@ -1,0 +1,12 @@
+{
+  "id": "e0b0810d-6cb1-451a-bae1-9a8d1528670f",
+  "data": {
+    "Instance": {
+      "name": "norte",
+      "back": {
+        "Text": "north"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

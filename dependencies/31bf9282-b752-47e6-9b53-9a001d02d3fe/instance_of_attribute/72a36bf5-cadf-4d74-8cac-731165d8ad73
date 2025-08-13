@@ -1,0 +1,12 @@
+{
+  "id": "72a36bf5-cadf-4d74-8cac-731165d8ad73",
+  "data": {
+    "Instance": {
+      "name": "tienda",
+      "back": {
+        "Text": "store"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

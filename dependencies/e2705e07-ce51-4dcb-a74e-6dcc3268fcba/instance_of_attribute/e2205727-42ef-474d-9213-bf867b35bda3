@@ -1,0 +1,12 @@
+{
+  "id": "e2205727-42ef-474d-9213-bf867b35bda3",
+  "data": {
+    "Instance": {
+      "name": "frecuencia",
+      "back": {
+        "Text": "frequency"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

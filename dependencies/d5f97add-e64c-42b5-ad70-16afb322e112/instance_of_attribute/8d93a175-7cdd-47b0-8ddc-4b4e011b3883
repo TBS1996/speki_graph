@@ -1,0 +1,12 @@
+{
+  "id": "8d93a175-7cdd-47b0-8ddc-4b4e011b3883",
+  "data": {
+    "Instance": {
+      "name": "imagen",
+      "back": {
+        "Text": "image"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

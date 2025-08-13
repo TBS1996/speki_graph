@@ -1,0 +1,12 @@
+{
+  "id": "23468f4e-7292-4cf4-b577-a8f0f1b46eed",
+  "data": {
+    "Instance": {
+      "name": "modo",
+      "back": {
+        "Text": "mode"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

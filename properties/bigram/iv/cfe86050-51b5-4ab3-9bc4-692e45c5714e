@@ -1,0 +1,12 @@
+{
+  "id": "cfe86050-51b5-4ab3-9bc4-692e45c5714e",
+  "data": {
+    "Instance": {
+      "name": "archivo",
+      "back": {
+        "Text": "file"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

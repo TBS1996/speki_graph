@@ -1,0 +1,12 @@
+{
+  "id": "95b5ce52-d280-407e-81f5-3a2a53b7f537",
+  "data": {
+    "Instance": {
+      "name": "lluvia",
+      "back": {
+        "Text": "rain"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

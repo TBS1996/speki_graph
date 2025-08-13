@@ -1,0 +1,12 @@
+{
+  "id": "400a9e0b-c85c-414b-8799-d6ed0b78d68a",
+  "data": {
+    "Instance": {
+      "name": "versión",
+      "back": {
+        "Text": "version"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

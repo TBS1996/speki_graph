@@ -1,0 +1,12 @@
+{
+  "id": "b002b6ba-6955-4b63-8613-14288cc46ec2",
+  "data": {
+    "Instance": {
+      "name": "arma",
+      "back": {
+        "Text": "weapon"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

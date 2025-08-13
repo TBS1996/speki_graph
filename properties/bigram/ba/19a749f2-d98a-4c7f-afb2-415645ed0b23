@@ -1,0 +1,12 @@
+{
+  "id": "19a749f2-d98a-4c7f-afb2-415645ed0b23",
+  "data": {
+    "Instance": {
+      "name": "balanza",
+      "back": {
+        "Text": "balance"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

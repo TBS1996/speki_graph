@@ -1,0 +1,12 @@
+{
+  "id": "6f63e3f9-6dcb-45b6-aae7-fc92bcae92fc",
+  "data": {
+    "Instance": {
+      "name": "vecindario",
+      "back": {
+        "Text": "neighbourhood"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

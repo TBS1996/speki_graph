@@ -1,0 +1,12 @@
+{
+  "id": "2a4f9001-631c-4896-b3da-93b855f6c520",
+  "data": {
+    "Instance": {
+      "name": "tipo",
+      "back": {
+        "Text": "guy"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

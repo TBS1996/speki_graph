@@ -1,0 +1,12 @@
+{
+  "id": "b020375e-90f6-4e56-9ee2-a47e1440dcf3",
+  "data": {
+    "Instance": {
+      "name": "pintura",
+      "back": {
+        "Text": "painting"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "6bc25455-4fc7-48c7-8efd-952fb811d2ef",
+  "data": {
+    "Instance": {
+      "name": "mundo",
+      "back": {
+        "Text": "world"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

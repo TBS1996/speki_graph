@@ -1,0 +1,12 @@
+{
+  "id": "4384bda8-6658-44ba-a4f6-5a5390395296",
+  "data": {
+    "Instance": {
+      "name": "dificultad",
+      "back": {
+        "Text": "difficulty"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

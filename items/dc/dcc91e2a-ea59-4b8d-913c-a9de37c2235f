@@ -1,0 +1,12 @@
+{
+  "id": "dcc91e2a-ea59-4b8d-913c-a9de37c2235f",
+  "data": {
+    "Instance": {
+      "name": "hotel",
+      "back": {
+        "Text": "hotel"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

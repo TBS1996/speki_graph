@@ -1,0 +1,12 @@
+{
+  "id": "f5c55890-b63d-4d0d-a42c-c31ac051e789",
+  "data": {
+    "Instance": {
+      "name": "tripulación",
+      "back": {
+        "Text": "crew"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

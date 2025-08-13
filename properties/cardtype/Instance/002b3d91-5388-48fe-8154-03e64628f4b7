@@ -1,0 +1,12 @@
+{
+  "id": "002b3d91-5388-48fe-8154-03e64628f4b7",
+  "data": {
+    "Instance": {
+      "name": "puente",
+      "back": {
+        "Text": "bridge"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

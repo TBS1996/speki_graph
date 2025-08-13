@@ -1,0 +1,12 @@
+{
+  "id": "3f77919f-08be-4391-8472-068badf2d9ba",
+  "data": {
+    "Instance": {
+      "name": "tráfico",
+      "back": {
+        "Text": "traffic"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

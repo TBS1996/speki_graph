@@ -1,0 +1,12 @@
+{
+  "id": "41a5cafc-c6c7-47a2-a6c6-62c5ee2443ab",
+  "data": {
+    "Instance": {
+      "name": "clima",
+      "back": {
+        "Text": "climate"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

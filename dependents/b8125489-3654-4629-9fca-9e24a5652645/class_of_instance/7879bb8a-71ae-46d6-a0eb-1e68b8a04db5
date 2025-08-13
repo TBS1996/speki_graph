@@ -1,0 +1,12 @@
+{
+  "id": "7879bb8a-71ae-46d6-a0eb-1e68b8a04db5",
+  "data": {
+    "Instance": {
+      "name": "relación",
+      "back": {
+        "Text": "relation"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

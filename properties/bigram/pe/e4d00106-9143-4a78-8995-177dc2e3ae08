@@ -1,0 +1,12 @@
+{
+  "id": "e4d00106-9143-4a78-8995-177dc2e3ae08",
+  "data": {
+    "Instance": {
+      "name": "pérdida",
+      "back": {
+        "Text": "loss"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

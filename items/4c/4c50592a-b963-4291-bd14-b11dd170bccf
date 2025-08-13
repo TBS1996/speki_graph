@@ -1,0 +1,12 @@
+{
+  "id": "4c50592a-b963-4291-bd14-b11dd170bccf",
+  "data": {
+    "Instance": {
+      "name": "juicio",
+      "back": {
+        "Text": "judgement"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

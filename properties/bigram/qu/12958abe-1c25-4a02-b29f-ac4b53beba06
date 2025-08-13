@@ -1,0 +1,12 @@
+{
+  "id": "12958abe-1c25-4a02-b29f-ac4b53beba06",
+  "data": {
+    "Instance": {
+      "name": "etiqueta",
+      "back": {
+        "Text": "label"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

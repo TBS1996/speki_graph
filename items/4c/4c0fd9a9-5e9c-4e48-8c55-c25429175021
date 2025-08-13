@@ -1,0 +1,12 @@
+{
+  "id": "4c0fd9a9-5e9c-4e48-8c55-c25429175021",
+  "data": {
+    "Instance": {
+      "name": "zona",
+      "back": {
+        "Text": "zone"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

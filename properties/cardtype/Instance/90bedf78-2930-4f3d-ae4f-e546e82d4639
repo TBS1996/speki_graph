@@ -1,0 +1,12 @@
+{
+  "id": "90bedf78-2930-4f3d-ae4f-e546e82d4639",
+  "data": {
+    "Instance": {
+      "name": "nube",
+      "back": {
+        "Text": "cloud"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "bef1f225-bbf6-4fec-9f3f-4c6c8c4b1d19",
+  "data": {
+    "Instance": {
+      "name": "frontera",
+      "back": {
+        "Text": "border"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

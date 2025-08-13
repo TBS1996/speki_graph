@@ -1,0 +1,12 @@
+{
+  "id": "ca3141e1-82e3-4db8-a1d7-19dc417ec6f9",
+  "data": {
+    "Instance": {
+      "name": "guarda",
+      "back": {
+        "Text": "guard"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

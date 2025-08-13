@@ -1,0 +1,12 @@
+{
+  "id": "0d63ecd8-c8f7-4d62-b799-c8183229a9d1",
+  "data": {
+    "Instance": {
+      "name": "finanzas",
+      "back": {
+        "Text": "finance"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

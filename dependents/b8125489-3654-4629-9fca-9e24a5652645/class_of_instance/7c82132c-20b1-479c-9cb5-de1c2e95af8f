@@ -1,0 +1,12 @@
+{
+  "id": "7c82132c-20b1-479c-9cb5-de1c2e95af8f",
+  "data": {
+    "Instance": {
+      "name": "enfermedad",
+      "back": {
+        "Text": "illness"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

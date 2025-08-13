@@ -1,0 +1,12 @@
+{
+  "id": "62f048e8-90b8-4f0d-95d8-6d197099a406",
+  "data": {
+    "Instance": {
+      "name": "reclamación",
+      "back": {
+        "Text": "claim"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

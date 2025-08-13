@@ -1,0 +1,12 @@
+{
+  "id": "57d7292b-ad77-475e-8eec-73f343816a8e",
+  "data": {
+    "Instance": {
+      "name": "café",
+      "back": {
+        "Text": "coffee"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

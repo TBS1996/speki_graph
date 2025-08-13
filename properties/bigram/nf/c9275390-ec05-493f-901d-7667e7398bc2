@@ -1,0 +1,12 @@
+{
+  "id": "c9275390-ec05-493f-901d-7667e7398bc2",
+  "data": {
+    "Instance": {
+      "name": "informe",
+      "back": {
+        "Text": "report"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

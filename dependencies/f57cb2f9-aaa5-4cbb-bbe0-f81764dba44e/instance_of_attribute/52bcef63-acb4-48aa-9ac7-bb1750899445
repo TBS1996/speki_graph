@@ -1,0 +1,12 @@
+{
+  "id": "52bcef63-acb4-48aa-9ac7-bb1750899445",
+  "data": {
+    "Instance": {
+      "name": "propiedad",
+      "back": {
+        "Text": "property"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

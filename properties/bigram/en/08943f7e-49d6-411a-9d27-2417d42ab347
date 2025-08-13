@@ -1,0 +1,12 @@
+{
+  "id": "08943f7e-49d6-411a-9d27-2417d42ab347",
+  "data": {
+    "Instance": {
+      "name": "alojamiento",
+      "back": {
+        "Text": "accommodation"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

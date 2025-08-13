@@ -1,0 +1,12 @@
+{
+  "id": "cfcf4849-742a-4d49-a5fc-caca72eb4ddc",
+  "data": {
+    "Instance": {
+      "name": "grupo",
+      "back": {
+        "Text": "group"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

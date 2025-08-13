@@ -1,0 +1,12 @@
+{
+  "id": "5eb057f3-9e5b-4d47-9eef-2645f67b7ab1",
+  "data": {
+    "Instance": {
+      "name": "mensaje",
+      "back": {
+        "Text": "message"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

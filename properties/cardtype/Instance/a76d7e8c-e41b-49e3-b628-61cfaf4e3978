@@ -1,0 +1,12 @@
+{
+  "id": "a76d7e8c-e41b-49e3-b628-61cfaf4e3978",
+  "data": {
+    "Instance": {
+      "name": "memoria",
+      "back": {
+        "Text": "memory"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

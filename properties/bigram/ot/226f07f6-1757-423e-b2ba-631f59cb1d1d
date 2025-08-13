@@ -1,0 +1,12 @@
+{
+  "id": "226f07f6-1757-423e-b2ba-631f59cb1d1d",
+  "data": {
+    "Instance": {
+      "name": "botella",
+      "back": {
+        "Text": "bottle"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

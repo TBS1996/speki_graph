@@ -1,0 +1,12 @@
+{
+  "id": "d5b66f8e-93ab-4655-9ee7-fe0465ff2017",
+  "data": {
+    "Instance": {
+      "name": "variedad",
+      "back": {
+        "Text": "variety"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

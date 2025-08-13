@@ -1,0 +1,12 @@
+{
+  "id": "a31b2961-47e0-4acc-9d3c-5cc18c352eb6",
+  "data": {
+    "Instance": {
+      "name": "viaje",
+      "back": {
+        "Text": "travel"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

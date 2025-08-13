@@ -1,0 +1,12 @@
+{
+  "id": "a7693126-b375-4956-9ac7-c7436ab6be48",
+  "data": {
+    "Instance": {
+      "name": "hogar",
+      "back": {
+        "Text": "household"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

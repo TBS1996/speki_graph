@@ -1,0 +1,12 @@
+{
+  "id": "5635015c-e8d4-40ad-9f85-d367d8b98169",
+  "data": {
+    "Instance": {
+      "name": "comercio",
+      "back": {
+        "Text": "trade"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

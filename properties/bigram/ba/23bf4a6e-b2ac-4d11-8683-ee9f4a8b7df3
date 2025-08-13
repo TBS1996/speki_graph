@@ -1,0 +1,12 @@
+{
+  "id": "23bf4a6e-b2ac-4d11-8683-ee9f4a8b7df3",
+  "data": {
+    "Instance": {
+      "name": "bar",
+      "back": {
+        "Text": "bar"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

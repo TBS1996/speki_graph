@@ -1,0 +1,12 @@
+{
+  "id": "075fcb24-33a8-4464-b35f-7652d53315a6",
+  "data": {
+    "Instance": {
+      "name": "rodilla",
+      "back": {
+        "Text": "knee"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

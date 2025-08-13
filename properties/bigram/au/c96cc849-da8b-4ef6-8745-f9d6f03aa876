@@ -1,0 +1,12 @@
+{
+  "id": "c96cc849-da8b-4ef6-8745-f9d6f03aa876",
+  "data": {
+    "Instance": {
+      "name": "pausa",
+      "back": {
+        "Text": "break"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

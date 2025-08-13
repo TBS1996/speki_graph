@@ -1,0 +1,12 @@
+{
+  "id": "2bf2e401-ac87-48a1-82ac-7d5edb33b146",
+  "data": {
+    "Instance": {
+      "name": "frase",
+      "back": {
+        "Text": "phrase"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "3cd62408-ddd3-4387-8cbe-4748673c9f80",
+  "data": {
+    "Instance": {
+      "name": "carga",
+      "back": {
+        "Text": "load"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

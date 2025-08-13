@@ -1,0 +1,12 @@
+{
+  "id": "dbe5b3bf-14ae-428b-8bbe-1586cafc6b73",
+  "data": {
+    "Instance": {
+      "name": "idioma",
+      "back": {
+        "Text": "language"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

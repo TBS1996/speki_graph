@@ -1,0 +1,12 @@
+{
+  "id": "3901ebd8-d0b0-4f1f-af5c-4f6b5b32d458",
+  "data": {
+    "Instance": {
+      "name": "fecha",
+      "back": {
+        "Text": "date"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

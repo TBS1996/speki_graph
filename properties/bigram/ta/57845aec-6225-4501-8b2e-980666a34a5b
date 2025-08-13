@@ -1,0 +1,12 @@
+{
+  "id": "57845aec-6225-4501-8b2e-980666a34a5b",
+  "data": {
+    "Instance": {
+      "name": "puerta",
+      "back": {
+        "Text": "door"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

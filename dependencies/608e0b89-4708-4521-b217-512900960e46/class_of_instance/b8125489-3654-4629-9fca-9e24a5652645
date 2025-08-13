@@ -1,0 +1,18 @@
+{
+  "id": "b8125489-3654-4629-9fca-9e24a5652645",
+  "data": {
+    "Class": {
+      "name": "spanish noun",
+      "parent_class": "1ddc65dd-b967-447b-ac38-0f7885c2e17e",
+      "attrs": [
+        {
+          "id": "455821c3-7a8c-4750-b188-99afce846ceb",
+          "pattern": "gender",
+          "back_type": {
+            "InstanceOfClass": "140c1c9a-0b80-49a7-ab74-8c45ebdde3f7"
+          }
+        }
+      ]
+    }
+  }
+}

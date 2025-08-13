@@ -1,0 +1,12 @@
+{
+  "id": "b2d6ae0e-8a4f-4053-86c5-01abb44827ed",
+  "data": {
+    "Instance": {
+      "name": "noticias",
+      "back": {
+        "Text": "news"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

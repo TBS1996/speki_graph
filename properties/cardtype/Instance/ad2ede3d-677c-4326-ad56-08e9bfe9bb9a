@@ -1,0 +1,12 @@
+{
+  "id": "ad2ede3d-677c-4326-ad56-08e9bfe9bb9a",
+  "data": {
+    "Instance": {
+      "name": "búsqueda",
+      "back": {
+        "Text": "search"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

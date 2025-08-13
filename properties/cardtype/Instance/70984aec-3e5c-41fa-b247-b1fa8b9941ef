@@ -1,0 +1,12 @@
+{
+  "id": "70984aec-3e5c-41fa-b247-b1fa8b9941ef",
+  "data": {
+    "Instance": {
+      "name": "marca",
+      "back": {
+        "Text": "brand"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "861a33a0-22e9-4c09-9627-712aa55df248",
+  "data": {
+    "Instance": {
+      "name": "edificio",
+      "back": {
+        "Text": "building"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

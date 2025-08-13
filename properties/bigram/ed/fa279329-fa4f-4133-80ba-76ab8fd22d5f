@@ -1,0 +1,12 @@
+{
+  "id": "fa279329-fa4f-4133-80ba-76ab8fd22d5f",
+  "data": {
+    "Instance": {
+      "name": "pared",
+      "back": {
+        "Text": "wall"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

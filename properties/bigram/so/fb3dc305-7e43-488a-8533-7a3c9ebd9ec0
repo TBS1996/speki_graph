@@ -1,0 +1,12 @@
+{
+  "id": "fb3dc305-7e43-488a-8533-7a3c9ebd9ec0",
+  "data": {
+    "Instance": {
+      "name": "permiso",
+      "back": {
+        "Text": "leave"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

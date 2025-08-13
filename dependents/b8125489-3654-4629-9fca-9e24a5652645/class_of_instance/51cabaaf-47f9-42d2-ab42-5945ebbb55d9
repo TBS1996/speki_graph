@@ -1,0 +1,12 @@
+{
+  "id": "51cabaaf-47f9-42d2-ab42-5945ebbb55d9",
+  "data": {
+    "Instance": {
+      "name": "accidente",
+      "back": {
+        "Text": "accident"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

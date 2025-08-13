@@ -1,0 +1,12 @@
+{
+  "id": "d57d624c-8d47-4517-bbd8-ba24642d27b1",
+  "data": {
+    "Instance": {
+      "name": "piedra",
+      "back": {
+        "Text": "stone"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

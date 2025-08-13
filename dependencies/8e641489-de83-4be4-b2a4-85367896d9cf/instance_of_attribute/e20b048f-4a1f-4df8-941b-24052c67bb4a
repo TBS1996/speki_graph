@@ -1,0 +1,12 @@
+{
+  "id": "e20b048f-4a1f-4df8-941b-24052c67bb4a",
+  "data": {
+    "Instance": {
+      "name": "secreto",
+      "back": {
+        "Text": "secret"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

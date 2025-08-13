@@ -1,0 +1,12 @@
+{
+  "id": "5f45ca7c-8a83-4656-98e2-fa9a1094f072",
+  "data": {
+    "Instance": {
+      "name": "oponente",
+      "back": {
+        "Text": "opponent"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

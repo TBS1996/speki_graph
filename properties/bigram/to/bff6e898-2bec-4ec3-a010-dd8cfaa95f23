@@ -1,0 +1,12 @@
+{
+  "id": "bff6e898-2bec-4ec3-a010-dd8cfaa95f23",
+  "data": {
+    "Instance": {
+      "name": "asiento",
+      "back": {
+        "Text": "seat"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

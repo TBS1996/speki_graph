@@ -1,0 +1,12 @@
+{
+  "id": "e5a2e132-464b-4eb3-bb7c-65678e0c7066",
+  "data": {
+    "Instance": {
+      "name": "reconocimiento",
+      "back": {
+        "Text": "recognition"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

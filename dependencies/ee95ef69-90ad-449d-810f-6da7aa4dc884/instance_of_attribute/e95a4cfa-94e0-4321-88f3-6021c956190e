@@ -1,0 +1,12 @@
+{
+  "id": "e95a4cfa-94e0-4321-88f3-6021c956190e",
+  "data": {
+    "Instance": {
+      "name": "combustible",
+      "back": {
+        "Text": "fuel"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

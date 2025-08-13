@@ -1,0 +1,12 @@
+{
+  "id": "e5252dea-db18-4454-afbc-5de3af915447",
+  "data": {
+    "Instance": {
+      "name": "intercambio",
+      "back": {
+        "Text": "exchange"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

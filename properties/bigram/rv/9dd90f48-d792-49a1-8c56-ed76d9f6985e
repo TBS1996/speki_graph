@@ -1,0 +1,12 @@
+{
+  "id": "9dd90f48-d792-49a1-8c56-ed76d9f6985e",
+  "data": {
+    "Instance": {
+      "name": "cerveza",
+      "back": {
+        "Text": "beer"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

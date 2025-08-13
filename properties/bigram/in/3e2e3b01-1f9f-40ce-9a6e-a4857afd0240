@@ -1,0 +1,12 @@
+{
+  "id": "3e2e3b01-1f9f-40ce-9a6e-a4857afd0240",
+  "data": {
+    "Instance": {
+      "name": "camino",
+      "back": {
+        "Text": "path"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

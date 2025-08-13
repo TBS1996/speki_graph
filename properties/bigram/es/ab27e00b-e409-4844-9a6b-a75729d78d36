@@ -1,0 +1,12 @@
+{
+  "id": "ab27e00b-e409-4844-9a6b-a75729d78d36",
+  "data": {
+    "Instance": {
+      "name": "puesto",
+      "back": {
+        "Text": "post"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

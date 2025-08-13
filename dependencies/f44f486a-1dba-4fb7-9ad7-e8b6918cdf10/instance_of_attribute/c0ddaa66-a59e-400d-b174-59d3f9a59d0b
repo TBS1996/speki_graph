@@ -1,0 +1,12 @@
+{
+  "id": "c0ddaa66-a59e-400d-b174-59d3f9a59d0b",
+  "data": {
+    "Instance": {
+      "name": "fruta",
+      "back": {
+        "Text": "fruit"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

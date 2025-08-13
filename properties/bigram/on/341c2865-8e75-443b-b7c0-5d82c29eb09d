@@ -1,0 +1,12 @@
+{
+  "id": "341c2865-8e75-443b-b7c0-5d82c29eb09d",
+  "data": {
+    "Instance": {
+      "name": "consejo",
+      "back": {
+        "Text": "council"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

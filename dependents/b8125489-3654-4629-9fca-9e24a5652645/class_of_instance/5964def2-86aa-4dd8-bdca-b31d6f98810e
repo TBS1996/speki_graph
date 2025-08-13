@@ -1,0 +1,12 @@
+{
+  "id": "5964def2-86aa-4dd8-bdca-b31d6f98810e",
+  "data": {
+    "Instance": {
+      "name": "dinero",
+      "back": {
+        "Text": "money"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

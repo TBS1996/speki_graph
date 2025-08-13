@@ -1,0 +1,12 @@
+{
+  "id": "14ff434f-e2de-4e72-aa50-da9b9896cde5",
+  "data": {
+    "Instance": {
+      "name": "condado",
+      "back": {
+        "Text": "county"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

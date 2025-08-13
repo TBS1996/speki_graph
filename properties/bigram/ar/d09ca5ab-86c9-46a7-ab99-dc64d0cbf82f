@@ -1,0 +1,12 @@
+{
+  "id": "d09ca5ab-86c9-46a7-ab99-dc64d0cbf82f",
+  "data": {
+    "Instance": {
+      "name": "característica",
+      "back": {
+        "Text": "feature"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

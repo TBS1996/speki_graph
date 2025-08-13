@@ -1,0 +1,12 @@
+{
+  "id": "a6f11c7e-b25f-4412-b7cc-babc44d2bdb3",
+  "data": {
+    "Instance": {
+      "name": "historia",
+      "back": {
+        "Text": "history"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

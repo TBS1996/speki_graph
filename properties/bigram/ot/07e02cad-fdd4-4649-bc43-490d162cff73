@@ -1,0 +1,12 @@
+{
+  "id": "07e02cad-fdd4-4649-bc43-490d162cff73",
+  "data": {
+    "Instance": {
+      "name": "total",
+      "back": {
+        "Text": "whole"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

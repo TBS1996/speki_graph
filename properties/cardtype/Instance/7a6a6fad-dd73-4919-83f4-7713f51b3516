@@ -1,0 +1,12 @@
+{
+  "id": "7a6a6fad-dd73-4919-83f4-7713f51b3516",
+  "data": {
+    "Instance": {
+      "name": "pecho",
+      "back": {
+        "Text": "chest"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

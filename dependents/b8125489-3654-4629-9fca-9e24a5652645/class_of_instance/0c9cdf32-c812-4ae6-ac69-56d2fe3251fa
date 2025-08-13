@@ -1,0 +1,12 @@
+{
+  "id": "0c9cdf32-c812-4ae6-ac69-56d2fe3251fa",
+  "data": {
+    "Instance": {
+      "name": "asociación",
+      "back": {
+        "Text": "association"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

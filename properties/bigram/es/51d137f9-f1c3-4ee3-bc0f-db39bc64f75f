@@ -1,0 +1,12 @@
+{
+  "id": "51d137f9-f1c3-4ee3-bc0f-db39bc64f75f",
+  "data": {
+    "Instance": {
+      "name": "estudio",
+      "back": {
+        "Text": "studio"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

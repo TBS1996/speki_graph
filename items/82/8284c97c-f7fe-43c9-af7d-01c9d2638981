@@ -1,0 +1,12 @@
+{
+  "id": "8284c97c-f7fe-43c9-af7d-01c9d2638981",
+  "data": {
+    "Instance": {
+      "name": "extensión",
+      "back": {
+        "Text": "extension"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

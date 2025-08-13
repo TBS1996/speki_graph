@@ -1,0 +1,12 @@
+{
+  "id": "a5b1b573-18e8-47ed-8f42-8ed21f032b55",
+  "data": {
+    "Instance": {
+      "name": "lanzamiento",
+      "back": {
+        "Text": "release"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

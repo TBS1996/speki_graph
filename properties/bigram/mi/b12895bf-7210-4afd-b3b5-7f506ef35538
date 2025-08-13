@@ -1,0 +1,12 @@
+{
+  "id": "b12895bf-7210-4afd-b3b5-7f506ef35538",
+  "data": {
+    "Instance": {
+      "name": "camisa",
+      "back": {
+        "Text": "shirt"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

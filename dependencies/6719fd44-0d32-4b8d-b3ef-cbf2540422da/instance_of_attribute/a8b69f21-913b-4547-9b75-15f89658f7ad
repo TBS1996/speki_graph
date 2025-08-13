@@ -1,0 +1,12 @@
+{
+  "id": "a8b69f21-913b-4547-9b75-15f89658f7ad",
+  "data": {
+    "Instance": {
+      "name": "cámara",
+      "back": {
+        "Text": "camera"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

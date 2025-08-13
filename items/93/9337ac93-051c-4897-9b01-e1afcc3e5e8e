@@ -1,0 +1,12 @@
+{
+  "id": "9337ac93-051c-4897-9b01-e1afcc3e5e8e",
+  "data": {
+    "Instance": {
+      "name": "mecanismo",
+      "back": {
+        "Text": "mechanism"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

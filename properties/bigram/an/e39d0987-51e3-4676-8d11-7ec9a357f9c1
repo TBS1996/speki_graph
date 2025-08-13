@@ -1,0 +1,12 @@
+{
+  "id": "e39d0987-51e3-4676-8d11-7ec9a357f9c1",
+  "data": {
+    "Instance": {
+      "name": "humano",
+      "back": {
+        "Text": "human"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

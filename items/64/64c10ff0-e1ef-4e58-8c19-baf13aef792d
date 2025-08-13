@@ -1,0 +1,12 @@
+{
+  "id": "64c10ff0-e1ef-4e58-8c19-baf13aef792d",
+  "data": {
+    "Instance": {
+      "name": "panel",
+      "back": {
+        "Text": "panel"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

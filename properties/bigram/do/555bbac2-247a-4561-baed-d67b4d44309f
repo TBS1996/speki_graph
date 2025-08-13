@@ -1,0 +1,12 @@
+{
+  "id": "555bbac2-247a-4561-baed-d67b4d44309f",
+  "data": {
+    "Instance": {
+      "name": "partido",
+      "back": {
+        "Text": "match"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

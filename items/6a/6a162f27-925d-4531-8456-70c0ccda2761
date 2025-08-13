@@ -1,0 +1,12 @@
+{
+  "id": "6a162f27-925d-4531-8456-70c0ccda2761",
+  "data": {
+    "Instance": {
+      "name": "lugar",
+      "back": {
+        "Text": "place"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

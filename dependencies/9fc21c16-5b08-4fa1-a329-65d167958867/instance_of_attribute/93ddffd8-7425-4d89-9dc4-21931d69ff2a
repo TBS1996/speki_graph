@@ -1,0 +1,12 @@
+{
+  "id": "93ddffd8-7425-4d89-9dc4-21931d69ff2a",
+  "data": {
+    "Instance": {
+      "name": "ganancia",
+      "back": {
+        "Text": "gain"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

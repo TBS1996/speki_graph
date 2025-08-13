@@ -1,0 +1,12 @@
+{
+  "id": "a74e3751-4156-4d66-a654-e7d628159e8f",
+  "data": {
+    "Instance": {
+      "name": "ausencia",
+      "back": {
+        "Text": "absence"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

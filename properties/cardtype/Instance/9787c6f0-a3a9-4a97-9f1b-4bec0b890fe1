@@ -1,0 +1,12 @@
+{
+  "id": "9787c6f0-a3a9-4a97-9f1b-4bec0b890fe1",
+  "data": {
+    "Instance": {
+      "name": "estación",
+      "back": {
+        "Text": "station"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

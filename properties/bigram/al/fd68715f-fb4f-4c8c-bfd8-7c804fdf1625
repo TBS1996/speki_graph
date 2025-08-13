@@ -1,0 +1,12 @@
+{
+  "id": "fd68715f-fb4f-4c8c-bfd8-7c804fdf1625",
+  "data": {
+    "Instance": {
+      "name": "espalda",
+      "back": {
+        "Text": "back"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

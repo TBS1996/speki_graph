@@ -1,0 +1,12 @@
+{
+  "id": "453124c0-f136-46d7-8845-b6d5d8d4cd77",
+  "data": {
+    "Instance": {
+      "name": "permiso",
+      "back": {
+        "Text": "permission"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

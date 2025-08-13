@@ -1,0 +1,12 @@
+{
+  "id": "4c176ff7-a69c-420e-bc36-3f9780f630f3",
+  "data": {
+    "Instance": {
+      "name": "compromiso",
+      "back": {
+        "Text": "commitment"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

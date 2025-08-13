@@ -1,0 +1,12 @@
+{
+  "id": "3c7101fb-c676-4e7a-b050-899a57e69339",
+  "data": {
+    "Instance": {
+      "name": "impuesto",
+      "back": {
+        "Text": "tax"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

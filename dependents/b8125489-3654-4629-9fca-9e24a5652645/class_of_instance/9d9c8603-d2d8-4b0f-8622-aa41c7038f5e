@@ -1,0 +1,12 @@
+{
+  "id": "9d9c8603-d2d8-4b0f-8622-aa41c7038f5e",
+  "data": {
+    "Instance": {
+      "name": "avión",
+      "back": {
+        "Text": "plane"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

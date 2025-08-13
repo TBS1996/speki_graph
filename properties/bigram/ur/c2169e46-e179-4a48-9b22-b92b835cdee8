@@ -1,0 +1,12 @@
+{
+  "id": "c2169e46-e179-4a48-9b22-b92b835cdee8",
+  "data": {
+    "Instance": {
+      "name": "asignatura",
+      "back": {
+        "Text": "subject"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

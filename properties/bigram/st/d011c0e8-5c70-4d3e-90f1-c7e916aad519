@@ -1,0 +1,12 @@
+{
+  "id": "d011c0e8-5c70-4d3e-90f1-c7e916aad519",
+  "data": {
+    "Instance": {
+      "name": "suministro",
+      "back": {
+        "Text": "supply"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

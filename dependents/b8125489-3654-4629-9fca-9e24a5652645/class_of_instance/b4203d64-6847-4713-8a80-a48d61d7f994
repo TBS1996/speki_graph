@@ -1,0 +1,12 @@
+{
+  "id": "b4203d64-6847-4713-8a80-a48d61d7f994",
+  "data": {
+    "Instance": {
+      "name": "factor",
+      "back": {
+        "Text": "factor"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

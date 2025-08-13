@@ -1,0 +1,12 @@
+{
+  "id": "01ff682d-e69d-42a0-b363-41ee4057fb95",
+  "data": {
+    "Instance": {
+      "name": "entrada",
+      "back": {
+        "Text": "input"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

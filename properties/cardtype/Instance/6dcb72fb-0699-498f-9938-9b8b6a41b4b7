@@ -1,0 +1,12 @@
+{
+  "id": "6dcb72fb-0699-498f-9938-9b8b6a41b4b7",
+  "data": {
+    "Instance": {
+      "name": "brazo",
+      "back": {
+        "Text": "arm"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

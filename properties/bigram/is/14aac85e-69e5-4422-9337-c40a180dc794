@@ -1,0 +1,12 @@
+{
+  "id": "14aac85e-69e5-4422-9337-c40a180dc794",
+  "data": {
+    "Instance": {
+      "name": "distrito",
+      "back": {
+        "Text": "district"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "0eeacf8e-ffcc-4965-ab02-f990ba23a823",
+  "data": {
+    "Instance": {
+      "name": "barco",
+      "back": {
+        "Text": "boat"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

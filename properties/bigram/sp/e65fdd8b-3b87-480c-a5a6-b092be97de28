@@ -1,0 +1,12 @@
+{
+  "id": "e65fdd8b-3b87-480c-a5a6-b092be97de28",
+  "data": {
+    "Instance": {
+      "name": "respiración",
+      "back": {
+        "Text": "breath"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

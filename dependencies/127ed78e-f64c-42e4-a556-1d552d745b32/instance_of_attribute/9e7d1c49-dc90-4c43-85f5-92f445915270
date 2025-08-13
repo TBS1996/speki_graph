@@ -1,0 +1,12 @@
+{
+  "id": "9e7d1c49-dc90-4c43-85f5-92f445915270",
+  "data": {
+    "Instance": {
+      "name": "anillo",
+      "back": {
+        "Text": "ring"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

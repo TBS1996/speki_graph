@@ -1,0 +1,12 @@
+{
+  "id": "6810f5d2-c448-4d39-9442-7c854d5cb239",
+  "data": {
+    "Instance": {
+      "name": "testigo",
+      "back": {
+        "Text": "witness"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

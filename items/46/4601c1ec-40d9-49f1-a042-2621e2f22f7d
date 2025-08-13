@@ -1,0 +1,12 @@
+{
+  "id": "4601c1ec-40d9-49f1-a042-2621e2f22f7d",
+  "data": {
+    "Instance": {
+      "name": "cosa",
+      "back": {
+        "Text": "thing"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

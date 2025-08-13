@@ -1,0 +1,12 @@
+{
+  "id": "6ca283aa-7abb-48f2-9574-adba6795fb69",
+  "data": {
+    "Instance": {
+      "name": "propósito",
+      "back": {
+        "Text": "purpose"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

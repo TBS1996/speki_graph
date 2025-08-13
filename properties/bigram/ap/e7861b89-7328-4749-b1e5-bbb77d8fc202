@@ -1,0 +1,12 @@
+{
+  "id": "e7861b89-7328-4749-b1e5-bbb77d8fc202",
+  "data": {
+    "Instance": {
+      "name": "apartamento",
+      "back": {
+        "Text": "apartment"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

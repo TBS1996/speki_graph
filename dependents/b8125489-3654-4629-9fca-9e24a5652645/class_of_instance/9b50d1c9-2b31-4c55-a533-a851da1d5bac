@@ -1,0 +1,12 @@
+{
+  "id": "9b50d1c9-2b31-4c55-a533-a851da1d5bac",
+  "data": {
+    "Instance": {
+      "name": "crédito",
+      "back": {
+        "Text": "credit"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

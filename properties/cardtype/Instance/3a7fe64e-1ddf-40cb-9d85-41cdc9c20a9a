@@ -1,0 +1,12 @@
+{
+  "id": "3a7fe64e-1ddf-40cb-9d85-41cdc9c20a9a",
+  "data": {
+    "Instance": {
+      "name": "venta",
+      "back": {
+        "Text": "sale"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

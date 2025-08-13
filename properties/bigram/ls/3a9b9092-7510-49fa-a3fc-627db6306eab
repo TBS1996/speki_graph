@@ -1,0 +1,12 @@
+{
+  "id": "3a9b9092-7510-49fa-a3fc-627db6306eab",
+  "data": {
+    "Instance": {
+      "name": "bolsa",
+      "back": {
+        "Text": "bag"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

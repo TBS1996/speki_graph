@@ -1,0 +1,12 @@
+{
+  "id": "afdd104c-e98b-4b18-b9a2-9212e8bedbdc",
+  "data": {
+    "Instance": {
+      "name": "vecino",
+      "back": {
+        "Text": "neighbour"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

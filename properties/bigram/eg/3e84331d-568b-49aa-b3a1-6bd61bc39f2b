@@ -1,0 +1,12 @@
+{
+  "id": "3e84331d-568b-49aa-b3a1-6bd61bc39f2b",
+  "data": {
+    "Instance": {
+      "name": "regalo",
+      "back": {
+        "Text": "gift"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

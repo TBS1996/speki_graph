@@ -1,0 +1,12 @@
+{
+  "id": "263cf12c-abf2-472e-917f-1e0d2295e285",
+  "data": {
+    "Instance": {
+      "name": "población",
+      "back": {
+        "Text": "population"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

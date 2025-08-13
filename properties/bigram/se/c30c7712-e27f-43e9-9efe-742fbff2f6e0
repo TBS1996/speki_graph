@@ -1,0 +1,12 @@
+{
+  "id": "c30c7712-e27f-43e9-9efe-742fbff2f6e0",
+  "data": {
+    "Instance": {
+      "name": "serie",
+      "back": {
+        "Text": "series"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

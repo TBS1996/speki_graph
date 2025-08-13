@@ -1,0 +1,12 @@
+{
+  "id": "1bc4539d-0855-4ab0-a042-803085c1587d",
+  "data": {
+    "Instance": {
+      "name": "solicitud",
+      "back": {
+        "Text": "application"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

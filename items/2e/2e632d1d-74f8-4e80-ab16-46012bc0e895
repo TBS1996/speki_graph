@@ -1,0 +1,12 @@
+{
+  "id": "2e632d1d-74f8-4e80-ab16-46012bc0e895",
+  "data": {
+    "Instance": {
+      "name": "fuerza",
+      "back": {
+        "Text": "force"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

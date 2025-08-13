@@ -1,0 +1,12 @@
+{
+  "id": "0fdaa30b-b276-46c1-90b1-1ce36e44efee",
+  "data": {
+    "Instance": {
+      "name": "libro",
+      "back": {
+        "Text": "book"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

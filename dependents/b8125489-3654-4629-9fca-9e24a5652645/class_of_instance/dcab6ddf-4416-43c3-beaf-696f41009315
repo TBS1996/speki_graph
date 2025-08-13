@@ -1,0 +1,12 @@
+{
+  "id": "dcab6ddf-4416-43c3-beaf-696f41009315",
+  "data": {
+    "Instance": {
+      "name": "economía",
+      "back": {
+        "Text": "economy"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

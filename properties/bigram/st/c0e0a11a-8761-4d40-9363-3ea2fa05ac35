@@ -1,0 +1,12 @@
+{
+  "id": "c0e0a11a-8761-4d40-9363-3ea2fa05ac35",
+  "data": {
+    "Instance": {
+      "name": "costo",
+      "back": {
+        "Text": "cost"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

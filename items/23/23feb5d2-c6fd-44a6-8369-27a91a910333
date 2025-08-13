@@ -1,0 +1,12 @@
+{
+  "id": "23feb5d2-c6fd-44a6-8369-27a91a910333",
+  "data": {
+    "Instance": {
+      "name": "ayuda",
+      "back": {
+        "Text": "aid"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

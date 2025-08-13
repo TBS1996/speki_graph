@@ -1,0 +1,12 @@
+{
+  "id": "0f3d0205-5e11-4589-a105-940935457378",
+  "data": {
+    "Instance": {
+      "name": "cumpleaños",
+      "back": {
+        "Text": "birthday"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

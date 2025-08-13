@@ -1,0 +1,12 @@
+{
+  "id": "21e73c71-88bf-4dd1-8c58-942a24a99efc",
+  "data": {
+    "Instance": {
+      "name": "mano",
+      "back": {
+        "Text": "hand"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

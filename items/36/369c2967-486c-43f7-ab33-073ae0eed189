@@ -1,0 +1,12 @@
+{
+  "id": "369c2967-486c-43f7-ab33-073ae0eed189",
+  "data": {
+    "Instance": {
+      "name": "suelo",
+      "back": {
+        "Text": "floor"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

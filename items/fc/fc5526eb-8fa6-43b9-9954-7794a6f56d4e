@@ -1,0 +1,12 @@
+{
+  "id": "fc5526eb-8fa6-43b9-9954-7794a6f56d4e",
+  "data": {
+    "Instance": {
+      "name": "apelación",
+      "back": {
+        "Text": "appeal"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}
