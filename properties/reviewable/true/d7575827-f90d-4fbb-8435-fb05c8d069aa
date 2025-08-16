@@ -1,0 +1,12 @@
+{
+  "id": "d7575827-f90d-4fbb-8435-fb05c8d069aa",
+  "data": {
+    "Instance": {
+      "name": "humør",
+      "back": {
+        "Text": "mood"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

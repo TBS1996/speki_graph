@@ -1,0 +1,12 @@
+{
+  "id": "5b2415af-f13a-4b52-b70d-1c8b1719c6ad",
+  "data": {
+    "Instance": {
+      "name": "reklame",
+      "back": {
+        "Text": "advertisement"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

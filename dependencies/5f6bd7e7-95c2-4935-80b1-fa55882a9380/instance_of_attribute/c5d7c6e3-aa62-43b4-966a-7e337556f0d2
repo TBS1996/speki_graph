@@ -1,0 +1,12 @@
+{
+  "id": "c5d7c6e3-aa62-43b4-966a-7e337556f0d2",
+  "data": {
+    "Instance": {
+      "name": "sau",
+      "back": {
+        "Text": "sheep"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

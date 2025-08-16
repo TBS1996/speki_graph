@@ -1,0 +1,12 @@
+{
+  "id": "19fd426f-54e0-46c6-a717-13ab43a8fd21",
+  "data": {
+    "Instance": {
+      "name": "definisjon",
+      "back": {
+        "Text": "definition"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

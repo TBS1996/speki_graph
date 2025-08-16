@@ -1,0 +1,12 @@
+{
+  "id": "41ce22ca-6917-4ff3-a7f2-112b9a8866da",
+  "data": {
+    "Instance": {
+      "name": "styreleder",
+      "back": {
+        "Text": "chairman"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

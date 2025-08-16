@@ -1,0 +1,12 @@
+{
+  "id": "2c6c24a3-98ca-47f4-a048-894d24e4ef80",
+  "data": {
+    "Instance": {
+      "name": "verdenskrig",
+      "back": {
+        "Text": "world war"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

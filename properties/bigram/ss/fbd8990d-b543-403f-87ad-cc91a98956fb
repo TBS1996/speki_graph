@@ -1,0 +1,12 @@
+{
+  "id": "fbd8990d-b543-403f-87ad-cc91a98956fb",
+  "data": {
+    "Instance": {
+      "name": "spiss",
+      "back": {
+        "Text": "tip"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "831caa12-73f5-43aa-a906-1731b9a5e9cc",
+  "data": {
+    "Instance": {
+      "name": "hytte",
+      "back": {
+        "Text": "cabin"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

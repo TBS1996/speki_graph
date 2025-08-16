@@ -1,0 +1,12 @@
+{
+  "id": "c92d9ad2-b60b-4512-9c4b-87f7e2f8c483",
+  "data": {
+    "Instance": {
+      "name": "dose",
+      "back": {
+        "Text": "dose"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

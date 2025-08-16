@@ -1,0 +1,12 @@
+{
+  "id": "024ba3e2-e8bd-4087-8291-e267b068047f",
+  "data": {
+    "Instance": {
+      "name": "art",
+      "back": {
+        "Text": "species"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

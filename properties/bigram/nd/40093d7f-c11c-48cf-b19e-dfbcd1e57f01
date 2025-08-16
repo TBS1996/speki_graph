@@ -1,0 +1,12 @@
+{
+  "id": "40093d7f-c11c-48cf-b19e-dfbcd1e57f01",
+  "data": {
+    "Instance": {
+      "name": "landsby",
+      "back": {
+        "Text": "village"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

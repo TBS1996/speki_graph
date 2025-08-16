@@ -1,0 +1,12 @@
+{
+  "id": "d6156ad7-e677-4ea0-acb6-7e534b27f20e",
+  "data": {
+    "Instance": {
+      "name": "overskrift",
+      "back": {
+        "Text": "headline"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

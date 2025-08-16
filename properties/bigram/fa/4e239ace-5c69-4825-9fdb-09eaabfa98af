@@ -1,0 +1,12 @@
+{
+  "id": "4e239ace-5c69-4825-9fdb-09eaabfa98af",
+  "data": {
+    "Instance": {
+      "name": "omfang",
+      "back": {
+        "Text": "extent"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

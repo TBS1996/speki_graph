@@ -1,0 +1,12 @@
+{
+  "id": "0aaf8bcc-9696-44da-9fb4-27df89615781",
+  "data": {
+    "Instance": {
+      "name": "beslutning",
+      "back": {
+        "Text": "decision"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "2f11382d-89b5-42ef-a991-c8a9516666b5",
+  "data": {
+    "Instance": {
+      "name": "anlegg",
+      "back": {
+        "Text": "facility"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "e720300b-100d-4116-80c9-1717fcd4c80e",
+  "data": {
+    "Instance": {
+      "name": "sektor",
+      "back": {
+        "Text": "sector"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

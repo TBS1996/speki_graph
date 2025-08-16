@@ -1,0 +1,12 @@
+{
+  "id": "bd1248ea-5d70-471e-8efd-4a34139753f1",
+  "data": {
+    "Instance": {
+      "name": "haug",
+      "back": {
+        "Text": "heap"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

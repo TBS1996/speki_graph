@@ -1,0 +1,12 @@
+{
+  "id": "b5c0ab68-f120-425f-9ba5-0f93e2fdba8e",
+  "data": {
+    "Instance": {
+      "name": "revy",
+      "back": {
+        "Text": "revue"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

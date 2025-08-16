@@ -1,0 +1,12 @@
+{
+  "id": "c3028b03-9531-48bb-ae11-50c71da6e6fd",
+  "data": {
+    "Instance": {
+      "name": "omsorg",
+      "back": {
+        "Text": "care"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

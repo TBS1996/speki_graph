@@ -1,0 +1,12 @@
+{
+  "id": "1d0f7505-3551-4173-abce-45b9b020116b",
+  "data": {
+    "Instance": {
+      "name": "innkjøp",
+      "back": {
+        "Text": "purchase"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

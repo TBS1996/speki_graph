@@ -1,0 +1,12 @@
+{
+  "id": "b1c49e96-8ef4-4b22-89d4-564bb2c657cc",
+  "data": {
+    "Instance": {
+      "name": "spørsmål",
+      "back": {
+        "Text": "question"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

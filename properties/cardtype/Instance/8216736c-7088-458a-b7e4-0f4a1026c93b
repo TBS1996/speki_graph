@@ -1,0 +1,12 @@
+{
+  "id": "8216736c-7088-458a-b7e4-0f4a1026c93b",
+  "data": {
+    "Instance": {
+      "name": "regning",
+      "back": {
+        "Text": "bill"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

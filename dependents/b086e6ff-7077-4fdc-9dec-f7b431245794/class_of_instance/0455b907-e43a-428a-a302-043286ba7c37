@@ -1,0 +1,12 @@
+{
+  "id": "0455b907-e43a-428a-a302-043286ba7c37",
+  "data": {
+    "Instance": {
+      "name": "fat",
+      "back": {
+        "Text": "plate"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

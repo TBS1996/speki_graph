@@ -1,0 +1,12 @@
+{
+  "id": "26e9f7a7-981c-4c1d-a73b-fd4842938bbd",
+  "data": {
+    "Instance": {
+      "name": "moderator",
+      "back": {
+        "Text": "moderator"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

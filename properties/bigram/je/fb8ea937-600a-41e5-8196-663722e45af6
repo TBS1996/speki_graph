@@ -1,0 +1,12 @@
+{
+  "id": "fb8ea937-600a-41e5-8196-663722e45af6",
+  "data": {
+    "Instance": {
+      "name": "nasje",
+      "back": {
+        "Text": "floor"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

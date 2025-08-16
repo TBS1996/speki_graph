@@ -1,0 +1,12 @@
+{
+  "id": "ca6ce7ed-4412-401b-8f0f-d34fe0b22d78",
+  "data": {
+    "Instance": {
+      "name": "gull",
+      "back": {
+        "Text": "gold"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

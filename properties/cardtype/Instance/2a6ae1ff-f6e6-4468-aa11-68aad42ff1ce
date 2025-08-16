@@ -1,0 +1,12 @@
+{
+  "id": "2a6ae1ff-f6e6-4468-aa11-68aad42ff1ce",
+  "data": {
+    "Instance": {
+      "name": "oppfølging",
+      "back": {
+        "Text": "follow-up"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

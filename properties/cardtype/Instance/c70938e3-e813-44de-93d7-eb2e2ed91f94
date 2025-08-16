@@ -1,0 +1,12 @@
+{
+  "id": "c70938e3-e813-44de-93d7-eb2e2ed91f94",
+  "data": {
+    "Instance": {
+      "name": "sone",
+      "back": {
+        "Text": "zone"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

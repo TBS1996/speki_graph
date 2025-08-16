@@ -1,0 +1,12 @@
+{
+  "id": "6696ab52-3daa-4ee7-aa91-241e3a6cfc18",
+  "data": {
+    "Instance": {
+      "name": "infrastruktur",
+      "back": {
+        "Text": "infrastructure"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

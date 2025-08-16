@@ -1,0 +1,12 @@
+{
+  "id": "1f8aa530-aaf7-4cba-b7b5-865e4ff2346c",
+  "data": {
+    "Instance": {
+      "name": "søker",
+      "back": {
+        "Text": "applicant"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

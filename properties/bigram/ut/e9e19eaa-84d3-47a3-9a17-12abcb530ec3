@@ -1,0 +1,12 @@
+{
+  "id": "e9e19eaa-84d3-47a3-9a17-12abcb530ec3",
+  "data": {
+    "Instance": {
+      "name": "utgift",
+      "back": {
+        "Text": "expense"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "eb2b3ed9-958a-48c8-a875-aabeea829782",
+  "data": {
+    "Instance": {
+      "name": "prosess",
+      "back": {
+        "Text": "process"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

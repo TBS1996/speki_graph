@@ -1,0 +1,12 @@
+{
+  "id": "b0da297a-3ff9-44b6-9313-5295f0680aad",
+  "data": {
+    "Instance": {
+      "name": "kurs",
+      "back": {
+        "Text": "course"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

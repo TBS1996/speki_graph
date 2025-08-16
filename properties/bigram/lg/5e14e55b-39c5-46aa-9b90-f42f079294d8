@@ -1,0 +1,12 @@
+{
+  "id": "5e14e55b-39c5-46aa-9b90-f42f079294d8",
+  "data": {
+    "Instance": {
+      "name": "velger",
+      "back": {
+        "Text": "voter"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

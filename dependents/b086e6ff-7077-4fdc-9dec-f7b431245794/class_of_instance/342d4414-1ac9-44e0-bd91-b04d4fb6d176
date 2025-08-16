@@ -1,0 +1,12 @@
+{
+  "id": "342d4414-1ac9-44e0-bd91-b04d4fb6d176",
+  "data": {
+    "Instance": {
+      "name": "vedlegg",
+      "back": {
+        "Text": "appendix"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

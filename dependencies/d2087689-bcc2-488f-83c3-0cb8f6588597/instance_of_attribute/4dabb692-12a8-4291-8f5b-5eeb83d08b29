@@ -1,0 +1,12 @@
+{
+  "id": "4dabb692-12a8-4291-8f5b-5eeb83d08b29",
+  "data": {
+    "Instance": {
+      "name": "fotball",
+      "back": {
+        "Text": "football"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

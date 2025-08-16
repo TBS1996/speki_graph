@@ -1,0 +1,12 @@
+{
+  "id": "be168415-7d8c-4662-bfff-01d5261b7c4a",
+  "data": {
+    "Instance": {
+      "name": "kaptein",
+      "back": {
+        "Text": "captain"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

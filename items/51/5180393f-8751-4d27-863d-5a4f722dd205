@@ -1,0 +1,12 @@
+{
+  "id": "5180393f-8751-4d27-863d-5a4f722dd205",
+  "data": {
+    "Instance": {
+      "name": "forsker",
+      "back": {
+        "Text": "researcher"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

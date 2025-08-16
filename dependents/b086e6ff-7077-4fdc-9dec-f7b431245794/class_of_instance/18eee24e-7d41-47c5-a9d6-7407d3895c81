@@ -1,0 +1,12 @@
+{
+  "id": "18eee24e-7d41-47c5-a9d6-7407d3895c81",
+  "data": {
+    "Instance": {
+      "name": "avkastning",
+      "back": {
+        "Text": "profit"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

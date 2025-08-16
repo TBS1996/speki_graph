@@ -1,0 +1,12 @@
+{
+  "id": "49b39bc3-dfeb-4b13-9d26-4186c9f149f6",
+  "data": {
+    "Instance": {
+      "name": "vitne",
+      "back": {
+        "Text": "witness"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

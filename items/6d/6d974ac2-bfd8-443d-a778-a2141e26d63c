@@ -1,0 +1,12 @@
+{
+  "id": "6d974ac2-bfd8-443d-a778-a2141e26d63c",
+  "data": {
+    "Instance": {
+      "name": "band",
+      "back": {
+        "Text": "band"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

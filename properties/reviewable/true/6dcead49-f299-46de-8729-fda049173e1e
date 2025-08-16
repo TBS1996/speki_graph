@@ -1,0 +1,12 @@
+{
+  "id": "6dcead49-f299-46de-8729-fda049173e1e",
+  "data": {
+    "Instance": {
+      "name": "arbeidsliv",
+      "back": {
+        "Text": "working life"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

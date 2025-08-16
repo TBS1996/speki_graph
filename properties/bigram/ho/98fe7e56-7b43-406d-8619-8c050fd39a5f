@@ -1,0 +1,12 @@
+{
+  "id": "98fe7e56-7b43-406d-8619-8c050fd39a5f",
+  "data": {
+    "Instance": {
+      "name": "hode",
+      "back": {
+        "Text": "head"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "4da4ea8a-ebde-487a-9e9f-93e0dbabb517",
+  "data": {
+    "Instance": {
+      "name": "opplegg",
+      "back": {
+        "Text": "arrangement"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

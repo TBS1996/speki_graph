@@ -1,0 +1,12 @@
+{
+  "id": "1b46bc67-d7f2-46fe-bc79-d8e1d564e202",
+  "data": {
+    "Instance": {
+      "name": "utgave",
+      "back": {
+        "Text": "edition"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

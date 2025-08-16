@@ -1,0 +1,12 @@
+{
+  "id": "9f8b0c38-10dd-4ab2-a969-e46eca978cbd",
+  "data": {
+    "Instance": {
+      "name": "mage",
+      "back": {
+        "Text": "stomach"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

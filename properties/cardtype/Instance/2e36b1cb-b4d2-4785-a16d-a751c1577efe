@@ -1,0 +1,12 @@
+{
+  "id": "2e36b1cb-b4d2-4785-a16d-a751c1577efe",
+  "data": {
+    "Instance": {
+      "name": "politi",
+      "back": {
+        "Text": "police"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

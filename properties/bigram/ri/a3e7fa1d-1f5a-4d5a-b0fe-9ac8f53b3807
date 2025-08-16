@@ -1,0 +1,12 @@
+{
+  "id": "a3e7fa1d-1f5a-4d5a-b0fe-9ac8f53b3807",
+  "data": {
+    "Instance": {
+      "name": "parkering",
+      "back": {
+        "Text": "parking"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

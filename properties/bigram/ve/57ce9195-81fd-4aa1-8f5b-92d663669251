@@ -1,0 +1,12 @@
+{
+  "id": "57ce9195-81fd-4aa1-8f5b-92d663669251",
+  "data": {
+    "Instance": {
+      "name": "hovedstad",
+      "back": {
+        "Text": "capital"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

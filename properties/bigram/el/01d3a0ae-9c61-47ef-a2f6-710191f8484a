@@ -1,0 +1,12 @@
+{
+  "id": "01d3a0ae-9c61-47ef-a2f6-710191f8484a",
+  "data": {
+    "Instance": {
+      "name": "hendelse",
+      "back": {
+        "Text": "event"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

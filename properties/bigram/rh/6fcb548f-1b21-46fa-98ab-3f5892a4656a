@@ -1,0 +1,12 @@
+{
+  "id": "6fcb548f-1b21-46fa-98ab-3f5892a4656a",
+  "data": {
+    "Instance": {
+      "name": "forhandling",
+      "back": {
+        "Text": "negotiation"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "0a5b978c-dce4-4430-9d36-f96810f81815",
+  "data": {
+    "Instance": {
+      "name": "skade",
+      "back": {
+        "Text": "damage"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

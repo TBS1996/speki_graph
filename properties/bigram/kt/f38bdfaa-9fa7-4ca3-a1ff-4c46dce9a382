@@ -1,0 +1,12 @@
+{
+  "id": "f38bdfaa-9fa7-4ca3-a1ff-4c46dce9a382",
+  "data": {
+    "Instance": {
+      "name": "punkt",
+      "back": {
+        "Text": "point"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

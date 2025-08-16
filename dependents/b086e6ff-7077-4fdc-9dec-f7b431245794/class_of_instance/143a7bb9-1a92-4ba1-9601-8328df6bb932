@@ -1,0 +1,12 @@
+{
+  "id": "143a7bb9-1a92-4ba1-9601-8328df6bb932",
+  "data": {
+    "Instance": {
+      "name": "peiling",
+      "back": {
+        "Text": "bearing"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

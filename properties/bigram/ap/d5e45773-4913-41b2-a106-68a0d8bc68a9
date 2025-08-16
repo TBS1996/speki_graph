@@ -1,0 +1,12 @@
+{
+  "id": "d5e45773-4913-41b2-a106-68a0d8bc68a9",
+  "data": {
+    "Instance": {
+      "name": "vitenskap",
+      "back": {
+        "Text": "science"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "0085f689-9160-448f-ac46-7df9f9c5438b",
+  "data": {
+    "Instance": {
+      "name": "oppdrag",
+      "back": {
+        "Text": "assignment"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

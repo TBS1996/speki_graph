@@ -1,0 +1,12 @@
+{
+  "id": "10812f2d-69ac-4ac3-889f-f76525d24a77",
+  "data": {
+    "Instance": {
+      "name": "papir",
+      "back": {
+        "Text": "paper"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

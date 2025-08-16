@@ -1,0 +1,12 @@
+{
+  "id": "9d4a3cb3-1467-4f92-8993-30dd5ac8c115",
+  "data": {
+    "Instance": {
+      "name": "børs",
+      "back": {
+        "Text": "stock exchange"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

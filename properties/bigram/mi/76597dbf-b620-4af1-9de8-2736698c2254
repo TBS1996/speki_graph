@@ -1,0 +1,12 @@
+{
+  "id": "76597dbf-b620-4af1-9de8-2736698c2254",
+  "data": {
+    "Instance": {
+      "name": "middag",
+      "back": {
+        "Text": "dinner"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

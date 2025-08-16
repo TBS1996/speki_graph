@@ -1,0 +1,12 @@
+{
+  "id": "96b5d3b4-607b-4d17-8026-e15aa95b66be",
+  "data": {
+    "Instance": {
+      "name": "del",
+      "back": {
+        "Text": "part"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

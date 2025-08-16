@@ -1,0 +1,12 @@
+{
+  "id": "41ec6fa1-79d1-403d-b01b-807a65e54d4a",
+  "data": {
+    "Instance": {
+      "name": "premiss",
+      "back": {
+        "Text": "premise"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

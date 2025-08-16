@@ -1,0 +1,12 @@
+{
+  "id": "2399ff2c-a087-454f-8f40-c6b1d9024bb9",
+  "data": {
+    "Instance": {
+      "name": "retning",
+      "back": {
+        "Text": "direction"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

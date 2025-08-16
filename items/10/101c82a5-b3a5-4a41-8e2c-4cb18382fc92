@@ -1,0 +1,12 @@
+{
+  "id": "101c82a5-b3a5-4a41-8e2c-4cb18382fc92",
+  "data": {
+    "Instance": {
+      "name": "mighet",
+      "back": {
+        "Text": "agreement"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

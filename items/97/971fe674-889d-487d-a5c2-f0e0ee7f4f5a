@@ -1,0 +1,12 @@
+{
+  "id": "971fe674-889d-487d-a5c2-f0e0ee7f4f5a",
+  "data": {
+    "Instance": {
+      "name": "foto",
+      "back": {
+        "Text": "photo"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

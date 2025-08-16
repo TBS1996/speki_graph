@@ -1,0 +1,12 @@
+{
+  "id": "a9f42669-ead9-41d0-a27c-5d5eac90df44",
+  "data": {
+    "Instance": {
+      "name": "aksjon",
+      "back": {
+        "Text": "campaign"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

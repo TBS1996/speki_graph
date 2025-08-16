@@ -1,0 +1,12 @@
+{
+  "id": "69889189-22f9-4de8-96fa-42d16d013402",
+  "data": {
+    "Instance": {
+      "name": "lag",
+      "back": {
+        "Text": "team"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

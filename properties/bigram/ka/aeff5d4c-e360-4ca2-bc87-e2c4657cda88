@@ -1,0 +1,12 @@
+{
+  "id": "aeff5d4c-e360-4ca2-bc87-e2c4657cda88",
+  "data": {
+    "Instance": {
+      "name": "medlemskap",
+      "back": {
+        "Text": "membership"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

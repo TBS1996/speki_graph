@@ -1,0 +1,12 @@
+{
+  "id": "18d791ef-1d4a-4ba6-9c4c-5a8b84321fa1",
+  "data": {
+    "Instance": {
+      "name": "forpliktelse",
+      "back": {
+        "Text": "obligation"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

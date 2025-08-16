@@ -1,0 +1,12 @@
+{
+  "id": "849d95a9-bd9c-4502-8613-2303b81494e9",
+  "data": {
+    "Instance": {
+      "name": "utsikt",
+      "back": {
+        "Text": "view"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

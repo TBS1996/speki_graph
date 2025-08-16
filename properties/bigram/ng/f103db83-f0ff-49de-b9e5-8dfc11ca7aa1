@@ -1,0 +1,12 @@
+{
+  "id": "f103db83-f0ff-49de-b9e5-8dfc11ca7aa1",
+  "data": {
+    "Instance": {
+      "name": "plassering",
+      "back": {
+        "Text": "place"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

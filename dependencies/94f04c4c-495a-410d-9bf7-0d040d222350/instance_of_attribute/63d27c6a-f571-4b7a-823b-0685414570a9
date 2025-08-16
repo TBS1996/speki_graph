@@ -1,0 +1,12 @@
+{
+  "id": "63d27c6a-f571-4b7a-823b-0685414570a9",
+  "data": {
+    "Instance": {
+      "name": "nettside",
+      "back": {
+        "Text": "webpage"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

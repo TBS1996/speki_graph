@@ -1,0 +1,12 @@
+{
+  "id": "09d46fc2-4810-4fb9-a1b5-8e8ce762bf56",
+  "data": {
+    "Instance": {
+      "name": "lærerinne",
+      "back": {
+        "Text": "female teacher"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

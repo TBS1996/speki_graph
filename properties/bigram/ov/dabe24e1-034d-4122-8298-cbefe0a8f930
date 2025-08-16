@@ -1,0 +1,12 @@
+{
+  "id": "dabe24e1-034d-4122-8298-cbefe0a8f930",
+  "data": {
+    "Instance": {
+      "name": "overskudd",
+      "back": {
+        "Text": "surplus"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

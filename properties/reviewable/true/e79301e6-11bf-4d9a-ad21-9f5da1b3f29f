@@ -1,0 +1,12 @@
+{
+  "id": "e79301e6-11bf-4d9a-ad21-9f5da1b3f29f",
+  "data": {
+    "Instance": {
+      "name": "artist",
+      "back": {
+        "Text": "artist"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

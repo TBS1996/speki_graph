@@ -1,0 +1,12 @@
+{
+  "id": "e48313da-a2c9-44c7-ad5a-8bd3695ac4bb",
+  "data": {
+    "Instance": {
+      "name": "fyr",
+      "back": {
+        "Text": "fellow/fire"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

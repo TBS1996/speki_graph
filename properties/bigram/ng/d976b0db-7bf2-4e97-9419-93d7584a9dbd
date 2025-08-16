@@ -1,0 +1,12 @@
+{
+  "id": "d976b0db-7bf2-4e97-9419-93d7584a9dbd",
+  "data": {
+    "Instance": {
+      "name": "ungdomsskole",
+      "back": {
+        "Text": "secondary school (8th to 10th grade)"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

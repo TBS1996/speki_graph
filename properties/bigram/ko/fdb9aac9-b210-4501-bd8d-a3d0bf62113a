@@ -1,0 +1,12 @@
+{
+  "id": "fdb9aac9-b210-4501-bd8d-a3d0bf62113a",
+  "data": {
+    "Instance": {
+      "name": "sko",
+      "back": {
+        "Text": "shoe"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

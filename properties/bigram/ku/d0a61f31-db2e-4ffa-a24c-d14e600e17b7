@@ -1,0 +1,12 @@
+{
+  "id": "d0a61f31-db2e-4ffa-a24c-d14e600e17b7",
+  "data": {
+    "Instance": {
+      "name": "skulder",
+      "back": {
+        "Text": "shoulder"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

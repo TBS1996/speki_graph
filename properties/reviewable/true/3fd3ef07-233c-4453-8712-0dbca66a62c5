@@ -1,0 +1,12 @@
+{
+  "id": "3fd3ef07-233c-4453-8712-0dbca66a62c5",
+  "data": {
+    "Instance": {
+      "name": "mål",
+      "back": {
+        "Text": "goal"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

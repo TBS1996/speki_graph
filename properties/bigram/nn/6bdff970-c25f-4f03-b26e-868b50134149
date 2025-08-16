@@ -1,0 +1,12 @@
+{
+  "id": "6bdff970-c25f-4f03-b26e-868b50134149",
+  "data": {
+    "Instance": {
+      "name": "innspill",
+      "back": {
+        "Text": "input"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

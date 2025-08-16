@@ -1,0 +1,12 @@
+{
+  "id": "e2aa3ca3-b82a-4249-87f8-a120b8e9f9bd",
+  "data": {
+    "Instance": {
+      "name": "signal",
+      "back": {
+        "Text": "signal"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

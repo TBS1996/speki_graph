@@ -1,0 +1,12 @@
+{
+  "id": "79637c2a-b339-49fb-933f-6dfd7f74e4b1",
+  "data": {
+    "Instance": {
+      "name": "stoff",
+      "back": {
+        "Text": "material"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

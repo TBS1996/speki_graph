@@ -1,0 +1,12 @@
+{
+  "id": "6bf5a781-a23b-4c1b-9604-30a64d415fb9",
+  "data": {
+    "Instance": {
+      "name": "forbruker",
+      "back": {
+        "Text": "consumer"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

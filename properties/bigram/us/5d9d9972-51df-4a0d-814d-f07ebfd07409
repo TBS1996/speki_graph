@@ -1,0 +1,12 @@
+{
+  "id": "5d9d9972-51df-4a0d-814d-f07ebfd07409",
+  "data": {
+    "Instance": {
+      "name": "sykehus",
+      "back": {
+        "Text": "hospital"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

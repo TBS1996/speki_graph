@@ -1,0 +1,12 @@
+{
+  "id": "32131c2f-70df-4915-bb91-e12d5501ad03",
+  "data": {
+    "Instance": {
+      "name": "anmeldelse",
+      "back": {
+        "Text": "report"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

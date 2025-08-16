@@ -1,0 +1,12 @@
+{
+  "id": "c769bb68-3b3e-4efe-9c27-f5c55bf496fc",
+  "data": {
+    "Instance": {
+      "name": "kokk",
+      "back": {
+        "Text": "cook"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

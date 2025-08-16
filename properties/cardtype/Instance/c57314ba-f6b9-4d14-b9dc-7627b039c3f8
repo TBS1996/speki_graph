@@ -1,0 +1,12 @@
+{
+  "id": "c57314ba-f6b9-4d14-b9dc-7627b039c3f8",
+  "data": {
+    "Instance": {
+      "name": "tunge",
+      "back": {
+        "Text": "tongue"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

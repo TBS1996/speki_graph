@@ -1,0 +1,12 @@
+{
+  "id": "c0109dd8-ad89-4fa8-b917-1f08227553b3",
+  "data": {
+    "Instance": {
+      "name": "kino",
+      "back": {
+        "Text": "cinema"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

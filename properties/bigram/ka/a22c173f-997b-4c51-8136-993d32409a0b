@@ -1,0 +1,12 @@
+{
+  "id": "a22c173f-997b-4c51-8136-993d32409a0b",
+  "data": {
+    "Instance": {
+      "name": "vilkår",
+      "back": {
+        "Text": "condition"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

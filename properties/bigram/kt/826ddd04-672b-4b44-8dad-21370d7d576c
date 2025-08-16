@@ -1,0 +1,12 @@
+{
+  "id": "826ddd04-672b-4b44-8dad-21370d7d576c",
+  "data": {
+    "Instance": {
+      "name": "makt",
+      "back": {
+        "Text": "power"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

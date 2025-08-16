@@ -1,0 +1,12 @@
+{
+  "id": "ef32b9d0-7007-4464-a665-5e5f72e4e722",
+  "data": {
+    "Instance": {
+      "name": "bord",
+      "back": {
+        "Text": "table"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

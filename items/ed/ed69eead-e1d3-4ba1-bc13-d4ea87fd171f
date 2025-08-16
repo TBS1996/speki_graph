@@ -1,0 +1,12 @@
+{
+  "id": "ed69eead-e1d3-4ba1-bc13-d4ea87fd171f",
+  "data": {
+    "Instance": {
+      "name": "glede",
+      "back": {
+        "Text": "joy"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

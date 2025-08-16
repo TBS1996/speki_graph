@@ -1,0 +1,12 @@
+{
+  "id": "6e813bca-9641-43a0-8c54-b6270c4cbd95",
+  "data": {
+    "Instance": {
+      "name": "fattigdom",
+      "back": {
+        "Text": "poverty"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

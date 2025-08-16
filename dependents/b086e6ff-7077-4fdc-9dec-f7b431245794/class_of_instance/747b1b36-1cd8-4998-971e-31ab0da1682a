@@ -1,0 +1,12 @@
+{
+  "id": "747b1b36-1cd8-4998-971e-31ab0da1682a",
+  "data": {
+    "Instance": {
+      "name": "leverandør",
+      "back": {
+        "Text": "supplier"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

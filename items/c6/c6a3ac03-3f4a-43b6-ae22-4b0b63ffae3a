@@ -1,0 +1,12 @@
+{
+  "id": "c6a3ac03-3f4a-43b6-ae22-4b0b63ffae3a",
+  "data": {
+    "Instance": {
+      "name": "scene",
+      "back": {
+        "Text": "scene"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

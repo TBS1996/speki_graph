@@ -1,0 +1,12 @@
+{
+  "id": "c727f127-89d2-4d9a-b9ce-cd2a7a1a48b6",
+  "data": {
+    "Instance": {
+      "name": "motstander",
+      "back": {
+        "Text": "opponent"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

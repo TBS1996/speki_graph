@@ -1,0 +1,12 @@
+{
+  "id": "395aac70-1c93-4051-b7fa-10010cc014c5",
+  "data": {
+    "Instance": {
+      "name": "påstand",
+      "back": {
+        "Text": "statement"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

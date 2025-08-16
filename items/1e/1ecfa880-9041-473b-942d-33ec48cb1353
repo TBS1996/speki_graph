@@ -1,0 +1,12 @@
+{
+  "id": "1ecfa880-9041-473b-942d-33ec48cb1353",
+  "data": {
+    "Instance": {
+      "name": "gjenstand",
+      "back": {
+        "Text": "object"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

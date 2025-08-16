@@ -1,0 +1,12 @@
+{
+  "id": "2c1b25d9-d6aa-4488-9a5a-27edfdfac03b",
+  "data": {
+    "Instance": {
+      "name": "disk",
+      "back": {
+        "Text": "disc"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

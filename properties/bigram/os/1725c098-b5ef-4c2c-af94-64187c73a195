@@ -1,0 +1,12 @@
+{
+  "id": "1725c098-b5ef-4c2c-af94-64187c73a195",
+  "data": {
+    "Instance": {
+      "name": "e-postadresse",
+      "back": {
+        "Text": "email address"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

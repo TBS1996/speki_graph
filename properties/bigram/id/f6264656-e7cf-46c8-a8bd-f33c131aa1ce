@@ -1,0 +1,12 @@
+{
+  "id": "f6264656-e7cf-46c8-a8bd-f33c131aa1ce",
+  "data": {
+    "Instance": {
+      "name": "president",
+      "back": {
+        "Text": "president"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

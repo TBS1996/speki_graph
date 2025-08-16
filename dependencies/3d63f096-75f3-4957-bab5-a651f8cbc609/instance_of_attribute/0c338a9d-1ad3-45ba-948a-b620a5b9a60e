@@ -1,0 +1,12 @@
+{
+  "id": "0c338a9d-1ad3-45ba-948a-b620a5b9a60e",
+  "data": {
+    "Instance": {
+      "name": "utsagn",
+      "back": {
+        "Text": "statement"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

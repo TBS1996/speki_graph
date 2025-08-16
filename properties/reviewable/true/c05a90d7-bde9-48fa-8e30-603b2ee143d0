@@ -1,0 +1,12 @@
+{
+  "id": "c05a90d7-bde9-48fa-8e30-603b2ee143d0",
+  "data": {
+    "Instance": {
+      "name": "begrep",
+      "back": {
+        "Text": "concept"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

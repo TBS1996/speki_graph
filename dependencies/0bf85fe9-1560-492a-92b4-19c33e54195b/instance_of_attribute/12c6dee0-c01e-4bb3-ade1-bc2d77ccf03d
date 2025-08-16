@@ -1,0 +1,12 @@
+{
+  "id": "12c6dee0-c01e-4bb3-ade1-bc2d77ccf03d",
+  "data": {
+    "Instance": {
+      "name": "stav",
+      "back": {
+        "Text": "stick"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

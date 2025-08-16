@@ -1,0 +1,12 @@
+{
+  "id": "c37d4464-9a47-4f35-9950-e3c35f078a0a",
+  "data": {
+    "Instance": {
+      "name": "havn",
+      "back": {
+        "Text": "harbour"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

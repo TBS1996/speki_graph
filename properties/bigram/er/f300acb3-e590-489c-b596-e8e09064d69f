@@ -1,0 +1,12 @@
+{
+  "id": "f300acb3-e590-489c-b596-e8e09064d69f",
+  "data": {
+    "Instance": {
+      "name": "blodsukker",
+      "back": {
+        "Text": "blood sugar"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

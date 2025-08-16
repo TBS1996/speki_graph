@@ -1,0 +1,12 @@
+{
+  "id": "29b3275f-7571-4b85-b997-c5c00afab869",
+  "data": {
+    "Instance": {
+      "name": "landslag",
+      "back": {
+        "Text": "national team"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "169a72b5-0c46-40b6-b3ea-ffe171c1aac0",
+  "data": {
+    "Instance": {
+      "name": "arbeidskraft",
+      "back": {
+        "Text": "labour"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

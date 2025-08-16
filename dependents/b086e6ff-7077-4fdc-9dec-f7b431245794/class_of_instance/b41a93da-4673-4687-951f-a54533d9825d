@@ -1,0 +1,12 @@
+{
+  "id": "b41a93da-4673-4687-951f-a54533d9825d",
+  "data": {
+    "Instance": {
+      "name": "kapasitet",
+      "back": {
+        "Text": "capacity"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

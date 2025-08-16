@@ -1,0 +1,12 @@
+{
+  "id": "bc355423-857a-4b76-9212-7bc61512802e",
+  "data": {
+    "Instance": {
+      "name": "boks",
+      "back": {
+        "Text": "box"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

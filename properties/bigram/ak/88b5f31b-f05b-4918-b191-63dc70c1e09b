@@ -1,0 +1,12 @@
+{
+  "id": "88b5f31b-f05b-4918-b191-63dc70c1e09b",
+  "data": {
+    "Instance": {
+      "name": "hovedsak",
+      "back": {
+        "Text": "main (most important) thing"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

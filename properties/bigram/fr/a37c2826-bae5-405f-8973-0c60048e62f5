@@ -1,0 +1,12 @@
+{
+  "id": "a37c2826-bae5-405f-8973-0c60048e62f5",
+  "data": {
+    "Instance": {
+      "name": "frykt",
+      "back": {
+        "Text": "fear"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

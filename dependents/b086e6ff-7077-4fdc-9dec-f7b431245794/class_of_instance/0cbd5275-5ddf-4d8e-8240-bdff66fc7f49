@@ -1,0 +1,12 @@
+{
+  "id": "0cbd5275-5ddf-4d8e-8240-bdff66fc7f49",
+  "data": {
+    "Instance": {
+      "name": "stilling",
+      "back": {
+        "Text": "position"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

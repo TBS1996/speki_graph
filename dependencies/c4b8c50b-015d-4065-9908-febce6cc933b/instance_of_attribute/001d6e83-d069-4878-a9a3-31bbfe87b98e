@@ -1,0 +1,12 @@
+{
+  "id": "001d6e83-d069-4878-a9a3-31bbfe87b98e",
+  "data": {
+    "Instance": {
+      "name": "vindu",
+      "back": {
+        "Text": "window"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

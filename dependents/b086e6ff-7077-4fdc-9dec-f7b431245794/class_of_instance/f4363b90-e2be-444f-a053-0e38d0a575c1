@@ -1,0 +1,12 @@
+{
+  "id": "f4363b90-e2be-444f-a053-0e38d0a575c1",
+  "data": {
+    "Instance": {
+      "name": "miljø",
+      "back": {
+        "Text": "environment"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

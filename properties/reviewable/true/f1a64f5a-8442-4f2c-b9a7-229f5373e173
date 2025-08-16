@@ -1,0 +1,12 @@
+{
+  "id": "f1a64f5a-8442-4f2c-b9a7-229f5373e173",
+  "data": {
+    "Instance": {
+      "name": "forestilling",
+      "back": {
+        "Text": "performance"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

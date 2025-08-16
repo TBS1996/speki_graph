@@ -1,0 +1,12 @@
+{
+  "id": "a6414e61-9c49-4922-86fb-2d7233798f2e",
+  "data": {
+    "Instance": {
+      "name": "fendom",
+      "back": {
+        "Text": "property"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

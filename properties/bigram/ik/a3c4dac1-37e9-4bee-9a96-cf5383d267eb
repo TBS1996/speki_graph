@@ -1,0 +1,12 @@
+{
+  "id": "a3c4dac1-37e9-4bee-9a96-cf5383d267eb",
+  "data": {
+    "Instance": {
+      "name": "risiko",
+      "back": {
+        "Text": "risk"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

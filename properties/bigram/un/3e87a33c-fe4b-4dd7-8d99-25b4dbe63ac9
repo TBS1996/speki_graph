@@ -1,0 +1,12 @@
+{
+  "id": "3e87a33c-fe4b-4dd7-8d99-25b4dbe63ac9",
+  "data": {
+    "Instance": {
+      "name": "kunstner",
+      "back": {
+        "Text": "artist"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

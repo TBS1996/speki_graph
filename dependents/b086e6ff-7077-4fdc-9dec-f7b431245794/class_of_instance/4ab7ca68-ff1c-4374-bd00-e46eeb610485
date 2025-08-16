@@ -1,0 +1,12 @@
+{
+  "id": "4ab7ca68-ff1c-4374-bd00-e46eeb610485",
+  "data": {
+    "Instance": {
+      "name": "slag",
+      "back": {
+        "Text": "blow"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

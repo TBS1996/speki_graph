@@ -1,0 +1,12 @@
+{
+  "id": "aad2b4e6-21fc-4f54-8e6f-a20e07b0c6d4",
+  "data": {
+    "Instance": {
+      "name": "hus",
+      "back": {
+        "Text": "house"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "8336d378-f035-46d4-99f7-3da3a6c9f0e4",
+  "data": {
+    "Instance": {
+      "name": "oppskrift",
+      "back": {
+        "Text": "recipe"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

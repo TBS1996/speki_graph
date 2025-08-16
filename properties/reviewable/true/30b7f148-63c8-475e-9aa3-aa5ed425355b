@@ -1,0 +1,12 @@
+{
+  "id": "30b7f148-63c8-475e-9aa3-aa5ed425355b",
+  "data": {
+    "Instance": {
+      "name": "figur",
+      "back": {
+        "Text": "figure"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

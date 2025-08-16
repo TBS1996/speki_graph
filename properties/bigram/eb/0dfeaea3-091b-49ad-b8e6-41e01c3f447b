@@ -1,0 +1,12 @@
+{
+  "id": "0dfeaea3-091b-49ad-b8e6-41e01c3f447b",
+  "data": {
+    "Instance": {
+      "name": "debatt",
+      "back": {
+        "Text": "debate"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

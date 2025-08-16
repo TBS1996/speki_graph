@@ -1,0 +1,12 @@
+{
+  "id": "7daf7cdd-2efc-456e-8346-54ea728bf31a",
+  "data": {
+    "Instance": {
+      "name": "forlag",
+      "back": {
+        "Text": "publisher"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

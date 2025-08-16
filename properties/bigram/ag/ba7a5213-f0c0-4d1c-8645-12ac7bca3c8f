@@ -1,0 +1,12 @@
+{
+  "id": "ba7a5213-f0c0-4d1c-8645-12ac7bca3c8f",
+  "data": {
+    "Instance": {
+      "name": "fag",
+      "back": {
+        "Text": "subject/profession"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

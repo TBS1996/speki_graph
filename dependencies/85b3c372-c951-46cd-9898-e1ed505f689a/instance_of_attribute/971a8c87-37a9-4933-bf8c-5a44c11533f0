@@ -1,0 +1,12 @@
+{
+  "id": "971a8c87-37a9-4933-bf8c-5a44c11533f0",
+  "data": {
+    "Instance": {
+      "name": "ulv",
+      "back": {
+        "Text": "wolf"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

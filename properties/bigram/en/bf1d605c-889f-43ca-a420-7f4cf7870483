@@ -1,0 +1,12 @@
+{
+  "id": "bf1d605c-889f-43ca-a420-7f4cf7870483",
+  "data": {
+    "Instance": {
+      "name": "sammenheng",
+      "back": {
+        "Text": "context"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

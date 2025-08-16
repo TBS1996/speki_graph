@@ -1,0 +1,12 @@
+{
+  "id": "53446c1d-4210-4ff6-988d-50d3ec75ec2f",
+  "data": {
+    "Instance": {
+      "name": "departement",
+      "back": {
+        "Text": "department"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

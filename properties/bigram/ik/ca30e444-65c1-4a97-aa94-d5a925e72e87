@@ -1,0 +1,12 @@
+{
+  "id": "ca30e444-65c1-4a97-aa94-d5a925e72e87",
+  "data": {
+    "Instance": {
+      "name": "blikk",
+      "back": {
+        "Text": "glance"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

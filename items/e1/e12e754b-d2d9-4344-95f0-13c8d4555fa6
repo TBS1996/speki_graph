@@ -1,0 +1,12 @@
+{
+  "id": "e12e754b-d2d9-4344-95f0-13c8d4555fa6",
+  "data": {
+    "Instance": {
+      "name": "stress",
+      "back": {
+        "Text": "stress"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "bed2eb11-ea28-4f5e-b0fc-d7684da38f91",
+  "data": {
+    "Instance": {
+      "name": "grønnsak",
+      "back": {
+        "Text": "vegetable"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

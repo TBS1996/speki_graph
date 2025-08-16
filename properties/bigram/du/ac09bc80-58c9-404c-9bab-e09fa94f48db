@@ -1,0 +1,12 @@
+{
+  "id": "ac09bc80-58c9-404c-9bab-e09fa94f48db",
+  "data": {
+    "Instance": {
+      "name": "produsent",
+      "back": {
+        "Text": "producer"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

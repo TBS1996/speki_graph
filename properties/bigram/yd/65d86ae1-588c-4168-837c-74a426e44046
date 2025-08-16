@@ -1,0 +1,12 @@
+{
+  "id": "65d86ae1-588c-4168-837c-74a426e44046",
+  "data": {
+    "Instance": {
+      "name": "bydel",
+      "back": {
+        "Text": "district"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

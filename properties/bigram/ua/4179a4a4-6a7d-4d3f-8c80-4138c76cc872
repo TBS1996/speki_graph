@@ -1,0 +1,12 @@
+{
+  "id": "4179a4a4-6a7d-4d3f-8c80-4138c76cc872",
+  "data": {
+    "Instance": {
+      "name": "situasjon",
+      "back": {
+        "Text": "situation"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

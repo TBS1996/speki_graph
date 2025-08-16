@@ -1,0 +1,12 @@
+{
+  "id": "76d4c7c2-d453-4928-865a-3478032459a8",
+  "data": {
+    "Instance": {
+      "name": "foredrag",
+      "back": {
+        "Text": "lecture"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

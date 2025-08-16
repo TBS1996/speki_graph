@@ -1,0 +1,12 @@
+{
+  "id": "3c185881-cc05-4b4d-b637-a5028e8c5bf0",
+  "data": {
+    "Instance": {
+      "name": "billett",
+      "back": {
+        "Text": "ticket"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

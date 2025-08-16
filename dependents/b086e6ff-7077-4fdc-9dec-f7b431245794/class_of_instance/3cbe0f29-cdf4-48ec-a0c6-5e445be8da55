@@ -1,0 +1,12 @@
+{
+  "id": "3cbe0f29-cdf4-48ec-a0c6-5e445be8da55",
+  "data": {
+    "Instance": {
+      "name": "mynt",
+      "back": {
+        "Text": "coin"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

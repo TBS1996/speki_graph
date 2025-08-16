@@ -1,0 +1,12 @@
+{
+  "id": "d588a2df-e9a6-4032-89f8-7ccd7dd28340",
+  "data": {
+    "Instance": {
+      "name": "vinner",
+      "back": {
+        "Text": "winner"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

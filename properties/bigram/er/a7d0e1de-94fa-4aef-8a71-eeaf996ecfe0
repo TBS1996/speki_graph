@@ -1,0 +1,12 @@
+{
+  "id": "a7d0e1de-94fa-4aef-8a71-eeaf996ecfe0",
+  "data": {
+    "Instance": {
+      "name": "smerte",
+      "back": {
+        "Text": "pain"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

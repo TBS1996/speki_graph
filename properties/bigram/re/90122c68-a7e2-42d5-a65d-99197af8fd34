@@ -1,0 +1,12 @@
+{
+  "id": "90122c68-a7e2-42d5-a65d-99197af8fd34",
+  "data": {
+    "Instance": {
+      "name": "ytre",
+      "back": {
+        "Text": "exterior"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

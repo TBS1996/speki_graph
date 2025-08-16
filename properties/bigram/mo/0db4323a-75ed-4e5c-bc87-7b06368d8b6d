@@ -1,0 +1,12 @@
+{
+  "id": "0db4323a-75ed-4e5c-bc87-7b06368d8b6d",
+  "data": {
+    "Instance": {
+      "name": "motsetning",
+      "back": {
+        "Text": "contrast"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

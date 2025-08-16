@@ -1,0 +1,12 @@
+{
+  "id": "3bedaa9e-d7a4-4ea7-914e-ac156c2adefb",
+  "data": {
+    "Instance": {
+      "name": "uttalelse",
+      "back": {
+        "Text": "statement"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

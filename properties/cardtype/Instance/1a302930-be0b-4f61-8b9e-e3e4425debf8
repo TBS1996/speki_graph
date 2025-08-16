@@ -1,0 +1,12 @@
+{
+  "id": "1a302930-be0b-4f61-8b9e-e3e4425debf8",
+  "data": {
+    "Instance": {
+      "name": "kommentar",
+      "back": {
+        "Text": "comment"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "eea1a5a0-0a75-4261-82de-a83b39e1dd2f",
+  "data": {
+    "Instance": {
+      "name": "utskrift",
+      "back": {
+        "Text": "print-out"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

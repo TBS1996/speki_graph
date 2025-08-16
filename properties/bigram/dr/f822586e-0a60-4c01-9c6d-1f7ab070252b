@@ -1,0 +1,12 @@
+{
+  "id": "f822586e-0a60-4c01-9c6d-1f7ab070252b",
+  "data": {
+    "Instance": {
+      "name": "bedrift",
+      "back": {
+        "Text": "company"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

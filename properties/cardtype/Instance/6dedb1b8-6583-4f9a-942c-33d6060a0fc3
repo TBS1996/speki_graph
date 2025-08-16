@@ -1,0 +1,12 @@
+{
+  "id": "6dedb1b8-6583-4f9a-942c-33d6060a0fc3",
+  "data": {
+    "Instance": {
+      "name": "leilighet",
+      "back": {
+        "Text": "apartment"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

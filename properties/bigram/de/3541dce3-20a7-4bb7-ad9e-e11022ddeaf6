@@ -1,0 +1,12 @@
+{
+  "id": "3541dce3-20a7-4bb7-ad9e-e11022ddeaf6",
+  "data": {
+    "Instance": {
+      "name": "vurdering",
+      "back": {
+        "Text": "assessment"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

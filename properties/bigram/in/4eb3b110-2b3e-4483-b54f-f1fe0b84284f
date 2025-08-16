@@ -1,0 +1,12 @@
+{
+  "id": "4eb3b110-2b3e-4483-b54f-f1fe0b84284f",
+  "data": {
+    "Instance": {
+      "name": "innslag",
+      "back": {
+        "Text": "element"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

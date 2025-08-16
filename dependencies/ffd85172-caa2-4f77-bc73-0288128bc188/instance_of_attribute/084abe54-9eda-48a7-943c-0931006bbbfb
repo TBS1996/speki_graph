@@ -1,0 +1,12 @@
+{
+  "id": "084abe54-9eda-48a7-943c-0931006bbbfb",
+  "data": {
+    "Instance": {
+      "name": "strid",
+      "back": {
+        "Text": "conflict"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

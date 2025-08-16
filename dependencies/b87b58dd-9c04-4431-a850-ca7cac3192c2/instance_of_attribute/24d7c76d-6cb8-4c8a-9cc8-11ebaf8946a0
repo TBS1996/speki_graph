@@ -1,0 +1,12 @@
+{
+  "id": "24d7c76d-6cb8-4c8a-9cc8-11ebaf8946a0",
+  "data": {
+    "Instance": {
+      "name": "kropp",
+      "back": {
+        "Text": "body"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

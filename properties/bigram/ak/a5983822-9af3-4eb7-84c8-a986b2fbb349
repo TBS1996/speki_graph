@@ -1,0 +1,12 @@
+{
+  "id": "a5983822-9af3-4eb7-84c8-a986b2fbb349",
+  "data": {
+    "Instance": {
+      "name": "vakt",
+      "back": {
+        "Text": "guard"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

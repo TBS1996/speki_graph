@@ -1,0 +1,12 @@
+{
+  "id": "18731d6a-b176-49c8-aff2-c70e8ab3755c",
+  "data": {
+    "Instance": {
+      "name": "opptak",
+      "back": {
+        "Text": "admission/recording"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

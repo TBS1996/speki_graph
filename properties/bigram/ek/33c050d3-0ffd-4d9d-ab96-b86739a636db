@@ -1,0 +1,12 @@
+{
+  "id": "33c050d3-0ffd-4d9d-ab96-b86739a636db",
+  "data": {
+    "Instance": {
+      "name": "tekst",
+      "back": {
+        "Text": "text"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

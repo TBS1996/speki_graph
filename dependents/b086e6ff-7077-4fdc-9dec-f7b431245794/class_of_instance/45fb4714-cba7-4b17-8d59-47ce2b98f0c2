@@ -1,0 +1,12 @@
+{
+  "id": "45fb4714-cba7-4b17-8d59-47ce2b98f0c2",
+  "data": {
+    "Instance": {
+      "name": "nyhet",
+      "back": {
+        "Text": "news"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

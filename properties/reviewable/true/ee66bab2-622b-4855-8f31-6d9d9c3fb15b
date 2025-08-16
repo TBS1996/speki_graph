@@ -1,0 +1,12 @@
+{
+  "id": "ee66bab2-622b-4855-8f31-6d9d9c3fb15b",
+  "data": {
+    "Instance": {
+      "name": "mønster",
+      "back": {
+        "Text": "pattern"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

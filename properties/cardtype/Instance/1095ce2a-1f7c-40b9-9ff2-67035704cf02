@@ -1,0 +1,12 @@
+{
+  "id": "1095ce2a-1f7c-40b9-9ff2-67035704cf02",
+  "data": {
+    "Instance": {
+      "name": "arv",
+      "back": {
+        "Text": "inheritance"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

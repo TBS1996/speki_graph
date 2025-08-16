@@ -1,0 +1,12 @@
+{
+  "id": "fa4c342d-c943-4a70-bee2-1e907a296397",
+  "data": {
+    "Instance": {
+      "name": "nummer",
+      "back": {
+        "Text": "number"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

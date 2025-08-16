@@ -1,0 +1,12 @@
+{
+  "id": "66a15a8a-c5a7-4028-a2ca-72c766ba6040",
+  "data": {
+    "Instance": {
+      "name": "kamera",
+      "back": {
+        "Text": "camera"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

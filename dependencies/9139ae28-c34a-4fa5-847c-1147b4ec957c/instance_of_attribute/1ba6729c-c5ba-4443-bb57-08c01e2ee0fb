@@ -1,0 +1,12 @@
+{
+  "id": "1ba6729c-c5ba-4443-bb57-08c01e2ee0fb",
+  "data": {
+    "Instance": {
+      "name": "forbruk",
+      "back": {
+        "Text": "consumption"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

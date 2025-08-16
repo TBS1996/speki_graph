@@ -1,0 +1,12 @@
+{
+  "id": "a8fb5716-143e-46d2-8f9d-5ab0ee8f4b74",
+  "data": {
+    "Instance": {
+      "name": "dagbok",
+      "back": {
+        "Text": "diary"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

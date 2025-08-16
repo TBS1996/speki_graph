@@ -1,0 +1,12 @@
+{
+  "id": "7b28f0e5-1d67-4f8a-aeb5-d40c09fdf7b9",
+  "data": {
+    "Instance": {
+      "name": "lekeplass",
+      "back": {
+        "Text": "playground"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

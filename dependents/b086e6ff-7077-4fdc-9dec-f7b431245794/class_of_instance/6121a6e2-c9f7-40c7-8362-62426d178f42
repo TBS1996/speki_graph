@@ -1,0 +1,12 @@
+{
+  "id": "6121a6e2-c9f7-40c7-8362-62426d178f42",
+  "data": {
+    "Instance": {
+      "name": "fritid",
+      "back": {
+        "Text": "leisure"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

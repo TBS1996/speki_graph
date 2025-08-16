@@ -1,0 +1,12 @@
+{
+  "id": "6e6bcf29-f2bb-4ecb-9b72-8a7d4ae0d352",
+  "data": {
+    "Instance": {
+      "name": "gym",
+      "back": {
+        "Text": "gym"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

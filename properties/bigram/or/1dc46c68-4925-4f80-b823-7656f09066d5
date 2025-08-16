@@ -1,0 +1,12 @@
+{
+  "id": "1dc46c68-4925-4f80-b823-7656f09066d5",
+  "data": {
+    "Instance": {
+      "name": "overføring",
+      "back": {
+        "Text": "transfer"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

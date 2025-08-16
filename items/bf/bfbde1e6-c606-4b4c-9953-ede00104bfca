@@ -1,0 +1,12 @@
+{
+  "id": "bfbde1e6-c606-4b4c-9953-ede00104bfca",
+  "data": {
+    "Instance": {
+      "name": "oljepris",
+      "back": {
+        "Text": "oil price"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

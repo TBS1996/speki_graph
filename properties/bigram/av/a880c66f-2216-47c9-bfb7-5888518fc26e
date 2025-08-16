@@ -1,0 +1,12 @@
+{
+  "id": "a880c66f-2216-47c9-bfb7-5888518fc26e",
+  "data": {
+    "Instance": {
+      "name": "graviditet",
+      "back": {
+        "Text": "pregnancy"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "4bbd5313-e9b9-4f5d-bb47-7b596044c6ca",
+  "data": {
+    "Instance": {
+      "name": "oversikt",
+      "back": {
+        "Text": "overview"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

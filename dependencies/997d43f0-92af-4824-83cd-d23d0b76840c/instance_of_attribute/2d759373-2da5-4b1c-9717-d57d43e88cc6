@@ -1,0 +1,12 @@
+{
+  "id": "2d759373-2da5-4b1c-9717-d57d43e88cc6",
+  "data": {
+    "Instance": {
+      "name": "poeng",
+      "back": {
+        "Text": "point"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

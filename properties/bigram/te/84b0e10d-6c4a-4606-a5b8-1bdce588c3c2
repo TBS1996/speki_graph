@@ -1,0 +1,12 @@
+{
+  "id": "84b0e10d-6c4a-4606-a5b8-1bdce588c3c2",
+  "data": {
+    "Instance": {
+      "name": "fortelling",
+      "back": {
+        "Text": "story"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

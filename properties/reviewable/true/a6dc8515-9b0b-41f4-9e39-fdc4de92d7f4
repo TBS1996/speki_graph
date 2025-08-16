@@ -1,0 +1,12 @@
+{
+  "id": "a6dc8515-9b0b-41f4-9e39-fdc4de92d7f4",
+  "data": {
+    "Instance": {
+      "name": "gårdsbruk",
+      "back": {
+        "Text": "farm"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

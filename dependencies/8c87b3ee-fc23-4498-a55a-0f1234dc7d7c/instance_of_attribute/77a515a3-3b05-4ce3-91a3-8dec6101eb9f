@@ -1,0 +1,12 @@
+{
+  "id": "77a515a3-3b05-4ce3-91a3-8dec6101eb9f",
+  "data": {
+    "Instance": {
+      "name": "beskrivelse",
+      "back": {
+        "Text": "description"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

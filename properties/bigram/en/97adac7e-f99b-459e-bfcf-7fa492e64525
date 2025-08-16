@@ -1,0 +1,12 @@
+{
+  "id": "97adac7e-f99b-459e-bfcf-7fa492e64525",
+  "data": {
+    "Instance": {
+      "name": "venstreside",
+      "back": {
+        "Text": "left side"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

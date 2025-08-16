@@ -1,0 +1,12 @@
+{
+  "id": "3d550685-6a2d-4061-acfd-944f764870bb",
+  "data": {
+    "Instance": {
+      "name": "ferd",
+      "back": {
+        "Text": "journey"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

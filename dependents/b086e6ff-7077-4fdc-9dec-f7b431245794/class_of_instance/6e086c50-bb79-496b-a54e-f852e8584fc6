@@ -1,0 +1,12 @@
+{
+  "id": "6e086c50-bb79-496b-a54e-f852e8584fc6",
+  "data": {
+    "Instance": {
+      "name": "kosthold",
+      "back": {
+        "Text": "diet"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

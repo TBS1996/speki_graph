@@ -1,0 +1,12 @@
+{
+  "id": "0fc761af-25f2-4d02-99f9-f66fbcc2fc73",
+  "data": {
+    "Instance": {
+      "name": "lokale",
+      "back": {
+        "Text": "premises"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

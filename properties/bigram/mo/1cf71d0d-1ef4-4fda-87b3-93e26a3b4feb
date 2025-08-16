@@ -1,0 +1,12 @@
+{
+  "id": "1cf71d0d-1ef4-4fda-87b3-93e26a3b4feb",
+  "data": {
+    "Instance": {
+      "name": "humor",
+      "back": {
+        "Text": "humour"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

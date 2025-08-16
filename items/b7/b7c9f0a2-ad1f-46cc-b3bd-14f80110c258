@@ -1,0 +1,12 @@
+{
+  "id": "b7c9f0a2-ad1f-46cc-b3bd-14f80110c258",
+  "data": {
+    "Instance": {
+      "name": "fjell",
+      "back": {
+        "Text": "mountain"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "5a4635f3-7577-4a39-a095-7cc6929232e8",
+  "data": {
+    "Instance": {
+      "name": "nærhet",
+      "back": {
+        "Text": "proximity"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

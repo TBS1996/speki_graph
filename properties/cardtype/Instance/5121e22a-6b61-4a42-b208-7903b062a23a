@@ -1,0 +1,12 @@
+{
+  "id": "5121e22a-6b61-4a42-b208-7903b062a23a",
+  "data": {
+    "Instance": {
+      "name": "motstand",
+      "back": {
+        "Text": "resistance"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

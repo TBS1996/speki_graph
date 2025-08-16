@@ -1,0 +1,12 @@
+{
+  "id": "d721caeb-2cb1-4dbe-9635-5f24534f4f41",
+  "data": {
+    "Instance": {
+      "name": "fremtid",
+      "back": {
+        "Text": "future"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

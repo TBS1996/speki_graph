@@ -1,0 +1,12 @@
+{
+  "id": "0c395f20-d52e-4cb8-be34-4605e7a8500d",
+  "data": {
+    "Instance": {
+      "name": "journalist",
+      "back": {
+        "Text": "journalist"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

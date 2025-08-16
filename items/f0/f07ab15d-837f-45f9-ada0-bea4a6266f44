@@ -1,0 +1,12 @@
+{
+  "id": "f07ab15d-837f-45f9-ada0-bea4a6266f44",
+  "data": {
+    "Instance": {
+      "name": "moped",
+      "back": {
+        "Text": "moped"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

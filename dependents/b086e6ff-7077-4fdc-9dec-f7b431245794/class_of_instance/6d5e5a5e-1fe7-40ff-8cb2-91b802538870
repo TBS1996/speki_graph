@@ -1,0 +1,12 @@
+{
+  "id": "6d5e5a5e-1fe7-40ff-8cb2-91b802538870",
+  "data": {
+    "Instance": {
+      "name": "lån",
+      "back": {
+        "Text": "loan"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

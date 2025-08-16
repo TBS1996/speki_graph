@@ -1,0 +1,12 @@
+{
+  "id": "fae3860a-007b-4de7-b518-0e8f080dc688",
+  "data": {
+    "Instance": {
+      "name": "uttrykk",
+      "back": {
+        "Text": "expression"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

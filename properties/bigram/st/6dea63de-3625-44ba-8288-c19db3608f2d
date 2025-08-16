@@ -1,0 +1,12 @@
+{
+  "id": "6dea63de-3625-44ba-8288-c19db3608f2d",
+  "data": {
+    "Instance": {
+      "name": "domstol",
+      "back": {
+        "Text": "court"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

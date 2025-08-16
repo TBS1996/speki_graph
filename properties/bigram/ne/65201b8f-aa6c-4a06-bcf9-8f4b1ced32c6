@@ -1,0 +1,12 @@
+{
+  "id": "65201b8f-aa6c-4a06-bcf9-8f4b1ced32c6",
+  "data": {
+    "Instance": {
+      "name": "vaksine",
+      "back": {
+        "Text": "vaccine"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

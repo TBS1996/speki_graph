@@ -1,0 +1,12 @@
+{
+  "id": "60edf8e9-dbb5-459e-8d62-f568b95f15ef",
+  "data": {
+    "Instance": {
+      "name": "grend",
+      "back": {
+        "Text": "hamlet"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

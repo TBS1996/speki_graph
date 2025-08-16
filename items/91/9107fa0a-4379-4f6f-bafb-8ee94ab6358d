@@ -1,0 +1,12 @@
+{
+  "id": "9107fa0a-4379-4f6f-bafb-8ee94ab6358d",
+  "data": {
+    "Instance": {
+      "name": "terreng",
+      "back": {
+        "Text": "terrain"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

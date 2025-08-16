@@ -1,0 +1,12 @@
+{
+  "id": "ecd67989-7586-4b7f-a398-9ee6b481a06d",
+  "data": {
+    "Instance": {
+      "name": "observasjon",
+      "back": {
+        "Text": "observation"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "960ae240-24e6-4c58-9476-063d31eb83cb",
+  "data": {
+    "Instance": {
+      "name": "rettssak",
+      "back": {
+        "Text": "court case"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "07c299bd-c311-4b07-ba5c-1594772f59ef",
+  "data": {
+    "Instance": {
+      "name": "prestasjon",
+      "back": {
+        "Text": "achievement"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

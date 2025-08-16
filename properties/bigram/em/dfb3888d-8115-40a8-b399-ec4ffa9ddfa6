@@ -1,0 +1,12 @@
+{
+  "id": "dfb3888d-8115-40a8-b399-ec4ffa9ddfa6",
+  "data": {
+    "Instance": {
+      "name": "hjem",
+      "back": {
+        "Text": "home"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

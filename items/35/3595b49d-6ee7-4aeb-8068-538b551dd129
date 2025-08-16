@@ -1,0 +1,12 @@
+{
+  "id": "3595b49d-6ee7-4aeb-8068-538b551dd129",
+  "data": {
+    "Instance": {
+      "name": "næring",
+      "back": {
+        "Text": "nutrition"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

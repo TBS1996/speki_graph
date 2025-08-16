@@ -1,0 +1,12 @@
+{
+  "id": "875ef748-0f8e-4d14-bf9c-71a640c9d560",
+  "data": {
+    "Instance": {
+      "name": "ledd",
+      "back": {
+        "Text": "joint"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "1ffde042-55ee-407f-9d99-2e58d3b867cd",
+  "data": {
+    "Instance": {
+      "name": "bildekvalitet",
+      "back": {
+        "Text": "picture quality"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

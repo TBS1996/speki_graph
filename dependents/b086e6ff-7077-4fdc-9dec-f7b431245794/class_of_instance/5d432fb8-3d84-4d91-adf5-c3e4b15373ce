@@ -1,0 +1,12 @@
+{
+  "id": "5d432fb8-3d84-4d91-adf5-c3e4b15373ce",
+  "data": {
+    "Instance": {
+      "name": "side",
+      "back": {
+        "Text": "side/page"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

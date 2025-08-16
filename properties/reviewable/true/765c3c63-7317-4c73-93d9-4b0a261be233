@@ -1,0 +1,12 @@
+{
+  "id": "765c3c63-7317-4c73-93d9-4b0a261be233",
+  "data": {
+    "Instance": {
+      "name": "kritikk",
+      "back": {
+        "Text": "critique"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

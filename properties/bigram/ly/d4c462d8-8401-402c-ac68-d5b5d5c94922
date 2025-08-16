@@ -1,0 +1,12 @@
+{
+  "id": "d4c462d8-8401-402c-ac68-d5b5d5c94922",
+  "data": {
+    "Instance": {
+      "name": "flyktning",
+      "back": {
+        "Text": "refugee"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

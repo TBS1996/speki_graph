@@ -1,0 +1,12 @@
+{
+  "id": "63cbb3fc-9cfc-4e03-bde5-70ea419e65d9",
+  "data": {
+    "Instance": {
+      "name": "gram",
+      "back": {
+        "Text": "gram"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

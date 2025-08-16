@@ -1,0 +1,12 @@
+{
+  "id": "5691dff8-e147-4ec2-8acb-d559acb6782a",
+  "data": {
+    "Instance": {
+      "name": "kjendis",
+      "back": {
+        "Text": "celebrity"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

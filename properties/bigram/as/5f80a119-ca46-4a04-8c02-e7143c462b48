@@ -1,0 +1,12 @@
+{
+  "id": "5f80a119-ca46-4a04-8c02-e7143c462b48",
+  "data": {
+    "Instance": {
+      "name": "vaskemaskin",
+      "back": {
+        "Text": "washing machine"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

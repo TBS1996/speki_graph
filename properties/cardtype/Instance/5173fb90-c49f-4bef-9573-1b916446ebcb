@@ -1,0 +1,12 @@
+{
+  "id": "5173fb90-c49f-4bef-9573-1b916446ebcb",
+  "data": {
+    "Instance": {
+      "name": "fugl",
+      "back": {
+        "Text": "bird"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "8a1e697f-adbe-4d63-98f7-f18b2e7d7eff",
+  "data": {
+    "Instance": {
+      "name": "avgift",
+      "back": {
+        "Text": "fee"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

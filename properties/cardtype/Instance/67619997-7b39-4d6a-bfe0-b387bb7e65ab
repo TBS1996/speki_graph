@@ -1,0 +1,12 @@
+{
+  "id": "67619997-7b39-4d6a-bfe0-b387bb7e65ab",
+  "data": {
+    "Instance": {
+      "name": "forelder",
+      "back": {
+        "Text": "parent"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

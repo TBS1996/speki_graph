@@ -1,0 +1,12 @@
+{
+  "id": "978e9413-84a3-4b0e-8563-2bc895159172",
+  "data": {
+    "Instance": {
+      "name": "nivå",
+      "back": {
+        "Text": "level"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

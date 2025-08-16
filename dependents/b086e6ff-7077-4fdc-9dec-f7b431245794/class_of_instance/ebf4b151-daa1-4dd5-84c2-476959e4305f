@@ -1,0 +1,12 @@
+{
+  "id": "ebf4b151-daa1-4dd5-84c2-476959e4305f",
+  "data": {
+    "Instance": {
+      "name": "blomst",
+      "back": {
+        "Text": "flower"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

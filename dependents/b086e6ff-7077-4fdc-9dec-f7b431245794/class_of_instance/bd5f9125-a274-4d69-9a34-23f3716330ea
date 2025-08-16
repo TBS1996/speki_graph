@@ -1,0 +1,12 @@
+{
+  "id": "bd5f9125-a274-4d69-9a34-23f3716330ea",
+  "data": {
+    "Instance": {
+      "name": "tilbakemelding",
+      "back": {
+        "Text": "feedback"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

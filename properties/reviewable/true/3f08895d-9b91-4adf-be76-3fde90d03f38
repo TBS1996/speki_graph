@@ -1,0 +1,12 @@
+{
+  "id": "3f08895d-9b91-4adf-be76-3fde90d03f38",
+  "data": {
+    "Instance": {
+      "name": "mandag",
+      "back": {
+        "Text": "Monday"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

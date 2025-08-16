@@ -1,0 +1,12 @@
+{
+  "id": "5128aa85-d4ac-4784-b741-17e1f47fd2e7",
+  "data": {
+    "Instance": {
+      "name": "avslutning",
+      "back": {
+        "Text": "end"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

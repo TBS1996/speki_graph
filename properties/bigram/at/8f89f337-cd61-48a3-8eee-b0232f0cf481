@@ -1,0 +1,12 @@
+{
+  "id": "8f89f337-cd61-48a3-8eee-b0232f0cf481",
+  "data": {
+    "Instance": {
+      "name": "plate",
+      "back": {
+        "Text": "plate"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

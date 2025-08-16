@@ -1,0 +1,12 @@
+{
+  "id": "a0c26600-8cb5-4748-82c3-c9f1db727378",
+  "data": {
+    "Instance": {
+      "name": "underskudd",
+      "back": {
+        "Text": "deficit"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

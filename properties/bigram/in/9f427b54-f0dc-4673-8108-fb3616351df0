@@ -1,0 +1,12 @@
+{
+  "id": "9f427b54-f0dc-4673-8108-fb3616351df0",
+  "data": {
+    "Instance": {
+      "name": "stemning",
+      "back": {
+        "Text": "mood"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

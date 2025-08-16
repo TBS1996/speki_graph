@@ -1,0 +1,12 @@
+{
+  "id": "75a9ed44-1ea5-4e59-a993-10d690d934cb",
+  "data": {
+    "Instance": {
+      "name": "ulykke",
+      "back": {
+        "Text": "accident"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

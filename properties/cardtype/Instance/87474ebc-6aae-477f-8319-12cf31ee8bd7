@@ -1,0 +1,12 @@
+{
+  "id": "87474ebc-6aae-477f-8319-12cf31ee8bd7",
+  "data": {
+    "Instance": {
+      "name": "reaksjon",
+      "back": {
+        "Text": "reaction"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

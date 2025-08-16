@@ -1,0 +1,12 @@
+{
+  "id": "bae3bf6b-7529-42c8-a80a-ff99a8f1df7f",
+  "data": {
+    "Instance": {
+      "name": "ball",
+      "back": {
+        "Text": "ball"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

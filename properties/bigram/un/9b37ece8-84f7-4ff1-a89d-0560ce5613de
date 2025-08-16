@@ -1,0 +1,12 @@
+{
+  "id": "9b37ece8-84f7-4ff1-a89d-0560ce5613de",
+  "data": {
+    "Instance": {
+      "name": "utgangspunkt",
+      "back": {
+        "Text": "starting point"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

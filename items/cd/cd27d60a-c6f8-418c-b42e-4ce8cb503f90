@@ -1,0 +1,12 @@
+{
+  "id": "cd27d60a-c6f8-418c-b42e-4ce8cb503f90",
+  "data": {
+    "Instance": {
+      "name": "status",
+      "back": {
+        "Text": "status"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

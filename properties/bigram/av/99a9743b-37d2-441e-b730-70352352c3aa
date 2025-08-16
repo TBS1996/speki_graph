@@ -1,0 +1,12 @@
+{
+  "id": "99a9743b-37d2-441e-b730-70352352c3aa",
+  "data": {
+    "Instance": {
+      "name": "avis",
+      "back": {
+        "Text": "newspaper"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

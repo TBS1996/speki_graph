@@ -1,0 +1,12 @@
+{
+  "id": "e0e2b49d-c9b9-471e-b95b-f13f348bddb4",
+  "data": {
+    "Instance": {
+      "name": "tolkning",
+      "back": {
+        "Text": "interpretation"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

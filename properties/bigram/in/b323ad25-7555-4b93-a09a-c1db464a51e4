@@ -1,0 +1,12 @@
+{
+  "id": "b323ad25-7555-4b93-a09a-c1db464a51e4",
+  "data": {
+    "Instance": {
+      "name": "internett",
+      "back": {
+        "Text": "Internet"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

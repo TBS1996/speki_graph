@@ -1,0 +1,12 @@
+{
+  "id": "e293f4b2-2dff-41f5-a5da-a42899c7ef86",
+  "data": {
+    "Instance": {
+      "name": "konge",
+      "back": {
+        "Text": "king"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

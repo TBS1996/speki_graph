@@ -1,0 +1,12 @@
+{
+  "id": "d7625a0b-89d6-4d8f-9934-c24b248ad6ad",
+  "data": {
+    "Instance": {
+      "name": "deltakelse",
+      "back": {
+        "Text": "participation"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

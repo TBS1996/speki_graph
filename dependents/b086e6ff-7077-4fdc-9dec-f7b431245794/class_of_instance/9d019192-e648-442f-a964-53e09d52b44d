@@ -1,0 +1,12 @@
+{
+  "id": "9d019192-e648-442f-a964-53e09d52b44d",
+  "data": {
+    "Instance": {
+      "name": "linje",
+      "back": {
+        "Text": "line"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

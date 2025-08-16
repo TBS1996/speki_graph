@@ -1,0 +1,12 @@
+{
+  "id": "14f4ab60-0919-4414-b5b1-8c36f0cd3fda",
+  "data": {
+    "Instance": {
+      "name": "egenskap",
+      "back": {
+        "Text": "property"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "d6b0998c-8763-48eb-919f-5df51aa10cd3",
+  "data": {
+    "Instance": {
+      "name": "bonde",
+      "back": {
+        "Text": "farmer"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

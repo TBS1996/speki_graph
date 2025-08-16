@@ -1,0 +1,12 @@
+{
+  "id": "361ee1cf-4606-495d-b2b9-f4030b1625fc",
+  "data": {
+    "Instance": {
+      "name": "bygd",
+      "back": {
+        "Text": "hamlet"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

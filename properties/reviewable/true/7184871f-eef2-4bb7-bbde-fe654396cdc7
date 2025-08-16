@@ -1,0 +1,12 @@
+{
+  "id": "7184871f-eef2-4bb7-bbde-fe654396cdc7",
+  "data": {
+    "Instance": {
+      "name": "fred",
+      "back": {
+        "Text": "peace"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

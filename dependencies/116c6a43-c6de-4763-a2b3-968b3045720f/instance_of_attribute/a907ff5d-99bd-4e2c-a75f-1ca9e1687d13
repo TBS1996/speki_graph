@@ -1,0 +1,12 @@
+{
+  "id": "a907ff5d-99bd-4e2c-a75f-1ca9e1687d13",
+  "data": {
+    "Instance": {
+      "name": "straff",
+      "back": {
+        "Text": "punishment"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "21e9cba6-eb9a-4b4c-b3fe-38775309de59",
+  "data": {
+    "Instance": {
+      "name": "samling",
+      "back": {
+        "Text": "collection"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

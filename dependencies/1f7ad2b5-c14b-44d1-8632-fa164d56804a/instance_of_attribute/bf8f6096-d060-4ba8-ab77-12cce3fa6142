@@ -1,0 +1,12 @@
+{
+  "id": "bf8f6096-d060-4ba8-ab77-12cce3fa6142",
+  "data": {
+    "Instance": {
+      "name": "idrett",
+      "back": {
+        "Text": "sport"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "238856ae-c2a2-4642-bd25-6f2e4f7cca88",
+  "data": {
+    "Instance": {
+      "name": "datamaskin",
+      "back": {
+        "Text": "computer"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "f6d00636-a661-4d4c-9554-7396194b9d2e",
+  "data": {
+    "Instance": {
+      "name": "inntrykk",
+      "back": {
+        "Text": "impression"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

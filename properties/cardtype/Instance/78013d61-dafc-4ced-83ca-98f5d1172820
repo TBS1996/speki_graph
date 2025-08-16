@@ -1,0 +1,12 @@
+{
+  "id": "78013d61-dafc-4ced-83ca-98f5d1172820",
+  "data": {
+    "Instance": {
+      "name": "nettverk",
+      "back": {
+        "Text": "network"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

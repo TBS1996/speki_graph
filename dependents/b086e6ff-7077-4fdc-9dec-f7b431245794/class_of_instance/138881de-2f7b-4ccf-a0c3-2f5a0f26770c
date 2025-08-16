@@ -1,0 +1,12 @@
+{
+  "id": "138881de-2f7b-4ccf-a0c3-2f5a0f26770c",
+  "data": {
+    "Instance": {
+      "name": "kilo",
+      "back": {
+        "Text": "kilogram"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

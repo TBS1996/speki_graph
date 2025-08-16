@@ -1,0 +1,12 @@
+{
+  "id": "4a405fa8-a44f-4eb9-bf84-35cbcb1275f9",
+  "data": {
+    "Instance": {
+      "name": "minimum",
+      "back": {
+        "Text": "minimum"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

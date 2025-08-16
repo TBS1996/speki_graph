@@ -1,0 +1,12 @@
+{
+  "id": "0dcf8340-5fc5-41db-8916-03db0c18915d",
+  "data": {
+    "Instance": {
+      "name": "frisør",
+      "back": {
+        "Text": "hairdresser"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

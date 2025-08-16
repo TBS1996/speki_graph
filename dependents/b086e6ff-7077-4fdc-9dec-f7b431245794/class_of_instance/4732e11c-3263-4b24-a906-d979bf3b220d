@@ -1,0 +1,12 @@
+{
+  "id": "4732e11c-3263-4b24-a906-d979bf3b220d",
+  "data": {
+    "Instance": {
+      "name": "trykk",
+      "back": {
+        "Text": "pressure"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

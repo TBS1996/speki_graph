@@ -1,0 +1,12 @@
+{
+  "id": "0d4c2eed-0013-4749-b282-ef8b78ee1168",
+  "data": {
+    "Instance": {
+      "name": "gjeng",
+      "back": {
+        "Text": "gang"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

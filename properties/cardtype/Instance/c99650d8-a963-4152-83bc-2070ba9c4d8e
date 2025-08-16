@@ -1,0 +1,12 @@
+{
+  "id": "c99650d8-a963-4152-83bc-2070ba9c4d8e",
+  "data": {
+    "Instance": {
+      "name": "gjennomgang",
+      "back": {
+        "Text": "review"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

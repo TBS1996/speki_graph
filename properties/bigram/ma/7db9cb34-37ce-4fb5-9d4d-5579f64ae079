@@ -1,0 +1,12 @@
+{
+  "id": "7db9cb34-37ce-4fb5-9d4d-5579f64ae079",
+  "data": {
+    "Instance": {
+      "name": "roman",
+      "back": {
+        "Text": "novel"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

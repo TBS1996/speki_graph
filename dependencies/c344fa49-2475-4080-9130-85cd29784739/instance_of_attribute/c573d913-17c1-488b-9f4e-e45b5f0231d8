@@ -1,0 +1,12 @@
+{
+  "id": "c573d913-17c1-488b-9f4e-e45b5f0231d8",
+  "data": {
+    "Instance": {
+      "name": "måned",
+      "back": {
+        "Text": "month"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

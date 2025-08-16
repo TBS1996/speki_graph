@@ -1,0 +1,12 @@
+{
+  "id": "7cfa8888-bd81-4445-ad2c-7016f955470f",
+  "data": {
+    "Instance": {
+      "name": "mikrofon",
+      "back": {
+        "Text": "microphone"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

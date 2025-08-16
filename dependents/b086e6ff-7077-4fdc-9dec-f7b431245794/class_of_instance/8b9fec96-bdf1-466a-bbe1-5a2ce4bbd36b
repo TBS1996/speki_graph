@@ -1,0 +1,12 @@
+{
+  "id": "8b9fec96-bdf1-466a-bbe1-5a2ce4bbd36b",
+  "data": {
+    "Instance": {
+      "name": "rådgiver",
+      "back": {
+        "Text": "advisor"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

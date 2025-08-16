@@ -1,0 +1,12 @@
+{
+  "id": "ea5685e1-3e90-43e1-b950-c3edc0c552ab",
+  "data": {
+    "Instance": {
+      "name": "kvartal",
+      "back": {
+        "Text": "quarter"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

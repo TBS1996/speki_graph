@@ -1,0 +1,12 @@
+{
+  "id": "c867a99b-01f7-44f7-8fcf-8ce899171b29",
+  "data": {
+    "Instance": {
+      "name": "behandling",
+      "back": {
+        "Text": "treatment"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

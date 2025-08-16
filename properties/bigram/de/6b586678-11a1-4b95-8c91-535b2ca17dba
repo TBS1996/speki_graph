@@ -1,0 +1,12 @@
+{
+  "id": "6b586678-11a1-4b95-8c91-535b2ca17dba",
+  "data": {
+    "Instance": {
+      "name": "forside",
+      "back": {
+        "Text": "front page"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "e01d4044-c1fc-49d2-b1e1-99c218ce0a95",
+  "data": {
+    "Instance": {
+      "name": "tube",
+      "back": {
+        "Text": "tube"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

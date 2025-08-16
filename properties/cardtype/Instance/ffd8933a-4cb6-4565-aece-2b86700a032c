@@ -1,0 +1,12 @@
+{
+  "id": "ffd8933a-4cb6-4565-aece-2b86700a032c",
+  "data": {
+    "Instance": {
+      "name": "milligram",
+      "back": {
+        "Text": "milligrams"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

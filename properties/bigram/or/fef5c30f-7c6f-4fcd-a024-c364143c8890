@@ -1,0 +1,12 @@
+{
+  "id": "fef5c30f-7c6f-4fcd-a024-c364143c8890",
+  "data": {
+    "Instance": {
+      "name": "moral",
+      "back": {
+        "Text": "moral"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

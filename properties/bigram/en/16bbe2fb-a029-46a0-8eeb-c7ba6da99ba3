@@ -1,0 +1,12 @@
+{
+  "id": "16bbe2fb-a029-46a0-8eeb-c7ba6da99ba3",
+  "data": {
+    "Instance": {
+      "name": "begrensning",
+      "back": {
+        "Text": "limitation"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

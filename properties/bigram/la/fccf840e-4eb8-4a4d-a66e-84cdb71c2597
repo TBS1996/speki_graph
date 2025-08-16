@@ -1,0 +1,12 @@
+{
+  "id": "fccf840e-4eb8-4a4d-a66e-84cdb71c2597",
+  "data": {
+    "Instance": {
+      "name": "hjemland",
+      "back": {
+        "Text": "homeland"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

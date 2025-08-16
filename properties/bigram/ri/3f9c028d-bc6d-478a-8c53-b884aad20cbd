@@ -1,0 +1,12 @@
+{
+  "id": "3f9c028d-bc6d-478a-8c53-b884aad20cbd",
+  "data": {
+    "Instance": {
+      "name": "ring",
+      "back": {
+        "Text": "ring"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

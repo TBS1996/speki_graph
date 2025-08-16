@@ -1,0 +1,12 @@
+{
+  "id": "ef3c6764-f035-464b-89a1-f465144db06e",
+  "data": {
+    "Instance": {
+      "name": "påbygning",
+      "back": {
+        "Text": "extension"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

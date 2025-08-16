@@ -1,0 +1,12 @@
+{
+  "id": "4401436b-d4aa-42dd-a1ae-9361a69bbf7c",
+  "data": {
+    "Instance": {
+      "name": "pasient",
+      "back": {
+        "Text": "patient"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

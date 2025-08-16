@@ -1,0 +1,12 @@
+{
+  "id": "aee7fd2a-5aa5-4823-b45f-9f72523786d5",
+  "data": {
+    "Instance": {
+      "name": "generalsekretær",
+      "back": {
+        "Text": "secretary-general"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

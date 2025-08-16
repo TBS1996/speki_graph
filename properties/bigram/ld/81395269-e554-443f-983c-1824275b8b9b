@@ -1,0 +1,12 @@
+{
+  "id": "81395269-e554-443f-983c-1824275b8b9b",
+  "data": {
+    "Instance": {
+      "name": "melding",
+      "back": {
+        "Text": "message"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

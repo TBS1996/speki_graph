@@ -1,0 +1,12 @@
+{
+  "id": "56e0afa0-4233-41ad-b12f-58a88d85210d",
+  "data": {
+    "Instance": {
+      "name": "omgivelse",
+      "back": {
+        "Text": "surroundings"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "299e0494-9c34-49fe-8858-0d891f87baf2",
+  "data": {
+    "Instance": {
+      "name": "apotek",
+      "back": {
+        "Text": "pharmacy"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

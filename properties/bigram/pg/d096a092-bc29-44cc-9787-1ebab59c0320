@@ -1,0 +1,12 @@
+{
+  "id": "d096a092-bc29-44cc-9787-1ebab59c0320",
+  "data": {
+    "Instance": {
+      "name": "oppgjør",
+      "back": {
+        "Text": "settlement"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

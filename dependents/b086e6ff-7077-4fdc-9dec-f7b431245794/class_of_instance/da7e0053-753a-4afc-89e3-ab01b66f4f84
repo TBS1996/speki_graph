@@ -1,0 +1,12 @@
+{
+  "id": "da7e0053-753a-4afc-89e3-ab01b66f4f84",
+  "data": {
+    "Instance": {
+      "name": "kveld",
+      "back": {
+        "Text": "evening"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

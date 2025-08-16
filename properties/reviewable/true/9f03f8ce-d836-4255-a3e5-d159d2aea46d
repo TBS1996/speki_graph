@@ -1,0 +1,12 @@
+{
+  "id": "9f03f8ce-d836-4255-a3e5-d159d2aea46d",
+  "data": {
+    "Instance": {
+      "name": "oppvarming",
+      "back": {
+        "Text": "heating"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

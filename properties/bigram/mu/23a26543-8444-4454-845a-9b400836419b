@@ -1,0 +1,12 @@
+{
+  "id": "23a26543-8444-4454-845a-9b400836419b",
+  "data": {
+    "Instance": {
+      "name": "fylkeskommune",
+      "back": {
+        "Text": "county municipality"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

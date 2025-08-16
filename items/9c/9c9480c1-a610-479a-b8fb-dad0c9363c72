@@ -1,0 +1,12 @@
+{
+  "id": "9c9480c1-a610-479a-b8fb-dad0c9363c72",
+  "data": {
+    "Instance": {
+      "name": "nettsted",
+      "back": {
+        "Text": "website"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "e4aae8a8-cc1b-4ad0-a0cd-9a9d64149c7f",
+  "data": {
+    "Instance": {
+      "name": "tendens",
+      "back": {
+        "Text": "tendency"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

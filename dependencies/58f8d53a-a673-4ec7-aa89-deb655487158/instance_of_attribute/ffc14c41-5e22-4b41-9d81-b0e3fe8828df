@@ -1,0 +1,12 @@
+{
+  "id": "ffc14c41-5e22-4b41-9d81-b0e3fe8828df",
+  "data": {
+    "Instance": {
+      "name": "prest",
+      "back": {
+        "Text": "priest"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

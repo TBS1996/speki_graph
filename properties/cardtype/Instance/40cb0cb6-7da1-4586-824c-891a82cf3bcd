@@ -1,0 +1,12 @@
+{
+  "id": "40cb0cb6-7da1-4586-824c-891a82cf3bcd",
+  "data": {
+    "Instance": {
+      "name": "kopi",
+      "back": {
+        "Text": "copy"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

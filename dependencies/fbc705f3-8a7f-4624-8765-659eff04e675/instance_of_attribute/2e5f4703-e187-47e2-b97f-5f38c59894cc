@@ -1,0 +1,12 @@
+{
+  "id": "2e5f4703-e187-47e2-b97f-5f38c59894cc",
+  "data": {
+    "Instance": {
+      "name": "forbud",
+      "back": {
+        "Text": "ban"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

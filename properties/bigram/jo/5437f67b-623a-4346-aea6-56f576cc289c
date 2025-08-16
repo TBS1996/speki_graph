@@ -1,0 +1,12 @@
+{
+  "id": "5437f67b-623a-4346-aea6-56f576cc289c",
+  "data": {
+    "Instance": {
+      "name": "visjon",
+      "back": {
+        "Text": "vision"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

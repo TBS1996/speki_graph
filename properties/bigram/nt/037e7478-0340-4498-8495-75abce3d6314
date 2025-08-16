@@ -1,0 +1,12 @@
+{
+  "id": "037e7478-0340-4498-8495-75abce3d6314",
+  "data": {
+    "Instance": {
+      "name": "presentasjon",
+      "back": {
+        "Text": "presentation"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

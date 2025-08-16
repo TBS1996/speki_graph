@@ -1,0 +1,12 @@
+{
+  "id": "bb33d192-b261-4805-89c7-20c0d7e9cdfa",
+  "data": {
+    "Instance": {
+      "name": "oppslag",
+      "back": {
+        "Text": "notice"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

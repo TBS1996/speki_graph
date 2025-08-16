@@ -1,0 +1,12 @@
+{
+  "id": "ebdf5ab8-93b6-4fd8-9509-3c83a7e912c9",
+  "data": {
+    "Instance": {
+      "name": "tilskudd",
+      "back": {
+        "Text": "supplement"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

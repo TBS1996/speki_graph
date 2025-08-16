@@ -1,0 +1,12 @@
+{
+  "id": "9b1785ac-43b2-4ef0-a138-d4342d74475c",
+  "data": {
+    "Instance": {
+      "name": "atmosfære",
+      "back": {
+        "Text": "atmosphere"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

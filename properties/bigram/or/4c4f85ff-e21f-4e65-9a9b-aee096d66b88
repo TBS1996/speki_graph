@@ -1,0 +1,12 @@
+{
+  "id": "4c4f85ff-e21f-4e65-9a9b-aee096d66b88",
+  "data": {
+    "Instance": {
+      "name": "doktor",
+      "back": {
+        "Text": "doctor"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

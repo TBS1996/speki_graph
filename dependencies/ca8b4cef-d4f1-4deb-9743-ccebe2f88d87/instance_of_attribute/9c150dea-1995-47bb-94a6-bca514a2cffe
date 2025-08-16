@@ -1,0 +1,12 @@
+{
+  "id": "9c150dea-1995-47bb-94a6-bca514a2cffe",
+  "data": {
+    "Instance": {
+      "name": "tilgang",
+      "back": {
+        "Text": "access"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

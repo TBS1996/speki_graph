@@ -1,0 +1,12 @@
+{
+  "id": "eb64f02c-9998-44b0-af53-198f58d8deda",
+  "data": {
+    "Instance": {
+      "name": "bom",
+      "back": {
+        "Text": "bar"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

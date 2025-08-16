@@ -1,0 +1,12 @@
+{
+  "id": "266affbc-b10d-43fa-bdc2-274bedd04f13",
+  "data": {
+    "Instance": {
+      "name": "liste",
+      "back": {
+        "Text": "list"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

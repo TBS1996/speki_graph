@@ -1,0 +1,12 @@
+{
+  "id": "58d323f7-1eb5-40bf-8d61-fe3b78038a45",
+  "data": {
+    "Instance": {
+      "name": "revisjon",
+      "back": {
+        "Text": "audit"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

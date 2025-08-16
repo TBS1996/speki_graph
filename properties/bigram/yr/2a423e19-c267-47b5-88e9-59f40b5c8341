@@ -1,0 +1,12 @@
+{
+  "id": "2a423e19-c267-47b5-88e9-59f40b5c8341",
+  "data": {
+    "Instance": {
+      "name": "utstyr",
+      "back": {
+        "Text": "equipment"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "430ccb9c-a2bf-4d6b-a235-5c8fc6f8beee",
+  "data": {
+    "Instance": {
+      "name": "folk",
+      "back": {
+        "Text": "people"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

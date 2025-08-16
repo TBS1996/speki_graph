@@ -1,0 +1,12 @@
+{
+  "id": "d9c2333c-cc58-42d9-881f-8aa7c95335df",
+  "data": {
+    "Instance": {
+      "name": "konkurranse",
+      "back": {
+        "Text": "competition"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

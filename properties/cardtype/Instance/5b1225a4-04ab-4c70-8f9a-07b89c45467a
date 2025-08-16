@@ -1,0 +1,12 @@
+{
+  "id": "5b1225a4-04ab-4c70-8f9a-07b89c45467a",
+  "data": {
+    "Instance": {
+      "name": "kjønn",
+      "back": {
+        "Text": "gender/sex"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

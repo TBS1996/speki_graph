@@ -1,0 +1,12 @@
+{
+  "id": "2c354c03-65a1-4fc6-bc2f-a24882b649df",
+  "data": {
+    "Instance": {
+      "name": "professor",
+      "back": {
+        "Text": "professor"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

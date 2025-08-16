@@ -1,0 +1,12 @@
+{
+  "id": "ff3c7591-7a54-4322-bd04-82f11c02f499",
+  "data": {
+    "Instance": {
+      "name": "veiledning",
+      "back": {
+        "Text": "guidance"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

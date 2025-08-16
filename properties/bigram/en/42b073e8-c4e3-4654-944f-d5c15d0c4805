@@ -1,0 +1,12 @@
+{
+  "id": "42b073e8-c4e3-4654-944f-d5c15d0c4805",
+  "data": {
+    "Attribute": {
+      "attribute": "aba4b8c1-02d4-4502-a85e-662bcc19d62c",
+      "back": {
+        "Card": "a27ac870-a298-40e9-95fb-9710142f4358"
+      },
+      "instance": "29b3275f-7571-4b85-b997-c5c00afab869"
+    }
+  }
+}

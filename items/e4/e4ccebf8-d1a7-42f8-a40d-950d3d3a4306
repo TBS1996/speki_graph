@@ -1,0 +1,12 @@
+{
+  "id": "e4ccebf8-d1a7-42f8-a40d-950d3d3a4306",
+  "data": {
+    "Instance": {
+      "name": "fylke",
+      "back": {
+        "Text": "county"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "bd3c1f64-2ebd-4f61-98b6-bc38374e79de",
+  "data": {
+    "Instance": {
+      "name": "stykke",
+      "back": {
+        "Text": "piece"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

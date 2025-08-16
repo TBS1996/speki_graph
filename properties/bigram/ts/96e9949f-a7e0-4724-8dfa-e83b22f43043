@@ -1,0 +1,12 @@
+{
+  "id": "96e9949f-a7e0-4724-8dfa-e83b22f43043",
+  "data": {
+    "Instance": {
+      "name": "statsbudsjett",
+      "back": {
+        "Text": "The National Budget"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

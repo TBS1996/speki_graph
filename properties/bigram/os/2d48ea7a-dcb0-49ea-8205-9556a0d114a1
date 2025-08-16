@@ -1,0 +1,12 @@
+{
+  "id": "2d48ea7a-dcb0-49ea-8205-9556a0d114a1",
+  "data": {
+    "Instance": {
+      "name": "frosk",
+      "back": {
+        "Text": "frog"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

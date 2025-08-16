@@ -1,0 +1,12 @@
+{
+  "id": "97ce574b-09a7-44b7-a0d7-55ed845d45d9",
+  "data": {
+    "Instance": {
+      "name": "tillatelse",
+      "back": {
+        "Text": "permission"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

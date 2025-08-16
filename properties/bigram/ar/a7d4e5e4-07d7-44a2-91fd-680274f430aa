@@ -1,0 +1,12 @@
+{
+  "id": "a7d4e5e4-07d7-44a2-91fd-680274f430aa",
+  "data": {
+    "Instance": {
+      "name": "arbeidsgiver",
+      "back": {
+        "Text": "employer"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

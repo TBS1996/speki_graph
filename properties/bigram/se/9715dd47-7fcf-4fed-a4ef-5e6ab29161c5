@@ -1,0 +1,12 @@
+{
+  "id": "9715dd47-7fcf-4fed-a4ef-5e6ab29161c5",
+  "data": {
+    "Instance": {
+      "name": "utvidelse",
+      "back": {
+        "Text": "expansion"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

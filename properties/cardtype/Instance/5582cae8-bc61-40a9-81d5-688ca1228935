@@ -1,0 +1,12 @@
+{
+  "id": "5582cae8-bc61-40a9-81d5-688ca1228935",
+  "data": {
+    "Instance": {
+      "name": "runde",
+      "back": {
+        "Text": "round"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

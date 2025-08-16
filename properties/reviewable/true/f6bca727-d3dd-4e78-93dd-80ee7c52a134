@@ -1,0 +1,12 @@
+{
+  "id": "f6bca727-d3dd-4e78-93dd-80ee7c52a134",
+  "data": {
+    "Instance": {
+      "name": "helse",
+      "back": {
+        "Text": "health"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

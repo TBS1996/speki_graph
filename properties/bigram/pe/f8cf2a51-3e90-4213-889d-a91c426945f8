@@ -1,0 +1,12 @@
+{
+  "id": "f8cf2a51-3e90-4213-889d-a91c426945f8",
+  "data": {
+    "Instance": {
+      "name": "operasjon",
+      "back": {
+        "Text": "operation"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

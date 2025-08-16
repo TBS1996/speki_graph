@@ -1,0 +1,12 @@
+{
+  "id": "17c95592-c283-40f3-9415-9b0b4c2e12f1",
+  "data": {
+    "Instance": {
+      "name": "stikkball",
+      "back": {
+        "Text": "dodgeball"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

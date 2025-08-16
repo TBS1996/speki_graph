@@ -1,0 +1,12 @@
+{
+  "id": "3c74fe9f-6415-4b19-af82-e60dd6d76fbc",
+  "data": {
+    "Instance": {
+      "name": "motor",
+      "back": {
+        "Text": "engine"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

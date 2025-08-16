@@ -1,0 +1,12 @@
+{
+  "id": "63fd0f97-9f52-4dd9-8b49-4e5b42ac15d4",
+  "data": {
+    "Instance": {
+      "name": "fritidsaktivitet",
+      "back": {
+        "Text": "leisure time activity"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

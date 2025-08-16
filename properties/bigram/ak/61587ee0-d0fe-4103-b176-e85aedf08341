@@ -1,0 +1,12 @@
+{
+  "id": "61587ee0-d0fe-4103-b176-e85aedf08341",
+  "data": {
+    "Instance": {
+      "name": "aktør",
+      "back": {
+        "Text": "participant"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

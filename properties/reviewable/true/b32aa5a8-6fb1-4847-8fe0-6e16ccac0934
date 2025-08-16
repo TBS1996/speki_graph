@@ -1,0 +1,12 @@
+{
+  "id": "b32aa5a8-6fb1-4847-8fe0-6e16ccac0934",
+  "data": {
+    "Instance": {
+      "name": "foretak",
+      "back": {
+        "Text": "business"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

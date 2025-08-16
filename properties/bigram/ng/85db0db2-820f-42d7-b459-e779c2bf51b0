@@ -1,0 +1,12 @@
+{
+  "id": "85db0db2-820f-42d7-b459-e779c2bf51b0",
+  "data": {
+    "Instance": {
+      "name": "oppgang",
+      "back": {
+        "Text": "rise/entrance"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

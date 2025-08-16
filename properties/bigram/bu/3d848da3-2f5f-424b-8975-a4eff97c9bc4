@@ -1,0 +1,12 @@
+{
+  "id": "3d848da3-2f5f-424b-8975-a4eff97c9bc4",
+  "data": {
+    "Instance": {
+      "name": "bunn",
+      "back": {
+        "Text": "bottom"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

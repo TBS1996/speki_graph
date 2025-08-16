@@ -1,0 +1,12 @@
+{
+  "id": "219bf5db-1f61-437a-b538-388d9f249ba6",
+  "data": {
+    "Instance": {
+      "name": "hjelpemiddel",
+      "back": {
+        "Text": "aid"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

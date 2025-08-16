@@ -1,0 +1,12 @@
+{
+  "id": "38e7229d-0961-47f5-9177-bafd034b40a2",
+  "data": {
+    "Instance": {
+      "name": "revisor",
+      "back": {
+        "Text": "auditor"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

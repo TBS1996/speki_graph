@@ -1,0 +1,12 @@
+{
+  "id": "753221b1-a22a-4dc0-a20c-80c3240fdaa1",
+  "data": {
+    "Instance": {
+      "name": "semester",
+      "back": {
+        "Text": "semester"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

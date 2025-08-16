@@ -1,0 +1,12 @@
+{
+  "id": "962b7a4f-8e77-42be-8267-824cecf129d5",
+  "data": {
+    "Instance": {
+      "name": "maleri",
+      "back": {
+        "Text": "painting"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

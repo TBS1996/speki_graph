@@ -1,0 +1,12 @@
+{
+  "id": "ccc0eef2-efe1-436a-9a84-87c06935294d",
+  "data": {
+    "Instance": {
+      "name": "T-bane",
+      "back": {
+        "Text": "underground (transport)"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "30f83627-531e-4d50-9bd9-d0fdcad4c834",
+  "data": {
+    "Instance": {
+      "name": "bidrag",
+      "back": {
+        "Text": "contribution"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

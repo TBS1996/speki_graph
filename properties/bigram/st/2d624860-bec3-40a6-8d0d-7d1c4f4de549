@@ -1,0 +1,12 @@
+{
+  "id": "2d624860-bec3-40a6-8d0d-7d1c4f4de549",
+  "data": {
+    "Instance": {
+      "name": "utested",
+      "back": {
+        "Text": "place to go out"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

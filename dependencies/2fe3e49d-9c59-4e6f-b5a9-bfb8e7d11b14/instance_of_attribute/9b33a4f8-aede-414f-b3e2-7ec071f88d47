@@ -1,0 +1,12 @@
+{
+  "id": "9b33a4f8-aede-414f-b3e2-7ec071f88d47",
+  "data": {
+    "Instance": {
+      "name": "forkant",
+      "back": {
+        "Text": "front edge"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

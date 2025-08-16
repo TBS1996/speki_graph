@@ -1,0 +1,12 @@
+{
+  "id": "75fe6c76-a85e-41de-8bfb-ac8d9c56ba95",
+  "data": {
+    "Instance": {
+      "name": "hest",
+      "back": {
+        "Text": "horse"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "2576cc6d-aaa8-4d9a-9885-94e0b6d1f901",
+  "data": {
+    "Instance": {
+      "name": "mus",
+      "back": {
+        "Text": "mouse"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

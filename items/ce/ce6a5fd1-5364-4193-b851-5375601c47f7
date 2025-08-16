@@ -1,0 +1,12 @@
+{
+  "id": "ce6a5fd1-5364-4193-b851-5375601c47f7",
+  "data": {
+    "Instance": {
+      "name": "preg",
+      "back": {
+        "Text": "mark"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

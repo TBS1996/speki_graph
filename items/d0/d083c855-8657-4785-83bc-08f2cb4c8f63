@@ -1,0 +1,12 @@
+{
+  "id": "d083c855-8657-4785-83bc-08f2cb4c8f63",
+  "data": {
+    "Instance": {
+      "name": "stadion",
+      "back": {
+        "Text": "stadium"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

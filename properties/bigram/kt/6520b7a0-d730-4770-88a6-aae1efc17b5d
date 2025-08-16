@@ -1,0 +1,12 @@
+{
+  "id": "6520b7a0-d730-4770-88a6-aae1efc17b5d",
+  "data": {
+    "Instance": {
+      "name": "karakter",
+      "back": {
+        "Text": "character"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

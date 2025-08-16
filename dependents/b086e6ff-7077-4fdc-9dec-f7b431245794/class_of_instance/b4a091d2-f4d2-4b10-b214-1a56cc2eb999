@@ -1,0 +1,12 @@
+{
+  "id": "b4a091d2-f4d2-4b10-b214-1a56cc2eb999",
+  "data": {
+    "Instance": {
+      "name": "åpning",
+      "back": {
+        "Text": "opening"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

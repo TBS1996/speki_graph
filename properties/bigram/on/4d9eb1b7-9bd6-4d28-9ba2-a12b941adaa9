@@ -1,0 +1,12 @@
+{
+  "id": "4d9eb1b7-9bd6-4d28-9ba2-a12b941adaa9",
+  "data": {
+    "Instance": {
+      "name": "konferanse",
+      "back": {
+        "Text": "conference"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

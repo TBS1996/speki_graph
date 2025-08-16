@@ -1,0 +1,12 @@
+{
+  "id": "a3a12e37-02f5-4aab-9dad-abda2efea742",
+  "data": {
+    "Instance": {
+      "name": "universitet",
+      "back": {
+        "Text": "university"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

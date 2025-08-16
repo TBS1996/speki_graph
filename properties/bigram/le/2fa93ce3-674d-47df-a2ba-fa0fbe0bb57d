@@ -1,0 +1,12 @@
+{
+  "id": "2fa93ce3-674d-47df-a2ba-fa0fbe0bb57d",
+  "data": {
+    "Instance": {
+      "name": "innlegg",
+      "back": {
+        "Text": "contribution"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

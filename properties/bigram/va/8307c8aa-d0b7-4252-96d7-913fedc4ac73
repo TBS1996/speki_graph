@@ -1,0 +1,12 @@
+{
+  "id": "8307c8aa-d0b7-4252-96d7-913fedc4ac73",
+  "data": {
+    "Instance": {
+      "name": "forsvar",
+      "back": {
+        "Text": "defence"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

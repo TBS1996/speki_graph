@@ -1,0 +1,12 @@
+{
+  "id": "4ac38f14-343d-4277-9b5f-62c005ed5ffa",
+  "data": {
+    "Instance": {
+      "name": "målsetting",
+      "back": {
+        "Text": "goal"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

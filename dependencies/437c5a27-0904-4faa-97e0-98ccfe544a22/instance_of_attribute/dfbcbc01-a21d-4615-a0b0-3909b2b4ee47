@@ -1,0 +1,12 @@
+{
+  "id": "dfbcbc01-a21d-4615-a0b0-3909b2b4ee47",
+  "data": {
+    "Instance": {
+      "name": "divisjon",
+      "back": {
+        "Text": "division"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

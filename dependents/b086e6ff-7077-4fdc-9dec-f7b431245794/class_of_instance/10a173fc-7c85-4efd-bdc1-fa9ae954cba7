@@ -1,0 +1,12 @@
+{
+  "id": "10a173fc-7c85-4efd-bdc1-fa9ae954cba7",
+  "data": {
+    "Instance": {
+      "name": "penge",
+      "back": {
+        "Text": "money"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

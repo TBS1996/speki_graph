@@ -1,0 +1,12 @@
+{
+  "id": "5928b371-8af6-4cef-b675-99a9fcd4f592",
+  "data": {
+    "Instance": {
+      "name": "visning",
+      "back": {
+        "Text": "display"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

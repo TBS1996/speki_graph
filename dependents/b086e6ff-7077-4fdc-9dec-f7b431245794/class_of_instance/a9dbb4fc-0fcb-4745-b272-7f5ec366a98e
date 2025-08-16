@@ -1,0 +1,12 @@
+{
+  "id": "a9dbb4fc-0fcb-4745-b272-7f5ec366a98e",
+  "data": {
+    "Instance": {
+      "name": "bygg",
+      "back": {
+        "Text": "building/barley"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "922e861f-8f6c-4ed5-b81c-1c0865a6656e",
+  "data": {
+    "Instance": {
+      "name": "satsing",
+      "back": {
+        "Text": "staking"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

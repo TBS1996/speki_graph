@@ -1,0 +1,12 @@
+{
+  "id": "0afafb28-78a0-422d-becc-05b666f2391b",
+  "data": {
+    "Instance": {
+      "name": "spenning",
+      "back": {
+        "Text": "tension"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

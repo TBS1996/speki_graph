@@ -1,0 +1,12 @@
+{
+  "id": "bc7dcd79-c6ab-4211-95fc-7703961105b8",
+  "data": {
+    "Instance": {
+      "name": "butikk",
+      "back": {
+        "Text": "shop"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

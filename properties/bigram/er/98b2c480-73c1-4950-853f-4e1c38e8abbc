@@ -1,0 +1,12 @@
+{
+  "id": "98b2c480-73c1-4950-853f-4e1c38e8abbc",
+  "data": {
+    "Instance": {
+      "name": "kriterium",
+      "back": {
+        "Text": "criteria"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

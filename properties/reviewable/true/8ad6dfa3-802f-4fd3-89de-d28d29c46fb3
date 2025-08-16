@@ -1,0 +1,12 @@
+{
+  "id": "8ad6dfa3-802f-4fd3-89de-d28d29c46fb3",
+  "data": {
+    "Instance": {
+      "name": "tiltak",
+      "back": {
+        "Text": "measure"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "e691b580-c8fe-4549-a90a-dc4cb6ed62de",
+  "data": {
+    "Instance": {
+      "name": "publikum",
+      "back": {
+        "Text": "audience"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

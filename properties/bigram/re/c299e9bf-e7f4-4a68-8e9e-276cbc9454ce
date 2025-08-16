@@ -1,0 +1,12 @@
+{
+  "id": "c299e9bf-e7f4-4a68-8e9e-276cbc9454ce",
+  "data": {
+    "Instance": {
+      "name": "grense",
+      "back": {
+        "Text": "border"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

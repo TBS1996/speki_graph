@@ -1,0 +1,12 @@
+{
+  "id": "12bed6cb-9422-4c33-b2c2-9d922eb29c63",
+  "data": {
+    "Instance": {
+      "name": "låt",
+      "back": {
+        "Text": "tune"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

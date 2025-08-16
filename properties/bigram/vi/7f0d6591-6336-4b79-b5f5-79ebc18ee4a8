@@ -1,0 +1,12 @@
+{
+  "id": "7f0d6591-6336-4b79-b5f5-79ebc18ee4a8",
+  "data": {
+    "Instance": {
+      "name": "vin",
+      "back": {
+        "Text": "wine"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

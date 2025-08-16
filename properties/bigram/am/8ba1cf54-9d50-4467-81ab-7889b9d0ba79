@@ -1,0 +1,12 @@
+{
+  "id": "8ba1cf54-9d50-4467-81ab-7889b9d0ba79",
+  "data": {
+    "Instance": {
+      "name": "samvittighet",
+      "back": {
+        "Text": "conscience"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

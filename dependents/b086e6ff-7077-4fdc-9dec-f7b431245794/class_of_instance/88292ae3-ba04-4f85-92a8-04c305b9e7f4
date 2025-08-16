@@ -1,0 +1,12 @@
+{
+  "id": "88292ae3-ba04-4f85-92a8-04c305b9e7f4",
+  "data": {
+    "Instance": {
+      "name": "pressekonferanse",
+      "back": {
+        "Text": "press conference"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

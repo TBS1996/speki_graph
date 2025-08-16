@@ -1,0 +1,12 @@
+{
+  "id": "cae65f44-342a-414f-b75e-d86c825cf52d",
+  "data": {
+    "Instance": {
+      "name": "opposisjon",
+      "back": {
+        "Text": "opposition"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

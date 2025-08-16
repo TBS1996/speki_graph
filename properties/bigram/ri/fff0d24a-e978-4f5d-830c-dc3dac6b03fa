@@ -1,0 +1,12 @@
+{
+  "id": "fff0d24a-e978-4f5d-830c-dc3dac6b03fa",
+  "data": {
+    "Instance": {
+      "name": "skrift",
+      "back": {
+        "Text": "writing"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

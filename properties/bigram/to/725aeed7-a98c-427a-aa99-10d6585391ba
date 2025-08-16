@@ -1,0 +1,12 @@
+{
+  "id": "725aeed7-a98c-427a-aa99-10d6585391ba",
+  "data": {
+    "Instance": {
+      "name": "tonn",
+      "back": {
+        "Text": "ton"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

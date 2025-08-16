@@ -1,0 +1,12 @@
+{
+  "id": "00656e3a-8c08-4c0e-8342-d30c434f3588",
+  "data": {
+    "Instance": {
+      "name": "pensjon",
+      "back": {
+        "Text": "pension"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

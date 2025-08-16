@@ -1,0 +1,12 @@
+{
+  "id": "70bda66a-7121-45d0-a56d-6d159b812dde",
+  "data": {
+    "Instance": {
+      "name": "forvaltning",
+      "back": {
+        "Text": "administration"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

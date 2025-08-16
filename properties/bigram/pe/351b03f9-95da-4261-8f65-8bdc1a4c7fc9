@@ -1,0 +1,12 @@
+{
+  "id": "351b03f9-95da-4261-8f65-8bdc1a4c7fc9",
+  "data": {
+    "Instance": {
+      "name": "kjøper",
+      "back": {
+        "Text": "buyer"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

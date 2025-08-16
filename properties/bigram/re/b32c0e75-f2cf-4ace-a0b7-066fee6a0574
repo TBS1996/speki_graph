@@ -1,0 +1,12 @@
+{
+  "id": "b32c0e75-f2cf-4ace-a0b7-066fee6a0574",
+  "data": {
+    "Instance": {
+      "name": "regle",
+      "back": {
+        "Text": "string of words"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

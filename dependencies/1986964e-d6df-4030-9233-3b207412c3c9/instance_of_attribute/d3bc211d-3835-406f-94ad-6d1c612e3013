@@ -1,0 +1,12 @@
+{
+  "id": "d3bc211d-3835-406f-94ad-6d1c612e3013",
+  "data": {
+    "Instance": {
+      "name": "ledelse",
+      "back": {
+        "Text": "management"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

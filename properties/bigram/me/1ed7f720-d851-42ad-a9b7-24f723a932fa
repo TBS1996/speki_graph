@@ -1,0 +1,12 @@
+{
+  "id": "1ed7f720-d851-42ad-a9b7-24f723a932fa",
+  "data": {
+    "Instance": {
+      "name": "hemmelighet",
+      "back": {
+        "Text": "secret"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

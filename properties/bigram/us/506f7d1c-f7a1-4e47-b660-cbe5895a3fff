@@ -1,0 +1,12 @@
+{
+  "id": "506f7d1c-f7a1-4e47-b660-cbe5895a3fff",
+  "data": {
+    "Instance": {
+      "name": "musikk",
+      "back": {
+        "Text": "music"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

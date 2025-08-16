@@ -1,0 +1,12 @@
+{
+  "id": "2ee5bc47-507a-4202-9c02-69ee4464d607",
+  "data": {
+    "Instance": {
+      "name": "valp",
+      "back": {
+        "Text": "puppy"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

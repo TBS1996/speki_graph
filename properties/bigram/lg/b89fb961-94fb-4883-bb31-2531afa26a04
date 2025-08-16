@@ -1,0 +1,12 @@
+{
+  "id": "b89fb961-94fb-4883-bb31-2531afa26a04",
+  "data": {
+    "Instance": {
+      "name": "valgkamp",
+      "back": {
+        "Text": "election campaign"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

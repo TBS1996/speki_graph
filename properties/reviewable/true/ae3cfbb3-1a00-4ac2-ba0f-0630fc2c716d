@@ -1,0 +1,12 @@
+{
+  "id": "ae3cfbb3-1a00-4ac2-ba0f-0630fc2c716d",
+  "data": {
+    "Instance": {
+      "name": "tale",
+      "back": {
+        "Text": "speech"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

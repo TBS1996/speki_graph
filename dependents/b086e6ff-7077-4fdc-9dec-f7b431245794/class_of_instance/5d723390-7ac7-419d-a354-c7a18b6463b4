@@ -1,0 +1,12 @@
+{
+  "id": "5d723390-7ac7-419d-a354-c7a18b6463b4",
+  "data": {
+    "Instance": {
+      "name": "vaskerom",
+      "back": {
+        "Text": "washroom"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

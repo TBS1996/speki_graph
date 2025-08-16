@@ -1,0 +1,12 @@
+{
+  "id": "8ad73f88-9d91-4028-94c3-e00f0d1d6102",
+  "data": {
+    "Instance": {
+      "name": "arkiv",
+      "back": {
+        "Text": "archive"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

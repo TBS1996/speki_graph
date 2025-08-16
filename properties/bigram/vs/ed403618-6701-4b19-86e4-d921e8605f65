@@ -1,0 +1,12 @@
+{
+  "id": "ed403618-6701-4b19-86e4-d921e8605f65",
+  "data": {
+    "Instance": {
+      "name": "avsnitt",
+      "back": {
+        "Text": "section"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

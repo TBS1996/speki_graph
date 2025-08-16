@@ -1,0 +1,12 @@
+{
+  "id": "e69431dd-8dd9-4309-a7d1-17d6ebddf6bf",
+  "data": {
+    "Instance": {
+      "name": "myndighet",
+      "back": {
+        "Text": "authority"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

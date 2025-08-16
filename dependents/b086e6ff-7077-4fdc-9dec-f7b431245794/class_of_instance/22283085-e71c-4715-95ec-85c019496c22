@@ -1,0 +1,12 @@
+{
+  "id": "22283085-e71c-4715-95ec-85c019496c22",
+  "data": {
+    "Instance": {
+      "name": "skyld",
+      "back": {
+        "Text": "fault"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "3b545e7c-9f4d-415f-8aef-412b00ac1b48",
+  "data": {
+    "Instance": {
+      "name": "kontor",
+      "back": {
+        "Text": "office"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

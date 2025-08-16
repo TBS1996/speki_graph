@@ -1,0 +1,12 @@
+{
+  "id": "1777d377-e1c2-4eb1-aa9f-88f905d5afb7",
+  "data": {
+    "Instance": {
+      "name": "klokke",
+      "back": {
+        "Text": "clock"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

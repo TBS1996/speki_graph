@@ -1,0 +1,12 @@
+{
+  "id": "15abd846-a0b4-4cec-b676-a11356442975",
+  "data": {
+    "Instance": {
+      "name": "snakk",
+      "back": {
+        "Text": "talk"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

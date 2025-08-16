@@ -1,0 +1,12 @@
+{
+  "id": "fe5bcda7-a89b-49d0-b5f6-9e35fa34a9a3",
+  "data": {
+    "Instance": {
+      "name": "kunst",
+      "back": {
+        "Text": "art"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

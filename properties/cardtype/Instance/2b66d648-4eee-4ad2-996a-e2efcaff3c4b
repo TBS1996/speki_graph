@@ -1,0 +1,12 @@
+{
+  "id": "2b66d648-4eee-4ad2-996a-e2efcaff3c4b",
+  "data": {
+    "Instance": {
+      "name": "handel",
+      "back": {
+        "Text": "trade"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

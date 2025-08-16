@@ -1,0 +1,12 @@
+{
+  "id": "3b5fb502-e279-4442-8516-0fcfb5702aa2",
+  "data": {
+    "Instance": {
+      "name": "høgskole",
+      "back": {
+        "Text": "college"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

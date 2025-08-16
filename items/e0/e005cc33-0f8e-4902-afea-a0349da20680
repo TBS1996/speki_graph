@@ -1,0 +1,12 @@
+{
+  "id": "e005cc33-0f8e-4902-afea-a0349da20680",
+  "data": {
+    "Instance": {
+      "name": "sikkerhet",
+      "back": {
+        "Text": "security"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

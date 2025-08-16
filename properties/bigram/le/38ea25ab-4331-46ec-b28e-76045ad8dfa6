@@ -1,0 +1,12 @@
+{
+  "id": "38ea25ab-4331-46ec-b28e-76045ad8dfa6",
+  "data": {
+    "Instance": {
+      "name": "høyttaler",
+      "back": {
+        "Text": "loudspeaker"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

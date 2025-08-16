@@ -1,0 +1,12 @@
+{
+  "id": "f31b8179-7bdc-4a5e-8e0c-d482299174ef",
+  "data": {
+    "Instance": {
+      "name": "intervju",
+      "back": {
+        "Text": "interview"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

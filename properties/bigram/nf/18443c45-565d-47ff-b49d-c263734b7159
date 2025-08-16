@@ -1,0 +1,12 @@
+{
+  "id": "18443c45-565d-47ff-b49d-c263734b7159",
+  "data": {
+    "Instance": {
+      "name": "innflytter",
+      "back": {
+        "Text": "new resident"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

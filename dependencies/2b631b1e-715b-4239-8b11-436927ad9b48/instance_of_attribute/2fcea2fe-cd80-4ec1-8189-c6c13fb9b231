@@ -1,0 +1,12 @@
+{
+  "id": "2fcea2fe-cd80-4ec1-8189-c6c13fb9b231",
+  "data": {
+    "Instance": {
+      "name": "sikt",
+      "back": {
+        "Text": "visibility"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "b4162316-d25f-4ae0-8a01-eadd1faecc32",
+  "data": {
+    "Instance": {
+      "name": "ekspert",
+      "back": {
+        "Text": "expert"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

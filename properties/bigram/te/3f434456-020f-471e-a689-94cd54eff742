@@ -1,0 +1,12 @@
+{
+  "id": "3f434456-020f-471e-a689-94cd54eff742",
+  "data": {
+    "Instance": {
+      "name": "utenriksminister",
+      "back": {
+        "Text": "foreign minister"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}
