@@ -1,0 +1,12 @@
+{
+  "id": "b3e36116-e8b8-4785-a8e4-a26520b9b22b",
+  "data": {
+    "Instance": {
+      "name": "Pflicht",
+      "back": {
+        "Text": "duty"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

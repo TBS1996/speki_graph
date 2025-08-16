@@ -1,0 +1,12 @@
+{
+  "id": "bf78702c-3fd7-4209-9754-d9c990f4207f",
+  "data": {
+    "Instance": {
+      "name": "instrucción",
+      "back": {
+        "Text": "instruction"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

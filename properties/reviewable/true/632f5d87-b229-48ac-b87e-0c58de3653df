@@ -1,0 +1,12 @@
+{
+  "id": "632f5d87-b229-48ac-b87e-0c58de3653df",
+  "data": {
+    "Instance": {
+      "name": "medicamento",
+      "back": {
+        "Text": "drug"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

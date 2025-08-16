@@ -1,0 +1,12 @@
+{
+  "id": "3a3649f2-eea4-4159-8e46-4815c26d5f35",
+  "data": {
+    "Instance": {
+      "name": "Berührung",
+      "back": {
+        "Text": "touch"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

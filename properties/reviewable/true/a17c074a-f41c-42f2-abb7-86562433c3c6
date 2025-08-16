@@ -1,0 +1,12 @@
+{
+  "id": "a17c074a-f41c-42f2-abb7-86562433c3c6",
+  "data": {
+    "Instance": {
+      "name": "Modell",
+      "back": {
+        "Text": "model"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

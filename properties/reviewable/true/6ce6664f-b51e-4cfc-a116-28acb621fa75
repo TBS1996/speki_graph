@@ -1,0 +1,12 @@
+{
+  "id": "6ce6664f-b51e-4cfc-a116-28acb621fa75",
+  "data": {
+    "Instance": {
+      "name": "pareja",
+      "back": {
+        "Text": "partner"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

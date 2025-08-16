@@ -1,0 +1,12 @@
+{
+  "id": "e9d66e2a-508d-47c0-9c6d-466ecba2d942",
+  "data": {
+    "Instance": {
+      "name": "Umstand",
+      "back": {
+        "Text": "circumstance"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

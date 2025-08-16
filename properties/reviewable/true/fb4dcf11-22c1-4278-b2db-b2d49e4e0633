@@ -1,0 +1,12 @@
+{
+  "id": "fb4dcf11-22c1-4278-b2db-b2d49e4e0633",
+  "data": {
+    "Instance": {
+      "name": "Termin",
+      "back": {
+        "Text": "appointment"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

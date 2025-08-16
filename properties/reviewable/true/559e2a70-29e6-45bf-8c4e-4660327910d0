@@ -1,0 +1,12 @@
+{
+  "id": "559e2a70-29e6-45bf-8c4e-4660327910d0",
+  "data": {
+    "Instance": {
+      "name": "Gegenstand",
+      "back": {
+        "Text": "item"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

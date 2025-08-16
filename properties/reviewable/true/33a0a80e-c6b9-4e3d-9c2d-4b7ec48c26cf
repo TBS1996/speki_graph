@@ -1,0 +1,12 @@
+{
+  "id": "33a0a80e-c6b9-4e3d-9c2d-4b7ec48c26cf",
+  "data": {
+    "Instance": {
+      "name": "Kleidung",
+      "back": {
+        "Text": "clothing"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

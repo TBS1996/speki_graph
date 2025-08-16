@@ -1,0 +1,12 @@
+{
+  "id": "0fc0399b-b58e-4627-a54c-c5b1f97c52e1",
+  "data": {
+    "Instance": {
+      "name": "vestido",
+      "back": {
+        "Text": "dress"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

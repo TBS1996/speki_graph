@@ -1,0 +1,12 @@
+{
+  "id": "fc438c24-39c1-47b1-9fdc-e249e5af4fd0",
+  "data": {
+    "Instance": {
+      "name": "Karte",
+      "back": {
+        "Text": "map"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

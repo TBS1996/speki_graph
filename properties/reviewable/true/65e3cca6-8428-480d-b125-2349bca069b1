@@ -1,0 +1,12 @@
+{
+  "id": "65e3cca6-8428-480d-b125-2349bca069b1",
+  "data": {
+    "Instance": {
+      "name": "emergencia",
+      "back": {
+        "Text": "emergency"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

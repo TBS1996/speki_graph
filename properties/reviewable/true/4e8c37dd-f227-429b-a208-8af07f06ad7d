@@ -1,0 +1,12 @@
+{
+  "id": "4e8c37dd-f227-429b-a208-8af07f06ad7d",
+  "data": {
+    "Instance": {
+      "name": "seguridad",
+      "back": {
+        "Text": "security"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

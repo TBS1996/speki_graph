@@ -1,0 +1,12 @@
+{
+  "id": "642fb4a4-7742-40ae-8eb1-8cbdd6a29d28",
+  "data": {
+    "Instance": {
+      "name": "Zugang",
+      "back": {
+        "Text": "access"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

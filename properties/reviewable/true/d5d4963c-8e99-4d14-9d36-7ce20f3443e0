@@ -1,0 +1,12 @@
+{
+  "id": "d5d4963c-8e99-4d14-9d36-7ce20f3443e0",
+  "data": {
+    "Instance": {
+      "name": "Wahrheit",
+      "back": {
+        "Text": "truth"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

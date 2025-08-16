@@ -1,0 +1,12 @@
+{
+  "id": "a597c4d5-c0d7-45f0-8295-e0a614c4c81c",
+  "data": {
+    "Instance": {
+      "name": "sugerencia",
+      "back": {
+        "Text": "suggestion"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

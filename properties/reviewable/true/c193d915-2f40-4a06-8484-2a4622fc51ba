@@ -1,0 +1,12 @@
+{
+  "id": "c193d915-2f40-4a06-8484-2a4622fc51ba",
+  "data": {
+    "Instance": {
+      "name": "Vorrang",
+      "back": {
+        "Text": "priority"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

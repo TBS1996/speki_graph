@@ -1,0 +1,12 @@
+{
+  "id": "7f67acf5-1da7-43cb-a466-79d30835ebfb",
+  "data": {
+    "Instance": {
+      "name": "gato",
+      "back": {
+        "Text": "cat"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "340d1db3-7886-483e-ad0a-2e1c2a54fc6a",
+  "data": {
+    "Instance": {
+      "name": "Konflikt",
+      "back": {
+        "Text": "conflict"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

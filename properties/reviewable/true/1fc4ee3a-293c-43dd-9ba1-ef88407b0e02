@@ -1,0 +1,12 @@
+{
+  "id": "1fc4ee3a-293c-43dd-9ba1-ef88407b0e02",
+  "data": {
+    "Instance": {
+      "name": "Büro",
+      "back": {
+        "Text": "office"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

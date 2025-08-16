@@ -1,0 +1,12 @@
+{
+  "id": "2afb3449-9be3-4f7d-ba36-0758f4787b41",
+  "data": {
+    "Instance": {
+      "name": "equipo",
+      "back": {
+        "Text": "team"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

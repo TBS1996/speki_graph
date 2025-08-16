@@ -1,0 +1,12 @@
+{
+  "id": "45132f7b-5375-4e9a-8156-383ee4ede2f6",
+  "data": {
+    "Instance": {
+      "name": "Antwort",
+      "back": {
+        "Text": "answer"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

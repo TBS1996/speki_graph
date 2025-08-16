@@ -1,0 +1,12 @@
+{
+  "id": "116dfdbd-e13f-4c20-a022-78e3404392a5",
+  "data": {
+    "Instance": {
+      "name": "piso",
+      "back": {
+        "Text": "storey"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

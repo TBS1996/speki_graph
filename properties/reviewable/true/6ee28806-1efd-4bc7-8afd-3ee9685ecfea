@@ -1,0 +1,12 @@
+{
+  "id": "6ee28806-1efd-4bc7-8afd-3ee9685ecfea",
+  "data": {
+    "Instance": {
+      "name": "apariencia",
+      "back": {
+        "Text": "appearance"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "91b054bc-d083-41d4-afea-1b4b975e80a0",
+  "data": {
+    "Instance": {
+      "name": "Familie",
+      "back": {
+        "Text": "family"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

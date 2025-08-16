@@ -1,0 +1,12 @@
+{
+  "id": "b4860e2a-fe1b-4628-97ab-3c0b6b6f42ac",
+  "data": {
+    "Instance": {
+      "name": "piloto",
+      "back": {
+        "Text": "pilot"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

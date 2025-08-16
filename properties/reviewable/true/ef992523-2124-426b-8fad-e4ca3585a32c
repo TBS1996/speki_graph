@@ -1,0 +1,12 @@
+{
+  "id": "ef992523-2124-426b-8fad-e4ca3585a32c",
+  "data": {
+    "Instance": {
+      "name": "Nacht",
+      "back": {
+        "Text": "night"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

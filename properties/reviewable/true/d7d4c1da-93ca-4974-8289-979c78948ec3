@@ -1,0 +1,12 @@
+{
+  "id": "d7d4c1da-93ca-4974-8289-979c78948ec3",
+  "data": {
+    "Instance": {
+      "name": "caja",
+      "back": {
+        "Text": "box"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

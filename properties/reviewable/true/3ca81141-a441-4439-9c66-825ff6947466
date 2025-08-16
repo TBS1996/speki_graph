@@ -1,0 +1,12 @@
+{
+  "id": "3ca81141-a441-4439-9c66-825ff6947466",
+  "data": {
+    "Instance": {
+      "name": "Westen",
+      "back": {
+        "Text": "west"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

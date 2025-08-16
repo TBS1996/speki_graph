@@ -1,0 +1,12 @@
+{
+  "id": "cbf87066-76cc-4e60-859d-8adc4cafbf70",
+  "data": {
+    "Instance": {
+      "name": "Besitz",
+      "back": {
+        "Text": "possession"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

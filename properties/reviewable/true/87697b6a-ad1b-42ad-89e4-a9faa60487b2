@@ -1,0 +1,12 @@
+{
+  "id": "87697b6a-ad1b-42ad-89e4-a9faa60487b2",
+  "data": {
+    "Instance": {
+      "name": "Bus",
+      "back": {
+        "Text": "bus"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

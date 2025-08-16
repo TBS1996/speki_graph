@@ -1,0 +1,12 @@
+{
+  "id": "b98eb50b-e24b-401c-a738-50e556735d3e",
+  "data": {
+    "Instance": {
+      "name": "Trainer",
+      "back": {
+        "Text": "coach"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

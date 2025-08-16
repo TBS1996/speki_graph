@@ -1,0 +1,12 @@
+{
+  "id": "abef4b72-e50b-4c4f-a1e2-0fc61fd15860",
+  "data": {
+    "Instance": {
+      "name": "productor",
+      "back": {
+        "Text": "producer"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

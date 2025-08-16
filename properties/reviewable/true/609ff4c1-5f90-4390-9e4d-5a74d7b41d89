@@ -1,0 +1,12 @@
+{
+  "id": "609ff4c1-5f90-4390-9e4d-5a74d7b41d89",
+  "data": {
+    "Instance": {
+      "name": "demora",
+      "back": {
+        "Text": "delay"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

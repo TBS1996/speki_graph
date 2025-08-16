@@ -1,0 +1,12 @@
+{
+  "id": "7988a35d-c40e-4108-a26a-a00a551e9900",
+  "data": {
+    "Instance": {
+      "name": "Wartung",
+      "back": {
+        "Text": "maintenance"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

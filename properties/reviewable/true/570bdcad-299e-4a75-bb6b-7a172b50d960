@@ -1,0 +1,12 @@
+{
+  "id": "570bdcad-299e-4a75-bb6b-7a172b50d960",
+  "data": {
+    "Instance": {
+      "name": "Bewertung",
+      "back": {
+        "Text": "review"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

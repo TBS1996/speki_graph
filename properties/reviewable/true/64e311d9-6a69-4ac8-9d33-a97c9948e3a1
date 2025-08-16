@@ -1,0 +1,12 @@
+{
+  "id": "64e311d9-6a69-4ac8-9d33-a97c9948e3a1",
+  "data": {
+    "Instance": {
+      "name": "consejo",
+      "back": {
+        "Text": "advice"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

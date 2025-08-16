@@ -1,0 +1,12 @@
+{
+  "id": "c79c7a11-4202-4ab7-8174-51820b53fe23",
+  "data": {
+    "Instance": {
+      "name": "Künstler",
+      "back": {
+        "Text": "artist"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

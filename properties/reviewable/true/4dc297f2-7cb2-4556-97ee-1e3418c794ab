@@ -1,0 +1,12 @@
+{
+  "id": "4dc297f2-7cb2-4556-97ee-1e3418c794ab",
+  "data": {
+    "Instance": {
+      "name": "Gesetzgebung",
+      "back": {
+        "Text": "legislation"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

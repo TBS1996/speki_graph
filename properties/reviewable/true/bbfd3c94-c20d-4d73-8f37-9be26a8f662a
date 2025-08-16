@@ -1,0 +1,12 @@
+{
+  "id": "bbfd3c94-c20d-4d73-8f37-9be26a8f662a",
+  "data": {
+    "Instance": {
+      "name": "Ausmaß",
+      "back": {
+        "Text": "extent"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "baf6fbee-1bcb-45ea-9ae0-0c63f3b8914c",
+  "data": {
+    "Instance": {
+      "name": "Herausforderung",
+      "back": {
+        "Text": "challenge"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

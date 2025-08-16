@@ -1,0 +1,12 @@
+{
+  "id": "17ae5f9b-9ce2-4c85-93d4-b6d0dd030e32",
+  "data": {
+    "Instance": {
+      "name": "Gewinn",
+      "back": {
+        "Text": "profit"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

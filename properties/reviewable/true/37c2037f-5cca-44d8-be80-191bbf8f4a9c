@@ -1,0 +1,12 @@
+{
+  "id": "37c2037f-5cca-44d8-be80-191bbf8f4a9c",
+  "data": {
+    "Instance": {
+      "name": "Schlacht",
+      "back": {
+        "Text": "battle"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

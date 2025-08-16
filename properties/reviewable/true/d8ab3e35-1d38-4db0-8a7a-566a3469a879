@@ -1,0 +1,12 @@
+{
+  "id": "d8ab3e35-1d38-4db0-8a7a-566a3469a879",
+  "data": {
+    "Instance": {
+      "name": "techo",
+      "back": {
+        "Text": "roof"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

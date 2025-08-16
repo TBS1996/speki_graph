@@ -1,0 +1,12 @@
+{
+  "id": "e2d81543-4a2b-4a87-8d86-edab5156f616",
+  "data": {
+    "Instance": {
+      "name": "Radio",
+      "back": {
+        "Text": "radio"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

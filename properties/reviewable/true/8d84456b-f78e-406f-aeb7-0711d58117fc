@@ -1,0 +1,12 @@
+{
+  "id": "8d84456b-f78e-406f-aeb7-0711d58117fc",
+  "data": {
+    "Instance": {
+      "name": "Ergebnis",
+      "back": {
+        "Text": "outcome"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "7bfdce02-f2b6-4f03-8e65-51d4848b04e8",
+  "data": {
+    "Instance": {
+      "name": "Erwachsener",
+      "back": {
+        "Text": "adult"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

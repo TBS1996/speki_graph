@@ -1,0 +1,12 @@
+{
+  "id": "ef6d40ee-aa06-4e9f-8047-c0d7b2fdef95",
+  "data": {
+    "Instance": {
+      "name": "Verbindung",
+      "back": {
+        "Text": "connection"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

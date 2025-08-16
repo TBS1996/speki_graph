@@ -1,0 +1,12 @@
+{
+  "id": "6df2be55-05c0-4f29-91cc-7d027b96f77f",
+  "data": {
+    "Instance": {
+      "name": "Körper",
+      "back": {
+        "Text": "body"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

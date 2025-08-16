@@ -1,0 +1,12 @@
+{
+  "id": "c5de5888-126e-401b-91d7-5b4173cd31f2",
+  "data": {
+    "Instance": {
+      "name": "Abkommen",
+      "back": {
+        "Text": "deal"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

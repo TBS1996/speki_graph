@@ -1,0 +1,12 @@
+{
+  "id": "85d7a445-2f93-478b-bdd8-aa5ba567653b",
+  "data": {
+    "Instance": {
+      "name": "registro",
+      "back": {
+        "Text": "record"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "f29eaaef-35d4-45d7-93d4-3205760881de",
+  "data": {
+    "Instance": {
+      "name": "Rad",
+      "back": {
+        "Text": "wheel"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

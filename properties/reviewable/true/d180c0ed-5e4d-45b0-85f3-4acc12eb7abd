@@ -1,0 +1,12 @@
+{
+  "id": "d180c0ed-5e4d-45b0-85f3-4acc12eb7abd",
+  "data": {
+    "Instance": {
+      "name": "Beitrag",
+      "back": {
+        "Text": "contribution"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

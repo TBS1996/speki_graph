@@ -1,0 +1,12 @@
+{
+  "id": "99a4b3bf-d88a-4f1e-a0ae-5bf37e23c621",
+  "data": {
+    "Instance": {
+      "name": "Viertel",
+      "back": {
+        "Text": "quarter"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

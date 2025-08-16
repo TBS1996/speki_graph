@@ -1,0 +1,12 @@
+{
+  "id": "0fb55ac5-f7cc-4a83-a576-d3d51b78300a",
+  "data": {
+    "Instance": {
+      "name": "Stimme",
+      "back": {
+        "Text": "voice"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

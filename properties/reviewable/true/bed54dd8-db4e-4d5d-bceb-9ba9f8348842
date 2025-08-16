@@ -1,0 +1,12 @@
+{
+  "id": "bed54dd8-db4e-4d5d-bceb-9ba9f8348842",
+  "data": {
+    "Instance": {
+      "name": "Ausrüstung",
+      "back": {
+        "Text": "kit"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}
