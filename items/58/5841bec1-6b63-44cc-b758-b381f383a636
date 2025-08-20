@@ -4,7 +4,7 @@
     "Instance": {
       "name": "Geschichte",
       "back": {
-        "Text": "history"
+        "Text": "history, story"
       },
       "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
     }
