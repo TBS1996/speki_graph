@@ -4,7 +4,7 @@
     "Instance": {
       "name": "padre",
       "back": {
-        "Text": "father"
+        "Text": "father, parent"
       },
       "class": "b8125489-3654-4629-9fca-9e24a5652645"
     }

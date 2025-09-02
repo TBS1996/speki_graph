@@ -4,7 +4,7 @@
     "Instance": {
       "name": "público",
       "back": {
-        "Text": "audience"
+        "Text": "audience, public"
       },
       "class": "b8125489-3654-4629-9fca-9e24a5652645"
     }
