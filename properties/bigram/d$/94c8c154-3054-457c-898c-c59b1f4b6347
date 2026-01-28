@@ -1,0 +1,12 @@
+{
+  "id": "94c8c154-3054-457c-898c-c59b1f4b6347",
+  "data": {
+    "Instance": {
+      "name": "gjeld",
+      "back": {
+        "Text": "debt"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

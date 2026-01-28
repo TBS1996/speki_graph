@@ -1,0 +1,12 @@
+{
+  "id": "312c2f5b-b141-4639-8a2e-21cfe715ad86",
+  "data": {
+    "Instance": {
+      "name": "Spieler",
+      "back": {
+        "Text": "player"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

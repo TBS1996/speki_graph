@@ -1,0 +1,12 @@
+{
+  "id": "a6759ae5-cc9d-45a4-8062-5de89ae3c105",
+  "data": {
+    "Instance": {
+      "name": "premie",
+      "back": {
+        "Text": "award"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

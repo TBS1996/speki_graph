@@ -1,0 +1,12 @@
+{
+  "id": "dbfe3016-deab-4537-8ed7-0663b73c8d21",
+  "data": {
+    "Instance": {
+      "name": "innhold",
+      "back": {
+        "Text": "content"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

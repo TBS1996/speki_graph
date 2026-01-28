@@ -1,0 +1,12 @@
+{
+  "id": "fabf1429-3c53-4c5f-a168-89102ebefc49",
+  "data": {
+    "Instance": {
+      "name": "rato",
+      "back": {
+        "Text": "while"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

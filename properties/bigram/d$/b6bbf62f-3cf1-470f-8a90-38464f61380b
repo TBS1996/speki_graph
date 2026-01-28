@@ -1,0 +1,12 @@
+{
+  "id": "b6bbf62f-3cf1-470f-8a90-38464f61380b",
+  "data": {
+    "Instance": {
+      "name": "brød",
+      "back": {
+        "Text": "bread"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

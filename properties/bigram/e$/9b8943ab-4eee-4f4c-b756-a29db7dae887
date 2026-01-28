@@ -1,0 +1,12 @@
+{
+  "id": "9b8943ab-4eee-4f4c-b756-a29db7dae887",
+  "data": {
+    "Instance": {
+      "name": "Brücke",
+      "back": {
+        "Text": "bridge"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

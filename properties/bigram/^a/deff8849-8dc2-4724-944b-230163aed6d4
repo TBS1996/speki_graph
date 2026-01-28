@@ -1,0 +1,12 @@
+{
+  "id": "deff8849-8dc2-4724-944b-230163aed6d4",
+  "data": {
+    "Instance": {
+      "name": "Abwesenheit",
+      "back": {
+        "Text": "absence"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

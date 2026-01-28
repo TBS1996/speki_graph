@@ -1,0 +1,12 @@
+{
+  "id": "10dda4f7-7e63-4c53-9fd9-70498b994c00",
+  "data": {
+    "Instance": {
+      "name": "hall",
+      "back": {
+        "Text": "hall"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "23bb19b9-fdf3-434b-adfa-078b3580c982",
+  "data": {
+    "Instance": {
+      "name": "Fleck",
+      "back": {
+        "Text": "spot"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

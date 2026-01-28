@@ -1,0 +1,12 @@
+{
+  "id": "7d81c2e0-0721-4616-86ed-56792699fa08",
+  "data": {
+    "Instance": {
+      "name": "Kreis",
+      "back": {
+        "Text": "circle"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

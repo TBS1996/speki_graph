@@ -1,0 +1,12 @@
+{
+  "id": "16cbce90-34ad-4217-8872-4cb76b33dcdf",
+  "data": {
+    "Instance": {
+      "name": "hud",
+      "back": {
+        "Text": "skin"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

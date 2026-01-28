@@ -1,0 +1,12 @@
+{
+  "id": "ae7c2182-32f2-4b15-8c5e-ee6005386608",
+  "data": {
+    "Instance": {
+      "name": "nabo",
+      "back": {
+        "Text": "neighbour"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "a085887d-0c2c-43e6-9a25-ce9e3008c136",
+  "data": {
+    "Instance": {
+      "name": "Faktor",
+      "back": {
+        "Text": "factor"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

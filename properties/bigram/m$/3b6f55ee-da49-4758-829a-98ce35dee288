@@ -1,0 +1,12 @@
+{
+  "id": "3b6f55ee-da49-4758-829a-98ce35dee288",
+  "data": {
+    "Instance": {
+      "name": "strøm",
+      "back": {
+        "Text": "electricity"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

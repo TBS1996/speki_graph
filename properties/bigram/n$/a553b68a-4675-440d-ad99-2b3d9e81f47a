@@ -1,0 +1,12 @@
+{
+  "id": "a553b68a-4675-440d-ad99-2b3d9e81f47a",
+  "data": {
+    "Instance": {
+      "name": "dokumentasjon",
+      "back": {
+        "Text": "documentation"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

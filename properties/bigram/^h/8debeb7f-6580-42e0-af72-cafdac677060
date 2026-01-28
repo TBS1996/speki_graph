@@ -1,0 +1,12 @@
+{
+  "id": "8debeb7f-6580-42e0-af72-cafdac677060",
+  "data": {
+    "Instance": {
+      "name": "Halle",
+      "back": {
+        "Text": "hall"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "0a5a0b90-0c46-44d2-943e-60967834f42b",
+  "data": {
+    "Instance": {
+      "name": "Wort",
+      "back": {
+        "Text": "word"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

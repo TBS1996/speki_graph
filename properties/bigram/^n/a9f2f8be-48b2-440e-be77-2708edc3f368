@@ -1,0 +1,12 @@
+{
+  "id": "a9f2f8be-48b2-440e-be77-2708edc3f368",
+  "data": {
+    "Instance": {
+      "name": "nivel",
+      "back": {
+        "Text": "level"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

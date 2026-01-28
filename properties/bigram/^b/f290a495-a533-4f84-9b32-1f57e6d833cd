@@ -1,0 +1,12 @@
+{
+  "id": "f290a495-a533-4f84-9b32-1f57e6d833cd",
+  "data": {
+    "Instance": {
+      "name": "beløp",
+      "back": {
+        "Text": "amount"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

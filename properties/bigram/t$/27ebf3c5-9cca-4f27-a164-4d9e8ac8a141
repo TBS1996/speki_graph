@@ -1,0 +1,12 @@
+{
+  "id": "27ebf3c5-9cca-4f27-a164-4d9e8ac8a141",
+  "data": {
+    "Instance": {
+      "name": "Gebet",
+      "back": {
+        "Text": "prayer"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

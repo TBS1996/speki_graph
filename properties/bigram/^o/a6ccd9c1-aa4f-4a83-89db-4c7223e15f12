@@ -1,0 +1,12 @@
+{
+  "id": "a6ccd9c1-aa4f-4a83-89db-4c7223e15f12",
+  "data": {
+    "Instance": {
+      "name": "oficina",
+      "back": {
+        "Text": "office"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

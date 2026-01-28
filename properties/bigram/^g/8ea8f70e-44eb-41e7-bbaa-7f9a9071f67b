@@ -1,0 +1,12 @@
+{
+  "id": "8ea8f70e-44eb-41e7-bbaa-7f9a9071f67b",
+  "data": {
+    "Instance": {
+      "name": "Gehalt",
+      "back": {
+        "Text": "pay"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

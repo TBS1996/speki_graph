@@ -1,0 +1,12 @@
+{
+  "id": "11df7666-474e-44ab-b717-92cb418b1fd5",
+  "data": {
+    "Instance": {
+      "name": "politiker",
+      "back": {
+        "Text": "politician"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

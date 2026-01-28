@@ -1,0 +1,12 @@
+{
+  "id": "c1bf67fe-3692-4501-9c21-5b9bbd9040ed",
+  "data": {
+    "Instance": {
+      "name": "fødsel",
+      "back": {
+        "Text": "birth"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

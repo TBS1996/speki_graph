@@ -1,0 +1,12 @@
+{
+  "id": "cc95d79c-07ec-480d-bca9-19c8f64a8e6b",
+  "data": {
+    "Instance": {
+      "name": "farge",
+      "back": {
+        "Text": "colour"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

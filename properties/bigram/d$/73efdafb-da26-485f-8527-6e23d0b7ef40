@@ -1,0 +1,12 @@
+{
+  "id": "73efdafb-da26-485f-8527-6e23d0b7ef40",
+  "data": {
+    "Instance": {
+      "name": "forhold",
+      "back": {
+        "Text": "relationship/condition"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

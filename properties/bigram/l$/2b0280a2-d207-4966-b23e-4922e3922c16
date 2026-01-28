@@ -1,0 +1,12 @@
+{
+  "id": "2b0280a2-d207-4966-b23e-4922e3922c16",
+  "data": {
+    "Instance": {
+      "name": "bil",
+      "back": {
+        "Text": "car"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

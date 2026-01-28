@@ -1,0 +1,12 @@
+{
+  "id": "5301680d-6b8e-4609-999b-73fce938dccd",
+  "data": {
+    "Instance": {
+      "name": "antall",
+      "back": {
+        "Text": "number"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

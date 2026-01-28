@@ -1,0 +1,12 @@
+{
+  "id": "ac0f59f5-c1aa-428d-8e8a-8a2e8aadc182",
+  "data": {
+    "Instance": {
+      "name": "lager",
+      "back": {
+        "Text": "storeroom"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

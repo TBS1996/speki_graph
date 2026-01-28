@@ -1,0 +1,12 @@
+{
+  "id": "42d91c82-d205-48ee-9909-cefe3a9a55c8",
+  "data": {
+    "Instance": {
+      "name": "Merkmal",
+      "back": {
+        "Text": "characteristic"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

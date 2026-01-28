@@ -1,0 +1,12 @@
+{
+  "id": "266ef4ad-fe9e-4f14-a330-527b30d3dd6b",
+  "data": {
+    "Instance": {
+      "name": "pájaro",
+      "back": {
+        "Text": "bird"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

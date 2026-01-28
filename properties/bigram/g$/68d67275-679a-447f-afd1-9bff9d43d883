@@ -1,0 +1,12 @@
+{
+  "id": "68d67275-679a-447f-afd1-9bff9d43d883",
+  "data": {
+    "Instance": {
+      "name": "innstilling",
+      "back": {
+        "Text": "setting"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

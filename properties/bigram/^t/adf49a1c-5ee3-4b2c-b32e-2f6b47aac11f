@@ -1,0 +1,12 @@
+{
+  "id": "adf49a1c-5ee3-4b2c-b32e-2f6b47aac11f",
+  "data": {
+    "Instance": {
+      "name": "tidspunkt",
+      "back": {
+        "Text": "point (in time)"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "b4b8df4d-5e68-415c-80bf-998f8e1ff39b",
+  "data": {
+    "Instance": {
+      "name": "ahorro",
+      "back": {
+        "Text": "saving"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

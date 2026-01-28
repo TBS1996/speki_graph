@@ -1,0 +1,12 @@
+{
+  "id": "af8e36ac-a146-4c5f-9780-d42a0460973a",
+  "data": {
+    "Instance": {
+      "name": "server",
+      "back": {
+        "Text": "server"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

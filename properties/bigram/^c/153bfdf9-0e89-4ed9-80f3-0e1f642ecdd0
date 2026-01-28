@@ -1,0 +1,12 @@
+{
+  "id": "153bfdf9-0e89-4ed9-80f3-0e1f642ecdd0",
+  "data": {
+    "Instance": {
+      "name": "conexión",
+      "back": {
+        "Text": "connection"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

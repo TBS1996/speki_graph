@@ -1,0 +1,12 @@
+{
+  "id": "dd8062b4-ce39-4606-b58b-5a0f8960a380",
+  "data": {
+    "Instance": {
+      "name": "forbund",
+      "back": {
+        "Text": "association"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

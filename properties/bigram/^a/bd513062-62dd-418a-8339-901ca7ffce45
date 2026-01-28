@@ -1,0 +1,12 @@
+{
+  "id": "bd513062-62dd-418a-8339-901ca7ffce45",
+  "data": {
+    "Instance": {
+      "name": "audiencia",
+      "back": {
+        "Text": "hearing"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "d3c1808c-3805-4223-b79d-9ffdd52af804",
+  "data": {
+    "Instance": {
+      "name": "Autor",
+      "back": {
+        "Text": "author"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

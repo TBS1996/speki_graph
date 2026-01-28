@@ -1,0 +1,12 @@
+{
+  "id": "7fd9b183-29e8-4bb9-b63e-bb282c4460d3",
+  "data": {
+    "Instance": {
+      "name": "pista",
+      "back": {
+        "Text": "track"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

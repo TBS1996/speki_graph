@@ -1,0 +1,12 @@
+{
+  "id": "8bc82081-2771-4ad9-9cc0-bec9768799a6",
+  "data": {
+    "Instance": {
+      "name": "banco",
+      "back": {
+        "Text": "bank"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

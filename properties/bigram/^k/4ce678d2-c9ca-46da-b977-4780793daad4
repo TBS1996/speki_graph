@@ -1,0 +1,12 @@
+{
+  "id": "4ce678d2-c9ca-46da-b977-4780793daad4",
+  "data": {
+    "Instance": {
+      "name": "kvalitet",
+      "back": {
+        "Text": "quality"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "95f56cbc-4866-4406-85a1-727009eb0be2",
+  "data": {
+    "Instance": {
+      "name": "bakgård",
+      "back": {
+        "Text": "back yard"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "1f53257f-7366-4c93-95c0-2cc8a77e253c",
+  "data": {
+    "Instance": {
+      "name": "legemiddel",
+      "back": {
+        "Text": "medicine"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "8194d681-c71c-49d5-9e14-31dc7a2e51b5",
+  "data": {
+    "Instance": {
+      "name": "conducción",
+      "back": {
+        "Text": "drive"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

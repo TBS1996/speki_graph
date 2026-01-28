@@ -1,0 +1,12 @@
+{
+  "id": "97ba5ee5-bc1f-4a29-b638-18cb76f46102",
+  "data": {
+    "Instance": {
+      "name": "Knopf",
+      "back": {
+        "Text": "button"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

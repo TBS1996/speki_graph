@@ -1,0 +1,12 @@
+{
+  "id": "a0ed4eac-72d2-41bb-9237-4a3cd53ad44b",
+  "data": {
+    "Instance": {
+      "name": "cobertura",
+      "back": {
+        "Text": "coverage"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

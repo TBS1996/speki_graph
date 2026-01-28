@@ -1,0 +1,12 @@
+{
+  "id": "093f0123-690b-4099-b5c9-812f985337d4",
+  "data": {
+    "Instance": {
+      "name": "Aufnahme",
+      "back": {
+        "Text": "recording"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

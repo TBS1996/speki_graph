@@ -1,0 +1,12 @@
+{
+  "id": "a2743be7-60f5-4b2c-98ab-b847635b31ec",
+  "data": {
+    "Instance": {
+      "name": "helvete",
+      "back": {
+        "Text": "hell"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

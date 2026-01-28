@@ -1,0 +1,12 @@
+{
+  "id": "2cde4b1b-037b-4019-8ebd-7e19358bef6b",
+  "data": {
+    "Instance": {
+      "name": "godkjenning",
+      "back": {
+        "Text": "approval"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

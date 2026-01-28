@@ -1,0 +1,12 @@
+{
+  "id": "549fe76b-19f6-4d01-bfdb-a552ca257fd0",
+  "data": {
+    "Instance": {
+      "name": "bekk",
+      "back": {
+        "Text": "stream"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "24864073-84db-4ba1-a41c-003f343ee8f8",
+  "data": {
+    "Instance": {
+      "name": "Rauchen",
+      "back": {
+        "Text": "smoking"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

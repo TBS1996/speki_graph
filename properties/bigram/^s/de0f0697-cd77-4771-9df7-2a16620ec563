@@ -1,0 +1,12 @@
+{
+  "id": "de0f0697-cd77-4771-9df7-2a16620ec563",
+  "data": {
+    "Instance": {
+      "name": "stat",
+      "back": {
+        "Text": "state"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

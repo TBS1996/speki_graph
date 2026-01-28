@@ -1,0 +1,12 @@
+{
+  "id": "6fb2b008-0b2e-4701-88a0-eb2e602ace0f",
+  "data": {
+    "Instance": {
+      "name": "cultura",
+      "back": {
+        "Text": "culture"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

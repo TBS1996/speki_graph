@@ -1,0 +1,12 @@
+{
+  "id": "635b6b56-4a81-4a81-9428-1e5fda857bef",
+  "data": {
+    "Instance": {
+      "name": "Einführung",
+      "back": {
+        "Text": "introduction"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

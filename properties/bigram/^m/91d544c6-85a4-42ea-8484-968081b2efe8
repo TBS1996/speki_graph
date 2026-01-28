@@ -1,0 +1,12 @@
+{
+  "id": "91d544c6-85a4-42ea-8484-968081b2efe8",
+  "data": {
+    "Instance": {
+      "name": "medida",
+      "back": {
+        "Text": "measure"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

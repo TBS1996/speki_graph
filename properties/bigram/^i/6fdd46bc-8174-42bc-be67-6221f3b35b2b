@@ -1,0 +1,12 @@
+{
+  "id": "6fdd46bc-8174-42bc-be67-6221f3b35b2b",
+  "data": {
+    "Instance": {
+      "name": "intervención",
+      "back": {
+        "Text": "intervention"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

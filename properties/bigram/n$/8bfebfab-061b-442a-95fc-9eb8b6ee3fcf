@@ -1,0 +1,12 @@
+{
+  "id": "8bfebfab-061b-442a-95fc-9eb8b6ee3fcf",
+  "data": {
+    "Instance": {
+      "name": "generación",
+      "back": {
+        "Text": "generation"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "de523faf-0b15-41f0-9635-95c232303612",
+  "data": {
+    "Instance": {
+      "name": "Kern",
+      "back": {
+        "Text": "core"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

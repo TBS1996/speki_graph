@@ -1,0 +1,12 @@
+{
+  "id": "dca73217-ae77-4a87-9d35-2b4d4371c164",
+  "data": {
+    "Instance": {
+      "name": "tilfelle",
+      "back": {
+        "Text": "case"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

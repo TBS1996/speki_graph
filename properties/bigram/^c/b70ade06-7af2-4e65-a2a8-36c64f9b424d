@@ -1,0 +1,12 @@
+{
+  "id": "b70ade06-7af2-4e65-a2a8-36c64f9b424d",
+  "data": {
+    "Instance": {
+      "name": "cabeza",
+      "back": {
+        "Text": "head"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

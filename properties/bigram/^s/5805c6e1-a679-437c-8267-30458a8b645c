@@ -1,0 +1,12 @@
+{
+  "id": "5805c6e1-a679-437c-8267-30458a8b645c",
+  "data": {
+    "Instance": {
+      "name": "snekker",
+      "back": {
+        "Text": "carpenter"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

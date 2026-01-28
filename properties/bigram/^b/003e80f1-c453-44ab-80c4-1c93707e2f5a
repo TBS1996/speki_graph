@@ -1,0 +1,12 @@
+{
+  "id": "003e80f1-c453-44ab-80c4-1c93707e2f5a",
+  "data": {
+    "Instance": {
+      "name": "botón",
+      "back": {
+        "Text": "button"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

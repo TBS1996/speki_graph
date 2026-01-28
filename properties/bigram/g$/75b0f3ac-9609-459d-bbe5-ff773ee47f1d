@@ -1,0 +1,12 @@
+{
+  "id": "75b0f3ac-9609-459d-bbe5-ff773ee47f1d",
+  "data": {
+    "Instance": {
+      "name": "omsetning",
+      "back": {
+        "Text": "turnover"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

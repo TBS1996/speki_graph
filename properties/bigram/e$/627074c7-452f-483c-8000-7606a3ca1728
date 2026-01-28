@@ -1,0 +1,12 @@
+{
+  "id": "627074c7-452f-483c-8000-7606a3ca1728",
+  "data": {
+    "Instance": {
+      "name": "høyde",
+      "back": {
+        "Text": "height"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

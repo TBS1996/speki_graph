@@ -1,0 +1,12 @@
+{
+  "id": "4480cb42-fd71-4141-8f55-fa85b70a64fb",
+  "data": {
+    "Instance": {
+      "name": "tendencia",
+      "back": {
+        "Text": "trend"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

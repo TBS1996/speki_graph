@@ -1,0 +1,12 @@
+{
+  "id": "1e74e5fd-52af-4e79-a2fc-5cd73242d4ce",
+  "data": {
+    "Instance": {
+      "name": "snowboard",
+      "back": {
+        "Text": "snowboard"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

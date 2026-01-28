@@ -1,0 +1,12 @@
+{
+  "id": "d10373f3-cf4d-4055-bb41-79317f15f308",
+  "data": {
+    "Instance": {
+      "name": "Luxus",
+      "back": {
+        "Text": "luxury"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

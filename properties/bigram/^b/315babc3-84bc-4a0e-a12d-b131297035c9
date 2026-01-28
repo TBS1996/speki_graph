@@ -1,0 +1,12 @@
+{
+  "id": "315babc3-84bc-4a0e-a12d-b131297035c9",
+  "data": {
+    "Instance": {
+      "name": "budskap",
+      "back": {
+        "Text": "message"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

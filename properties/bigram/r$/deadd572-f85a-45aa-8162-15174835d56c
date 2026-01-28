@@ -1,0 +1,12 @@
+{
+  "id": "deadd572-f85a-45aa-8162-15174835d56c",
+  "data": {
+    "Instance": {
+      "name": "comprador",
+      "back": {
+        "Text": "buyer"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

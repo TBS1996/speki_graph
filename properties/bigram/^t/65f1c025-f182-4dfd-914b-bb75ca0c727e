@@ -1,0 +1,12 @@
+{
+  "id": "65f1c025-f182-4dfd-914b-bb75ca0c727e",
+  "data": {
+    "Instance": {
+      "name": "tilsyn",
+      "back": {
+        "Text": "supervision"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

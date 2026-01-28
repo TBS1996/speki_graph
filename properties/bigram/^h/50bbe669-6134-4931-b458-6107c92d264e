@@ -1,0 +1,12 @@
+{
+  "id": "50bbe669-6134-4931-b458-6107c92d264e",
+  "data": {
+    "Instance": {
+      "name": "Haltestelle",
+      "back": {
+        "Text": "stop"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

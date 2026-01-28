@@ -1,0 +1,12 @@
+{
+  "id": "fe2bfb3c-ec3a-4c68-a4dd-e2f838406437",
+  "data": {
+    "Instance": {
+      "name": "kilometer",
+      "back": {
+        "Text": "kilometre"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

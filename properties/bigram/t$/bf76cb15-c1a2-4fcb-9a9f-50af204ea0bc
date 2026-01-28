@@ -1,0 +1,12 @@
+{
+  "id": "bf76cb15-c1a2-4fcb-9a9f-50af204ea0bc",
+  "data": {
+    "Instance": {
+      "name": "Unterricht",
+      "back": {
+        "Text": "teaching"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

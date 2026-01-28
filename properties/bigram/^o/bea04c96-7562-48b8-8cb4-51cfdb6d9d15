@@ -1,0 +1,12 @@
+{
+  "id": "bea04c96-7562-48b8-8cb4-51cfdb6d9d15",
+  "data": {
+    "Instance": {
+      "name": "oreja",
+      "back": {
+        "Text": "ear"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

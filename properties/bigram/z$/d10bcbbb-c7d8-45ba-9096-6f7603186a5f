@@ -1,0 +1,12 @@
+{
+  "id": "d10bcbbb-c7d8-45ba-9096-6f7603186a5f",
+  "data": {
+    "Instance": {
+      "name": "Tanz",
+      "back": {
+        "Text": "dance"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "7babe41e-7c02-426e-95f4-71ec2027249c",
+  "data": {
+    "Instance": {
+      "name": "skolegård",
+      "back": {
+        "Text": "school yard"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

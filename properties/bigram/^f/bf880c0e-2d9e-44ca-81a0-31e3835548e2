@@ -1,0 +1,12 @@
+{
+  "id": "bf880c0e-2d9e-44ca-81a0-31e3835548e2",
+  "data": {
+    "Instance": {
+      "name": "fan",
+      "back": {
+        "Text": "fan"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

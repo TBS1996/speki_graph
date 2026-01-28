@@ -1,0 +1,12 @@
+{
+  "id": "a832a72a-a41b-4e33-a032-4ba8bb1c9506",
+  "data": {
+    "Instance": {
+      "name": "Spur",
+      "back": {
+        "Text": "track"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

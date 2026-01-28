@@ -1,0 +1,12 @@
+{
+  "id": "f205ba85-c1f3-4392-95b4-6bbbedd7a0ae",
+  "data": {
+    "Instance": {
+      "name": "Wesen",
+      "back": {
+        "Text": "being"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

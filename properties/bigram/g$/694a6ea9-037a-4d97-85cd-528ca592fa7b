@@ -1,0 +1,12 @@
+{
+  "id": "694a6ea9-037a-4d97-85cd-528ca592fa7b",
+  "data": {
+    "Instance": {
+      "name": "Beschäftigung",
+      "back": {
+        "Text": "employment"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

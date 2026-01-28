@@ -1,0 +1,12 @@
+{
+  "id": "b21a3c07-a8e7-423a-af94-6a9b382f70f1",
+  "data": {
+    "Instance": {
+      "name": "Prinzip",
+      "back": {
+        "Text": "principle"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "e38f12db-c5e6-4851-9f49-a12ecb3f9a79",
+  "data": {
+    "Instance": {
+      "name": "rekord",
+      "back": {
+        "Text": "record"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

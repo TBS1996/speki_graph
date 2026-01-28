@@ -1,0 +1,12 @@
+{
+  "id": "cf41f3dd-0511-4091-b24b-aef54191d471",
+  "data": {
+    "Instance": {
+      "name": "barnevogn",
+      "back": {
+        "Text": "pram"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

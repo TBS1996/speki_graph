@@ -1,0 +1,12 @@
+{
+  "id": "cb63c7da-fdab-4564-bdd1-8d702f2ed84a",
+  "data": {
+    "Instance": {
+      "name": "ansikt",
+      "back": {
+        "Text": "face"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

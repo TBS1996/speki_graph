@@ -1,0 +1,12 @@
+{
+  "id": "b6de4459-b2fb-4d45-a517-80c6a5d44dec",
+  "data": {
+    "Instance": {
+      "name": "Schwimmbad",
+      "back": {
+        "Text": "pool"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

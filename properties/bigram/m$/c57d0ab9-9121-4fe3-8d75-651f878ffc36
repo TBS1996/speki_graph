@@ -1,0 +1,12 @@
+{
+  "id": "c57d0ab9-9121-4fe3-8d75-651f878ffc36",
+  "data": {
+    "Instance": {
+      "name": "rom",
+      "back": {
+        "Text": "room"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

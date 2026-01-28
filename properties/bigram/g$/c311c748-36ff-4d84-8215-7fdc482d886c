@@ -1,0 +1,12 @@
+{
+  "id": "c311c748-36ff-4d84-8215-7fdc482d886c",
+  "data": {
+    "Instance": {
+      "name": "balkong",
+      "back": {
+        "Text": "balcony"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

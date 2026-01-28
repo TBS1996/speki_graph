@@ -1,0 +1,12 @@
+{
+  "id": "2eb94672-8a98-4723-a0a9-2e51e028958b",
+  "data": {
+    "Instance": {
+      "name": "forklaring",
+      "back": {
+        "Text": "explanation"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

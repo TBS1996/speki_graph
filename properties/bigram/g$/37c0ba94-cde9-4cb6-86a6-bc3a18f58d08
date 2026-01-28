@@ -1,0 +1,12 @@
+{
+  "id": "37c0ba94-cde9-4cb6-86a6-bc3a18f58d08",
+  "data": {
+    "Instance": {
+      "name": "gang",
+      "back": {
+        "Text": "hall"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

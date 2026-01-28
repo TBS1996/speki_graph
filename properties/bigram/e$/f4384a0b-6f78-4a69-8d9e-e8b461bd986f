@@ -1,0 +1,12 @@
+{
+  "id": "f4384a0b-6f78-4a69-8d9e-e8b461bd986f",
+  "data": {
+    "Instance": {
+      "name": "plante",
+      "back": {
+        "Text": "plant"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

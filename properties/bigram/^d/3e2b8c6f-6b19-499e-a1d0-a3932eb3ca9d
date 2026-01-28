@@ -1,0 +1,12 @@
+{
+  "id": "3e2b8c6f-6b19-499e-a1d0-a3932eb3ca9d",
+  "data": {
+    "Instance": {
+      "name": "Darlehen",
+      "back": {
+        "Text": "loan"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

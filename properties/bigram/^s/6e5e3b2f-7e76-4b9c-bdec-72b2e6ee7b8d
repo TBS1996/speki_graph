@@ -1,0 +1,12 @@
+{
+  "id": "6e5e3b2f-7e76-4b9c-bdec-72b2e6ee7b8d",
+  "data": {
+    "Instance": {
+      "name": "sokk",
+      "back": {
+        "Text": "sock"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

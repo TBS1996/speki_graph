@@ -1,0 +1,12 @@
+{
+  "id": "ac8ef4f1-2e93-401f-a203-35a37aec17b0",
+  "data": {
+    "Instance": {
+      "name": "Ladung",
+      "back": {
+        "Text": "load"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

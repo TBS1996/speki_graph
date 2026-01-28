@@ -1,0 +1,12 @@
+{
+  "id": "86f29a88-ff20-4778-a44c-c30bf9f7f14b",
+  "data": {
+    "Instance": {
+      "name": "Substanz",
+      "back": {
+        "Text": "substance"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

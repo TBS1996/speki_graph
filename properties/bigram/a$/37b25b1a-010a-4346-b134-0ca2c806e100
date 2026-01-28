@@ -1,0 +1,12 @@
+{
+  "id": "37b25b1a-010a-4346-b134-0ca2c806e100",
+  "data": {
+    "Instance": {
+      "name": "tarea",
+      "back": {
+        "Text": "task"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

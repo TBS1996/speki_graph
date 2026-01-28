@@ -1,0 +1,12 @@
+{
+  "id": "3d489310-c026-45fd-8b5a-976acf4cdb71",
+  "data": {
+    "Instance": {
+      "name": "plikt",
+      "back": {
+        "Text": "obligation"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

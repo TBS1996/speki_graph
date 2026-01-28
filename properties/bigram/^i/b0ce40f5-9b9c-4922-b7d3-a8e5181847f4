@@ -1,0 +1,12 @@
+{
+  "id": "b0ce40f5-9b9c-4922-b7d3-a8e5181847f4",
+  "data": {
+    "Instance": {
+      "name": "innsikt",
+      "back": {
+        "Text": "insight"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "9dae7289-a143-442a-bb81-5741e9a3f8bd",
+  "data": {
+    "Instance": {
+      "name": "blogg",
+      "back": {
+        "Text": "blog"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "de54cee8-1f3a-4a32-a805-1b2b892d174d",
+  "data": {
+    "Instance": {
+      "name": "Prozentsatz",
+      "back": {
+        "Text": "percentage"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

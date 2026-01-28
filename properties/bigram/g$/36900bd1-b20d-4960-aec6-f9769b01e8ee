@@ -1,0 +1,12 @@
+{
+  "id": "36900bd1-b20d-4960-aec6-f9769b01e8ee",
+  "data": {
+    "Instance": {
+      "name": "Erzählung",
+      "back": {
+        "Text": "tale"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

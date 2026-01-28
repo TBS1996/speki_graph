@@ -1,0 +1,12 @@
+{
+  "id": "7f83d66a-8706-4073-9920-7c067b20cf89",
+  "data": {
+    "Instance": {
+      "name": "Anordnung",
+      "back": {
+        "Text": "arrangement"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

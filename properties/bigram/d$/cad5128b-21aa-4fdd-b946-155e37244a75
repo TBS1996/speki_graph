@@ -1,0 +1,12 @@
+{
+  "id": "cad5128b-21aa-4fdd-b946-155e37244a75",
+  "data": {
+    "Instance": {
+      "name": "Wald",
+      "back": {
+        "Text": "forest"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

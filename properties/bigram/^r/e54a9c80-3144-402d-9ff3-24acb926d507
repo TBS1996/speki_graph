@@ -1,0 +1,12 @@
+{
+  "id": "e54a9c80-3144-402d-9ff3-24acb926d507",
+  "data": {
+    "Instance": {
+      "name": "røyk",
+      "back": {
+        "Text": "smoke"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

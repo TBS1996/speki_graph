@@ -1,0 +1,12 @@
+{
+  "id": "42a9ecfe-167a-43de-99d8-1825cefe100d",
+  "data": {
+    "Instance": {
+      "name": "parque",
+      "back": {
+        "Text": "park"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

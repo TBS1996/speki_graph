@@ -1,0 +1,12 @@
+{
+  "id": "de440b76-168d-45c4-b10a-5a24e4858f1b",
+  "data": {
+    "Instance": {
+      "name": "venn",
+      "back": {
+        "Text": "friend"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

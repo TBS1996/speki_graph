@@ -1,0 +1,12 @@
+{
+  "id": "7aa8d095-b73e-4b23-a5e7-8ce0756395e3",
+  "data": {
+    "Instance": {
+      "name": "Vorbereitung",
+      "back": {
+        "Text": "preparation"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

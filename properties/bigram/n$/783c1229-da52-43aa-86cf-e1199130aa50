@@ -1,0 +1,12 @@
+{
+  "id": "783c1229-da52-43aa-86cf-e1199130aa50",
+  "data": {
+    "Instance": {
+      "name": "duración",
+      "back": {
+        "Text": "duration"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

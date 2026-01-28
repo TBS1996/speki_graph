@@ -1,0 +1,12 @@
+{
+  "id": "c72844d6-48c3-44a5-bd5c-9e65fc24cf0c",
+  "data": {
+    "Instance": {
+      "name": "forandring",
+      "back": {
+        "Text": "change"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

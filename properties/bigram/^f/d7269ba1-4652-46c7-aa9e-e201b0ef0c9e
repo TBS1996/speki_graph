@@ -1,0 +1,12 @@
+{
+  "id": "d7269ba1-4652-46c7-aa9e-e201b0ef0c9e",
+  "data": {
+    "Instance": {
+      "name": "forfatter",
+      "back": {
+        "Text": "author"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

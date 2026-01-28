@@ -1,0 +1,12 @@
+{
+  "id": "ffcb1623-25f8-47e6-bb66-580100087bb1",
+  "data": {
+    "Instance": {
+      "name": "Oberfläche",
+      "back": {
+        "Text": "surface"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

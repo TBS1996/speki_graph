@@ -1,0 +1,12 @@
+{
+  "id": "c8ba7a32-ae79-4a5d-9343-7463250a35ac",
+  "data": {
+    "Instance": {
+      "name": "regime",
+      "back": {
+        "Text": "regime"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

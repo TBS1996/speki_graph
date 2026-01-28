@@ -1,0 +1,12 @@
+{
+  "id": "e1663979-e4f6-4603-955c-d3f1d19dc4a6",
+  "data": {
+    "Instance": {
+      "name": "oppdatering",
+      "back": {
+        "Text": "update"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

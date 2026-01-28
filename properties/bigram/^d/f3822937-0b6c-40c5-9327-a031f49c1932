@@ -1,0 +1,12 @@
+{
+  "id": "f3822937-0b6c-40c5-9327-a031f49c1932",
+  "data": {
+    "Instance": {
+      "name": "dokument",
+      "back": {
+        "Text": "document"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

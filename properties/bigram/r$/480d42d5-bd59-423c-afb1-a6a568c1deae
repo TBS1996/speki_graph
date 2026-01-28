@@ -1,0 +1,12 @@
+{
+  "id": "480d42d5-bd59-423c-afb1-a6a568c1deae",
+  "data": {
+    "Instance": {
+      "name": "lector",
+      "back": {
+        "Text": "reader"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

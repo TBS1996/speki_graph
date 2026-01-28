@@ -1,0 +1,12 @@
+{
+  "id": "d622b408-c8fe-42b3-aee0-38a21567f4f0",
+  "data": {
+    "Instance": {
+      "name": "flujo",
+      "back": {
+        "Text": "flow"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

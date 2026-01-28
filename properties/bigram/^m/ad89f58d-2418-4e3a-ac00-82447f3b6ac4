@@ -1,0 +1,12 @@
+{
+  "id": "ad89f58d-2418-4e3a-ac00-82447f3b6ac4",
+  "data": {
+    "Instance": {
+      "name": "Milch",
+      "back": {
+        "Text": "milk"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

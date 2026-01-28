@@ -1,0 +1,12 @@
+{
+  "id": "e123615b-9433-4c1e-8124-cd96cc13ea5d",
+  "data": {
+    "Instance": {
+      "name": "escala",
+      "back": {
+        "Text": "scale"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

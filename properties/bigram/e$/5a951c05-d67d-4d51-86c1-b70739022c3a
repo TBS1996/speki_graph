@@ -1,0 +1,12 @@
+{
+  "id": "5a951c05-d67d-4d51-86c1-b70739022c3a",
+  "data": {
+    "Instance": {
+      "name": "Geldstrafe",
+      "back": {
+        "Text": "fine"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

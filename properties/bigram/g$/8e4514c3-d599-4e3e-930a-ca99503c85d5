@@ -1,0 +1,12 @@
+{
+  "id": "8e4514c3-d599-4e3e-930a-ca99503c85d5",
+  "data": {
+    "Instance": {
+      "name": "Meinung",
+      "back": {
+        "Text": "opinion"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

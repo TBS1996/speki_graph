@@ -1,0 +1,12 @@
+{
+  "id": "526a96dc-03c9-49b5-87cc-32d1dd483802",
+  "data": {
+    "Instance": {
+      "name": "efecto",
+      "back": {
+        "Text": "effect"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "b724dae8-2649-40c3-8fe0-d588aaacf4c9",
+  "data": {
+    "Instance": {
+      "name": "sucursal",
+      "back": {
+        "Text": "branch"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "b0cbf7e6-f277-4600-a923-55f11f1a5fa0",
+  "data": {
+    "Instance": {
+      "name": "hjemmeside",
+      "back": {
+        "Text": "homepage"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

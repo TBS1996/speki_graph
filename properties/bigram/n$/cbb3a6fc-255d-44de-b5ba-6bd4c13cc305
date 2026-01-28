@@ -1,0 +1,12 @@
+{
+  "id": "cbb3a6fc-255d-44de-b5ba-6bd4c13cc305",
+  "data": {
+    "Instance": {
+      "name": "Osten",
+      "back": {
+        "Text": "east"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

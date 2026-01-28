@@ -1,0 +1,12 @@
+{
+  "id": "12d9ffb7-1f2d-4fd2-a536-6369b7a3aebc",
+  "data": {
+    "Instance": {
+      "name": "jord",
+      "back": {
+        "Text": "soil"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

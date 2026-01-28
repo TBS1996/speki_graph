@@ -1,0 +1,12 @@
+{
+  "id": "8e23a0ac-f21f-4327-9722-73deb0cd166a",
+  "data": {
+    "Instance": {
+      "name": "Dame",
+      "back": {
+        "Text": "lady"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

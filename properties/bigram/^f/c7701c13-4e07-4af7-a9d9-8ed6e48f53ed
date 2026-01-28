@@ -1,0 +1,12 @@
+{
+  "id": "c7701c13-4e07-4af7-a9d9-8ed6e48f53ed",
+  "data": {
+    "Instance": {
+      "name": "følelse",
+      "back": {
+        "Text": "feeling"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

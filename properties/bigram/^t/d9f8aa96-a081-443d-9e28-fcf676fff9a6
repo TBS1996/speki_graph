@@ -1,0 +1,12 @@
+{
+  "id": "d9f8aa96-a081-443d-9e28-fcf676fff9a6",
+  "data": {
+    "Instance": {
+      "name": "tribunal",
+      "back": {
+        "Text": "court"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

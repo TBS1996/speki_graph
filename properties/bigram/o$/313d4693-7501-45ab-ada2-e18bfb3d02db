@@ -1,0 +1,12 @@
+{
+  "id": "313d4693-7501-45ab-ada2-e18bfb3d02db",
+  "data": {
+    "Instance": {
+      "name": "dominio",
+      "back": {
+        "Text": "domain"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

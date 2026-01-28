@@ -1,0 +1,12 @@
+{
+  "id": "59661c21-4c3b-4426-a0b4-a03ce14e7840",
+  "data": {
+    "Instance": {
+      "name": "Stein",
+      "back": {
+        "Text": "stone"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

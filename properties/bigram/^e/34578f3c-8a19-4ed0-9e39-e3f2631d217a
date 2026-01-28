@@ -1,0 +1,12 @@
+{
+  "id": "34578f3c-8a19-4ed0-9e39-e3f2631d217a",
+  "data": {
+    "Instance": {
+      "name": "engranaje",
+      "back": {
+        "Text": "gear"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

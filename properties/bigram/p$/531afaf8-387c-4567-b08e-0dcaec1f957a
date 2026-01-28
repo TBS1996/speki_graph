@@ -1,0 +1,12 @@
+{
+  "id": "531afaf8-387c-4567-b08e-0dcaec1f957a",
+  "data": {
+    "Instance": {
+      "name": "trapp",
+      "back": {
+        "Text": "stairs"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

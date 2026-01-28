@@ -1,0 +1,12 @@
+{
+  "id": "2c02dce6-3c43-4c2a-8acb-18153ac231dc",
+  "data": {
+    "Instance": {
+      "name": "tanque",
+      "back": {
+        "Text": "tank"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

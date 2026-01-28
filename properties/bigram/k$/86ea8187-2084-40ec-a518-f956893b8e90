@@ -1,0 +1,12 @@
+{
+  "id": "86ea8187-2084-40ec-a518-f956893b8e90",
+  "data": {
+    "Instance": {
+      "name": "Musik",
+      "back": {
+        "Text": "music"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

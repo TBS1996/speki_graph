@@ -1,0 +1,12 @@
+{
+  "id": "b06a8cc8-cffa-4c07-8b72-c3990677d7a4",
+  "data": {
+    "Instance": {
+      "name": "lunsj",
+      "back": {
+        "Text": "lunch"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

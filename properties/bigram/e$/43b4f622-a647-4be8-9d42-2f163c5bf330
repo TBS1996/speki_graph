@@ -1,0 +1,12 @@
+{
+  "id": "43b4f622-a647-4be8-9d42-2f163c5bf330",
+  "data": {
+    "Instance": {
+      "name": "Knie",
+      "back": {
+        "Text": "knee"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "8819a62d-09c4-427c-9442-4123b0096b0a",
+  "data": {
+    "Instance": {
+      "name": "organización",
+      "back": {
+        "Text": "organisation"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

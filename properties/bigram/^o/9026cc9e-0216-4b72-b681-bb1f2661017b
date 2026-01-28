@@ -1,0 +1,12 @@
+{
+  "id": "9026cc9e-0216-4b72-b681-bb1f2661017b",
+  "data": {
+    "Instance": {
+      "name": "område",
+      "back": {
+        "Text": "area"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

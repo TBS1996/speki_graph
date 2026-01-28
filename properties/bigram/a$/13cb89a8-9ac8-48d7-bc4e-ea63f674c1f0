@@ -1,0 +1,12 @@
+{
+  "id": "13cb89a8-9ac8-48d7-bc4e-ea63f674c1f0",
+  "data": {
+    "Instance": {
+      "name": "junta",
+      "back": {
+        "Text": "board"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

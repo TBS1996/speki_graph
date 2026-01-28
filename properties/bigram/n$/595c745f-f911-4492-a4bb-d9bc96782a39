@@ -1,0 +1,12 @@
+{
+  "id": "595c745f-f911-4492-a4bb-d9bc96782a39",
+  "data": {
+    "Instance": {
+      "name": "conversación",
+      "back": {
+        "Text": "conversation"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

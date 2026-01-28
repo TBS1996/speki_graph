@@ -1,0 +1,12 @@
+{
+  "id": "c0268ca1-a58d-4a84-ad3c-65a19d912d8a",
+  "data": {
+    "Instance": {
+      "name": "angst",
+      "back": {
+        "Text": "anxiety"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

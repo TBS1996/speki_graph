@@ -1,0 +1,12 @@
+{
+  "id": "c90ae6ef-d4d9-43ce-a386-29523422493f",
+  "data": {
+    "Instance": {
+      "name": "forutsetning",
+      "back": {
+        "Text": "prerequisite"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "49264a25-ee95-425c-9b3c-0fb61e127787",
+  "data": {
+    "Instance": {
+      "name": "rekke",
+      "back": {
+        "Text": "row"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

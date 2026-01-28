@@ -1,0 +1,12 @@
+{
+  "id": "1fd3e83d-673f-46fa-934d-51211ec18e50",
+  "data": {
+    "Instance": {
+      "name": "gulv",
+      "back": {
+        "Text": "floor"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

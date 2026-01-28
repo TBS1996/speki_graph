@@ -1,0 +1,12 @@
+{
+  "id": "2a4593eb-ebfe-412d-ac75-6770d8e14ba0",
+  "data": {
+    "Instance": {
+      "name": "pakke",
+      "back": {
+        "Text": "package"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

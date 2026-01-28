@@ -1,0 +1,12 @@
+{
+  "id": "5004841f-9a84-4e84-b93f-7ef52bce33d9",
+  "data": {
+    "Instance": {
+      "name": "album",
+      "back": {
+        "Text": "album"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

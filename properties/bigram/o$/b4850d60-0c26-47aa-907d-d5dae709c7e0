@@ -1,0 +1,12 @@
+{
+  "id": "b4850d60-0c26-47aa-907d-d5dae709c7e0",
+  "data": {
+    "Instance": {
+      "name": "infierno",
+      "back": {
+        "Text": "hell"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

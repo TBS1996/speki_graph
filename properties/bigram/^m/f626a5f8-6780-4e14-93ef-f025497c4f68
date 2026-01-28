@@ -1,0 +1,12 @@
+{
+  "id": "f626a5f8-6780-4e14-93ef-f025497c4f68",
+  "data": {
+    "Instance": {
+      "name": "medlem",
+      "back": {
+        "Text": "member"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

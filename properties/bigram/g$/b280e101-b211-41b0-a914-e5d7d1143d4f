@@ -1,0 +1,12 @@
+{
+  "id": "b280e101-b211-41b0-a914-e5d7d1143d4f",
+  "data": {
+    "Instance": {
+      "name": "forening",
+      "back": {
+        "Text": "association"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "2c0c0d76-c9f0-4623-b294-fb3786212d36",
+  "data": {
+    "Instance": {
+      "name": "klikk",
+      "back": {
+        "Text": "click"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

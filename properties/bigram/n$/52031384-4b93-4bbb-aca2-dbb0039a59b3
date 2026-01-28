@@ -1,0 +1,12 @@
+{
+  "id": "52031384-4b93-4bbb-aca2-dbb0039a59b3",
+  "data": {
+    "Instance": {
+      "name": "Lohn",
+      "back": {
+        "Text": "wage"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

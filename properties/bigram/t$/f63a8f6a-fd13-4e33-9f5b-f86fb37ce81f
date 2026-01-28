@@ -1,0 +1,12 @@
+{
+  "id": "f63a8f6a-fd13-4e33-9f5b-f86fb37ce81f",
+  "data": {
+    "Instance": {
+      "name": "Boot",
+      "back": {
+        "Text": "boat"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

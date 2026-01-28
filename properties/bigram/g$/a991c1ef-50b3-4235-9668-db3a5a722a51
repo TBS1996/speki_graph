@@ -1,0 +1,12 @@
+{
+  "id": "a991c1ef-50b3-4235-9668-db3a5a722a51",
+  "data": {
+    "Instance": {
+      "name": "adgang",
+      "back": {
+        "Text": "access"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

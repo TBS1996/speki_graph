@@ -1,0 +1,12 @@
+{
+  "id": "7773fe5d-b9eb-46d6-8f20-2d3121f48169",
+  "data": {
+    "Instance": {
+      "name": "aktivitet",
+      "back": {
+        "Text": "activity"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

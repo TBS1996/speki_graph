@@ -1,0 +1,12 @@
+{
+  "id": "323ec541-037c-44b8-b89d-01f35be7eedf",
+  "data": {
+    "Instance": {
+      "name": "evaluering",
+      "back": {
+        "Text": "evaluation"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

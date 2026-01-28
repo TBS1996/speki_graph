@@ -1,0 +1,12 @@
+{
+  "id": "a8ecb1d4-c8d2-4cb6-87bb-add3585936cf",
+  "data": {
+    "Instance": {
+      "name": "Infektion",
+      "back": {
+        "Text": "infection"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

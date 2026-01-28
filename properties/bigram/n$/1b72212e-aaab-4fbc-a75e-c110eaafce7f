@@ -1,0 +1,12 @@
+{
+  "id": "1b72212e-aaab-4fbc-a75e-c110eaafce7f",
+  "data": {
+    "Instance": {
+      "name": "sesión",
+      "back": {
+        "Text": "session"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

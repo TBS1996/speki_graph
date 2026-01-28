@@ -1,0 +1,12 @@
+{
+  "id": "0a5f691a-da63-40ff-84b8-c5cbcc96264a",
+  "data": {
+    "Instance": {
+      "name": "Haut",
+      "back": {
+        "Text": "skin"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

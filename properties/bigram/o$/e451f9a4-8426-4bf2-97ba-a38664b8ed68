@@ -1,0 +1,12 @@
+{
+  "id": "e451f9a4-8426-4bf2-97ba-a38664b8ed68",
+  "data": {
+    "Instance": {
+      "name": "desecho",
+      "back": {
+        "Text": "waste"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

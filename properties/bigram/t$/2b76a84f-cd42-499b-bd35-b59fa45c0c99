@@ -1,0 +1,12 @@
+{
+  "id": "2b76a84f-cd42-499b-bd35-b59fa45c0c99",
+  "data": {
+    "Instance": {
+      "name": "Planet",
+      "back": {
+        "Text": "planet"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

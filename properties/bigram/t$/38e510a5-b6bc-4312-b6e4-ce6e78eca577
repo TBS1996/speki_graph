@@ -1,0 +1,12 @@
+{
+  "id": "38e510a5-b6bc-4312-b6e4-ce6e78eca577",
+  "data": {
+    "Instance": {
+      "name": "tidsskrift",
+      "back": {
+        "Text": "journal"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

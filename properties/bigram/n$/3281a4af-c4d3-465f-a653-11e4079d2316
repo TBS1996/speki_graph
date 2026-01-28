@@ -1,0 +1,12 @@
+{
+  "id": "3281a4af-c4d3-465f-a653-11e4079d2316",
+  "data": {
+    "Instance": {
+      "name": "canción",
+      "back": {
+        "Text": "song"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

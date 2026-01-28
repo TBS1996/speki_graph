@@ -1,0 +1,12 @@
+{
+  "id": "4843de7d-78aa-4ab8-9c18-137cf45ceae4",
+  "data": {
+    "Instance": {
+      "name": "Stock",
+      "back": {
+        "Text": "storey"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

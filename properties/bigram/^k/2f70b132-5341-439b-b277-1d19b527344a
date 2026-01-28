@@ -1,0 +1,12 @@
+{
+  "id": "2f70b132-5341-439b-b277-1d19b527344a",
+  "data": {
+    "Instance": {
+      "name": "kuldegrad",
+      "back": {
+        "Text": "minus degree"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "778babdd-ed1c-41c8-b377-6b3b33249451",
+  "data": {
+    "Instance": {
+      "name": "Produkt",
+      "back": {
+        "Text": "product"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

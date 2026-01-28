@@ -1,0 +1,12 @@
+{
+  "id": "66a58a30-0633-435f-aa69-8e32e635b620",
+  "data": {
+    "Instance": {
+      "name": "pieza",
+      "back": {
+        "Text": "piece"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

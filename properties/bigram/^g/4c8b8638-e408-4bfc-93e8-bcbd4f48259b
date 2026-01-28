@@ -1,0 +1,12 @@
+{
+  "id": "4c8b8638-e408-4bfc-93e8-bcbd4f48259b",
+  "data": {
+    "Instance": {
+      "name": "Gesetz",
+      "back": {
+        "Text": "law"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

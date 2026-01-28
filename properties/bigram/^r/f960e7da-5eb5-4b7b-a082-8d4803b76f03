@@ -1,0 +1,12 @@
+{
+  "id": "f960e7da-5eb5-4b7b-a082-8d4803b76f03",
+  "data": {
+    "Instance": {
+      "name": "regel",
+      "back": {
+        "Text": "rule"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

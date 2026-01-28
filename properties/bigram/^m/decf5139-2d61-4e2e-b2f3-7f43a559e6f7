@@ -1,0 +1,12 @@
+{
+  "id": "decf5139-2d61-4e2e-b2f3-7f43a559e6f7",
+  "data": {
+    "Instance": {
+      "name": "Markierung",
+      "back": {
+        "Text": "mark"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

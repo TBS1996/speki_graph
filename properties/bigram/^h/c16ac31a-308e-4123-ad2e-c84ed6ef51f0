@@ -1,0 +1,12 @@
+{
+  "id": "c16ac31a-308e-4123-ad2e-c84ed6ef51f0",
+  "data": {
+    "Instance": {
+      "name": "hull",
+      "back": {
+        "Text": "hole"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

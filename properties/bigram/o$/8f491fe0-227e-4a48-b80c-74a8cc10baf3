@@ -1,0 +1,12 @@
+{
+  "id": "8f491fe0-227e-4a48-b80c-74a8cc10baf3",
+  "data": {
+    "Instance": {
+      "name": "entrenamiento",
+      "back": {
+        "Text": "training"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

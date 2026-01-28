@@ -1,0 +1,12 @@
+{
+  "id": "7bfecec6-be87-4339-93be-f6fd4e1ebe9c",
+  "data": {
+    "Instance": {
+      "name": "ledning",
+      "back": {
+        "Text": "cord"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

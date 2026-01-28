@@ -1,0 +1,12 @@
+{
+  "id": "a07d95df-eeda-4f77-97c0-f9b989b35f12",
+  "data": {
+    "Instance": {
+      "name": "rolle",
+      "back": {
+        "Text": "role"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

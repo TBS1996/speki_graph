@@ -1,0 +1,12 @@
+{
+  "id": "ed83e795-4475-4e19-9ae0-eb313510e443",
+  "data": {
+    "Instance": {
+      "name": "parada",
+      "back": {
+        "Text": "stop"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

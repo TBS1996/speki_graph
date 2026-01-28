@@ -1,0 +1,12 @@
+{
+  "id": "72719179-f054-4b9e-a7a1-47d89e5102a5",
+  "data": {
+    "Instance": {
+      "name": "forsikring",
+      "back": {
+        "Text": "insurance"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "0b53a31c-c2c5-41d6-9326-2cbf2507cab3",
+  "data": {
+    "Instance": {
+      "name": "betingelse",
+      "back": {
+        "Text": "condition"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

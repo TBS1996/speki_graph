@@ -1,0 +1,12 @@
+{
+  "id": "e6f3f83e-d62c-47f7-bdf8-c07ef2d69de2",
+  "data": {
+    "Instance": {
+      "name": "Denkweise",
+      "back": {
+        "Text": "thinking"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

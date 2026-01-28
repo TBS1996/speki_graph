@@ -1,0 +1,12 @@
+{
+  "id": "d457b7bb-d1fa-4410-ba3c-33d19e1eafce",
+  "data": {
+    "Instance": {
+      "name": "Interpretation",
+      "back": {
+        "Text": "interpretation"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

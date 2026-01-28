@@ -1,0 +1,12 @@
+{
+  "id": "dfccd2ed-f60d-4686-a3d7-90f4fb69e925",
+  "data": {
+    "Instance": {
+      "name": "nterspørsel",
+      "back": {
+        "Text": "demand"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

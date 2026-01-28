@@ -1,0 +1,12 @@
+{
+  "id": "bdd8165a-1ec4-417f-a3b1-a375bae01c0a",
+  "data": {
+    "Instance": {
+      "name": "vikar",
+      "back": {
+        "Text": "substitute"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

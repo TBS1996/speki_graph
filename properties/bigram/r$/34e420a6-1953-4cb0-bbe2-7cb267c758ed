@@ -1,0 +1,12 @@
+{
+  "id": "34e420a6-1953-4cb0-bbe2-7cb267c758ed",
+  "data": {
+    "Instance": {
+      "name": "Abenteuer",
+      "back": {
+        "Text": "adventure"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

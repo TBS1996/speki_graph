@@ -1,0 +1,12 @@
+{
+  "id": "1a5bb9bc-420a-4ad7-a192-91075e8e53c8",
+  "data": {
+    "Instance": {
+      "name": "eksamen",
+      "back": {
+        "Text": "exam"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

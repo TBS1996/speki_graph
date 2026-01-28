@@ -1,0 +1,12 @@
+{
+  "id": "a99580ae-5bc8-4980-8525-e99deb4c7b29",
+  "data": {
+    "Instance": {
+      "name": "Gespräch",
+      "back": {
+        "Text": "talk"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

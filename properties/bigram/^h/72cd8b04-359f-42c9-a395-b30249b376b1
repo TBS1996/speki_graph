@@ -1,0 +1,12 @@
+{
+  "id": "72cd8b04-359f-42c9-a395-b30249b376b1",
+  "data": {
+    "Instance": {
+      "name": "hat",
+      "back": {
+        "Text": "hate"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "5057ccb9-8f45-4a4e-bd4c-5340132e861a",
+  "data": {
+    "Instance": {
+      "name": "Designer",
+      "back": {
+        "Text": "designer"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

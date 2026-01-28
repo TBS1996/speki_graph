@@ -1,0 +1,12 @@
+{
+  "id": "d0c61bd0-e5bc-432a-9cbb-c1cbea8ab1b6",
+  "data": {
+    "Instance": {
+      "name": "innsats",
+      "back": {
+        "Text": "effort"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

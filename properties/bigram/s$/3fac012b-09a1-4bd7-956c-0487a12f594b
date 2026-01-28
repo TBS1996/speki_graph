@@ -1,0 +1,12 @@
+{
+  "id": "3fac012b-09a1-4bd7-956c-0487a12f594b",
+  "data": {
+    "Instance": {
+      "name": "Einfluss",
+      "back": {
+        "Text": "influence"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

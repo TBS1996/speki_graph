@@ -1,0 +1,12 @@
+{
+  "id": "af64fa30-9b1e-4253-bcae-b2dc8cf258a1",
+  "data": {
+    "Instance": {
+      "name": "holdning",
+      "back": {
+        "Text": "attitude"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

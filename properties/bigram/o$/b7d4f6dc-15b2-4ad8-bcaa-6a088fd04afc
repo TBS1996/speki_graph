@@ -1,0 +1,12 @@
+{
+  "id": "b7d4f6dc-15b2-4ad8-bcaa-6a088fd04afc",
+  "data": {
+    "Instance": {
+      "name": "sonido",
+      "back": {
+        "Text": "sound"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

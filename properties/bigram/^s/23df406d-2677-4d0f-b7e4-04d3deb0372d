@@ -1,0 +1,12 @@
+{
+  "id": "23df406d-2677-4d0f-b7e4-04d3deb0372d",
+  "data": {
+    "Instance": {
+      "name": "sjekk",
+      "back": {
+        "Text": "check"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

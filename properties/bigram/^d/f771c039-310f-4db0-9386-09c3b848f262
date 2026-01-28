@@ -1,0 +1,12 @@
+{
+  "id": "f771c039-310f-4db0-9386-09c3b848f262",
+  "data": {
+    "Instance": {
+      "name": "diabetes",
+      "back": {
+        "Text": "diabetes"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

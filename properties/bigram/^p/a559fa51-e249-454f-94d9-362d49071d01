@@ -1,0 +1,12 @@
+{
+  "id": "a559fa51-e249-454f-94d9-362d49071d01",
+  "data": {
+    "Instance": {
+      "name": "polvo",
+      "back": {
+        "Text": "dust"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

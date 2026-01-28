@@ -1,0 +1,12 @@
+{
+  "id": "ff98002d-4b8a-41c9-86d0-50247631e0d5",
+  "data": {
+    "Instance": {
+      "name": "gráfico",
+      "back": {
+        "Text": "chart"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

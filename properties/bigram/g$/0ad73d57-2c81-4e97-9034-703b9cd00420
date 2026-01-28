@@ -1,0 +1,12 @@
+{
+  "id": "0ad73d57-2c81-4e97-9034-703b9cd00420",
+  "data": {
+    "Instance": {
+      "name": "bygning",
+      "back": {
+        "Text": "building"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

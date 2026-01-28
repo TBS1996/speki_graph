@@ -1,0 +1,12 @@
+{
+  "id": "a6e821f4-ed6e-4d0e-8080-7af490049d22",
+  "data": {
+    "Instance": {
+      "name": "Ausschuss",
+      "back": {
+        "Text": "committee"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

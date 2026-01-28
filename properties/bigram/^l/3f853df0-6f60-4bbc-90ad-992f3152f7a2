@@ -1,0 +1,12 @@
+{
+  "id": "3f853df0-6f60-4bbc-90ad-992f3152f7a2",
+  "data": {
+    "Instance": {
+      "name": "Länge",
+      "back": {
+        "Text": "length"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

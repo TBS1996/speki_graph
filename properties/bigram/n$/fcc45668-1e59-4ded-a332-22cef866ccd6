@@ -1,0 +1,12 @@
+{
+  "id": "fcc45668-1e59-4ded-a332-22cef866ccd6",
+  "data": {
+    "Instance": {
+      "name": "administrasjon",
+      "back": {
+        "Text": "administration"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

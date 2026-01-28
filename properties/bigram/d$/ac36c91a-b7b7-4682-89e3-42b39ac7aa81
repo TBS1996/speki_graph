@@ -1,0 +1,12 @@
+{
+  "id": "ac36c91a-b7b7-4682-89e3-42b39ac7aa81",
+  "data": {
+    "Instance": {
+      "name": "sted",
+      "back": {
+        "Text": "place"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

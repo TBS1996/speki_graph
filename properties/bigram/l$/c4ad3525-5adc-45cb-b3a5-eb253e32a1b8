@@ -1,0 +1,12 @@
+{
+  "id": "c4ad3525-5adc-45cb-b3a5-eb253e32a1b8",
+  "data": {
+    "Instance": {
+      "name": "Potenzial",
+      "back": {
+        "Text": "potential"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

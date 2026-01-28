@@ -1,0 +1,12 @@
+{
+  "id": "0658ae3b-d563-4629-9dc2-f48481aacfcf",
+  "data": {
+    "Instance": {
+      "name": "Gerechtigkeit",
+      "back": {
+        "Text": "justice"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

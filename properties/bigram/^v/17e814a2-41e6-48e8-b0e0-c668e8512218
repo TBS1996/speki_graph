@@ -1,0 +1,12 @@
+{
+  "id": "17e814a2-41e6-48e8-b0e0-c668e8512218",
+  "data": {
+    "Instance": {
+      "name": "vedlikehold",
+      "back": {
+        "Text": "maintenance"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

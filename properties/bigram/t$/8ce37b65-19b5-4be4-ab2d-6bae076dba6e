@@ -1,0 +1,12 @@
+{
+  "id": "8ce37b65-19b5-4be4-ab2d-6bae076dba6e",
+  "data": {
+    "Instance": {
+      "name": "mat",
+      "back": {
+        "Text": "food"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

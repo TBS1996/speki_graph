@@ -1,0 +1,12 @@
+{
+  "id": "a823a3b2-9fc9-4819-b9c9-e203d147a15c",
+  "data": {
+    "Instance": {
+      "name": "Schuh",
+      "back": {
+        "Text": "shoe"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

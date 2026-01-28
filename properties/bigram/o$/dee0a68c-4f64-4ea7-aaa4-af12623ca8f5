@@ -1,0 +1,12 @@
+{
+  "id": "dee0a68c-4f64-4ea7-aaa4-af12623ca8f5",
+  "data": {
+    "Instance": {
+      "name": "pasajero",
+      "back": {
+        "Text": "passenger"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

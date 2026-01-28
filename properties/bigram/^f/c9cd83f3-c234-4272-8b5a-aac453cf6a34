@@ -1,0 +1,12 @@
+{
+  "id": "c9cd83f3-c234-4272-8b5a-aac453cf6a34",
+  "data": {
+    "Instance": {
+      "name": "Fleisch",
+      "back": {
+        "Text": "meat"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

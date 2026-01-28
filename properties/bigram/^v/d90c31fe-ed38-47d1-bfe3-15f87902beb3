@@ -1,0 +1,12 @@
+{
+  "id": "d90c31fe-ed38-47d1-bfe3-15f87902beb3",
+  "data": {
+    "Instance": {
+      "name": "Vorschrift",
+      "back": {
+        "Text": "regulation"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

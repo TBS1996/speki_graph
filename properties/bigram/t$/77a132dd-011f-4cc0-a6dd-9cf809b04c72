@@ -1,0 +1,12 @@
+{
+  "id": "77a132dd-011f-4cc0-a6dd-9cf809b04c72",
+  "data": {
+    "Instance": {
+      "name": "skatt",
+      "back": {
+        "Text": "tax"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

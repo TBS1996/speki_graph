@@ -1,0 +1,12 @@
+{
+  "id": "cf80f08c-78b5-463d-900f-63c771ba720f",
+  "data": {
+    "Instance": {
+      "name": "regjering",
+      "back": {
+        "Text": "government"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

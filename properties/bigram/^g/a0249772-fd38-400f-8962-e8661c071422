@@ -1,0 +1,12 @@
+{
+  "id": "a0249772-fd38-400f-8962-e8661c071422",
+  "data": {
+    "Instance": {
+      "name": "gjest",
+      "back": {
+        "Text": "guest"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "fa1f84bc-a8cc-4646-94f3-7291811ae64e",
+  "data": {
+    "Instance": {
+      "name": "valg",
+      "back": {
+        "Text": "choice"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

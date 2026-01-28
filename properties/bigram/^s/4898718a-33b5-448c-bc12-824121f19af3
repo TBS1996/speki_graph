@@ -1,0 +1,12 @@
+{
+  "id": "4898718a-33b5-448c-bc12-824121f19af3",
+  "data": {
+    "Instance": {
+      "name": "samtale",
+      "back": {
+        "Text": "conversation"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

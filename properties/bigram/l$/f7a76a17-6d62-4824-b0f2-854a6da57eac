@@ -1,0 +1,12 @@
+{
+  "id": "f7a76a17-6d62-4824-b0f2-854a6da57eac",
+  "data": {
+    "Instance": {
+      "name": "spill",
+      "back": {
+        "Text": "game"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

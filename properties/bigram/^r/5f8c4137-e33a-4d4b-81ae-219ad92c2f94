@@ -1,0 +1,12 @@
+{
+  "id": "5f8c4137-e33a-4d4b-81ae-219ad92c2f94",
+  "data": {
+    "Instance": {
+      "name": "rueda",
+      "back": {
+        "Text": "wheel"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

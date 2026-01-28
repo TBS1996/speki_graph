@@ -1,0 +1,12 @@
+{
+  "id": "f4f62d29-e94e-42d4-8835-6d7db2fbfb02",
+  "data": {
+    "Instance": {
+      "name": "titt",
+      "back": {
+        "Text": "peek"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

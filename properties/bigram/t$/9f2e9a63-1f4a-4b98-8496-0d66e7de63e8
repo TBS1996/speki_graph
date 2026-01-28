@@ -1,0 +1,12 @@
+{
+  "id": "9f2e9a63-1f4a-4b98-8496-0d66e7de63e8",
+  "data": {
+    "Instance": {
+      "name": "Blatt",
+      "back": {
+        "Text": "sheet"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

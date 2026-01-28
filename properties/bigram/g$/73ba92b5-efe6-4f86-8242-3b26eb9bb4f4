@@ -1,0 +1,12 @@
+{
+  "id": "73ba92b5-efe6-4f86-8242-3b26eb9bb4f4",
+  "data": {
+    "Instance": {
+      "name": "setning",
+      "back": {
+        "Text": "sentence"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "b3078f5c-ca28-4212-adbd-44a8b9cc1e3f",
+  "data": {
+    "Instance": {
+      "name": "cantidad",
+      "back": {
+        "Text": "amount"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "9a30d188-969d-4ae7-8f66-a46f5000fc3c",
+  "data": {
+    "Instance": {
+      "name": "requisito",
+      "back": {
+        "Text": "requirement"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

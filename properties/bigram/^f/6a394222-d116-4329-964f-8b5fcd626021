@@ -1,0 +1,12 @@
+{
+  "id": "6a394222-d116-4329-964f-8b5fcd626021",
+  "data": {
+    "Instance": {
+      "name": "favorito",
+      "back": {
+        "Text": "favourite"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

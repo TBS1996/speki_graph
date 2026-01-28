@@ -1,0 +1,12 @@
+{
+  "id": "d3fd4778-f4be-4a0d-8167-8ccbb1a48d6b",
+  "data": {
+    "Instance": {
+      "name": "campo",
+      "back": {
+        "Text": "field"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

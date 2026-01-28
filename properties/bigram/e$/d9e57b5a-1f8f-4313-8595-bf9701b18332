@@ -1,0 +1,12 @@
+{
+  "id": "d9e57b5a-1f8f-4313-8595-bf9701b18332",
+  "data": {
+    "Instance": {
+      "name": "Episode",
+      "back": {
+        "Text": "episode"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

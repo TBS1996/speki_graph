@@ -1,0 +1,12 @@
+{
+  "id": "7acc89b4-e678-46d9-92cf-3a9d3503623b",
+  "data": {
+    "Instance": {
+      "name": "Sahne",
+      "back": {
+        "Text": "cream"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

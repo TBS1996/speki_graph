@@ -1,0 +1,12 @@
+{
+  "id": "72f1a7db-b480-4799-9e94-5b41ee43f897",
+  "data": {
+    "Instance": {
+      "name": "copia",
+      "back": {
+        "Text": "copy"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

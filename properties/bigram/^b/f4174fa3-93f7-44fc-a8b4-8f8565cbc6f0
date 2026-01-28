@@ -1,0 +1,12 @@
+{
+  "id": "f4174fa3-93f7-44fc-a8b4-8f8565cbc6f0",
+  "data": {
+    "Instance": {
+      "name": "bud",
+      "back": {
+        "Text": "messenger"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

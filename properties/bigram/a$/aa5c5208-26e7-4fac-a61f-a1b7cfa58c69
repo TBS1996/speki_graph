@@ -1,0 +1,12 @@
+{
+  "id": "aa5c5208-26e7-4fac-a61f-a1b7cfa58c69",
+  "data": {
+    "Instance": {
+      "name": "Schema",
+      "back": {
+        "Text": "scheme"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

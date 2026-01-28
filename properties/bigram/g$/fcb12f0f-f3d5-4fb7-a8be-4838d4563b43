@@ -1,0 +1,12 @@
+{
+  "id": "fcb12f0f-f3d5-4fb7-a8be-4838d4563b43",
+  "data": {
+    "Instance": {
+      "name": "Messung",
+      "back": {
+        "Text": "measurement"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

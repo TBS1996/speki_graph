@@ -1,0 +1,12 @@
+{
+  "id": "5bf10675-5b9e-40db-ac4d-47a6c27117c6",
+  "data": {
+    "Instance": {
+      "name": "activo",
+      "back": {
+        "Text": "asset"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

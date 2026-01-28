@@ -1,0 +1,12 @@
+{
+  "id": "bcc6ab26-35cb-4e79-aa6a-19a95942f077",
+  "data": {
+    "Instance": {
+      "name": "Wand",
+      "back": {
+        "Text": "wall"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

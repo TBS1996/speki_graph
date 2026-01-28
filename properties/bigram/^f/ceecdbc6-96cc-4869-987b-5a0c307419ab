@@ -1,0 +1,12 @@
+{
+  "id": "ceecdbc6-96cc-4869-987b-5a0c307419ab",
+  "data": {
+    "Instance": {
+      "name": "flaske",
+      "back": {
+        "Text": "bottle"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

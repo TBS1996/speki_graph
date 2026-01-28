@@ -1,0 +1,12 @@
+{
+  "id": "84ed4bb4-dc2d-4f2b-a1e3-1d32f503fb3f",
+  "data": {
+    "Instance": {
+      "name": "Schrift",
+      "back": {
+        "Text": "writing"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

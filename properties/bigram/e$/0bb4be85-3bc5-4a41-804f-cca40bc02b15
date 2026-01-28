@@ -1,0 +1,12 @@
+{
+  "id": "0bb4be85-3bc5-4a41-804f-cca40bc02b15",
+  "data": {
+    "Instance": {
+      "name": "Säule",
+      "back": {
+        "Text": "column"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

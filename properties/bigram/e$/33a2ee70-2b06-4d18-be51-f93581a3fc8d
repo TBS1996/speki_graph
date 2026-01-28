@@ -1,0 +1,12 @@
+{
+  "id": "33a2ee70-2b06-4d18-be51-f93581a3fc8d",
+  "data": {
+    "Instance": {
+      "name": "sete",
+      "back": {
+        "Text": "seat"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

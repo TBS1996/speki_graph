@@ -1,0 +1,12 @@
+{
+  "id": "b3bb4175-ab4d-4340-ad37-adeda35be1ab",
+  "data": {
+    "Instance": {
+      "name": "sykepleier",
+      "back": {
+        "Text": "nurse"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

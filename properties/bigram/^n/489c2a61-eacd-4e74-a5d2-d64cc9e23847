@@ -1,0 +1,12 @@
+{
+  "id": "489c2a61-eacd-4e74-a5d2-d64cc9e23847",
+  "data": {
+    "Instance": {
+      "name": "nese",
+      "back": {
+        "Text": "nose"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

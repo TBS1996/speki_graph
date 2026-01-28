@@ -1,0 +1,12 @@
+{
+  "id": "f1877578-8030-47b7-b31d-1b27bbb7bf16",
+  "data": {
+    "Instance": {
+      "name": "Besuch",
+      "back": {
+        "Text": "visit"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

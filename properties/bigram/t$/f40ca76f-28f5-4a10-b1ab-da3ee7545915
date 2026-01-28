@@ -1,0 +1,12 @@
+{
+  "id": "f40ca76f-28f5-4a10-b1ab-da3ee7545915",
+  "data": {
+    "Instance": {
+      "name": "Respekt",
+      "back": {
+        "Text": "respect"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

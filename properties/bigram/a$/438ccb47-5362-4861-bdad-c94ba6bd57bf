@@ -1,0 +1,12 @@
+{
+  "id": "438ccb47-5362-4861-bdad-c94ba6bd57bf",
+  "data": {
+    "Instance": {
+      "name": "regla",
+      "back": {
+        "Text": "rule"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

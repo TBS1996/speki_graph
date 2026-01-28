@@ -1,0 +1,12 @@
+{
+  "id": "ec2e1ca8-45db-4c51-8bda-6a337dd468b6",
+  "data": {
+    "Instance": {
+      "name": "Ausbildung",
+      "back": {
+        "Text": "training"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "fae19d55-d30d-4c1b-9f6c-0d3f15636bf5",
+  "data": {
+    "Instance": {
+      "name": "referanse",
+      "back": {
+        "Text": "reference"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "7954294f-7d1b-49ad-aa5d-7365fb5cffb7",
+  "data": {
+    "Instance": {
+      "name": "Gast",
+      "back": {
+        "Text": "guest"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

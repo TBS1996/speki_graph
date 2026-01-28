@@ -1,0 +1,12 @@
+{
+  "id": "030ad44f-d777-448f-968d-42e26f01e19a",
+  "data": {
+    "Instance": {
+      "name": "hverdag",
+      "back": {
+        "Text": "weekday"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

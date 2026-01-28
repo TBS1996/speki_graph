@@ -1,0 +1,12 @@
+{
+  "id": "84276547-83a7-45c6-9200-bb336e172657",
+  "data": {
+    "Instance": {
+      "name": "Probe",
+      "back": {
+        "Text": "sample"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

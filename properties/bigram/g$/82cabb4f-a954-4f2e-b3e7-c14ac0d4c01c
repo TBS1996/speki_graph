@@ -1,0 +1,12 @@
+{
+  "id": "82cabb4f-a954-4f2e-b3e7-c14ac0d4c01c",
+  "data": {
+    "Instance": {
+      "name": "Schlussfolgerung",
+      "back": {
+        "Text": "conclusion"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

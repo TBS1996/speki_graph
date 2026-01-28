@@ -1,0 +1,12 @@
+{
+  "id": "e1fb80ae-c855-43d1-8bf0-e8156fbac585",
+  "data": {
+    "Instance": {
+      "name": "Gesellschaft",
+      "back": {
+        "Text": "society"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "444778cc-2a62-4e61-8380-32ff23434d06",
+  "data": {
+    "Instance": {
+      "name": "Berater",
+      "back": {
+        "Text": "consultant"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "ef9199a3-9c33-4102-8a0b-465c1a6ca900",
+  "data": {
+    "Instance": {
+      "name": "Regierung",
+      "back": {
+        "Text": "government"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

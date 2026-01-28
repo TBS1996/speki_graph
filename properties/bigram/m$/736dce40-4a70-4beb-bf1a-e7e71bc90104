@@ -1,0 +1,12 @@
+{
+  "id": "736dce40-4a70-4beb-bf1a-e7e71bc90104",
+  "data": {
+    "Instance": {
+      "name": "forum",
+      "back": {
+        "Text": "forum"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

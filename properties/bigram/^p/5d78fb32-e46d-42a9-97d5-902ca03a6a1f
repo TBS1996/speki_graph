@@ -1,0 +1,12 @@
+{
+  "id": "5d78fb32-e46d-42a9-97d5-902ca03a6a1f",
+  "data": {
+    "Instance": {
+      "name": "Presse",
+      "back": {
+        "Text": "press"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "a2c2c82c-0cca-42bd-8eef-a7279f95e242",
+  "data": {
+    "Instance": {
+      "name": "conjunto",
+      "back": {
+        "Text": "set"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

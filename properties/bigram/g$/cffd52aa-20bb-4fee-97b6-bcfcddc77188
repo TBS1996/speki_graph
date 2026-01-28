@@ -1,0 +1,12 @@
+{
+  "id": "cffd52aa-20bb-4fee-97b6-bcfcddc77188",
+  "data": {
+    "Instance": {
+      "name": "måling",
+      "back": {
+        "Text": "measurement"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

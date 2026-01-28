@@ -1,0 +1,12 @@
+{
+  "id": "5b35f584-31c3-47ce-8c52-728bc896c71b",
+  "data": {
+    "Instance": {
+      "name": "faktum",
+      "back": {
+        "Text": "fact"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

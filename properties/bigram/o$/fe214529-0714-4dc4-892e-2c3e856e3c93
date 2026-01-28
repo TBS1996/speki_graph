@@ -1,0 +1,12 @@
+{
+  "id": "fe214529-0714-4dc4-892e-2c3e856e3c93",
+  "data": {
+    "Instance": {
+      "name": "disparo",
+      "back": {
+        "Text": "shot"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

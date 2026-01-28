@@ -1,0 +1,12 @@
+{
+  "id": "9e58fe22-25e8-4b18-9b02-e2ae9ed90967",
+  "data": {
+    "Instance": {
+      "name": "kontrakt",
+      "back": {
+        "Text": "contract"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

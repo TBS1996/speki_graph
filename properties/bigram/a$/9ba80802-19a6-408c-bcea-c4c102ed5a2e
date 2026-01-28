@@ -1,0 +1,12 @@
+{
+  "id": "9ba80802-19a6-408c-bcea-c4c102ed5a2e",
+  "data": {
+    "Instance": {
+      "name": "revista",
+      "back": {
+        "Text": "magazine"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

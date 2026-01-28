@@ -1,0 +1,12 @@
+{
+  "id": "17871cec-b787-4a7d-a512-74ee789c8605",
+  "data": {
+    "Instance": {
+      "name": "detalle",
+      "back": {
+        "Text": "detail"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

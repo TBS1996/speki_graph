@@ -1,0 +1,12 @@
+{
+  "id": "74fa3775-275a-4cd8-a04b-1443e53b55b2",
+  "data": {
+    "Instance": {
+      "name": "prosjektleder",
+      "back": {
+        "Text": "project manager"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "420216fc-0e8c-4832-8e71-478dec262404",
+  "data": {
+    "Instance": {
+      "name": "redaksjon",
+      "back": {
+        "Text": "editorial office"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

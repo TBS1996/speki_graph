@@ -1,0 +1,12 @@
+{
+  "id": "be829a11-b467-40dd-b106-b8f5a896fe0a",
+  "data": {
+    "Instance": {
+      "name": "erstatning",
+      "back": {
+        "Text": "compensation"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

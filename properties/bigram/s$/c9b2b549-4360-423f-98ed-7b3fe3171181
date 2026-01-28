@@ -1,0 +1,12 @@
+{
+  "id": "c9b2b549-4360-423f-98ed-7b3fe3171181",
+  "data": {
+    "Instance": {
+      "name": "Eis",
+      "back": {
+        "Text": "ice"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

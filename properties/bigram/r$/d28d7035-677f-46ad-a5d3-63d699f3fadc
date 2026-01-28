@@ -1,0 +1,12 @@
+{
+  "id": "d28d7035-677f-46ad-a5d3-63d699f3fadc",
+  "data": {
+    "Instance": {
+      "name": "ordfører",
+      "back": {
+        "Text": "mayor"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

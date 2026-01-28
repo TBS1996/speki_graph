@@ -1,0 +1,12 @@
+{
+  "id": "c913c46a-02e9-4c92-8c8d-e6b035c683f7",
+  "data": {
+    "Instance": {
+      "name": "sykdom",
+      "back": {
+        "Text": "illness"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

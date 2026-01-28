@@ -1,0 +1,12 @@
+{
+  "id": "fc17650c-445d-4895-b260-65bf2cbc813c",
+  "data": {
+    "Instance": {
+      "name": "Idee",
+      "back": {
+        "Text": "idea"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

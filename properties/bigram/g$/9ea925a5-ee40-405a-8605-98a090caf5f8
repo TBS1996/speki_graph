@@ -1,0 +1,12 @@
+{
+  "id": "9ea925a5-ee40-405a-8605-98a090caf5f8",
+  "data": {
+    "Instance": {
+      "name": "Bestimmung",
+      "back": {
+        "Text": "provision"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

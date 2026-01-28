@@ -1,0 +1,12 @@
+{
+  "id": "619c860c-9b4a-4ea6-9a14-ddcd5308bef8",
+  "data": {
+    "Instance": {
+      "name": "Hypothek",
+      "back": {
+        "Text": "mortgage"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

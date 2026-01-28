@@ -1,0 +1,12 @@
+{
+  "id": "30d5e00d-8c1e-45be-a29a-a67ac49ada6b",
+  "data": {
+    "Instance": {
+      "name": "variant",
+      "back": {
+        "Text": "variation"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

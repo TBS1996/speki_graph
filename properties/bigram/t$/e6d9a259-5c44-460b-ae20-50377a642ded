@@ -1,0 +1,12 @@
+{
+  "id": "e6d9a259-5c44-460b-ae20-50377a642ded",
+  "data": {
+    "Instance": {
+      "name": "Zufriedenheit",
+      "back": {
+        "Text": "satisfaction"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

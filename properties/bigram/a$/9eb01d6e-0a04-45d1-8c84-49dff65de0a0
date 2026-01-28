@@ -1,0 +1,12 @@
+{
+  "id": "9eb01d6e-0a04-45d1-8c84-49dff65de0a0",
+  "data": {
+    "Instance": {
+      "name": "cuerda",
+      "back": {
+        "Text": "string"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

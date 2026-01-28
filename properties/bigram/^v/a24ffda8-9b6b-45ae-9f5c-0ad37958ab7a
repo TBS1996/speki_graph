@@ -1,0 +1,12 @@
+{
+  "id": "a24ffda8-9b6b-45ae-9f5c-0ad37958ab7a",
+  "data": {
+    "Instance": {
+      "name": "vits",
+      "back": {
+        "Text": "joke"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "ee8e4258-e658-4507-9ae6-113411f9047f",
+  "data": {
+    "Instance": {
+      "name": "Bildschirm",
+      "back": {
+        "Text": "screen"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

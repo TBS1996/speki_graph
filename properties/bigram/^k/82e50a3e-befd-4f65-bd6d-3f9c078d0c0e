@@ -1,0 +1,12 @@
+{
+  "id": "82e50a3e-befd-4f65-bd6d-3f9c078d0c0e",
+  "data": {
+    "Instance": {
+      "name": "Krieg",
+      "back": {
+        "Text": "war"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

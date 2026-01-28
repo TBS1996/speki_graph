@@ -1,0 +1,12 @@
+{
+  "id": "428b3f20-f388-48a8-8eee-205af8009964",
+  "data": {
+    "Instance": {
+      "name": "Gruppe",
+      "back": {
+        "Text": "group"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

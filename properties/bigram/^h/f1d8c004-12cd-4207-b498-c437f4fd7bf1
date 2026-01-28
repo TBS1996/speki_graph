@@ -1,0 +1,12 @@
+{
+  "id": "f1d8c004-12cd-4207-b498-c437f4fd7bf1",
+  "data": {
+    "Instance": {
+      "name": "Hauptstadt",
+      "back": {
+        "Text": "capital"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

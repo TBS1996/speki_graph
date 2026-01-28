@@ -1,0 +1,12 @@
+{
+  "id": "e942d34e-6852-4161-923a-514a903afcee",
+  "data": {
+    "Instance": {
+      "name": "Feuer",
+      "back": {
+        "Text": "fire"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

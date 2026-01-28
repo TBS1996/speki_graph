@@ -1,0 +1,12 @@
+{
+  "id": "f0084359-57a1-43f6-84a4-026cc89b1711",
+  "data": {
+    "Instance": {
+      "name": "Schuss",
+      "back": {
+        "Text": "shot"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "1b5d9831-dd09-4852-bd28-749b23c433ef",
+  "data": {
+    "Instance": {
+      "name": "Dauer",
+      "back": {
+        "Text": "duration"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

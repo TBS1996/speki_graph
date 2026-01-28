@@ -1,0 +1,12 @@
+{
+  "id": "fc9cba12-e2e3-414b-be1d-97d0a490f388",
+  "data": {
+    "Instance": {
+      "name": "stall",
+      "back": {
+        "Text": "stable"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

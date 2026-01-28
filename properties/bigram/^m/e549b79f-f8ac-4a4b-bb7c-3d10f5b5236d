@@ -1,0 +1,12 @@
+{
+  "id": "e549b79f-f8ac-4a4b-bb7c-3d10f5b5236d",
+  "data": {
+    "Instance": {
+      "name": "Markt",
+      "back": {
+        "Text": "market"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

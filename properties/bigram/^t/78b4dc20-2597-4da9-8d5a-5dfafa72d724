@@ -1,0 +1,12 @@
+{
+  "id": "78b4dc20-2597-4da9-8d5a-5dfafa72d724",
+  "data": {
+    "Instance": {
+      "name": "traje",
+      "back": {
+        "Text": "suit"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

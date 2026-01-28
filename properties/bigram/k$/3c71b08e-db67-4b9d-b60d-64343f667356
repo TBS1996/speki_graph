@@ -1,0 +1,12 @@
+{
+  "id": "3c71b08e-db67-4b9d-b60d-64343f667356",
+  "data": {
+    "Instance": {
+      "name": "statistikk",
+      "back": {
+        "Text": "statistic"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "15912bcb-381e-4213-94c8-dfa417456aef",
+  "data": {
+    "Instance": {
+      "name": "opplevelse",
+      "back": {
+        "Text": "experience"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

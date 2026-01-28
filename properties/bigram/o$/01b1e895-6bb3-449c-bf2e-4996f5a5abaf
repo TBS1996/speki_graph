@@ -1,0 +1,12 @@
+{
+  "id": "01b1e895-6bb3-449c-bf2e-4996f5a5abaf",
+  "data": {
+    "Instance": {
+      "name": "peligro",
+      "back": {
+        "Text": "danger"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

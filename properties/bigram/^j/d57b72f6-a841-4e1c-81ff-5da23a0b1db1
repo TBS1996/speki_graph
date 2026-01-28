@@ -1,0 +1,12 @@
+{
+  "id": "d57b72f6-a841-4e1c-81ff-5da23a0b1db1",
+  "data": {
+    "Instance": {
+      "name": "Jahrzehnt",
+      "back": {
+        "Text": "decade"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

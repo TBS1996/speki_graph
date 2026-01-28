@@ -1,0 +1,12 @@
+{
+  "id": "bf685a61-7ce3-4b88-81a8-89c587a6682d",
+  "data": {
+    "Instance": {
+      "name": "kasse",
+      "back": {
+        "Text": "box"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

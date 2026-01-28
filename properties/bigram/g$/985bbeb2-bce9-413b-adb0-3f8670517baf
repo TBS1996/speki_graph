@@ -1,0 +1,12 @@
+{
+  "id": "985bbeb2-bce9-413b-adb0-3f8670517baf",
+  "data": {
+    "Instance": {
+      "name": "Berufung",
+      "back": {
+        "Text": "appeal"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

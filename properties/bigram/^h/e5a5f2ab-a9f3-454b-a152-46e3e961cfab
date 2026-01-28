@@ -1,0 +1,12 @@
+{
+  "id": "e5a5f2ab-a9f3-454b-a152-46e3e961cfab",
+  "data": {
+    "Instance": {
+      "name": "Hals",
+      "back": {
+        "Text": "neck"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

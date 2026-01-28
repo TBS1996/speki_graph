@@ -1,0 +1,12 @@
+{
+  "id": "3c02db55-4b6a-4211-8ed9-3ea509266ead",
+  "data": {
+    "Instance": {
+      "name": "rutine",
+      "back": {
+        "Text": "routine"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

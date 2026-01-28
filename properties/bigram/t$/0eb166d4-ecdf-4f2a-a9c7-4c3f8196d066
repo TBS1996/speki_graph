@@ -1,0 +1,12 @@
+{
+  "id": "0eb166d4-ecdf-4f2a-a9c7-4c3f8196d066",
+  "data": {
+    "Instance": {
+      "name": "Hut",
+      "back": {
+        "Text": "hat"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

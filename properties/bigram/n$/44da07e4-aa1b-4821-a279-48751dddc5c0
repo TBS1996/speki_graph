@@ -1,0 +1,12 @@
+{
+  "id": "44da07e4-aa1b-4821-a279-48751dddc5c0",
+  "data": {
+    "Instance": {
+      "name": "Rücken",
+      "back": {
+        "Text": "back"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "c2a76eea-6561-4ad0-9c04-56faeef22aac",
+  "data": {
+    "Instance": {
+      "name": "krav",
+      "back": {
+        "Text": "requirement"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

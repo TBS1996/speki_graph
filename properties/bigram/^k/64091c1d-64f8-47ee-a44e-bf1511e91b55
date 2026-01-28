@@ -1,0 +1,12 @@
+{
+  "id": "64091c1d-64f8-47ee-a44e-bf1511e91b55",
+  "data": {
+    "Instance": {
+      "name": "kommunikasjon",
+      "back": {
+        "Text": "communication"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "2cfc1bdd-9073-443a-8bd8-b35685b49931",
+  "data": {
+    "Instance": {
+      "name": "policía",
+      "back": {
+        "Text": "police"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

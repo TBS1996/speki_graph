@@ -1,0 +1,12 @@
+{
+  "id": "3b33ea5a-6f70-4090-a1b4-5f0eba172072",
+  "data": {
+    "Instance": {
+      "name": "Leder",
+      "back": {
+        "Text": "leather"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

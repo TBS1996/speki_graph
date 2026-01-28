@@ -1,0 +1,12 @@
+{
+  "id": "b2c4906f-2218-42ae-8694-cceaf9444ba4",
+  "data": {
+    "Instance": {
+      "name": "Geheimnis",
+      "back": {
+        "Text": "secret"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

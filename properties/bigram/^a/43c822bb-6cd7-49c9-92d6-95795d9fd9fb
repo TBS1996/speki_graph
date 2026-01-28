@@ -1,0 +1,12 @@
+{
+  "id": "43c822bb-6cd7-49c9-92d6-95795d9fd9fb",
+  "data": {
+    "Instance": {
+      "name": "Anpassung",
+      "back": {
+        "Text": "adjustment"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

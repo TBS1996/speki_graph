@@ -1,0 +1,12 @@
+{
+  "id": "05756be0-6ddc-459d-b3f9-4edd3639623a",
+  "data": {
+    "Instance": {
+      "name": "Häufigkeit",
+      "back": {
+        "Text": "frequency"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "ffc9b7c3-d9b4-4c74-b367-a10b3f266802",
+  "data": {
+    "Instance": {
+      "name": "virkning",
+      "back": {
+        "Text": "effect"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "30c00720-9ab7-4c7b-b438-eb8e2aff5f7b",
+  "data": {
+    "Instance": {
+      "name": "Bildung",
+      "back": {
+        "Text": "education"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

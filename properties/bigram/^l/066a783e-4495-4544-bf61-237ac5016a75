@@ -1,0 +1,12 @@
+{
+  "id": "066a783e-4495-4544-bf61-237ac5016a75",
+  "data": {
+    "Instance": {
+      "name": "Lied",
+      "back": {
+        "Text": "song"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

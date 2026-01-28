@@ -1,0 +1,12 @@
+{
+  "id": "48e7c5a5-6f72-4765-91cb-f53c3380a82e",
+  "data": {
+    "Instance": {
+      "name": "König",
+      "back": {
+        "Text": "king"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "596ce75a-0f43-47f3-b9a4-38bea4cf7dd0",
+  "data": {
+    "Instance": {
+      "name": "ordning",
+      "back": {
+        "Text": "arrangement"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

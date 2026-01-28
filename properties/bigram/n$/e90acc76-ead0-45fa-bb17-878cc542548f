@@ -1,0 +1,12 @@
+{
+  "id": "e90acc76-ead0-45fa-bb17-878cc542548f",
+  "data": {
+    "Instance": {
+      "name": "konklusjon",
+      "back": {
+        "Text": "conclusion"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

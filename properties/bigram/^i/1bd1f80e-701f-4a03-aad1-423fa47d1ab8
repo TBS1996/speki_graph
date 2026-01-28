@@ -1,0 +1,12 @@
+{
+  "id": "1bd1f80e-701f-4a03-aad1-423fa47d1ab8",
+  "data": {
+    "Instance": {
+      "name": "institutt",
+      "back": {
+        "Text": "institute"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

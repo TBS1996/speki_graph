@@ -1,0 +1,12 @@
+{
+  "id": "15282a39-a74e-43f6-9085-f4f1697f9192",
+  "data": {
+    "Instance": {
+      "name": "parkeringsplass",
+      "back": {
+        "Text": "parking space"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

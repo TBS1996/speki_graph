@@ -1,0 +1,12 @@
+{
+  "id": "e1c39914-c19d-4256-88f9-27fd97d6d05a",
+  "data": {
+    "Instance": {
+      "name": "Grad",
+      "back": {
+        "Text": "degree"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "090f1643-c00b-4bab-9d9e-d5b55a1a113f",
+  "data": {
+    "Instance": {
+      "name": "Bericht",
+      "back": {
+        "Text": "report"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

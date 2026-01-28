@@ -1,0 +1,12 @@
+{
+  "id": "e55f5489-c838-468b-b226-e30591b8d51f",
+  "data": {
+    "Instance": {
+      "name": "camión",
+      "back": {
+        "Text": "truck"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

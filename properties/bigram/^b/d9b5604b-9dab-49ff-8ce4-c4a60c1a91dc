@@ -1,0 +1,12 @@
+{
+  "id": "d9b5604b-9dab-49ff-8ce4-c4a60c1a91dc",
+  "data": {
+    "Instance": {
+      "name": "Beratung",
+      "back": {
+        "Text": "consultation"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

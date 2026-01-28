@@ -1,0 +1,12 @@
+{
+  "id": "ae57cf7b-a8f9-487f-b1c3-1d0b7039b843",
+  "data": {
+    "Instance": {
+      "name": "hábito",
+      "back": {
+        "Text": "habit"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

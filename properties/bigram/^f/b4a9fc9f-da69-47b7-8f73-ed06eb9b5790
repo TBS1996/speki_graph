@@ -1,0 +1,12 @@
+{
+  "id": "b4a9fc9f-da69-47b7-8f73-ed06eb9b5790",
+  "data": {
+    "Instance": {
+      "name": "Fachwissen",
+      "back": {
+        "Text": "expertise"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

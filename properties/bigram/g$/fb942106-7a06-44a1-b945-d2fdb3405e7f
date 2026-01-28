@@ -1,0 +1,12 @@
+{
+  "id": "fb942106-7a06-44a1-b945-d2fdb3405e7f",
+  "data": {
+    "Instance": {
+      "name": "opplæring",
+      "back": {
+        "Text": "training"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

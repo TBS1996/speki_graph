@@ -1,0 +1,12 @@
+{
+  "id": "b42d7f70-2699-454a-899d-3eed58c42c5e",
+  "data": {
+    "Instance": {
+      "name": "spark",
+      "back": {
+        "Text": "kick"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

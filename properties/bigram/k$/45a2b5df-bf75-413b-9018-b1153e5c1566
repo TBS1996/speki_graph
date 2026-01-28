@@ -1,0 +1,12 @@
+{
+  "id": "45a2b5df-bf75-413b-9018-b1153e5c1566",
+  "data": {
+    "Instance": {
+      "name": "Bibliothek",
+      "back": {
+        "Text": "library"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

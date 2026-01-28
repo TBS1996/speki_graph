@@ -1,0 +1,12 @@
+{
+  "id": "8f677548-40c5-4956-83c0-fdcf06145fe8",
+  "data": {
+    "Instance": {
+      "name": "prosjekt",
+      "back": {
+        "Text": "project"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

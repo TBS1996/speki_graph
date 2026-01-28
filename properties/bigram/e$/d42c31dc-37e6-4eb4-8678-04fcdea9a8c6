@@ -1,0 +1,12 @@
+{
+  "id": "d42c31dc-37e6-4eb4-8678-04fcdea9a8c6",
+  "data": {
+    "Instance": {
+      "name": "gerente",
+      "back": {
+        "Text": "manager"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

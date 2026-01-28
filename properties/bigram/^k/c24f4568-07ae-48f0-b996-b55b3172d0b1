@@ -1,0 +1,12 @@
+{
+  "id": "c24f4568-07ae-48f0-b996-b55b3172d0b1",
+  "data": {
+    "Instance": {
+      "name": "kar",
+      "back": {
+        "Text": "man/tub"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "b7277cfc-a6dc-4193-bf09-db04d30b0588",
+  "data": {
+    "Instance": {
+      "name": "Klang",
+      "back": {
+        "Text": "sound"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

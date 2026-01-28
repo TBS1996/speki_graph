@@ -1,0 +1,12 @@
+{
+  "id": "8d66a02b-e471-4851-994b-4a5e519bfbe9",
+  "data": {
+    "Instance": {
+      "name": "teori",
+      "back": {
+        "Text": "theory"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "0462cd8b-fb0e-4ceb-a25e-8688f0e00d2f",
+  "data": {
+    "Instance": {
+      "name": "lección",
+      "back": {
+        "Text": "lesson"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

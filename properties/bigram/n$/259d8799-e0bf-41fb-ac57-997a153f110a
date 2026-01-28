@@ -1,0 +1,12 @@
+{
+  "id": "259d8799-e0bf-41fb-ac57-997a153f110a",
+  "data": {
+    "Instance": {
+      "name": "tren",
+      "back": {
+        "Text": "train"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

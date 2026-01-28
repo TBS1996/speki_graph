@@ -1,0 +1,12 @@
+{
+  "id": "fd098d02-8efc-4202-8c5f-84329633c058",
+  "data": {
+    "Instance": {
+      "name": "cuota",
+      "back": {
+        "Text": "fee"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

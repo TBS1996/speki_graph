@@ -1,0 +1,12 @@
+{
+  "id": "cc3c3f48-01f7-4857-8b8f-4a22d66b74ae",
+  "data": {
+    "Instance": {
+      "name": "arroyo",
+      "back": {
+        "Text": "stream"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

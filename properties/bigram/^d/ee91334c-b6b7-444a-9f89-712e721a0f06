@@ -1,0 +1,12 @@
+{
+  "id": "ee91334c-b6b7-444a-9f89-712e721a0f06",
+  "data": {
+    "Instance": {
+      "name": "dekk",
+      "back": {
+        "Text": "deck"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

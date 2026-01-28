@@ -1,0 +1,12 @@
+{
+  "id": "b2d562eb-418c-4c7c-a558-993d78fcdf5c",
+  "data": {
+    "Instance": {
+      "name": "Zelle",
+      "back": {
+        "Text": "cell"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "a29e0fb4-4d8d-4b32-b5de-89c5ae9cfba8",
+  "data": {
+    "Instance": {
+      "name": "verdi",
+      "back": {
+        "Text": "value"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

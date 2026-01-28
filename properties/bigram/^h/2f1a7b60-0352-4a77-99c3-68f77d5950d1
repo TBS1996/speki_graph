@@ -1,0 +1,12 @@
+{
+  "id": "2f1a7b60-0352-4a77-99c3-68f77d5950d1",
+  "data": {
+    "Instance": {
+      "name": "halvpart",
+      "back": {
+        "Text": "half"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

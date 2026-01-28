@@ -1,0 +1,12 @@
+{
+  "id": "df5c2f65-db1e-4919-a11b-63252898995e",
+  "data": {
+    "Instance": {
+      "name": "tentamen",
+      "back": {
+        "Text": "mock examination"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

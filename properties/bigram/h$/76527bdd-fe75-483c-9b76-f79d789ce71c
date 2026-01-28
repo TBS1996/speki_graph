@@ -1,0 +1,12 @@
+{
+  "id": "76527bdd-fe75-483c-9b76-f79d789ce71c",
+  "data": {
+    "Instance": {
+      "name": "Vergleich",
+      "back": {
+        "Text": "comparison"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

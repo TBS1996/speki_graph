@@ -1,0 +1,12 @@
+{
+  "id": "37eab19c-63db-4950-b70c-6d7b33f7a450",
+  "data": {
+    "Instance": {
+      "name": "Kapitel",
+      "back": {
+        "Text": "chapter"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

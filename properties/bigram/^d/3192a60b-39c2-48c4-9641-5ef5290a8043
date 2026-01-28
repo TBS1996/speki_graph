@@ -1,0 +1,12 @@
+{
+  "id": "3192a60b-39c2-48c4-9641-5ef5290a8043",
+  "data": {
+    "Instance": {
+      "name": "diagnose",
+      "back": {
+        "Text": "diagnosis"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "2e7d87e4-8e6d-48d2-878c-7dd8acf86e6b",
+  "data": {
+    "Instance": {
+      "name": "encuesta",
+      "back": {
+        "Text": "survey"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

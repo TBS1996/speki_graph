@@ -1,0 +1,12 @@
+{
+  "id": "4f4be3fb-046a-4dc2-961a-4d99f5a999da",
+  "data": {
+    "Instance": {
+      "name": "dør",
+      "back": {
+        "Text": "door"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "08fe9217-fb86-4d55-b836-62e66efc8165",
+  "data": {
+    "Instance": {
+      "name": "yrke",
+      "back": {
+        "Text": "occupation"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

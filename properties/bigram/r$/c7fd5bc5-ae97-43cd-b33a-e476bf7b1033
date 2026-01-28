@@ -1,0 +1,12 @@
+{
+  "id": "c7fd5bc5-ae97-43cd-b33a-e476bf7b1033",
+  "data": {
+    "Instance": {
+      "name": "Tier",
+      "back": {
+        "Text": "animal"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

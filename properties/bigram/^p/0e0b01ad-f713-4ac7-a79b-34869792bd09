@@ -1,0 +1,12 @@
+{
+  "id": "0e0b01ad-f713-4ac7-a79b-34869792bd09",
+  "data": {
+    "Instance": {
+      "name": "personlighet",
+      "back": {
+        "Text": "personality"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "42802ae0-a7af-49b1-a2fe-759a6dd850fa",
+  "data": {
+    "Instance": {
+      "name": "utgivelse",
+      "back": {
+        "Text": "publication"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

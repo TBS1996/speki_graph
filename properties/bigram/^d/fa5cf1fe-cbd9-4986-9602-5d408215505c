@@ -1,0 +1,12 @@
+{
+  "id": "fa5cf1fe-cbd9-4986-9602-5d408215505c",
+  "data": {
+    "Instance": {
+      "name": "Dienst",
+      "back": {
+        "Text": "service"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

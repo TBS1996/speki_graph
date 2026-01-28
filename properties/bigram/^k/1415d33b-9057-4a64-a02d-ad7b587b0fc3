@@ -1,0 +1,12 @@
+{
+  "id": "1415d33b-9057-4a64-a02d-ad7b587b0fc3",
+  "data": {
+    "Instance": {
+      "name": "konkurrent",
+      "back": {
+        "Text": "competitor"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

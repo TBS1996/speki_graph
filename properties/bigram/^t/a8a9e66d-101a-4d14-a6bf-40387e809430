@@ -1,0 +1,12 @@
+{
+  "id": "a8a9e66d-101a-4d14-a6bf-40387e809430",
+  "data": {
+    "Instance": {
+      "name": "tog",
+      "back": {
+        "Text": "train"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

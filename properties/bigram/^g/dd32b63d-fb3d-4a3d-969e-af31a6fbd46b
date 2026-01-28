@@ -1,0 +1,12 @@
+{
+  "id": "dd32b63d-fb3d-4a3d-969e-af31a6fbd46b",
+  "data": {
+    "Instance": {
+      "name": "gjennomsnitt",
+      "back": {
+        "Text": "average"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

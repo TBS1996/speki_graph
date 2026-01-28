@@ -1,0 +1,12 @@
+{
+  "id": "122fd975-0beb-4712-9046-21fbb41c7c9f",
+  "data": {
+    "Instance": {
+      "name": "energía",
+      "back": {
+        "Text": "energy"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

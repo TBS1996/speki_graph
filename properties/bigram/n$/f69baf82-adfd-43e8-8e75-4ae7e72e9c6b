@@ -1,0 +1,12 @@
+{
+  "id": "f69baf82-adfd-43e8-8e75-4ae7e72e9c6b",
+  "data": {
+    "Instance": {
+      "name": "Person",
+      "back": {
+        "Text": "person"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

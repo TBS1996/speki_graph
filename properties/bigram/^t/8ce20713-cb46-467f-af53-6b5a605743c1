@@ -1,0 +1,12 @@
+{
+  "id": "8ce20713-cb46-467f-af53-6b5a605743c1",
+  "data": {
+    "Instance": {
+      "name": "tasa",
+      "back": {
+        "Text": "rate"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

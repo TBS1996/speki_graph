@@ -1,0 +1,12 @@
+{
+  "id": "63da2289-33e9-4c4f-9166-b33181b0f79b",
+  "data": {
+    "Instance": {
+      "name": "Ruf",
+      "back": {
+        "Text": "reputation"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "4c78ff08-6042-4c20-b741-4ed53f55ff28",
+  "data": {
+    "Instance": {
+      "name": "tilhenger",
+      "back": {
+        "Text": "fan"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

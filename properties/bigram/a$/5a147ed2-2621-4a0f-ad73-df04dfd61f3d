@@ -1,0 +1,12 @@
+{
+  "id": "5a147ed2-2621-4a0f-ad73-df04dfd61f3d",
+  "data": {
+    "Instance": {
+      "name": "verdura",
+      "back": {
+        "Text": "vegetable"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

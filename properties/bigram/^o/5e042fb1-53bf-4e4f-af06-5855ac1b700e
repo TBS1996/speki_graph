@@ -1,0 +1,12 @@
+{
+  "id": "5e042fb1-53bf-4e4f-af06-5855ac1b700e",
+  "data": {
+    "Instance": {
+      "name": "olje",
+      "back": {
+        "Text": "oil"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

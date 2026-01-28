@@ -1,0 +1,12 @@
+{
+  "id": "9f51093d-ded4-4394-8863-146aeda4e96f",
+  "data": {
+    "Instance": {
+      "name": "Mitgliedschaft",
+      "back": {
+        "Text": "membership"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

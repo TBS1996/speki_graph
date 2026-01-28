@@ -1,0 +1,12 @@
+{
+  "id": "cdb0258d-4e84-45a2-a863-63549ab8ce33",
+  "data": {
+    "Instance": {
+      "name": "bistand",
+      "back": {
+        "Text": "aid"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

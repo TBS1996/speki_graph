@@ -1,0 +1,12 @@
+{
+  "id": "43d29ca1-d9e1-437f-b3c6-4554dc70e171",
+  "data": {
+    "Instance": {
+      "name": "suerte",
+      "back": {
+        "Text": "luck"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

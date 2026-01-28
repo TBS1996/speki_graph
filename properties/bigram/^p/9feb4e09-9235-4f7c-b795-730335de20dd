@@ -1,0 +1,12 @@
+{
+  "id": "9feb4e09-9235-4f7c-b795-730335de20dd",
+  "data": {
+    "Instance": {
+      "name": "piano",
+      "back": {
+        "Text": "piano"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

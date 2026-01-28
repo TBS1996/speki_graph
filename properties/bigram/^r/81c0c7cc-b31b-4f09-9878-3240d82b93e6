@@ -1,0 +1,12 @@
+{
+  "id": "81c0c7cc-b31b-4f09-9878-3240d82b93e6",
+  "data": {
+    "Instance": {
+      "name": "redskap",
+      "back": {
+        "Text": "tool"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

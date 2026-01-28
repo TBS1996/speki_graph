@@ -1,0 +1,12 @@
+{
+  "id": "a06eabc2-6864-4889-857f-a4ee1712305c",
+  "data": {
+    "Instance": {
+      "name": "råd",
+      "back": {
+        "Text": "advice"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

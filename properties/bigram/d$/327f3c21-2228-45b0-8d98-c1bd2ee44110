@@ -1,0 +1,12 @@
+{
+  "id": "327f3c21-2228-45b0-8d98-c1bd2ee44110",
+  "data": {
+    "Instance": {
+      "name": "gård",
+      "back": {
+        "Text": "farm"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "1902c4c9-7511-4578-b032-9bd28a1120a6",
+  "data": {
+    "Instance": {
+      "name": "concepto",
+      "back": {
+        "Text": "concept"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "d190d475-8b78-4174-a0e8-18d90d789d10",
+  "data": {
+    "Instance": {
+      "name": "kapital",
+      "back": {
+        "Text": "capital"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

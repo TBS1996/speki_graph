@@ -1,0 +1,12 @@
+{
+  "id": "055e0405-bcac-4337-8af6-e809b4e9cc49",
+  "data": {
+    "Instance": {
+      "name": "batteri",
+      "back": {
+        "Text": "battery"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

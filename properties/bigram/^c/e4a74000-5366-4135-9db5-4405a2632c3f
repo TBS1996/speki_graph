@@ -1,0 +1,12 @@
+{
+  "id": "e4a74000-5366-4135-9db5-4405a2632c3f",
+  "data": {
+    "Instance": {
+      "name": "conductor",
+      "back": {
+        "Text": "driver"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

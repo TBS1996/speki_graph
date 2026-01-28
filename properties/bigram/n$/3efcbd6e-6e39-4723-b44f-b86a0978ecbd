@@ -1,0 +1,12 @@
+{
+  "id": "3efcbd6e-6e39-4723-b44f-b86a0978ecbd",
+  "data": {
+    "Instance": {
+      "name": "Schatten",
+      "back": {
+        "Text": "shade"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

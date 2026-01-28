@@ -1,0 +1,12 @@
+{
+  "id": "45e8a578-41fc-431e-915b-c2ca1c3aadac",
+  "data": {
+    "Instance": {
+      "name": "pelea",
+      "back": {
+        "Text": "fight"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "3fc15a44-a2dd-4514-a739-717339d20d01",
+  "data": {
+    "Instance": {
+      "name": "hecho",
+      "back": {
+        "Text": "fact"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

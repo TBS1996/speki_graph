@@ -1,0 +1,12 @@
+{
+  "id": "53e70885-adc7-411f-8c55-7861ddf31753",
+  "data": {
+    "Instance": {
+      "name": "Wochenende",
+      "back": {
+        "Text": "weekend"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

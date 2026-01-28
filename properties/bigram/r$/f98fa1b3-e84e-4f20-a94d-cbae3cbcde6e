@@ -1,0 +1,12 @@
+{
+  "id": "f98fa1b3-e84e-4f20-a94d-cbae3cbcde6e",
+  "data": {
+    "Instance": {
+      "name": "Verkehr",
+      "back": {
+        "Text": "traffic"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

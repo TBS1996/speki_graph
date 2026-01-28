@@ -1,0 +1,12 @@
+{
+  "id": "6b5c486d-ecc6-4650-992c-95b72442a509",
+  "data": {
+    "Instance": {
+      "name": "red",
+      "back": {
+        "Text": "network"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "093026a6-f7d2-413e-ad1a-73e17416b23a",
+  "data": {
+    "Instance": {
+      "name": "bod",
+      "back": {
+        "Text": "storeroom"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

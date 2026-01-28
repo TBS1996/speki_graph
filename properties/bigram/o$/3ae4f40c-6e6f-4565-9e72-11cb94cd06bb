@@ -1,0 +1,12 @@
+{
+  "id": "3ae4f40c-6e6f-4565-9e72-11cb94cd06bb",
+  "data": {
+    "Instance": {
+      "name": "Studio",
+      "back": {
+        "Text": "studio"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

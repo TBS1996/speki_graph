@@ -1,0 +1,12 @@
+{
+  "id": "3101fd70-8435-4c32-9e9f-b1bb2bedbed2",
+  "data": {
+    "Instance": {
+      "name": "talent",
+      "back": {
+        "Text": "talent"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

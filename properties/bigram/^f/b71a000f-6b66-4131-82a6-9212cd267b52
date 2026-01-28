@@ -1,0 +1,12 @@
+{
+  "id": "b71a000f-6b66-4131-82a6-9212cd267b52",
+  "data": {
+    "Instance": {
+      "name": "fracaso",
+      "back": {
+        "Text": "failure"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

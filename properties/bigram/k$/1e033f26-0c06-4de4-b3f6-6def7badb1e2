@@ -1,0 +1,12 @@
+{
+  "id": "1e033f26-0c06-4de4-b3f6-6def7badb1e2",
+  "data": {
+    "Instance": {
+      "name": "søk",
+      "back": {
+        "Text": "search"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "7bfb6217-9844-4e4e-ac15-34e72fa48cc2",
+  "data": {
+    "Instance": {
+      "name": "préstamo",
+      "back": {
+        "Text": "loan"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

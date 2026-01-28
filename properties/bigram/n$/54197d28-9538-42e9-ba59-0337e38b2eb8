@@ -1,0 +1,12 @@
+{
+  "id": "54197d28-9538-42e9-ba59-0337e38b2eb8",
+  "data": {
+    "Instance": {
+      "name": "gestión",
+      "back": {
+        "Text": "management"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

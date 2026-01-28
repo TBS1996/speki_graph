@@ -1,0 +1,12 @@
+{
+  "id": "b51562cb-36a1-4b09-95f8-4ccb47266877",
+  "data": {
+    "Instance": {
+      "name": "symptom",
+      "back": {
+        "Text": "symptom"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "f9f8c8a3-1677-4b4d-ad79-dca25c2448d1",
+  "data": {
+    "Instance": {
+      "name": "estado de ánimo",
+      "back": {
+        "Text": "mood"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

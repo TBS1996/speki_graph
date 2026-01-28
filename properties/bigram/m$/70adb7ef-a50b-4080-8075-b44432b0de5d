@@ -1,0 +1,12 @@
+{
+  "id": "70adb7ef-a50b-4080-8075-b44432b0de5d",
+  "data": {
+    "Instance": {
+      "name": "Sturm",
+      "back": {
+        "Text": "storm"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

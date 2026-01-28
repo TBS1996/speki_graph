@@ -1,0 +1,12 @@
+{
+  "id": "4671a0d2-6090-4ebc-b922-756675f5838e",
+  "data": {
+    "Instance": {
+      "name": "politikk",
+      "back": {
+        "Text": "politics"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

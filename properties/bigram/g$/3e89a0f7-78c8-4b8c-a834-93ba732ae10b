@@ -1,0 +1,12 @@
+{
+  "id": "3e89a0f7-78c8-4b8c-a834-93ba732ae10b",
+  "data": {
+    "Instance": {
+      "name": "betaling",
+      "back": {
+        "Text": "payment"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

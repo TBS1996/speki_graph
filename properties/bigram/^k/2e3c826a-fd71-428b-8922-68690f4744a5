@@ -1,0 +1,12 @@
+{
+  "id": "2e3c826a-fd71-428b-8922-68690f4744a5",
+  "data": {
+    "Instance": {
+      "name": "kunnskap",
+      "back": {
+        "Text": "knowledge"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

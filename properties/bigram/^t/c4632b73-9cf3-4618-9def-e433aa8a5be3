@@ -1,0 +1,12 @@
+{
+  "id": "c4632b73-9cf3-4618-9def-e433aa8a5be3",
+  "data": {
+    "Instance": {
+      "name": "Turist",
+      "back": {
+        "Text": "tourist"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

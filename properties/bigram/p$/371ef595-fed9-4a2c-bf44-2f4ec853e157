@@ -1,0 +1,12 @@
+{
+  "id": "371ef595-fed9-4a2c-bf44-2f4ec853e157",
+  "data": {
+    "Instance": {
+      "name": "utslipp",
+      "back": {
+        "Text": "emission"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

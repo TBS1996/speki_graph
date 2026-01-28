@@ -1,0 +1,12 @@
+{
+  "id": "95aded75-bdcd-49b8-a750-4b4ebab8f38f",
+  "data": {
+    "Instance": {
+      "name": "grep",
+      "back": {
+        "Text": "grasp"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

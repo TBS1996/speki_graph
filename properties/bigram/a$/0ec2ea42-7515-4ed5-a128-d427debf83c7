@@ -1,0 +1,12 @@
+{
+  "id": "0ec2ea42-7515-4ed5-a128-d427debf83c7",
+  "data": {
+    "Instance": {
+      "name": "estadística",
+      "back": {
+        "Text": "statistic"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "4134bd86-5fca-425d-af90-472072efacd1",
+  "data": {
+    "Instance": {
+      "name": "Stil",
+      "back": {
+        "Text": "style"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

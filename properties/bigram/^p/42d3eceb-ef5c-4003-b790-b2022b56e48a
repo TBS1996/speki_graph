@@ -1,0 +1,12 @@
+{
+  "id": "42d3eceb-ef5c-4003-b790-b2022b56e48a",
+  "data": {
+    "Instance": {
+      "name": "periode",
+      "back": {
+        "Text": "period"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

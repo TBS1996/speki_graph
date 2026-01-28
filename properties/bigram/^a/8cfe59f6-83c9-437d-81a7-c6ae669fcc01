@@ -1,0 +1,12 @@
+{
+  "id": "8cfe59f6-83c9-437d-81a7-c6ae669fcc01",
+  "data": {
+    "Instance": {
+      "name": "Aufzeichnung",
+      "back": {
+        "Text": "record"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

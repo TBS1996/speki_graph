@@ -1,0 +1,12 @@
+{
+  "id": "1aa4f194-5895-4692-b0f7-62500a8d0412",
+  "data": {
+    "Instance": {
+      "name": "stamme",
+      "back": {
+        "Text": "trunk/tribe"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

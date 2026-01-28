@@ -1,0 +1,12 @@
+{
+  "id": "8d37e038-d4e9-43e1-bc5d-b63630bad8d0",
+  "data": {
+    "Instance": {
+      "name": "standpunkt",
+      "back": {
+        "Text": "point of view"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

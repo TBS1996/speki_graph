@@ -1,0 +1,12 @@
+{
+  "id": "c6a52adb-bb2a-4e70-aaeb-c9c42c0f859c",
+  "data": {
+    "Instance": {
+      "name": "Aspekt",
+      "back": {
+        "Text": "aspect"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

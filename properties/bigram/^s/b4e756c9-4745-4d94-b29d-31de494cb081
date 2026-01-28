@@ -1,0 +1,12 @@
+{
+  "id": "b4e756c9-4745-4d94-b29d-31de494cb081",
+  "data": {
+    "Instance": {
+      "name": "sannsynlighet",
+      "back": {
+        "Text": "probability"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

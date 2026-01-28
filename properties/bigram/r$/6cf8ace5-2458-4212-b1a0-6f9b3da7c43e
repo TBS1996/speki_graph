@@ -1,0 +1,12 @@
+{
+  "id": "6cf8ace5-2458-4212-b1a0-6f9b3da7c43e",
+  "data": {
+    "Instance": {
+      "name": "deltaker",
+      "back": {
+        "Text": "participant"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

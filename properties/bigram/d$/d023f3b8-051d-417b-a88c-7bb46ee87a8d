@@ -1,0 +1,12 @@
+{
+  "id": "d023f3b8-051d-417b-a88c-7bb46ee87a8d",
+  "data": {
+    "Instance": {
+      "name": "lyd",
+      "back": {
+        "Text": "sound"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "5428ab93-b927-48c7-b27d-c693c4d18cf8",
+  "data": {
+    "Instance": {
+      "name": "hjemmebane",
+      "back": {
+        "Text": "home court"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "84f79ad4-a3a4-41c7-b2b6-79eaeab32f44",
+  "data": {
+    "Instance": {
+      "name": "tilknytning",
+      "back": {
+        "Text": "connection"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

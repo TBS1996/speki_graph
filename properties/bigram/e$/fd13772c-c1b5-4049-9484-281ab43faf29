@@ -1,0 +1,12 @@
+{
+  "id": "fd13772c-c1b5-4049-9484-281ab43faf29",
+  "data": {
+    "Instance": {
+      "name": "retningslinje",
+      "back": {
+        "Text": "guideline"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

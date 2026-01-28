@@ -1,0 +1,12 @@
+{
+  "id": "5e6768b7-9626-48e3-8603-8bb52eb5a2b6",
+  "data": {
+    "Instance": {
+      "name": "tittel",
+      "back": {
+        "Text": "title"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

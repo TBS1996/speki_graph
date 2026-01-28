@@ -1,0 +1,12 @@
+{
+  "id": "bbcd62f5-983b-4dce-a05c-f9503c783d45",
+  "data": {
+    "Instance": {
+      "name": "fordeling",
+      "back": {
+        "Text": "distribution"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

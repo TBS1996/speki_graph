@@ -1,0 +1,12 @@
+{
+  "id": "10287570-7bc0-40c4-94f1-1f484bd52164",
+  "data": {
+    "Instance": {
+      "name": "Wächter",
+      "back": {
+        "Text": "guard"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

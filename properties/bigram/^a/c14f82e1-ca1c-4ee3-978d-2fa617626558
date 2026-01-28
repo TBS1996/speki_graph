@@ -1,0 +1,12 @@
+{
+  "id": "c14f82e1-ca1c-4ee3-978d-2fa617626558",
+  "data": {
+    "Instance": {
+      "name": "avgjørelse",
+      "back": {
+        "Text": "decision"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "e6dc4767-f422-4cf1-8dd9-735ea844b321",
+  "data": {
+    "Instance": {
+      "name": "sky",
+      "back": {
+        "Text": "cloud"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

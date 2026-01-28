@@ -1,0 +1,12 @@
+{
+  "id": "bd525325-f921-43bf-bf03-d21138edb846",
+  "data": {
+    "Instance": {
+      "name": "comunicación",
+      "back": {
+        "Text": "communication"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

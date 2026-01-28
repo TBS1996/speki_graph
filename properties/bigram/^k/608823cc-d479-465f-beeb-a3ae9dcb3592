@@ -1,0 +1,12 @@
+{
+  "id": "608823cc-d479-465f-beeb-a3ae9dcb3592",
+  "data": {
+    "Instance": {
+      "name": "kampanje",
+      "back": {
+        "Text": "campaign"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

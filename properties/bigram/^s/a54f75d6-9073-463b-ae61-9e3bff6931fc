@@ -1,0 +1,12 @@
+{
+  "id": "a54f75d6-9073-463b-ae61-9e3bff6931fc",
+  "data": {
+    "Instance": {
+      "name": "soverom",
+      "back": {
+        "Text": "bedroom"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

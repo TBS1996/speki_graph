@@ -1,0 +1,12 @@
+{
+  "id": "4a5d2971-604a-40e2-a536-d471093d7325",
+  "data": {
+    "Instance": {
+      "name": "beskjed",
+      "back": {
+        "Text": "message"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

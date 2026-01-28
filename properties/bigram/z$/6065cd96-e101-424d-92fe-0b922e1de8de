@@ -1,0 +1,12 @@
+{
+  "id": "6065cd96-e101-424d-92fe-0b922e1de8de",
+  "data": {
+    "Instance": {
+      "name": "Sturz",
+      "back": {
+        "Text": "fall"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

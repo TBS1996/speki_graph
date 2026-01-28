@@ -1,0 +1,12 @@
+{
+  "id": "5e7343a7-bced-438f-9567-494d8a896b1a",
+  "data": {
+    "Instance": {
+      "name": "interesse",
+      "back": {
+        "Text": "interest"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

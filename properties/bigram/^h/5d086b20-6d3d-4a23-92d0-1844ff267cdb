@@ -1,0 +1,12 @@
+{
+  "id": "5d086b20-6d3d-4a23-92d0-1844ff267cdb",
+  "data": {
+    "Instance": {
+      "name": "Holz",
+      "back": {
+        "Text": "wood"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

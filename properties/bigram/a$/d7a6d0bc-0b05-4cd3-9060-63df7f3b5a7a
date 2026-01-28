@@ -1,0 +1,12 @@
+{
+  "id": "d7a6d0bc-0b05-4cd3-9060-63df7f3b5a7a",
+  "data": {
+    "Instance": {
+      "name": "escuela",
+      "back": {
+        "Text": "school"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

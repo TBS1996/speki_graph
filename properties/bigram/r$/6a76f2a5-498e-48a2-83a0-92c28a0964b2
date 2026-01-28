@@ -1,0 +1,12 @@
+{
+  "id": "6a76f2a5-498e-48a2-83a0-92c28a0964b2",
+  "data": {
+    "Instance": {
+      "name": "Käufer",
+      "back": {
+        "Text": "buyer"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

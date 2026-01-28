@@ -1,0 +1,12 @@
+{
+  "id": "059198c2-ff5c-4741-898e-0b24f61cf432",
+  "data": {
+    "Instance": {
+      "name": "bilde",
+      "back": {
+        "Text": "picture"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

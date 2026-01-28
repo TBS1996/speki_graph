@@ -1,0 +1,12 @@
+{
+  "id": "2ecb29b4-9cc6-4e0a-ac81-b231fc9d9265",
+  "data": {
+    "Instance": {
+      "name": "Zertifikat",
+      "back": {
+        "Text": "certificate"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

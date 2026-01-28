@@ -1,0 +1,12 @@
+{
+  "id": "ead083c9-015a-434c-b05a-1b1ec931ae44",
+  "data": {
+    "Instance": {
+      "name": "forsøk",
+      "back": {
+        "Text": "attempt"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

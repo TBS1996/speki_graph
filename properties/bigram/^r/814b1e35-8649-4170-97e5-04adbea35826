@@ -1,0 +1,12 @@
+{
+  "id": "814b1e35-8649-4170-97e5-04adbea35826",
+  "data": {
+    "Instance": {
+      "name": "Reaktion",
+      "back": {
+        "Text": "reaction"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

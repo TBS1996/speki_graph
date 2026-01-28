@@ -1,0 +1,12 @@
+{
+  "id": "d4e7ce49-1149-49b4-beaa-f1f06bcb70e9",
+  "data": {
+    "Instance": {
+      "name": "Studie",
+      "back": {
+        "Text": "study"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

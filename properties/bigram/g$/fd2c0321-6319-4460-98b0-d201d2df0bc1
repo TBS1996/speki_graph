@@ -1,0 +1,12 @@
+{
+  "id": "fd2c0321-6319-4460-98b0-d201d2df0bc1",
+  "data": {
+    "Instance": {
+      "name": "logg",
+      "back": {
+        "Text": "log"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

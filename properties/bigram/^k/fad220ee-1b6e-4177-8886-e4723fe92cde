@@ -1,0 +1,12 @@
+{
+  "id": "fad220ee-1b6e-4177-8886-e4723fe92cde",
+  "data": {
+    "Instance": {
+      "name": "kjøretime",
+      "back": {
+        "Text": "driving lesson"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

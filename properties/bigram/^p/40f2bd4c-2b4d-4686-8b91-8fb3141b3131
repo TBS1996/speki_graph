@@ -1,0 +1,12 @@
+{
+  "id": "40f2bd4c-2b4d-4686-8b91-8fb3141b3131",
+  "data": {
+    "Instance": {
+      "name": "pregunta",
+      "back": {
+        "Text": "question"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

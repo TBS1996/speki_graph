@@ -1,0 +1,12 @@
+{
+  "id": "2e24f164-f537-46e1-bac1-6d07ba58c48b",
+  "data": {
+    "Instance": {
+      "name": "medisin",
+      "back": {
+        "Text": "medicine"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

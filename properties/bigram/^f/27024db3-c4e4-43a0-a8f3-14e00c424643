@@ -1,0 +1,12 @@
+{
+  "id": "27024db3-c4e4-43a0-a8f3-14e00c424643",
+  "data": {
+    "Instance": {
+      "name": "fotograf",
+      "back": {
+        "Text": "photographer"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

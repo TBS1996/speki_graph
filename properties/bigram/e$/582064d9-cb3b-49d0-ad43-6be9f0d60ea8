@@ -1,0 +1,12 @@
+{
+  "id": "582064d9-cb3b-49d0-ad43-6be9f0d60ea8",
+  "data": {
+    "Instance": {
+      "name": "personaje",
+      "back": {
+        "Text": "character"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

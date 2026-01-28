@@ -1,0 +1,12 @@
+{
+  "id": "12d154d3-5fd1-41f2-b174-c4b8af5291be",
+  "data": {
+    "Instance": {
+      "name": "Geburt",
+      "back": {
+        "Text": "birth"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

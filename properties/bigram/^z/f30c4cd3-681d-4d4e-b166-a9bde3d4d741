@@ -1,0 +1,12 @@
+{
+  "id": "f30c4cd3-681d-4d4e-b166-a9bde3d4d741",
+  "data": {
+    "Instance": {
+      "name": "Zeit",
+      "back": {
+        "Text": "time"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

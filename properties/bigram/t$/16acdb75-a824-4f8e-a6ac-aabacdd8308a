@@ -1,0 +1,12 @@
+{
+  "id": "16acdb75-a824-4f8e-a6ac-aabacdd8308a",
+  "data": {
+    "Instance": {
+      "name": "Kontext",
+      "back": {
+        "Text": "context"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

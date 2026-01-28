@@ -1,0 +1,12 @@
+{
+  "id": "eb6e8f18-e4a8-40ee-a8e2-ac8a4a8ec204",
+  "data": {
+    "Instance": {
+      "name": "Schmerz",
+      "back": {
+        "Text": "pain"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

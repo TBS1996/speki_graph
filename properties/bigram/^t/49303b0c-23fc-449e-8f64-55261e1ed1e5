@@ -1,0 +1,12 @@
+{
+  "id": "49303b0c-23fc-449e-8f64-55261e1ed1e5",
+  "data": {
+    "Instance": {
+      "name": "tillit",
+      "back": {
+        "Text": "trust"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

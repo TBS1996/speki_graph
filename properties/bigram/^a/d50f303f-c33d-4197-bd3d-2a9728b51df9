@@ -1,0 +1,12 @@
+{
+  "id": "d50f303f-c33d-4197-bd3d-2a9728b51df9",
+  "data": {
+    "Instance": {
+      "name": "actor",
+      "back": {
+        "Text": "actor"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

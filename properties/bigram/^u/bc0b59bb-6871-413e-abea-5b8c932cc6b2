@@ -1,0 +1,12 @@
+{
+  "id": "bc0b59bb-6871-413e-abea-5b8c932cc6b2",
+  "data": {
+    "Instance": {
+      "name": "Umwelt",
+      "back": {
+        "Text": "environment"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

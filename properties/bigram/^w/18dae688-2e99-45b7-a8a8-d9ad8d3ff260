@@ -1,0 +1,12 @@
+{
+  "id": "18dae688-2e99-45b7-a8a8-d9ad8d3ff260",
+  "data": {
+    "Instance": {
+      "name": "Wende",
+      "back": {
+        "Text": "turn"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

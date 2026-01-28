@@ -1,0 +1,12 @@
+{
+  "id": "d8bd1b6e-4ea5-4abe-ae88-a4801f9cbd03",
+  "data": {
+    "Instance": {
+      "name": "Unterkunft",
+      "back": {
+        "Text": "accommodation"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "523d1eab-6909-40de-bbac-5037ccf99550",
+  "data": {
+    "Instance": {
+      "name": "part",
+      "back": {
+        "Text": "party"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "2eeada33-ebb8-4fa0-8efb-4597e0bdaad0",
+  "data": {
+    "Instance": {
+      "name": "Ereignis",
+      "back": {
+        "Text": "event"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

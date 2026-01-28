@@ -1,0 +1,12 @@
+{
+  "id": "fd4f8472-224b-48a7-8c47-1fe8f41b327c",
+  "data": {
+    "Instance": {
+      "name": "trygghet",
+      "back": {
+        "Text": "safety"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

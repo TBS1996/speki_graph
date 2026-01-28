@@ -1,0 +1,12 @@
+{
+  "id": "382e6214-8b5f-4460-8e3a-25eeaeece6c4",
+  "data": {
+    "Instance": {
+      "name": "Ruhe",
+      "back": {
+        "Text": "rest"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

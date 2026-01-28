@@ -1,0 +1,12 @@
+{
+  "id": "8311c79c-4c95-4daf-9a0c-763a1b29f0ed",
+  "data": {
+    "Instance": {
+      "name": "opplysning",
+      "back": {
+        "Text": "information"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

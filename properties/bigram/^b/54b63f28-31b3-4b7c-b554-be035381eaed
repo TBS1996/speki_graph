@@ -1,0 +1,12 @@
+{
+  "id": "54b63f28-31b3-4b7c-b554-be035381eaed",
+  "data": {
+    "Instance": {
+      "name": "Badezimmer",
+      "back": {
+        "Text": "bathroom"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

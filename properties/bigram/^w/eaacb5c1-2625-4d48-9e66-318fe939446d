@@ -1,0 +1,12 @@
+{
+  "id": "eaacb5c1-2625-4d48-9e66-318fe939446d",
+  "data": {
+    "Instance": {
+      "name": "Warnung",
+      "back": {
+        "Text": "warning"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

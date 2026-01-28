@@ -1,0 +1,12 @@
+{
+  "id": "80721879-1145-4a65-ba7a-1179537407b3",
+  "data": {
+    "Instance": {
+      "name": "statsminister",
+      "back": {
+        "Text": "prime minister"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

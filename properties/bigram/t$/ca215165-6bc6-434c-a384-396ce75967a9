@@ -1,0 +1,12 @@
+{
+  "id": "ca215165-6bc6-434c-a384-396ce75967a9",
+  "data": {
+    "Instance": {
+      "name": "mestepart",
+      "back": {
+        "Text": "greater part"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "5c90d09c-7293-4204-8189-fd451fdfc628",
+  "data": {
+    "Instance": {
+      "name": "skap",
+      "back": {
+        "Text": "cupboard/cabinet"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

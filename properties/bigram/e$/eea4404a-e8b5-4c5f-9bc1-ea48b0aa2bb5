@@ -1,0 +1,12 @@
+{
+  "id": "eea4404a-e8b5-4c5f-9bc1-ea48b0aa2bb5",
+  "data": {
+    "Instance": {
+      "name": "gate",
+      "back": {
+        "Text": "street"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

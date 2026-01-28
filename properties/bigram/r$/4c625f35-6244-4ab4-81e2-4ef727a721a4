@@ -1,0 +1,12 @@
+{
+  "id": "4c625f35-6244-4ab4-81e2-4ef727a721a4",
+  "data": {
+    "Instance": {
+      "name": "Bruder",
+      "back": {
+        "Text": "brother"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

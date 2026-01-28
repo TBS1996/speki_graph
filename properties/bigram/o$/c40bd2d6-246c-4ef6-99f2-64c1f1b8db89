@@ -1,0 +1,12 @@
+{
+  "id": "c40bd2d6-246c-4ef6-99f2-64c1f1b8db89",
+  "data": {
+    "Instance": {
+      "name": "ministro",
+      "back": {
+        "Text": "minister"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "0b729fa7-d237-4682-b47e-e660ee22ea3d",
+  "data": {
+    "Instance": {
+      "name": "nasjon",
+      "back": {
+        "Text": "nation"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "ed2f8c52-3e61-4731-ad75-1c928d60e2c3",
+  "data": {
+    "Instance": {
+      "name": "inntak",
+      "back": {
+        "Text": "intake"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

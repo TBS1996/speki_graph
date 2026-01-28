@@ -1,0 +1,12 @@
+{
+  "id": "6839db35-f8d0-4aa8-965c-2aa4f8ff2eca",
+  "data": {
+    "Instance": {
+      "name": "consumo",
+      "back": {
+        "Text": "consumption"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

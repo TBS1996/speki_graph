@@ -1,0 +1,12 @@
+{
+  "id": "78a2687a-5d71-4568-bd81-a2debf71b1cb",
+  "data": {
+    "Instance": {
+      "name": "utdrag",
+      "back": {
+        "Text": "extract"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "5bd4f2a9-fd20-414d-bf58-475a8fb60bfb",
+  "data": {
+    "Instance": {
+      "name": "Einschränkung",
+      "back": {
+        "Text": "restriction"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

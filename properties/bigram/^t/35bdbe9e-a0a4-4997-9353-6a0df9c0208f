@@ -1,0 +1,12 @@
+{
+  "id": "35bdbe9e-a0a4-4997-9353-6a0df9c0208f",
+  "data": {
+    "Instance": {
+      "name": "tegning",
+      "back": {
+        "Text": "drawing"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

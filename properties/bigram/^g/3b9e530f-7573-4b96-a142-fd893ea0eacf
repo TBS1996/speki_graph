@@ -1,0 +1,12 @@
+{
+  "id": "3b9e530f-7573-4b96-a142-fd893ea0eacf",
+  "data": {
+    "Instance": {
+      "name": "giro",
+      "back": {
+        "Text": "turn"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "10a0c402-98a5-4858-94e9-49684df25b77",
+  "data": {
+    "Instance": {
+      "name": "tensión",
+      "back": {
+        "Text": "tension"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

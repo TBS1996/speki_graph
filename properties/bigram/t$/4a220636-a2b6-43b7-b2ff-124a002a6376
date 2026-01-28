@@ -1,0 +1,12 @@
+{
+  "id": "4a220636-a2b6-43b7-b2ff-124a002a6376",
+  "data": {
+    "Instance": {
+      "name": "rot",
+      "back": {
+        "Text": "root"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

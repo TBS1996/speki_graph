@@ -1,0 +1,12 @@
+{
+  "id": "8077101c-47a6-49fe-950c-16a7b45ea357",
+  "data": {
+    "Instance": {
+      "name": "vino",
+      "back": {
+        "Text": "wine"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

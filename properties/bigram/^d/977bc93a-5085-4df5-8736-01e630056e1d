@@ -1,0 +1,12 @@
+{
+  "id": "977bc93a-5085-4df5-8736-01e630056e1d",
+  "data": {
+    "Instance": {
+      "name": "dialog",
+      "back": {
+        "Text": "dialogue"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "1a682e1e-8418-48b3-8a41-61504174dd3c",
+  "data": {
+    "Instance": {
+      "name": "regelverk",
+      "back": {
+        "Text": "regulations"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "e5f70232-6a16-499b-a5eb-e5968cad213a",
+  "data": {
+    "Instance": {
+      "name": "estrategia",
+      "back": {
+        "Text": "strategy"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "b9b8cf9d-4407-4e3b-b2b0-345923fcf528",
+  "data": {
+    "Instance": {
+      "name": "kanal",
+      "back": {
+        "Text": "channel"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "288bdd47-056b-46eb-86e4-0fdb843cb280",
+  "data": {
+    "Instance": {
+      "name": "Mannschaft",
+      "back": {
+        "Text": "team"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

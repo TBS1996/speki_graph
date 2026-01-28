@@ -1,0 +1,12 @@
+{
+  "id": "e1f519e7-bd10-41f7-add0-262f8d2d6ad4",
+  "data": {
+    "Instance": {
+      "name": "undersøkelse",
+      "back": {
+        "Text": "examination"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

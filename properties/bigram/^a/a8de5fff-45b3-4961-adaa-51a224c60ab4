@@ -1,0 +1,12 @@
+{
+  "id": "a8de5fff-45b3-4961-adaa-51a224c60ab4",
+  "data": {
+    "Instance": {
+      "name": "aksje",
+      "back": {
+        "Text": "share"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "e02b0541-8831-4fc7-97a7-3c26ad63e3e4",
+  "data": {
+    "Instance": {
+      "name": "begrunnelse",
+      "back": {
+        "Text": "reason"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "686e24db-895a-4b2f-9a63-6ad5e472cd8d",
+  "data": {
+    "Instance": {
+      "name": "sykkel",
+      "back": {
+        "Text": "bicycle"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

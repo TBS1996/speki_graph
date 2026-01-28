@@ -1,0 +1,12 @@
+{
+  "id": "b900cbd2-99f5-41fa-8805-bf1aa904e640",
+  "data": {
+    "Instance": {
+      "name": "Feind",
+      "back": {
+        "Text": "enemy"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "cec6bad8-cb63-408e-92ee-259035c54d00",
+  "data": {
+    "Instance": {
+      "name": "Anfang",
+      "back": {
+        "Text": "beginning"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

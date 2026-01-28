@@ -1,0 +1,12 @@
+{
+  "id": "f0cd4fb1-ff50-4aa3-b9fe-9cb1f49ab6fa",
+  "data": {
+    "Instance": {
+      "name": "Fernseher",
+      "back": {
+        "Text": "tv"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

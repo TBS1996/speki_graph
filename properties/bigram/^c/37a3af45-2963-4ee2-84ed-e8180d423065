@@ -1,0 +1,12 @@
+{
+  "id": "37a3af45-2963-4ee2-84ed-e8180d423065",
+  "data": {
+    "Instance": {
+      "name": "cubierta",
+      "back": {
+        "Text": "cover"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

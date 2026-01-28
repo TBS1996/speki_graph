@@ -1,0 +1,12 @@
+{
+  "id": "f1e76e9f-e079-468c-aac7-c3da254e1a7f",
+  "data": {
+    "Instance": {
+      "name": "sal",
+      "back": {
+        "Text": "hall"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

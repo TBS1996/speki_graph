@@ -1,0 +1,12 @@
+{
+  "id": "6ad475f9-2f69-4322-9591-8671b64a048f",
+  "data": {
+    "Instance": {
+      "name": "Bedingung",
+      "back": {
+        "Text": "condition"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

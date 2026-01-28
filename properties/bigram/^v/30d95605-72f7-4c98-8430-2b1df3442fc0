@@ -1,0 +1,12 @@
+{
+  "id": "30d95605-72f7-4c98-8430-2b1df3442fc0",
+  "data": {
+    "Instance": {
+      "name": "Vermögenswert",
+      "back": {
+        "Text": "asset"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

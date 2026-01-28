@@ -1,0 +1,12 @@
+{
+  "id": "ace3b89e-1d9a-4bbb-81c9-146762b2cee1",
+  "data": {
+    "Instance": {
+      "name": "Nutzer",
+      "back": {
+        "Text": "user"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

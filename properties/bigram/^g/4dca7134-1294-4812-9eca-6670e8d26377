@@ -1,0 +1,12 @@
+{
+  "id": "4dca7134-1294-4812-9eca-6670e8d26377",
+  "data": {
+    "Instance": {
+      "name": "glass",
+      "back": {
+        "Text": "glass"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

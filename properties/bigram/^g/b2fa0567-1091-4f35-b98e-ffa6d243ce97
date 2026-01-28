@@ -1,0 +1,12 @@
+{
+  "id": "b2fa0567-1091-4f35-b98e-ffa6d243ce97",
+  "data": {
+    "Instance": {
+      "name": "Geschwindigkeit",
+      "back": {
+        "Text": "speed"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

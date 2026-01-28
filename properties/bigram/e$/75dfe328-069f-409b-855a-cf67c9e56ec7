@@ -1,0 +1,12 @@
+{
+  "id": "75dfe328-069f-409b-855a-cf67c9e56ec7",
+  "data": {
+    "Instance": {
+      "name": "Bühne",
+      "back": {
+        "Text": "stage"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

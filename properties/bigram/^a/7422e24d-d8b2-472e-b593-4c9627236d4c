@@ -1,0 +1,12 @@
+{
+  "id": "7422e24d-d8b2-472e-b593-4c9627236d4c",
+  "data": {
+    "Instance": {
+      "name": "Abfall",
+      "back": {
+        "Text": "waste"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

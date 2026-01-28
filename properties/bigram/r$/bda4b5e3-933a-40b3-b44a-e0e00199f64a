@@ -1,0 +1,12 @@
+{
+  "id": "bda4b5e3-933a-40b3-b44a-e0e00199f64a",
+  "data": {
+    "Instance": {
+      "name": "meter",
+      "back": {
+        "Text": "metre"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

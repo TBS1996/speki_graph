@@ -1,0 +1,12 @@
+{
+  "id": "ba6db63c-715a-4049-bdaa-d4938fa1a4cf",
+  "data": {
+    "Instance": {
+      "name": "Freiwilliger",
+      "back": {
+        "Text": "volunteer"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

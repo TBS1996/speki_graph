@@ -1,0 +1,12 @@
+{
+  "id": "1795a4ec-d38a-4742-82cd-3a0da1a4c5fa",
+  "data": {
+    "Instance": {
+      "name": "dispositivo",
+      "back": {
+        "Text": "device"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

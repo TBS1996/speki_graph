@@ -1,0 +1,12 @@
+{
+  "id": "159475c1-2d03-4fec-b5d6-522dc5ecb549",
+  "data": {
+    "Instance": {
+      "name": "etapa",
+      "back": {
+        "Text": "stage"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "52b0d927-5f49-4a40-8c11-4834aa6d1820",
+  "data": {
+    "Instance": {
+      "name": "Entfernung",
+      "back": {
+        "Text": "distance"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

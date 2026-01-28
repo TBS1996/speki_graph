@@ -1,0 +1,12 @@
+{
+  "id": "f8182fc0-83a9-425a-8883-0d3064ac6559",
+  "data": {
+    "Instance": {
+      "name": "sentido",
+      "back": {
+        "Text": "sense"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

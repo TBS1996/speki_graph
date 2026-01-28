@@ -1,0 +1,12 @@
+{
+  "id": "37fca18b-6a14-4e6a-b1c1-57041cd2e528",
+  "data": {
+    "Instance": {
+      "name": "protest",
+      "back": {
+        "Text": "protest"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

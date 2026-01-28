@@ -1,0 +1,12 @@
+{
+  "id": "04da5f8a-4fcc-4a3f-96ee-22ed664e1fd7",
+  "data": {
+    "Instance": {
+      "name": "Datum",
+      "back": {
+        "Text": "date"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

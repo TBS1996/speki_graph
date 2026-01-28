@@ -1,0 +1,12 @@
+{
+  "id": "4fadc12b-f1ed-423c-9ebd-897fcea51f4f",
+  "data": {
+    "Instance": {
+      "name": "Beschwerde",
+      "back": {
+        "Text": "complaint"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

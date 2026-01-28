@@ -1,0 +1,12 @@
+{
+  "id": "af7a660c-be65-4cec-aeb6-7f8064d05799",
+  "data": {
+    "Instance": {
+      "name": "Hälfte",
+      "back": {
+        "Text": "half"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

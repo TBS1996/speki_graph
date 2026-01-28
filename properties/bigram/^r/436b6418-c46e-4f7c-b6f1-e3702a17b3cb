@@ -1,0 +1,12 @@
+{
+  "id": "436b6418-c46e-4f7c-b6f1-e3702a17b3cb",
+  "data": {
+    "Instance": {
+      "name": "ressurs",
+      "back": {
+        "Text": "resource"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

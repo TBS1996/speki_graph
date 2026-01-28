@@ -1,0 +1,12 @@
+{
+  "id": "129aeaea-c49a-411c-b7f5-08fb2640253b",
+  "data": {
+    "Instance": {
+      "name": "correo",
+      "back": {
+        "Text": "mail"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

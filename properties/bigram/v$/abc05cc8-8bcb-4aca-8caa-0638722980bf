@@ -1,0 +1,12 @@
+{
+  "id": "abc05cc8-8bcb-4aca-8caa-0638722980bf",
+  "data": {
+    "Instance": {
+      "name": "initiativ",
+      "back": {
+        "Text": "initiative"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

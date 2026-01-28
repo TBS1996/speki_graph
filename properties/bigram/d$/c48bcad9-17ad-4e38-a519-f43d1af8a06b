@@ -1,0 +1,12 @@
+{
+  "id": "c48bcad9-17ad-4e38-a519-f43d1af8a06b",
+  "data": {
+    "Instance": {
+      "name": "søknad",
+      "back": {
+        "Text": "application"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "a0ac6a2c-7676-4e76-a955-a8b763a979d3",
+  "data": {
+    "Instance": {
+      "name": "prosent",
+      "back": {
+        "Text": "percent"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

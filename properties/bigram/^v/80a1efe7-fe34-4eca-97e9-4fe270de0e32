@@ -1,0 +1,12 @@
+{
+  "id": "80a1efe7-fe34-4eca-97e9-4fe270de0e32",
+  "data": {
+    "Instance": {
+      "name": "Verletzung",
+      "back": {
+        "Text": "injury"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

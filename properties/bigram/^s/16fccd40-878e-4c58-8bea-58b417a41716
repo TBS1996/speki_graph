@@ -1,0 +1,12 @@
+{
+  "id": "16fccd40-878e-4c58-8bea-58b417a41716",
+  "data": {
+    "Instance": {
+      "name": "silla",
+      "back": {
+        "Text": "chair"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

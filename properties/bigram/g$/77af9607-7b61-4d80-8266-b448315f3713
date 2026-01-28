@@ -1,0 +1,12 @@
+{
+  "id": "77af9607-7b61-4d80-8266-b448315f3713",
+  "data": {
+    "Instance": {
+      "name": "planlegging",
+      "back": {
+        "Text": "planning"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "352719bc-95a5-43c0-90a8-92b8a0b785b1",
+  "data": {
+    "Instance": {
+      "name": "organisasjon",
+      "back": {
+        "Text": "organisation"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

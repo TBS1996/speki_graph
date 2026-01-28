@@ -1,0 +1,12 @@
+{
+  "id": "eceaa200-93fe-4060-81a2-e027aba8e1b0",
+  "data": {
+    "Instance": {
+      "name": "døgn",
+      "back": {
+        "Text": "day (and night)"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

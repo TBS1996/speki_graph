@@ -1,0 +1,12 @@
+{
+  "id": "28a73132-9ceb-418b-876c-3c323eff1076",
+  "data": {
+    "Instance": {
+      "name": "detalj",
+      "back": {
+        "Text": "detail"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

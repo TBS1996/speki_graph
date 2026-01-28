@@ -1,0 +1,12 @@
+{
+  "id": "6b8c0c38-9199-4ed4-a495-b96b38e752c9",
+  "data": {
+    "Instance": {
+      "name": "skolebuss",
+      "back": {
+        "Text": "school bus"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

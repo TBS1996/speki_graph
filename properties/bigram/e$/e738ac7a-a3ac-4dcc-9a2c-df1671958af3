@@ -1,0 +1,12 @@
+{
+  "id": "e738ac7a-a3ac-4dcc-9a2c-df1671958af3",
+  "data": {
+    "Instance": {
+      "name": "evne",
+      "back": {
+        "Text": "ability"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

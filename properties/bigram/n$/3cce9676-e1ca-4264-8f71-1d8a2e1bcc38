@@ -1,0 +1,12 @@
+{
+  "id": "3cce9676-e1ca-4264-8f71-1d8a2e1bcc38",
+  "data": {
+    "Instance": {
+      "name": "anfitrión",
+      "back": {
+        "Text": "host"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

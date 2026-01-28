@@ -1,0 +1,12 @@
+{
+  "id": "fd96385f-5b92-4b42-a43a-8e3d070256d9",
+  "data": {
+    "Instance": {
+      "name": "gjennomføring",
+      "back": {
+        "Text": "implementation"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

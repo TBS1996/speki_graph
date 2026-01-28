@@ -1,0 +1,12 @@
+{
+  "id": "c4c960c8-62c1-4ada-8baa-a3b87dab6bc8",
+  "data": {
+    "Instance": {
+      "name": "Fokus",
+      "back": {
+        "Text": "focus"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

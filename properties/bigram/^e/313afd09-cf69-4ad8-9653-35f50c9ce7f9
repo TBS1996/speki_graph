@@ -1,0 +1,12 @@
+{
+  "id": "313afd09-cf69-4ad8-9653-35f50c9ce7f9",
+  "data": {
+    "Instance": {
+      "name": "ejército",
+      "back": {
+        "Text": "army"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

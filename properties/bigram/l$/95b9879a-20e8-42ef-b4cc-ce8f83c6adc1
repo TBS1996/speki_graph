@@ -1,0 +1,12 @@
+{
+  "id": "95b9879a-20e8-42ef-b4cc-ce8f83c6adc1",
+  "data": {
+    "Instance": {
+      "name": "personal",
+      "back": {
+        "Text": "staff"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

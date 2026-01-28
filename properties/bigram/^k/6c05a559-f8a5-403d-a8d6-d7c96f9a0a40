@@ -1,0 +1,12 @@
+{
+  "id": "6c05a559-f8a5-403d-a8d6-d7c96f9a0a40",
+  "data": {
+    "Instance": {
+      "name": "Kontrolle",
+      "back": {
+        "Text": "control"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

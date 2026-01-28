@@ -1,0 +1,12 @@
+{
+  "id": "3d8c5fe0-107b-4ef1-be23-b99a4b773c96",
+  "data": {
+    "Instance": {
+      "name": "Teilnahme",
+      "back": {
+        "Text": "participation"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

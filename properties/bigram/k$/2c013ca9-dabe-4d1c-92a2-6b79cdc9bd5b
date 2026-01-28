@@ -1,0 +1,12 @@
+{
+  "id": "2c013ca9-dabe-4d1c-92a2-6b79cdc9bd5b",
+  "data": {
+    "Instance": {
+      "name": "kronikk",
+      "back": {
+        "Text": "feature article"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

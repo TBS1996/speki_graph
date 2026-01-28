@@ -1,0 +1,12 @@
+{
+  "id": "4b43bc52-c8db-47ae-a025-c73b74419c65",
+  "data": {
+    "Instance": {
+      "name": "arbeidsplass",
+      "back": {
+        "Text": "work place"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

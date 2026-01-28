@@ -1,0 +1,12 @@
+{
+  "id": "4d5b3e83-ee2e-4c2a-8c64-8acdee8e9a43",
+  "data": {
+    "Instance": {
+      "name": "Missbrauch",
+      "back": {
+        "Text": "abuse"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

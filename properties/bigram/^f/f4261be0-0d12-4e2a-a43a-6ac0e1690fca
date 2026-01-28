@@ -1,0 +1,12 @@
+{
+  "id": "f4261be0-0d12-4e2a-a43a-6ac0e1690fca",
+  "data": {
+    "Instance": {
+      "name": "Fonds",
+      "back": {
+        "Text": "fund"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

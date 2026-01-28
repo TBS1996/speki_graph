@@ -1,0 +1,12 @@
+{
+  "id": "d72dbae2-559a-4ebc-885c-e5d366f4f170",
+  "data": {
+    "Instance": {
+      "name": "kunde",
+      "back": {
+        "Text": "customer"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

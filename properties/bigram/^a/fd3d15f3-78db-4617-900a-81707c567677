@@ -1,0 +1,12 @@
+{
+  "id": "fd3d15f3-78db-4617-900a-81707c567677",
+  "data": {
+    "Instance": {
+      "name": "avdeling",
+      "back": {
+        "Text": "department"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

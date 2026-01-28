@@ -1,0 +1,12 @@
+{
+  "id": "94343d5e-2fd0-4e9c-abcc-dc33a0580e1f",
+  "data": {
+    "Instance": {
+      "name": "cargo",
+      "back": {
+        "Text": "charge"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "1c780650-77a5-400b-b5c0-a00aeec93f0d",
+  "data": {
+    "Instance": {
+      "name": "Staub",
+      "back": {
+        "Text": "dust"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

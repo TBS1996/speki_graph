@@ -1,0 +1,12 @@
+{
+  "id": "5ff4db1b-52e1-4145-b243-3f9b2ad01c83",
+  "data": {
+    "Instance": {
+      "name": "student",
+      "back": {
+        "Text": "student"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

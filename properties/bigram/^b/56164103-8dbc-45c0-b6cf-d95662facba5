@@ -1,0 +1,12 @@
+{
+  "id": "56164103-8dbc-45c0-b6cf-d95662facba5",
+  "data": {
+    "Instance": {
+      "name": "baño",
+      "back": {
+        "Text": "bathroom"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

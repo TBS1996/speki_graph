@@ -1,0 +1,12 @@
+{
+  "id": "4d8ac65a-20f1-4212-ac16-622d0db786fd",
+  "data": {
+    "Instance": {
+      "name": "puntuación",
+      "back": {
+        "Text": "score"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "655f2603-e660-477e-a25d-fa674fe0ff2a",
+  "data": {
+    "Instance": {
+      "name": "plass",
+      "back": {
+        "Text": "place"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

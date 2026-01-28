@@ -1,0 +1,12 @@
+{
+  "id": "35ebcff7-9f6d-4557-bfe1-5b99e771e62e",
+  "data": {
+    "Instance": {
+      "name": "gevinst",
+      "back": {
+        "Text": "gain"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

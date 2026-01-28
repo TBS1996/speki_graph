@@ -1,0 +1,12 @@
+{
+  "id": "85084c20-3ed2-47c2-9fcd-836cf62e1da6",
+  "data": {
+    "Instance": {
+      "name": "Technik",
+      "back": {
+        "Text": "technique"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "879c2fd1-6149-466a-b541-b2abfa7bfa17",
+  "data": {
+    "Instance": {
+      "name": "investigador",
+      "back": {
+        "Text": "researcher"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

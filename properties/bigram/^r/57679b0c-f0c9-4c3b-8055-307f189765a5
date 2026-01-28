@@ -1,0 +1,12 @@
+{
+  "id": "57679b0c-f0c9-4c3b-8055-307f189765a5",
+  "data": {
+    "Instance": {
+      "name": "Recht",
+      "back": {
+        "Text": "right"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

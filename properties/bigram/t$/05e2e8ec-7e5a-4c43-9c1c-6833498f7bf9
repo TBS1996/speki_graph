@@ -1,0 +1,12 @@
+{
+  "id": "05e2e8ec-7e5a-4c43-9c1c-6833498f7bf9",
+  "data": {
+    "Instance": {
+      "name": "oppmerksomhet",
+      "back": {
+        "Text": "attention"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

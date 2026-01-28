@@ -1,0 +1,12 @@
+{
+  "id": "e90629ca-0ce2-42cc-b430-ebd6e4a619b4",
+  "data": {
+    "Instance": {
+      "name": "fabrikk",
+      "back": {
+        "Text": "factory"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

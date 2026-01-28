@@ -1,0 +1,12 @@
+{
+  "id": "c969f825-6542-49f7-a3a2-3f19f07737b3",
+  "data": {
+    "Instance": {
+      "name": "underholdning",
+      "back": {
+        "Text": "entertainment"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

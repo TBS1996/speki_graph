@@ -1,0 +1,12 @@
+{
+  "id": "90014a7b-a4f1-44ad-b53f-82e518b4866d",
+  "data": {
+    "Instance": {
+      "name": "Lebensstil",
+      "back": {
+        "Text": "lifestyle"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "42522012-f741-4763-938d-c18ea47af60a",
+  "data": {
+    "Instance": {
+      "name": "skjema",
+      "back": {
+        "Text": "schedule"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

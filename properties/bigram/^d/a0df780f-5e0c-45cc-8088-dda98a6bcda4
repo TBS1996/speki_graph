@@ -1,0 +1,12 @@
+{
+  "id": "a0df780f-5e0c-45cc-8088-dda98a6bcda4",
+  "data": {
+    "Instance": {
+      "name": "Dollar",
+      "back": {
+        "Text": "dollar"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

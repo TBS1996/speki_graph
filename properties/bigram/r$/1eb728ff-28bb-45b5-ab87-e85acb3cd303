@@ -1,0 +1,12 @@
+{
+  "id": "1eb728ff-28bb-45b5-ab87-e85acb3cd303",
+  "data": {
+    "Instance": {
+      "name": "Muster",
+      "back": {
+        "Text": "pattern"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

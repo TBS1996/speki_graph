@@ -1,0 +1,12 @@
+{
+  "id": "f9c1e82e-1264-47b1-98e9-9112bbeaf397",
+  "data": {
+    "Instance": {
+      "name": "rente",
+      "back": {
+        "Text": "interest"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

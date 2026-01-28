@@ -1,0 +1,12 @@
+{
+  "id": "9ffef8dc-232c-40b4-9583-4452d852df99",
+  "data": {
+    "Instance": {
+      "name": "Stoff",
+      "back": {
+        "Text": "fabric"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

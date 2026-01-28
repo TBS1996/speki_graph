@@ -1,0 +1,12 @@
+{
+  "id": "19cd9b3f-311b-4aa3-a23f-29721861a574",
+  "data": {
+    "Instance": {
+      "name": "Inneres",
+      "back": {
+        "Text": "inside"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "12e27cf3-8a0d-4cd8-ad13-d64b6c4944a6",
+  "data": {
+    "Instance": {
+      "name": "Rede",
+      "back": {
+        "Text": "speech"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "9753bb43-d8d6-4106-a6ac-27208cf5ac34",
+  "data": {
+    "Instance": {
+      "name": "mening",
+      "back": {
+        "Text": "opinion"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

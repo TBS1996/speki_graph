@@ -1,0 +1,12 @@
+{
+  "id": "53cec4ad-f377-456f-8bbc-9a342e6da24b",
+  "data": {
+    "Instance": {
+      "name": "compra",
+      "back": {
+        "Text": "shopping"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

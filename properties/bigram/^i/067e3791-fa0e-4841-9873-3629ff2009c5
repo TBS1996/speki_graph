@@ -1,0 +1,12 @@
+{
+  "id": "067e3791-fa0e-4841-9873-3629ff2009c5",
+  "data": {
+    "Instance": {
+      "name": "interior",
+      "back": {
+        "Text": "inside"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

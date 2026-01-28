@@ -1,0 +1,12 @@
+{
+  "id": "8a72f37c-bdd6-46cb-8871-4f96c3e48cd1",
+  "data": {
+    "Instance": {
+      "name": "bane",
+      "back": {
+        "Text": "track"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

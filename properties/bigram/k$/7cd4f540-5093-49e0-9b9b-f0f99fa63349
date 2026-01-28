@@ -1,0 +1,12 @@
+{
+  "id": "7cd4f540-5093-49e0-9b9b-f0f99fa63349",
+  "data": {
+    "Instance": {
+      "name": "Ausdruck",
+      "back": {
+        "Text": "expression"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "3601a226-3887-432d-b236-f4758c84d274",
+  "data": {
+    "Instance": {
+      "name": "utfordring",
+      "back": {
+        "Text": "challenge"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

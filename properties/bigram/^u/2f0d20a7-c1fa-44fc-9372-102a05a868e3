@@ -1,0 +1,12 @@
+{
+  "id": "2f0d20a7-c1fa-44fc-9372-102a05a868e3",
+  "data": {
+    "Instance": {
+      "name": "utgang",
+      "back": {
+        "Text": "exit"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

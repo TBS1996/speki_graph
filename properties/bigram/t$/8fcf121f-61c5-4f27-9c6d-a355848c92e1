@@ -1,0 +1,12 @@
+{
+  "id": "8fcf121f-61c5-4f27-9c6d-a355848c92e1",
+  "data": {
+    "Instance": {
+      "name": "Kandidat",
+      "back": {
+        "Text": "candidate"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

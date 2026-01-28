@@ -1,0 +1,12 @@
+{
+  "id": "8c20890c-b323-41bb-9fec-f12cfb15b20c",
+  "data": {
+    "Instance": {
+      "name": "Zimmer",
+      "back": {
+        "Text": "room"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

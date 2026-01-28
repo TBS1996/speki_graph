@@ -1,0 +1,12 @@
+{
+  "id": "f1d257c7-3a09-4b2a-a41f-966b936eb0d8",
+  "data": {
+    "Instance": {
+      "name": "tegn",
+      "back": {
+        "Text": "character"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

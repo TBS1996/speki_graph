@@ -1,0 +1,12 @@
+{
+  "id": "b82bc942-3ee4-4964-ae74-80711d7fe6e9",
+  "data": {
+    "Instance": {
+      "name": "menighet",
+      "back": {
+        "Text": "congregation"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

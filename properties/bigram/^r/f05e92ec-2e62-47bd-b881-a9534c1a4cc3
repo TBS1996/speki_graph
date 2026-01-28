@@ -1,0 +1,12 @@
+{
+  "id": "f05e92ec-2e62-47bd-b881-a9534c1a4cc3",
+  "data": {
+    "Instance": {
+      "name": "Reduzierung",
+      "back": {
+        "Text": "reduction"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

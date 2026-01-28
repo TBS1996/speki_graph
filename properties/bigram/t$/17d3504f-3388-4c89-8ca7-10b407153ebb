@@ -1,0 +1,12 @@
+{
+  "id": "17d3504f-3388-4c89-8ca7-10b407153ebb",
+  "data": {
+    "Instance": {
+      "name": "dikt",
+      "back": {
+        "Text": "poem"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

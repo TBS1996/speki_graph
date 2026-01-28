@@ -1,0 +1,12 @@
+{
+  "id": "b88b0b4b-9b20-43ca-ba60-c4589660c6d8",
+  "data": {
+    "Instance": {
+      "name": "Stern",
+      "back": {
+        "Text": "star"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

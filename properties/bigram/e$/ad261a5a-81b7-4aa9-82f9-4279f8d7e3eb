@@ -1,0 +1,12 @@
+{
+  "id": "ad261a5a-81b7-4aa9-82f9-4279f8d7e3eb",
+  "data": {
+    "Instance": {
+      "name": "Frage",
+      "back": {
+        "Text": "question"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

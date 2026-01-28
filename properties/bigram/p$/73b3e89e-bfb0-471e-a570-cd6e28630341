@@ -1,0 +1,12 @@
+{
+  "id": "73b3e89e-bfb0-471e-a570-cd6e28630341",
+  "data": {
+    "Instance": {
+      "name": "stopp",
+      "back": {
+        "Text": "stop"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

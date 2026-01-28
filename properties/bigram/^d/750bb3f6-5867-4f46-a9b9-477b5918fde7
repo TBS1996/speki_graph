@@ -1,0 +1,12 @@
+{
+  "id": "750bb3f6-5867-4f46-a9b9-477b5918fde7",
+  "data": {
+    "Instance": {
+      "name": "discurso",
+      "back": {
+        "Text": "speech"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

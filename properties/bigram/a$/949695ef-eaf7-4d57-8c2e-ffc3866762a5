@@ -1,0 +1,12 @@
+{
+  "id": "949695ef-eaf7-4d57-8c2e-ffc3866762a5",
+  "data": {
+    "Instance": {
+      "name": "criatura",
+      "back": {
+        "Text": "creature"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

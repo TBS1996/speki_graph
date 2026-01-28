@@ -1,0 +1,12 @@
+{
+  "id": "081d107b-f7d5-4061-b6ee-ceff4ddca757",
+  "data": {
+    "Instance": {
+      "name": "Erlaubnis",
+      "back": {
+        "Text": "permission"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

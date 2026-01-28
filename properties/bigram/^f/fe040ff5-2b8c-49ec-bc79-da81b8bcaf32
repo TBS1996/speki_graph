@@ -1,0 +1,12 @@
+{
+  "id": "fe040ff5-2b8c-49ec-bc79-da81b8bcaf32",
+  "data": {
+    "Instance": {
+      "name": "formål",
+      "back": {
+        "Text": "purpose"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

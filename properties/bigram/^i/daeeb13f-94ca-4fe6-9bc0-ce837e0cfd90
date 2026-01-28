@@ -1,0 +1,12 @@
+{
+  "id": "daeeb13f-94ca-4fe6-9bc0-ce837e0cfd90",
+  "data": {
+    "Instance": {
+      "name": "innbygger",
+      "back": {
+        "Text": "inhabitant"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "bf97b44c-f75e-4286-8d93-3a860a02579d",
+  "data": {
+    "Instance": {
+      "name": "investor",
+      "back": {
+        "Text": "investor"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

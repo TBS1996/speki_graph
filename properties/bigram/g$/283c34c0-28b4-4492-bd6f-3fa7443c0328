@@ -1,0 +1,12 @@
+{
+  "id": "283c34c0-28b4-4492-bd6f-3fa7443c0328",
+  "data": {
+    "Instance": {
+      "name": "utredning",
+      "back": {
+        "Text": "investigation"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

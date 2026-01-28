@@ -1,0 +1,12 @@
+{
+  "id": "4822ffa5-0bae-4a8d-b4f1-f3a4fb720909",
+  "data": {
+    "Instance": {
+      "name": "Flughafen",
+      "back": {
+        "Text": "airport"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

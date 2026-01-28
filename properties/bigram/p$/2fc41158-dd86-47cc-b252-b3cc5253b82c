@@ -1,0 +1,12 @@
+{
+  "id": "2fc41158-dd86-47cc-b252-b3cc5253b82c",
+  "data": {
+    "Instance": {
+      "name": "angrep",
+      "back": {
+        "Text": "attack"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

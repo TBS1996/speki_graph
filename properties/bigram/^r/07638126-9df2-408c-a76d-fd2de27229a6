@@ -1,0 +1,12 @@
+{
+  "id": "07638126-9df2-408c-a76d-fd2de27229a6",
+  "data": {
+    "Instance": {
+      "name": "redaktør",
+      "back": {
+        "Text": "editor"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

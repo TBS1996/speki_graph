@@ -1,0 +1,12 @@
+{
+  "id": "917c7111-0715-4bac-b7ff-39eb24cfb705",
+  "data": {
+    "Instance": {
+      "name": "aprobación",
+      "back": {
+        "Text": "approval"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

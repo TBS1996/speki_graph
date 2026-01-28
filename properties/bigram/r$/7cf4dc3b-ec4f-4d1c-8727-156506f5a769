@@ -1,0 +1,12 @@
+{
+  "id": "7cf4dc3b-ec4f-4d1c-8727-156506f5a769",
+  "data": {
+    "Instance": {
+      "name": "Rückkehr",
+      "back": {
+        "Text": "return"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

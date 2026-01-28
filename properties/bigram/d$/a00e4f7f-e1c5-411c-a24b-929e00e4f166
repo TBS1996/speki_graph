@@ -1,0 +1,12 @@
+{
+  "id": "a00e4f7f-e1c5-411c-a24b-929e00e4f166",
+  "data": {
+    "Instance": {
+      "name": "Held",
+      "back": {
+        "Text": "hero"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

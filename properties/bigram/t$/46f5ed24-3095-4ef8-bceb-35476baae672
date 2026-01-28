@@ -1,0 +1,12 @@
+{
+  "id": "46f5ed24-3095-4ef8-bceb-35476baae672",
+  "data": {
+    "Instance": {
+      "name": "rest",
+      "back": {
+        "Text": "rest/leftover"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "15dbd310-d895-48a3-9231-2dcb5591ffcc",
+  "data": {
+    "Instance": {
+      "name": "jefe",
+      "back": {
+        "Text": "boss"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

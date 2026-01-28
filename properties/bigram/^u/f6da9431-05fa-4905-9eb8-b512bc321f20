@@ -1,0 +1,12 @@
+{
+  "id": "f6da9431-05fa-4905-9eb8-b512bc321f20",
+  "data": {
+    "Instance": {
+      "name": "utdanning",
+      "back": {
+        "Text": "education"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

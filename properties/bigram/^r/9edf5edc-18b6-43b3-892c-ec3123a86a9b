@@ -1,0 +1,12 @@
+{
+  "id": "9edf5edc-18b6-43b3-892c-ec3123a86a9b",
+  "data": {
+    "Instance": {
+      "name": "relasjon",
+      "back": {
+        "Text": "relation"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

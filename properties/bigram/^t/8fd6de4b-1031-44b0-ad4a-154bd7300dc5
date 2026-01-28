@@ -1,0 +1,12 @@
+{
+  "id": "8fd6de4b-1031-44b0-ad4a-154bd7300dc5",
+  "data": {
+    "Instance": {
+      "name": "treer",
+      "back": {
+        "Text": "three"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

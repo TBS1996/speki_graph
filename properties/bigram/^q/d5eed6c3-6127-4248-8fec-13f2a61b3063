@@ -1,0 +1,12 @@
+{
+  "id": "d5eed6c3-6127-4248-8fec-13f2a61b3063",
+  "data": {
+    "Instance": {
+      "name": "Quelle",
+      "back": {
+        "Text": "source"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

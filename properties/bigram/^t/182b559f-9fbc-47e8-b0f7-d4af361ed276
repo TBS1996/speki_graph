@@ -1,0 +1,12 @@
+{
+  "id": "182b559f-9fbc-47e8-b0f7-d4af361ed276",
+  "data": {
+    "Instance": {
+      "name": "topp",
+      "back": {
+        "Text": "top"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

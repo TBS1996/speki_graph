@@ -1,0 +1,12 @@
+{
+  "id": "dda3d84f-f9d1-4403-b90f-0a3997b040a5",
+  "data": {
+    "Instance": {
+      "name": "Forschung",
+      "back": {
+        "Text": "research"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

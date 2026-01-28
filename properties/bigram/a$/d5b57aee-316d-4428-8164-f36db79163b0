@@ -1,0 +1,12 @@
+{
+  "id": "d5b57aee-316d-4428-8164-f36db79163b0",
+  "data": {
+    "Instance": {
+      "name": "arena",
+      "back": {
+        "Text": "arena"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

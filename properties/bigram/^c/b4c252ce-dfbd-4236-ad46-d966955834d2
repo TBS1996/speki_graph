@@ -1,0 +1,12 @@
+{
+  "id": "b4c252ce-dfbd-4236-ad46-d966955834d2",
+  "data": {
+    "Instance": {
+      "name": "choque",
+      "back": {
+        "Text": "shock"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

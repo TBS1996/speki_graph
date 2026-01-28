@@ -1,0 +1,12 @@
+{
+  "id": "d9a38bb1-c084-428c-aca7-fcbbc091d763",
+  "data": {
+    "Instance": {
+      "name": "likestilling",
+      "back": {
+        "Text": "equality"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

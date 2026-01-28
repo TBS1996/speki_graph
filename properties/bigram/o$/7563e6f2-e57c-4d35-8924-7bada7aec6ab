@@ -1,0 +1,12 @@
+{
+  "id": "7563e6f2-e57c-4d35-8924-7bada7aec6ab",
+  "data": {
+    "Instance": {
+      "name": "propietario",
+      "back": {
+        "Text": "owner"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

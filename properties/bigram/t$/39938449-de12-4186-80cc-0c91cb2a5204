@@ -1,0 +1,12 @@
+{
+  "id": "39938449-de12-4186-80cc-0c91cb2a5204",
+  "data": {
+    "Instance": {
+      "name": "Angebot",
+      "back": {
+        "Text": "offer"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

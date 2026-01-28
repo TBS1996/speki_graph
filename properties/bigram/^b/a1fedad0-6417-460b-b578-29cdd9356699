@@ -1,0 +1,12 @@
+{
+  "id": "a1fedad0-6417-460b-b578-29cdd9356699",
+  "data": {
+    "Instance": {
+      "name": "bola",
+      "back": {
+        "Text": "ball"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

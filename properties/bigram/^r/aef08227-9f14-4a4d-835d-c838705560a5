@@ -1,0 +1,12 @@
+{
+  "id": "aef08227-9f14-4a4d-835d-c838705560a5",
+  "data": {
+    "Instance": {
+      "name": "recompensa",
+      "back": {
+        "Text": "reward"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

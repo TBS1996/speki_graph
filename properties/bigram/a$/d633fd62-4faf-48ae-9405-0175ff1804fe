@@ -1,0 +1,12 @@
+{
+  "id": "d633fd62-4faf-48ae-9405-0175ff1804fe",
+  "data": {
+    "Instance": {
+      "name": "amenaza",
+      "back": {
+        "Text": "threat"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "cf626dd1-982b-4b02-a052-448e40c2c5a6",
+  "data": {
+    "Instance": {
+      "name": "selskap",
+      "back": {
+        "Text": "company"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "f9f3be98-2a62-4d4c-a1f6-871e8186c075",
+  "data": {
+    "Instance": {
+      "name": "producto",
+      "back": {
+        "Text": "product"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "bcd05962-3bef-4d28-8f4b-caba61d77b70",
+  "data": {
+    "Instance": {
+      "name": "Küste",
+      "back": {
+        "Text": "coast"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

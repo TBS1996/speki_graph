@@ -1,0 +1,12 @@
+{
+  "id": "3afa68d7-f056-49d0-8da7-2cb63db2dd33",
+  "data": {
+    "Instance": {
+      "name": "pose",
+      "back": {
+        "Text": "bag"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "c0d5c93d-baf7-4691-b2f3-028f33c83f47",
+  "data": {
+    "Instance": {
+      "name": "creencia",
+      "back": {
+        "Text": "belief"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

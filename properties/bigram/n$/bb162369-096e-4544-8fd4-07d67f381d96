@@ -1,0 +1,12 @@
+{
+  "id": "bb162369-096e-4544-8fd4-07d67f381d96",
+  "data": {
+    "Instance": {
+      "name": "reputación",
+      "back": {
+        "Text": "reputation"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

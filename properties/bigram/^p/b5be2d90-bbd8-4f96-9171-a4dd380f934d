@@ -1,0 +1,12 @@
+{
+  "id": "b5be2d90-bbd8-4f96-9171-a4dd380f934d",
+  "data": {
+    "Instance": {
+      "name": "presupuesto",
+      "back": {
+        "Text": "budget"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

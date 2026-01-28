@@ -1,0 +1,12 @@
+{
+  "id": "9746bdaa-1d8b-4e8a-b6bf-1be318646b4d",
+  "data": {
+    "Instance": {
+      "name": "Gremium",
+      "back": {
+        "Text": "panel"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "85bb7a3e-2f3f-445d-a0b3-0d44fdc567ca",
+  "data": {
+    "Instance": {
+      "name": "Behandlung",
+      "back": {
+        "Text": "treatment"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

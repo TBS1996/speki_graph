@@ -1,0 +1,12 @@
+{
+  "id": "aca01f19-0b74-4a0a-8d13-f81b5e6da2e6",
+  "data": {
+    "Instance": {
+      "name": "ventana",
+      "back": {
+        "Text": "window"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

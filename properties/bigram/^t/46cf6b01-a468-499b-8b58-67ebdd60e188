@@ -1,0 +1,12 @@
+{
+  "id": "46cf6b01-a468-499b-8b58-67ebdd60e188",
+  "data": {
+    "Instance": {
+      "name": "tråd",
+      "back": {
+        "Text": "thread"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

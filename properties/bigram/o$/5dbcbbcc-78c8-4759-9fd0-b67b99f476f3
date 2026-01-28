@@ -1,0 +1,12 @@
+{
+  "id": "5dbcbbcc-78c8-4759-9fd0-b67b99f476f3",
+  "data": {
+    "Instance": {
+      "name": "enemigo",
+      "back": {
+        "Text": "enemy"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

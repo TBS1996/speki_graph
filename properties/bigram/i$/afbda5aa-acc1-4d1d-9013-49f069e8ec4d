@@ -1,0 +1,12 @@
+{
+  "id": "afbda5aa-acc1-4d1d-9013-49f069e8ec4d",
+  "data": {
+    "Instance": {
+      "name": "garanti",
+      "back": {
+        "Text": "guarantee"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

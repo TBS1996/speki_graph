@@ -1,0 +1,12 @@
+{
+  "id": "75847586-c1b9-4499-bd07-4fe58b48eec4",
+  "data": {
+    "Instance": {
+      "name": "Verbrechen",
+      "back": {
+        "Text": "crime"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "2d1bae32-07a4-479e-8149-7b9468a4eeec",
+  "data": {
+    "Instance": {
+      "name": "orientación",
+      "back": {
+        "Text": "guidance"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

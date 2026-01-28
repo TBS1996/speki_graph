@@ -1,0 +1,12 @@
+{
+  "id": "d696fbdb-a88c-487a-ad06-b760397b9f1f",
+  "data": {
+    "Instance": {
+      "name": "leder",
+      "back": {
+        "Text": "leader"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

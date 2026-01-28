@@ -1,0 +1,12 @@
+{
+  "id": "39a5480e-152f-4f6a-ad72-1a66da5a7462",
+  "data": {
+    "Instance": {
+      "name": "máquina",
+      "back": {
+        "Text": "machine"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

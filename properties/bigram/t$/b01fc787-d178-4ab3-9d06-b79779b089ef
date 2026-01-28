@@ -1,0 +1,12 @@
+{
+  "id": "b01fc787-d178-4ab3-9d06-b79779b089ef",
+  "data": {
+    "Instance": {
+      "name": "fart",
+      "back": {
+        "Text": "speed"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

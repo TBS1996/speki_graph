@@ -1,0 +1,12 @@
+{
+  "id": "5fd0ede4-d503-4568-b470-1f1382d69230",
+  "data": {
+    "Instance": {
+      "name": "Herausgeber",
+      "back": {
+        "Text": "editor"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

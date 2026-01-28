@@ -1,0 +1,12 @@
+{
+  "id": "2f99cd2f-2282-41c0-97b3-c1d6b5969c52",
+  "data": {
+    "Instance": {
+      "name": "skoletid",
+      "back": {
+        "Text": "school time"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

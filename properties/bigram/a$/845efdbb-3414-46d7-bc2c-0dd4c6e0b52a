@@ -1,0 +1,12 @@
+{
+  "id": "845efdbb-3414-46d7-bc2c-0dd4c6e0b52a",
+  "data": {
+    "Instance": {
+      "name": "novela",
+      "back": {
+        "Text": "novel"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "512b5863-c395-46a1-a995-8cf915eb36e2",
+  "data": {
+    "Instance": {
+      "name": "Schlaf",
+      "back": {
+        "Text": "sleep"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

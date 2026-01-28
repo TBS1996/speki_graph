@@ -1,0 +1,12 @@
+{
+  "id": "4f69157d-6a7c-495d-b0ea-580ed30554d9",
+  "data": {
+    "Instance": {
+      "name": "posisjon",
+      "back": {
+        "Text": "position"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

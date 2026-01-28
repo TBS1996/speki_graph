@@ -1,0 +1,12 @@
+{
+  "id": "41ff22a0-d282-4514-8ea4-4fe5312484f2",
+  "data": {
+    "Instance": {
+      "name": "fisk",
+      "back": {
+        "Text": "fish"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

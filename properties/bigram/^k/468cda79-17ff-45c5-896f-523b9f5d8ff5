@@ -1,0 +1,12 @@
+{
+  "id": "468cda79-17ff-45c5-896f-523b9f5d8ff5",
+  "data": {
+    "Instance": {
+      "name": "kjerne",
+      "back": {
+        "Text": "seed/core"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "5304643d-0bd0-4ad7-965a-8fe6974fc35c",
+  "data": {
+    "Instance": {
+      "name": "grunn",
+      "back": {
+        "Text": "ground"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

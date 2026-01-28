@@ -1,0 +1,12 @@
+{
+  "id": "d77b7680-ac19-4357-a28e-f82f010cba9a",
+  "data": {
+    "Instance": {
+      "name": "nariz",
+      "back": {
+        "Text": "nose"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

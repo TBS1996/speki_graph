@@ -1,0 +1,12 @@
+{
+  "id": "a500bf10-b886-4e69-a3ae-e1ba68beb694",
+  "data": {
+    "Instance": {
+      "name": "Elektrizität",
+      "back": {
+        "Text": "electricity"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

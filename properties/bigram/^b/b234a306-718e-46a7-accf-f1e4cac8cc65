@@ -1,0 +1,12 @@
+{
+  "id": "b234a306-718e-46a7-accf-f1e4cac8cc65",
+  "data": {
+    "Instance": {
+      "name": "Besucher",
+      "back": {
+        "Text": "visitor"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

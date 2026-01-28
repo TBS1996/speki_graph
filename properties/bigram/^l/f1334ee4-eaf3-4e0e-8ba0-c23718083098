@@ -1,0 +1,12 @@
+{
+  "id": "f1334ee4-eaf3-4e0e-8ba0-c23718083098",
+  "data": {
+    "Instance": {
+      "name": "Lärm",
+      "back": {
+        "Text": "noise"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

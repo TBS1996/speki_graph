@@ -1,0 +1,12 @@
+{
+  "id": "1a0f7614-1aa8-4a3d-bb21-a29c742f6a96",
+  "data": {
+    "Instance": {
+      "name": "Rate",
+      "back": {
+        "Text": "rate"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

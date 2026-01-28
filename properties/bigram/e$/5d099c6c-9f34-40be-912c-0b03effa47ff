@@ -1,0 +1,12 @@
+{
+  "id": "5d099c6c-9f34-40be-912c-0b03effa47ff",
+  "data": {
+    "Instance": {
+      "name": "Stunde",
+      "back": {
+        "Text": "hour"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

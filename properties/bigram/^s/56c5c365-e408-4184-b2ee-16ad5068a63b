@@ -1,0 +1,12 @@
+{
+  "id": "56c5c365-e408-4184-b2ee-16ad5068a63b",
+  "data": {
+    "Instance": {
+      "name": "Spezialist",
+      "back": {
+        "Text": "specialist"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "ba6c9c73-e6e0-475b-87ff-5a3d2f67b8be",
+  "data": {
+    "Instance": {
+      "name": "promedio",
+      "back": {
+        "Text": "average"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "fc316844-fd77-41e4-8f1b-227bb9f937fb",
+  "data": {
+    "Instance": {
+      "name": "hjerte",
+      "back": {
+        "Text": "heart"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

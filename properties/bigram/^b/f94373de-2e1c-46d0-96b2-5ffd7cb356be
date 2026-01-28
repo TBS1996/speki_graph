@@ -1,0 +1,12 @@
+{
+  "id": "f94373de-2e1c-46d0-96b2-5ffd7cb356be",
+  "data": {
+    "Instance": {
+      "name": "by",
+      "back": {
+        "Text": "town"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

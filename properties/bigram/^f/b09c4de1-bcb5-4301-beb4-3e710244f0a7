@@ -1,0 +1,12 @@
+{
+  "id": "b09c4de1-bcb5-4301-beb4-3e710244f0a7",
+  "data": {
+    "Instance": {
+      "name": "fotballbane",
+      "back": {
+        "Text": "football field"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

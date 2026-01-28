@@ -1,0 +1,12 @@
+{
+  "id": "d4f21080-8250-49aa-9442-9d20250af3ca",
+  "data": {
+    "Instance": {
+      "name": "kilde",
+      "back": {
+        "Text": "source"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

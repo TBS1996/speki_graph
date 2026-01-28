@@ -1,0 +1,12 @@
+{
+  "id": "2f8d225e-d5f0-4011-bfbb-dd37f8f72329",
+  "data": {
+    "Instance": {
+      "name": "diskusjon",
+      "back": {
+        "Text": "discussion"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

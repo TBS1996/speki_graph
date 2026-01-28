@@ -1,0 +1,12 @@
+{
+  "id": "33b802f4-1855-4f0b-85fd-ac135a6d6963",
+  "data": {
+    "Instance": {
+      "name": "Fels",
+      "back": {
+        "Text": "rock"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "656707d0-c79b-4cce-a1c1-a82a48b12db9",
+  "data": {
+    "Instance": {
+      "name": "stikkord",
+      "back": {
+        "Text": "keyword"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

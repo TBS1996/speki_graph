@@ -1,0 +1,12 @@
+{
+  "id": "46576587-ce00-47f1-bec7-34f6bd3aadd7",
+  "data": {
+    "Instance": {
+      "name": "regnskap",
+      "back": {
+        "Text": "accounts"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "34b402b0-6924-40b8-aa68-97c7f6559cf2",
+  "data": {
+    "Instance": {
+      "name": "festivo",
+      "back": {
+        "Text": "holiday"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

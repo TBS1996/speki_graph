@@ -1,0 +1,12 @@
+{
+  "id": "408919d8-c6d4-4b95-8a53-e76083bee1e3",
+  "data": {
+    "Instance": {
+      "name": "Emotion",
+      "back": {
+        "Text": "emotion"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

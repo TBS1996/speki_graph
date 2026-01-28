@@ -1,0 +1,12 @@
+{
+  "id": "9b7032ae-bed5-44f2-bba1-0c775b13b6db",
+  "data": {
+    "Instance": {
+      "name": "Aussetzung",
+      "back": {
+        "Text": "exposure"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

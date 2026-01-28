@@ -1,0 +1,12 @@
+{
+  "id": "0c68b51b-0144-4bf7-bbb6-b1f8edb1c7b4",
+  "data": {
+    "Instance": {
+      "name": "stund",
+      "back": {
+        "Text": "moment"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

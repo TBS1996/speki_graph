@@ -1,0 +1,12 @@
+{
+  "id": "4be6ffe7-5cd2-48a4-b821-890125ae6482",
+  "data": {
+    "Instance": {
+      "name": "Ding",
+      "back": {
+        "Text": "thing"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "88cb1a43-1d30-4e07-bcb1-de705bb87c98",
+  "data": {
+    "Instance": {
+      "name": "elektriker",
+      "back": {
+        "Text": "electrician"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

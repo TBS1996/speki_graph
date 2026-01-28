@@ -1,0 +1,12 @@
+{
+  "id": "c211aa89-1a06-4f98-a996-38a26ac02930",
+  "data": {
+    "Instance": {
+      "name": "Auswirkung",
+      "back": {
+        "Text": "impact"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "bf551062-4e39-4cd5-b8a1-8c6b94ddbf45",
+  "data": {
+    "Instance": {
+      "name": "flate",
+      "back": {
+        "Text": "plane"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

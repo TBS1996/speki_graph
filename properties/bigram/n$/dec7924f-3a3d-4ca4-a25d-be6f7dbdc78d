@@ -1,0 +1,12 @@
+{
+  "id": "dec7924f-3a3d-4ca4-a25d-be6f7dbdc78d",
+  "data": {
+    "Instance": {
+      "name": "legislación",
+      "back": {
+        "Text": "legislation"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

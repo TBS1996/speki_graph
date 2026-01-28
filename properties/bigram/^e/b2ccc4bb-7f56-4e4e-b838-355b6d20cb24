@@ -1,0 +1,12 @@
+{
+  "id": "b2ccc4bb-7f56-4e4e-b838-355b6d20cb24",
+  "data": {
+    "Instance": {
+      "name": "Einrichtung",
+      "back": {
+        "Text": "facility"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

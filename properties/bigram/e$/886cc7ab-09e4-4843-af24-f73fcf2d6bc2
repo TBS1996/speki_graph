@@ -1,0 +1,12 @@
+{
+  "id": "886cc7ab-09e4-4843-af24-f73fcf2d6bc2",
+  "data": {
+    "Instance": {
+      "name": "kommune",
+      "back": {
+        "Text": "municipality"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

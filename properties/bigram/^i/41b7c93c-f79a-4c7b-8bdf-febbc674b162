@@ -1,0 +1,12 @@
+{
+  "id": "41b7c93c-f79a-4c7b-8bdf-febbc674b162",
+  "data": {
+    "Instance": {
+      "name": "iglesia",
+      "back": {
+        "Text": "church"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

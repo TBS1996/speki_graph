@@ -1,0 +1,12 @@
+{
+  "id": "ed35b3b6-6b37-41bb-94c0-46671097f0d4",
+  "data": {
+    "Instance": {
+      "name": "Hintergrund",
+      "back": {
+        "Text": "background"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

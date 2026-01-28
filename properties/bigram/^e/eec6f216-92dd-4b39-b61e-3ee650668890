@@ -1,0 +1,12 @@
+{
+  "id": "eec6f216-92dd-4b39-b61e-3ee650668890",
+  "data": {
+    "Instance": {
+      "name": "Eindruck",
+      "back": {
+        "Text": "impression"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

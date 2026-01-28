@@ -1,0 +1,12 @@
+{
+  "id": "a270681b-274e-4647-a739-ab759945a8b7",
+  "data": {
+    "Instance": {
+      "name": "Mehrheit",
+      "back": {
+        "Text": "majority"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

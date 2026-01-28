@@ -1,0 +1,12 @@
+{
+  "id": "1ea93152-d369-4ba9-8ff0-036fc949085f",
+  "data": {
+    "Instance": {
+      "name": "situación",
+      "back": {
+        "Text": "situation"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

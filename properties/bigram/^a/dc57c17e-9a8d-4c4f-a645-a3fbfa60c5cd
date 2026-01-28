@@ -1,0 +1,12 @@
+{
+  "id": "dc57c17e-9a8d-4c4f-a645-a3fbfa60c5cd",
+  "data": {
+    "Instance": {
+      "name": "Aufgabe",
+      "back": {
+        "Text": "task"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "6375c5ca-29f7-477d-b206-e31e4db78111",
+  "data": {
+    "Instance": {
+      "name": "flertall",
+      "back": {
+        "Text": "majority"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

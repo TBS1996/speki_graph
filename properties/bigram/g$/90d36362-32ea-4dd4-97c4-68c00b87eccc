@@ -1,0 +1,12 @@
+{
+  "id": "90d36362-32ea-4dd4-97c4-68c00b87eccc",
+  "data": {
+    "Instance": {
+      "name": "Wahrnehmung",
+      "back": {
+        "Text": "perception"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

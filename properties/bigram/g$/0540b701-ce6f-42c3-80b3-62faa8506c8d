@@ -1,0 +1,12 @@
+{
+  "id": "0540b701-ce6f-42c3-80b3-62faa8506c8d",
+  "data": {
+    "Instance": {
+      "name": "oppfatning",
+      "back": {
+        "Text": "impression"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

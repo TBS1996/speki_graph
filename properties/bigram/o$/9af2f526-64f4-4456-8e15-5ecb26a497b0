@@ -1,0 +1,12 @@
+{
+  "id": "9af2f526-64f4-4456-8e15-5ecb26a497b0",
+  "data": {
+    "Instance": {
+      "name": "efectivo",
+      "back": {
+        "Text": "cash"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

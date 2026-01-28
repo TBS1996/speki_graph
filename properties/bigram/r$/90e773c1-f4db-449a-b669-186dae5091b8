@@ -1,0 +1,12 @@
+{
+  "id": "90e773c1-f4db-449a-b669-186dae5091b8",
+  "data": {
+    "Instance": {
+      "name": "sector",
+      "back": {
+        "Text": "sector"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

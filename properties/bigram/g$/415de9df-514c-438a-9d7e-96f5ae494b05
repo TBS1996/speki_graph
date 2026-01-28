@@ -1,0 +1,12 @@
+{
+  "id": "415de9df-514c-438a-9d7e-96f5ae494b05",
+  "data": {
+    "Instance": {
+      "name": "utstilling",
+      "back": {
+        "Text": "exhibition"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

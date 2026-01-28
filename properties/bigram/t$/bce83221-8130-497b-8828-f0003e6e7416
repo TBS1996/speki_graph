@@ -1,0 +1,12 @@
+{
+  "id": "bce83221-8130-497b-8828-f0003e6e7416",
+  "data": {
+    "Instance": {
+      "name": "Standort",
+      "back": {
+        "Text": "site"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

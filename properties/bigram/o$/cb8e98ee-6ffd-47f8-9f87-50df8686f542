@@ -1,0 +1,12 @@
+{
+  "id": "cb8e98ee-6ffd-47f8-9f87-50df8686f542",
+  "data": {
+    "Instance": {
+      "name": "trastorno",
+      "back": {
+        "Text": "disorder"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

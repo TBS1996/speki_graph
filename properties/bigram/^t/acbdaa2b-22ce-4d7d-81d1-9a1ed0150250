@@ -1,0 +1,12 @@
+{
+  "id": "acbdaa2b-22ce-4d7d-81d1-9a1ed0150250",
+  "data": {
+    "Instance": {
+      "name": "tarjeta",
+      "back": {
+        "Text": "card"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "08ddce25-e8b9-4947-a1cc-eb1d0c3dd505",
+  "data": {
+    "Instance": {
+      "name": "Angriff",
+      "back": {
+        "Text": "attack"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

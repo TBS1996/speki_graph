@@ -1,0 +1,12 @@
+{
+  "id": "fe73df5e-f345-4ab5-9917-a766eee76380",
+  "data": {
+    "Instance": {
+      "name": "regissør",
+      "back": {
+        "Text": "director"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

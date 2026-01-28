@@ -1,0 +1,12 @@
+{
+  "id": "b650aa8c-94d8-4d64-ae0f-55817c9613a4",
+  "data": {
+    "Instance": {
+      "name": "mappe",
+      "back": {
+        "Text": "folder"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

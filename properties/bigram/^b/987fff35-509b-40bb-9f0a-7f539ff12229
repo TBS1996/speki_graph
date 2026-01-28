@@ -1,0 +1,12 @@
+{
+  "id": "987fff35-509b-40bb-9f0a-7f539ff12229",
+  "data": {
+    "Instance": {
+      "name": "barnehage",
+      "back": {
+        "Text": "kindergarten"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

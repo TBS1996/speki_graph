@@ -1,0 +1,12 @@
+{
+  "id": "156de398-f1e8-4ebe-bb2a-fa11cc22ca07",
+  "data": {
+    "Instance": {
+      "name": "Hochschule",
+      "back": {
+        "Text": "college"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

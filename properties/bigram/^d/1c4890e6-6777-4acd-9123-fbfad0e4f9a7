@@ -1,0 +1,12 @@
+{
+  "id": "1c4890e6-6777-4acd-9123-fbfad0e4f9a7",
+  "data": {
+    "Instance": {
+      "name": "Definition",
+      "back": {
+        "Text": "definition"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

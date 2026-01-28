@@ -1,0 +1,12 @@
+{
+  "id": "84b591f7-5ebd-4610-9b71-5b2b832f49eb",
+  "data": {
+    "Instance": {
+      "name": "analytiker",
+      "back": {
+        "Text": "analyst"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

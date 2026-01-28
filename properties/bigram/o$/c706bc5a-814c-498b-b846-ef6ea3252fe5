@@ -1,0 +1,12 @@
+{
+  "id": "c706bc5a-814c-498b-b846-ef6ea3252fe5",
+  "data": {
+    "Instance": {
+      "name": "servicio",
+      "back": {
+        "Text": "service"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

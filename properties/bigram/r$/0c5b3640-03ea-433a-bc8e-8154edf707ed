@@ -1,0 +1,12 @@
+{
+  "id": "0c5b3640-03ea-433a-bc8e-8154edf707ed",
+  "data": {
+    "Instance": {
+      "name": "selger",
+      "back": {
+        "Text": "salesperson"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

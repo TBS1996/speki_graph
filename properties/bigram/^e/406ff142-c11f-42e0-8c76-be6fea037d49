@@ -1,0 +1,12 @@
+{
+  "id": "406ff142-c11f-42e0-8c76-be6fea037d49",
+  "data": {
+    "Instance": {
+      "name": "Eigentum",
+      "back": {
+        "Text": "property"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

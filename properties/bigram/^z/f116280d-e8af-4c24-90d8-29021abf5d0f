@@ -1,0 +1,12 @@
+{
+  "id": "f116280d-e8af-4c24-90d8-29021abf5d0f",
+  "data": {
+    "Instance": {
+      "name": "Zeuge",
+      "back": {
+        "Text": "witness"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "ca3aadb8-ff9a-4ea1-ace0-18dad0e9a76a",
+  "data": {
+    "Instance": {
+      "name": "mengde",
+      "back": {
+        "Text": "amount"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

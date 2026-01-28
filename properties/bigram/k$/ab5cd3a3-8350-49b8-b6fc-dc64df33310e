@@ -1,0 +1,12 @@
+{
+  "id": "ab5cd3a3-8350-49b8-b6fc-dc64df33310e",
+  "data": {
+    "Instance": {
+      "name": "Volk",
+      "back": {
+        "Text": "folk"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

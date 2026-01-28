@@ -1,0 +1,12 @@
+{
+  "id": "a5c74f1d-f571-4af6-8e6a-f51f66a0389d",
+  "data": {
+    "Instance": {
+      "name": "prat",
+      "back": {
+        "Text": "talk"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

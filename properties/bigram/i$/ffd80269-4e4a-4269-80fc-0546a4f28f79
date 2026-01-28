@@ -1,0 +1,12 @@
+{
+  "id": "ffd80269-4e4a-4269-80fc-0546a4f28f79",
+  "data": {
+    "Instance": {
+      "name": "skolevei",
+      "back": {
+        "Text": "way to and from school"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

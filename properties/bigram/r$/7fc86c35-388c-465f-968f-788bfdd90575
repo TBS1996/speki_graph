@@ -1,0 +1,12 @@
+{
+  "id": "7fc86c35-388c-465f-968f-788bfdd90575",
+  "data": {
+    "Instance": {
+      "name": "Steuer",
+      "back": {
+        "Text": "tax"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

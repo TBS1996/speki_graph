@@ -1,0 +1,12 @@
+{
+  "id": "f88b5c27-f141-41bd-8e50-cdad19b166b9",
+  "data": {
+    "Instance": {
+      "name": "salg",
+      "back": {
+        "Text": "sale"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

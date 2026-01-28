@@ -1,0 +1,12 @@
+{
+  "id": "9cbd807b-f1d6-4f7b-8fdd-a84f55461a3c",
+  "data": {
+    "Instance": {
+      "name": "Pfund",
+      "back": {
+        "Text": "pound"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

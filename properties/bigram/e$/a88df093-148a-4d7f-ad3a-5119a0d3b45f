@@ -1,0 +1,12 @@
+{
+  "id": "a88df093-148a-4d7f-ad3a-5119a0d3b45f",
+  "data": {
+    "Instance": {
+      "name": "adresse",
+      "back": {
+        "Text": "address"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

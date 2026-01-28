@@ -1,0 +1,12 @@
+{
+  "id": "e57dda65-00df-427f-b617-f0fbe3fac81f",
+  "data": {
+    "Instance": {
+      "name": "Passagier",
+      "back": {
+        "Text": "passenger"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

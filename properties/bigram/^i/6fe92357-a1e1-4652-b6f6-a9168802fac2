@@ -1,0 +1,12 @@
+{
+  "id": "6fe92357-a1e1-4652-b6f6-a9168802fac2",
+  "data": {
+    "Instance": {
+      "name": "inntekt",
+      "back": {
+        "Text": "income"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

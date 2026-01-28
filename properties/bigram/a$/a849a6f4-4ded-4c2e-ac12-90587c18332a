@@ -1,0 +1,12 @@
+{
+  "id": "a849a6f4-4ded-4c2e-ac12-90587c18332a",
+  "data": {
+    "Instance": {
+      "name": "salida",
+      "back": {
+        "Text": "output"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "d0349188-5f8b-4a3e-9255-ec64983ffe75",
+  "data": {
+    "Instance": {
+      "name": "restaurant",
+      "back": {
+        "Text": "restaurant"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

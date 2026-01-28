@@ -1,0 +1,12 @@
+{
+  "id": "5293f613-2fa2-42c4-94f8-55632007ecf3",
+  "data": {
+    "Instance": {
+      "name": "bacon",
+      "back": {
+        "Text": "bacon"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

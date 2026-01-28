@@ -1,0 +1,12 @@
+{
+  "id": "2ed38d51-3f4d-4aeb-a5d7-55ff3afe6314",
+  "data": {
+    "Instance": {
+      "name": "utseende",
+      "back": {
+        "Text": "appearance"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

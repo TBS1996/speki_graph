@@ -1,0 +1,12 @@
+{
+  "id": "5e927053-25cd-47b1-84df-31c5fa0951fa",
+  "data": {
+    "Instance": {
+      "name": "kniv",
+      "back": {
+        "Text": "knife"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

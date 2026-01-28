@@ -1,0 +1,12 @@
+{
+  "id": "e009d21d-32dc-42ac-b155-4fa7fe9c1a2b",
+  "data": {
+    "Instance": {
+      "name": "kule",
+      "back": {
+        "Text": "ball"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "9d1896eb-884e-4f5d-8d4d-29b12233d62d",
+  "data": {
+    "Instance": {
+      "name": "mhine",
+      "back": {
+        "Text": "machine"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

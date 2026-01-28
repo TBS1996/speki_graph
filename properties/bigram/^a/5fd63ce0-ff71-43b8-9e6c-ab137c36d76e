@@ -1,0 +1,12 @@
+{
+  "id": "5fd63ce0-ff71-43b8-9e6c-ab137c36d76e",
+  "data": {
+    "Instance": {
+      "name": "ángulo",
+      "back": {
+        "Text": "angle"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "31bb702d-0968-452b-be6c-3e89ed3cdf89",
+  "data": {
+    "Instance": {
+      "name": "Hitze",
+      "back": {
+        "Text": "heat"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

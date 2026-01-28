@@ -1,0 +1,12 @@
+{
+  "id": "a5dcffa0-11f5-4f95-a742-52a526df870a",
+  "data": {
+    "Instance": {
+      "name": "curso",
+      "back": {
+        "Text": "course"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "81b1e96e-e49a-4ae0-9fea-6ea17e3e65a4",
+  "data": {
+    "Instance": {
+      "name": "måltid",
+      "back": {
+        "Text": "meal"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "01d3705f-689a-4e3a-9031-7177a4a432a0",
+  "data": {
+    "Instance": {
+      "name": "conocimiento",
+      "back": {
+        "Text": "knowledge"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

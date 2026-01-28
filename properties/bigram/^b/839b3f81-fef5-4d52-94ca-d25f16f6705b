@@ -1,0 +1,12 @@
+{
+  "id": "839b3f81-fef5-4d52-94ca-d25f16f6705b",
+  "data": {
+    "Instance": {
+      "name": "Bewohner",
+      "back": {
+        "Text": "resident"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

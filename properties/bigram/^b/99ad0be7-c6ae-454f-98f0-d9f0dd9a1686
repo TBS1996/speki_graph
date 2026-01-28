@@ -1,0 +1,12 @@
+{
+  "id": "99ad0be7-c6ae-454f-98f0-d9f0dd9a1686",
+  "data": {
+    "Instance": {
+      "name": "benk",
+      "back": {
+        "Text": "bench"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

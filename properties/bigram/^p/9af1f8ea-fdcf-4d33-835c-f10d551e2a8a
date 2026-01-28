@@ -1,0 +1,12 @@
+{
+  "id": "9af1f8ea-fdcf-4d33-835c-f10d551e2a8a",
+  "data": {
+    "Instance": {
+      "name": "pressemelding",
+      "back": {
+        "Text": "press release"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

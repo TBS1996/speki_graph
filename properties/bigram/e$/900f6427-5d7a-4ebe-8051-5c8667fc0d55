@@ -1,0 +1,12 @@
+{
+  "id": "900f6427-5d7a-4ebe-8051-5c8667fc0d55",
+  "data": {
+    "Instance": {
+      "name": "superficie",
+      "back": {
+        "Text": "surface"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

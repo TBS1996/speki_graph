@@ -1,0 +1,12 @@
+{
+  "id": "7be9e16a-04ea-48ec-b930-f698daf1535f",
+  "data": {
+    "Instance": {
+      "name": "skog",
+      "back": {
+        "Text": "forest"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

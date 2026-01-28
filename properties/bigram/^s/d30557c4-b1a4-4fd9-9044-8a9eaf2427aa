@@ -1,0 +1,12 @@
+{
+  "id": "d30557c4-b1a4-4fd9-9044-8a9eaf2427aa",
+  "data": {
+    "Instance": {
+      "name": "Stand",
+      "back": {
+        "Text": "stand"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "1071515c-c6fb-4134-a83d-fb4776479f5b",
+  "data": {
+    "Instance": {
+      "name": "peso",
+      "back": {
+        "Text": "weight"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

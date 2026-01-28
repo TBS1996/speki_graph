@@ -1,0 +1,12 @@
+{
+  "id": "925b4b07-ec1d-44e6-964c-d5e3db9cf6b2",
+  "data": {
+    "Instance": {
+      "name": "hylle",
+      "back": {
+        "Text": "shelf"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

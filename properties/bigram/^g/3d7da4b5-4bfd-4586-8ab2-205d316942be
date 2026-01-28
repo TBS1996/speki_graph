@@ -1,0 +1,12 @@
+{
+  "id": "3d7da4b5-4bfd-4586-8ab2-205d316942be",
+  "data": {
+    "Instance": {
+      "name": "Gehirn",
+      "back": {
+        "Text": "brain"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

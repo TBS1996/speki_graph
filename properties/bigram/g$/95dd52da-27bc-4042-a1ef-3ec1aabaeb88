@@ -1,0 +1,12 @@
+{
+  "id": "95dd52da-27bc-4042-a1ef-3ec1aabaeb88",
+  "data": {
+    "Instance": {
+      "name": "styring",
+      "back": {
+        "Text": "steering"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

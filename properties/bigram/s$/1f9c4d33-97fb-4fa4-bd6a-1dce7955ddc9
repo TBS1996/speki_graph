@@ -1,0 +1,12 @@
+{
+  "id": "1f9c4d33-97fb-4fa4-bd6a-1dce7955ddc9",
+  "data": {
+    "Instance": {
+      "name": "gass",
+      "back": {
+        "Text": "gas"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

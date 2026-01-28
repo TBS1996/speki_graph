@@ -1,0 +1,12 @@
+{
+  "id": "49e1d7c8-cd01-493e-a679-bf4a86776130",
+  "data": {
+    "Instance": {
+      "name": "Essen",
+      "back": {
+        "Text": "food"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

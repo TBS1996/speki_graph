@@ -1,0 +1,12 @@
+{
+  "id": "40e63d71-9439-41ee-b6fb-21e2f2f83341",
+  "data": {
+    "Instance": {
+      "name": "forventning",
+      "back": {
+        "Text": "expectation"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

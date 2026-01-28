@@ -1,0 +1,12 @@
+{
+  "id": "f810070e-ba3f-4557-b978-b12e51ae5a48",
+  "data": {
+    "Instance": {
+      "name": "nestleder",
+      "back": {
+        "Text": "vice leader"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

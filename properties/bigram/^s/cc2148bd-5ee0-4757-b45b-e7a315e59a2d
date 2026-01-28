@@ -1,0 +1,12 @@
+{
+  "id": "cc2148bd-5ee0-4757-b45b-e7a315e59a2d",
+  "data": {
+    "Instance": {
+      "name": "Sprache",
+      "back": {
+        "Text": "language"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

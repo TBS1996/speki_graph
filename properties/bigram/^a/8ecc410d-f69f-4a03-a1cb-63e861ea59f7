@@ -1,0 +1,12 @@
+{
+  "id": "8ecc410d-f69f-4a03-a1cb-63e861ea59f7",
+  "data": {
+    "Instance": {
+      "name": "Anblick",
+      "back": {
+        "Text": "sight"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

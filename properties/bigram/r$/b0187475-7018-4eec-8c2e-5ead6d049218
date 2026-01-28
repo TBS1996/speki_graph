@@ -1,0 +1,12 @@
+{
+  "id": "b0187475-7018-4eec-8c2e-5ead6d049218",
+  "data": {
+    "Instance": {
+      "name": "innvandrer",
+      "back": {
+        "Text": "immigrant"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

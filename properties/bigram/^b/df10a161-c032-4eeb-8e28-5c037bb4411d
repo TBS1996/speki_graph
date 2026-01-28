@@ -1,0 +1,12 @@
+{
+  "id": "df10a161-c032-4eeb-8e28-5c037bb4411d",
+  "data": {
+    "Instance": {
+      "name": "bloque",
+      "back": {
+        "Text": "block"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

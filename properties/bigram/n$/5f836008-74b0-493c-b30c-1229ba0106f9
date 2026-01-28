@@ -1,0 +1,12 @@
+{
+  "id": "5f836008-74b0-493c-b30c-1229ba0106f9",
+  "data": {
+    "Instance": {
+      "name": "restricción",
+      "back": {
+        "Text": "restriction"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

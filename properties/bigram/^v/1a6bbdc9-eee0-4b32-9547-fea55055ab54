@@ -1,0 +1,12 @@
+{
+  "id": "1a6bbdc9-eee0-4b32-9547-fea55055ab54",
+  "data": {
+    "Instance": {
+      "name": "Video",
+      "back": {
+        "Text": "video"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

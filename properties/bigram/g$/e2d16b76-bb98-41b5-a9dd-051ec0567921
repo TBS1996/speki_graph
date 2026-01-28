@@ -1,0 +1,12 @@
+{
+  "id": "e2d16b76-bb98-41b5-a9dd-051ec0567921",
+  "data": {
+    "Instance": {
+      "name": "helg",
+      "back": {
+        "Text": "weekend"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

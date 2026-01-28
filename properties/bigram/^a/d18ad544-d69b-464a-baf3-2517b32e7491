@@ -1,0 +1,12 @@
+{
+  "id": "d18ad544-d69b-464a-baf3-2517b32e7491",
+  "data": {
+    "Instance": {
+      "name": "actitud",
+      "back": {
+        "Text": "attitude"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

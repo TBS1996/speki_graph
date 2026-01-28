@@ -1,0 +1,12 @@
+{
+  "id": "54b0761c-2fd9-43c7-9b00-ed44ca540b2f",
+  "data": {
+    "Instance": {
+      "name": "datter",
+      "back": {
+        "Text": "daughter"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

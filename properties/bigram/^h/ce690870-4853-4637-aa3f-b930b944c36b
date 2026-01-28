@@ -1,0 +1,12 @@
+{
+  "id": "ce690870-4853-4637-aa3f-b930b944c36b",
+  "data": {
+    "Instance": {
+      "name": "hastighet",
+      "back": {
+        "Text": "speed"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

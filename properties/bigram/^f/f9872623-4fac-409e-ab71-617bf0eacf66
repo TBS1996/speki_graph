@@ -1,0 +1,12 @@
+{
+  "id": "f9872623-4fac-409e-ab71-617bf0eacf66",
+  "data": {
+    "Instance": {
+      "name": "flyplass",
+      "back": {
+        "Text": "airport"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

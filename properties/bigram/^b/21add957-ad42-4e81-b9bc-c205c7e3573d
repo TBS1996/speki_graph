@@ -1,0 +1,12 @@
+{
+  "id": "21add957-ad42-4e81-b9bc-c205c7e3573d",
+  "data": {
+    "Instance": {
+      "name": "bensin",
+      "back": {
+        "Text": "petrol"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

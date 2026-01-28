@@ -1,0 +1,12 @@
+{
+  "id": "5a2ccca3-95cd-47d6-9bd8-ccc7ab8ad19e",
+  "data": {
+    "Instance": {
+      "name": "mantenimiento",
+      "back": {
+        "Text": "maintenance"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

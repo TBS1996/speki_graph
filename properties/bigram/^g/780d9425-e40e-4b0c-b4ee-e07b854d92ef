@@ -1,0 +1,12 @@
+{
+  "id": "780d9425-e40e-4b0c-b4ee-e07b854d92ef",
+  "data": {
+    "Instance": {
+      "name": "greie",
+      "back": {
+        "Text": "thing"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

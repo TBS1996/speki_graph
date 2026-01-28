@@ -1,0 +1,12 @@
+{
+  "id": "55bba350-8f90-40df-a198-bb15841943e9",
+  "data": {
+    "Instance": {
+      "name": "Spanne",
+      "back": {
+        "Text": "range"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

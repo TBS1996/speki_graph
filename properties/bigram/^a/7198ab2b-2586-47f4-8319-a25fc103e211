@@ -1,0 +1,12 @@
+{
+  "id": "7198ab2b-2586-47f4-8319-a25fc103e211",
+  "data": {
+    "Instance": {
+      "name": "Alkohol",
+      "back": {
+        "Text": "alcohol"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

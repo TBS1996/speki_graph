@@ -1,0 +1,12 @@
+{
+  "id": "de558a76-c90e-46e6-8197-5cb915a57849",
+  "data": {
+    "Instance": {
+      "name": "Elternteil",
+      "back": {
+        "Text": "parent"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

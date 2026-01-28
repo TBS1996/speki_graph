@@ -1,0 +1,12 @@
+{
+  "id": "4dcad38b-fa16-4de2-82d6-a3426b63fe55",
+  "data": {
+    "Instance": {
+      "name": "Argument",
+      "back": {
+        "Text": "argument"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

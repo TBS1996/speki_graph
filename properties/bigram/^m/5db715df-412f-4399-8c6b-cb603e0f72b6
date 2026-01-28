@@ -1,0 +1,12 @@
+{
+  "id": "5db715df-412f-4399-8c6b-cb603e0f72b6",
+  "data": {
+    "Instance": {
+      "name": "meny",
+      "back": {
+        "Text": "menu"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "52c36b25-583a-40f4-9baf-00b6b8d0fac8",
+  "data": {
+    "Instance": {
+      "name": "Frühstück",
+      "back": {
+        "Text": "breakfast"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

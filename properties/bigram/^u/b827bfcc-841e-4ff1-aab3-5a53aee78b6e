@@ -1,0 +1,12 @@
+{
+  "id": "b827bfcc-841e-4ff1-aab3-5a53aee78b6e",
+  "data": {
+    "Instance": {
+      "name": "Übergang",
+      "back": {
+        "Text": "transition"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

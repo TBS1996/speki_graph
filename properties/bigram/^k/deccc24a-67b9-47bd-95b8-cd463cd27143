@@ -1,0 +1,12 @@
+{
+  "id": "deccc24a-67b9-47bd-95b8-cd463cd27143",
+  "data": {
+    "Instance": {
+      "name": "Konzentration",
+      "back": {
+        "Text": "concentration"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

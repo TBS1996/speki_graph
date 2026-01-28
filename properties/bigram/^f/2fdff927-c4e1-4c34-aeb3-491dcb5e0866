@@ -1,0 +1,12 @@
+{
+  "id": "2fdff927-c4e1-4c34-aeb3-491dcb5e0866",
+  "data": {
+    "Instance": {
+      "name": "funn",
+      "back": {
+        "Text": "find"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

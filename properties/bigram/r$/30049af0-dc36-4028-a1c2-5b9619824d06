@@ -1,0 +1,12 @@
+{
+  "id": "30049af0-dc36-4028-a1c2-5b9619824d06",
+  "data": {
+    "Instance": {
+      "name": "direktør",
+      "back": {
+        "Text": "director"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "e9efad80-5adf-44fd-9cfd-07937071ca77",
+  "data": {
+    "Instance": {
+      "name": "sleng",
+      "back": {
+        "Text": "swerve"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

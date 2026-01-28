@@ -1,0 +1,12 @@
+{
+  "id": "284f6030-a2fd-4d97-917c-1a55f64a135d",
+  "data": {
+    "Instance": {
+      "name": "pollo",
+      "back": {
+        "Text": "chicken"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

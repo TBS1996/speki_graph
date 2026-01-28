@@ -1,0 +1,12 @@
+{
+  "id": "b751bbd3-4732-4652-9112-0990a3b8d15f",
+  "data": {
+    "Instance": {
+      "name": "brus",
+      "back": {
+        "Text": "soft drink"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

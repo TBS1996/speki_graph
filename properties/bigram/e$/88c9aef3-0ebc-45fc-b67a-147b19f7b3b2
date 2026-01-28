@@ -1,0 +1,12 @@
+{
+  "id": "88c9aef3-0ebc-45fc-b67a-147b19f7b3b2",
+  "data": {
+    "Instance": {
+      "name": "emne",
+      "back": {
+        "Text": "subject"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "86e18777-c9fd-4bef-86c0-c721a5a0462c",
+  "data": {
+    "Instance": {
+      "name": "célula",
+      "back": {
+        "Text": "cell"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

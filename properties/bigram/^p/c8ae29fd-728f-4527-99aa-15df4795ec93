@@ -1,0 +1,12 @@
+{
+  "id": "c8ae29fd-728f-4527-99aa-15df4795ec93",
+  "data": {
+    "Instance": {
+      "name": "Protein",
+      "back": {
+        "Text": "protein"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

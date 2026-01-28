@@ -1,0 +1,12 @@
+{
+  "id": "271da43c-b807-4fc4-94b4-5cd097444dc5",
+  "data": {
+    "Instance": {
+      "name": "huevo",
+      "back": {
+        "Text": "egg"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

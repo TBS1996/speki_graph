@@ -1,0 +1,12 @@
+{
+  "id": "5ed80b42-d20d-4f19-aa87-a2ae20cb32d2",
+  "data": {
+    "Instance": {
+      "name": "Krise",
+      "back": {
+        "Text": "crisis"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

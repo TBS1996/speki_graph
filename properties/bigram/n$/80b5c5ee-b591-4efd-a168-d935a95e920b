@@ -1,0 +1,12 @@
+{
+  "id": "80b5c5ee-b591-4efd-a168-d935a95e920b",
+  "data": {
+    "Instance": {
+      "name": "bensinstasjon",
+      "back": {
+        "Text": "petrol station"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

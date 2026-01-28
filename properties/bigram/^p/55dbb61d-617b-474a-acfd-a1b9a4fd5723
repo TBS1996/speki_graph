@@ -1,0 +1,12 @@
+{
+  "id": "55dbb61d-617b-474a-acfd-a1b9a4fd5723",
+  "data": {
+    "Instance": {
+      "name": "Produktion",
+      "back": {
+        "Text": "production"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

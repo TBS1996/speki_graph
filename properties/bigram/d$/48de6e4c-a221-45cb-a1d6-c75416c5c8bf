@@ -1,0 +1,12 @@
+{
+  "id": "48de6e4c-a221-45cb-a1d6-c75416c5c8bf",
+  "data": {
+    "Instance": {
+      "name": "Wohlstand",
+      "back": {
+        "Text": "wealth"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

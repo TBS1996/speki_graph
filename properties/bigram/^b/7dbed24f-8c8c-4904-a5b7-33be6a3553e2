@@ -1,0 +1,12 @@
+{
+  "id": "7dbed24f-8c8c-4904-a5b7-33be6a3553e2",
+  "data": {
+    "Instance": {
+      "name": "Bank",
+      "back": {
+        "Text": "bank"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

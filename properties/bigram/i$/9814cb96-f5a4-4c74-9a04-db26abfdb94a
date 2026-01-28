@@ -1,0 +1,12 @@
+{
+  "id": "9814cb96-f5a4-4c74-9a04-db26abfdb94a",
+  "data": {
+    "Instance": {
+      "name": "kategori",
+      "back": {
+        "Text": "category"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

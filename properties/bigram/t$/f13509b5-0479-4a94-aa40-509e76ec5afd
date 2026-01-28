@@ -1,0 +1,12 @@
+{
+  "id": "f13509b5-0479-4a94-aa40-509e76ec5afd",
+  "data": {
+    "Instance": {
+      "name": "usikkerhet",
+      "back": {
+        "Text": "insecurity"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

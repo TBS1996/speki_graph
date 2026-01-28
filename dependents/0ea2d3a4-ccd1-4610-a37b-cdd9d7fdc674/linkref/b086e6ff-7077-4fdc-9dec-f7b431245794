@@ -1,0 +1,17 @@
+{
+  "id": "b086e6ff-7077-4fdc-9dec-f7b431245794",
+  "data": {
+    "Class": {
+      "name": "[[5dbcd73b-f2cc-4124-ace0-cdb964f60faa]] noun",
+      "attrs": [
+        {
+          "id": "aba4b8c1-02d4-4502-a85e-662bcc19d62c",
+          "pattern": "gender",
+          "back_type": {
+            "InstanceOfClass": "0ea2d3a4-ccd1-4610-a37b-cdd9d7fdc674"
+          }
+        }
+      ]
+    }
+  }
+}

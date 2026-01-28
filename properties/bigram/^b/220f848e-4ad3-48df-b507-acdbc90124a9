@@ -1,0 +1,12 @@
+{
+  "id": "220f848e-4ad3-48df-b507-acdbc90124a9",
+  "data": {
+    "Instance": {
+      "name": "Blut",
+      "back": {
+        "Text": "blood"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

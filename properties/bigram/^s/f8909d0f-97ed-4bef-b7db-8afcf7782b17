@@ -1,0 +1,12 @@
+{
+  "id": "f8909d0f-97ed-4bef-b7db-8afcf7782b17",
+  "data": {
+    "Instance": {
+      "name": "seminar",
+      "back": {
+        "Text": "seminar"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

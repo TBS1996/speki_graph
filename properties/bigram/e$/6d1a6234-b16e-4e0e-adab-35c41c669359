@@ -1,0 +1,12 @@
+{
+  "id": "6d1a6234-b16e-4e0e-adab-35c41c669359",
+  "data": {
+    "Instance": {
+      "name": "Eingabe",
+      "back": {
+        "Text": "input"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "2fe852a1-1e0a-4cf1-9d72-74935d2a7319",
+  "data": {
+    "Instance": {
+      "name": "tv",
+      "back": {
+        "Text": "television"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

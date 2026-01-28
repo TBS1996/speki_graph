@@ -1,0 +1,12 @@
+{
+  "id": "00128462-e62a-4c3b-b924-7af1360ce31e",
+  "data": {
+    "Instance": {
+      "name": "Freund",
+      "back": {
+        "Text": "friend"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

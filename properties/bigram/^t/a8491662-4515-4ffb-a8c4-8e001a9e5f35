@@ -1,0 +1,12 @@
+{
+  "id": "a8491662-4515-4ffb-a8c4-8e001a9e5f35",
+  "data": {
+    "Instance": {
+      "name": "Ticket",
+      "back": {
+        "Text": "ticket"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

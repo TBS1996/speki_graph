@@ -1,0 +1,12 @@
+{
+  "id": "fe56264e-6ee2-4350-8aa4-4065c538e506",
+  "data": {
+    "Instance": {
+      "name": "Durchschnitt",
+      "back": {
+        "Text": "average"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

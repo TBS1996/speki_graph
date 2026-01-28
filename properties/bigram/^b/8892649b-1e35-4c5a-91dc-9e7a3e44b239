@@ -1,0 +1,12 @@
+{
+  "id": "8892649b-1e35-4c5a-91dc-9e7a3e44b239",
+  "data": {
+    "Instance": {
+      "name": "Block",
+      "back": {
+        "Text": "block"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

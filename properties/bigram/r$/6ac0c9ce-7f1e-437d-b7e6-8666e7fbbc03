@@ -1,0 +1,12 @@
+{
+  "id": "6ac0c9ce-7f1e-437d-b7e6-8666e7fbbc03",
+  "data": {
+    "Instance": {
+      "name": "musiker",
+      "back": {
+        "Text": "musician"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

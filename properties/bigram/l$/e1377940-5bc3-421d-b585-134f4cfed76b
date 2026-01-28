@@ -1,0 +1,12 @@
+{
+  "id": "e1377940-5bc3-421d-b585-134f4cfed76b",
+  "data": {
+    "Instance": {
+      "name": "sol",
+      "back": {
+        "Text": "sun"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

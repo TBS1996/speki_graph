@@ -1,0 +1,12 @@
+{
+  "id": "f7b338d6-0083-4c48-b342-90c4c77b670e",
+  "data": {
+    "Instance": {
+      "name": "Frühling",
+      "back": {
+        "Text": "spring"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

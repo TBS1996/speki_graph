@@ -1,0 +1,12 @@
+{
+  "id": "7a2a264e-1e8c-44d5-8201-697fe329a470",
+  "data": {
+    "Instance": {
+      "name": "Gewerkschaft",
+      "back": {
+        "Text": "union"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

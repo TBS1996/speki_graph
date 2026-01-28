@@ -1,0 +1,12 @@
+{
+  "id": "f43b42c8-55a6-4eed-800f-36d5fbb77856",
+  "data": {
+    "Instance": {
+      "name": "reduksjon",
+      "back": {
+        "Text": "reduction"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

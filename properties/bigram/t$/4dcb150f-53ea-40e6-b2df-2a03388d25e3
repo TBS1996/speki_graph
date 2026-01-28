@@ -1,0 +1,12 @@
+{
+  "id": "4dcb150f-53ea-40e6-b2df-2a03388d25e3",
+  "data": {
+    "Instance": {
+      "name": "jakt",
+      "back": {
+        "Text": "hunt"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

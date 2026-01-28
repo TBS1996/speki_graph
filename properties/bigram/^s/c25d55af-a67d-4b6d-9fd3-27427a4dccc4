@@ -1,0 +1,12 @@
+{
+  "id": "c25d55af-a67d-4b6d-9fd3-27427a4dccc4",
+  "data": {
+    "Instance": {
+      "name": "stang",
+      "back": {
+        "Text": "pole"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

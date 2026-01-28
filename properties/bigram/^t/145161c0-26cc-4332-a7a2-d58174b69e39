@@ -1,0 +1,12 @@
+{
+  "id": "145161c0-26cc-4332-a7a2-d58174b69e39",
+  "data": {
+    "Instance": {
+      "name": "Treibstoff",
+      "back": {
+        "Text": "fuel"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

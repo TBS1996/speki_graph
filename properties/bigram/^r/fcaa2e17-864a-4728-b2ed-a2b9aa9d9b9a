@@ -1,0 +1,12 @@
+{
+  "id": "fcaa2e17-864a-4728-b2ed-a2b9aa9d9b9a",
+  "data": {
+    "Instance": {
+      "name": "recomendación",
+      "back": {
+        "Text": "recommendation"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

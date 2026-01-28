@@ -1,0 +1,12 @@
+{
+  "id": "74372e3d-3ca0-47db-8fa4-6673a9166405",
+  "data": {
+    "Instance": {
+      "name": "autoridad",
+      "back": {
+        "Text": "authority"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

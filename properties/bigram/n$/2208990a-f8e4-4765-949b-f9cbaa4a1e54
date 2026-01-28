@@ -1,0 +1,12 @@
+{
+  "id": "2208990a-f8e4-4765-949b-f9cbaa4a1e54",
+  "data": {
+    "Instance": {
+      "name": "tradisjon",
+      "back": {
+        "Text": "tradition"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

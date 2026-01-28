@@ -1,0 +1,12 @@
+{
+  "id": "ca43812a-4025-49e3-9da6-c74afe27045d",
+  "data": {
+    "Instance": {
+      "name": "vær",
+      "back": {
+        "Text": "weather"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

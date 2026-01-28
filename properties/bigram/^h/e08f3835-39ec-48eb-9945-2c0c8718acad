@@ -1,0 +1,12 @@
+{
+  "id": "e08f3835-39ec-48eb-9945-2c0c8718acad",
+  "data": {
+    "Instance": {
+      "name": "Hölle",
+      "back": {
+        "Text": "hell"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

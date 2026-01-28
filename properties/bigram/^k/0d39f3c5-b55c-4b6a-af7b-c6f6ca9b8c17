@@ -1,0 +1,12 @@
+{
+  "id": "0d39f3c5-b55c-4b6a-af7b-c6f6ca9b8c17",
+  "data": {
+    "Instance": {
+      "name": "kjøring",
+      "back": {
+        "Text": "driving"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

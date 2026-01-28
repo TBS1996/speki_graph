@@ -1,0 +1,12 @@
+{
+  "id": "b06dd9c4-e2c7-46f5-bf49-c976ced8a587",
+  "data": {
+    "Instance": {
+      "name": "autobús",
+      "back": {
+        "Text": "bus"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

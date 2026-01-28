@@ -1,0 +1,12 @@
+{
+  "id": "49e413b2-708c-4fd2-92c8-ec7a48e3c34f",
+  "data": {
+    "Instance": {
+      "name": "Vogel",
+      "back": {
+        "Text": "bird"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

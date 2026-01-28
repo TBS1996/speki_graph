@@ -1,0 +1,12 @@
+{
+  "id": "51e9e426-66fd-4063-9088-8a084beb35f2",
+  "data": {
+    "Instance": {
+      "name": "Nachricht",
+      "back": {
+        "Text": "message"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

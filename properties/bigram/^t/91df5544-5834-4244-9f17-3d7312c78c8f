@@ -1,0 +1,12 @@
+{
+  "id": "91df5544-5834-4244-9f17-3d7312c78c8f",
+  "data": {
+    "Instance": {
+      "name": "Typ",
+      "back": {
+        "Text": "type"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

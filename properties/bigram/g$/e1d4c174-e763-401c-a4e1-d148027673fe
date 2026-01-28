@@ -1,0 +1,12 @@
+{
+  "id": "e1d4c174-e763-401c-a4e1-d148027673fe",
+  "data": {
+    "Instance": {
+      "name": "undervisning",
+      "back": {
+        "Text": "teaching"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

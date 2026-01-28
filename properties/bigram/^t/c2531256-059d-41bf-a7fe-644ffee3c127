@@ -1,0 +1,12 @@
+{
+  "id": "c2531256-059d-41bf-a7fe-644ffee3c127",
+  "data": {
+    "Instance": {
+      "name": "Tipp",
+      "back": {
+        "Text": "tip"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

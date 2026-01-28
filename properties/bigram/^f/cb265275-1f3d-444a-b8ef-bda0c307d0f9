@@ -1,0 +1,12 @@
+{
+  "id": "cb265275-1f3d-444a-b8ef-bda0c307d0f9",
+  "data": {
+    "Instance": {
+      "name": "forbindelse",
+      "back": {
+        "Text": "connection"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

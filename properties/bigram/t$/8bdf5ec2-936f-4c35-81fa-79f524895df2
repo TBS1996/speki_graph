@@ -1,0 +1,12 @@
+{
+  "id": "8bdf5ec2-936f-4c35-81fa-79f524895df2",
+  "data": {
+    "Instance": {
+      "name": "Ankunft",
+      "back": {
+        "Text": "arrival"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

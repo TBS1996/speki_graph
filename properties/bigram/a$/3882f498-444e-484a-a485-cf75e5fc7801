@@ -1,0 +1,12 @@
+{
+  "id": "3882f498-444e-484a-a485-cf75e5fc7801",
+  "data": {
+    "Instance": {
+      "name": "temperatura",
+      "back": {
+        "Text": "temperature"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

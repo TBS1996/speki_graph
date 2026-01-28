@@ -1,0 +1,12 @@
+{
+  "id": "16c0aef2-0ee9-445c-a3d1-c7a3b356d55c",
+  "data": {
+    "Instance": {
+      "name": "ventilador",
+      "back": {
+        "Text": "fan"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

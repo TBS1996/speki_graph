@@ -1,0 +1,12 @@
+{
+  "id": "5ef809db-dad0-4f03-946c-c1114d168549",
+  "data": {
+    "Instance": {
+      "name": "Kopf",
+      "back": {
+        "Text": "head"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

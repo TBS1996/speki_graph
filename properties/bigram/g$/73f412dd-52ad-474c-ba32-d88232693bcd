@@ -1,0 +1,12 @@
+{
+  "id": "73f412dd-52ad-474c-ba32-d88232693bcd",
+  "data": {
+    "Instance": {
+      "name": "Richtung",
+      "back": {
+        "Text": "direction"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

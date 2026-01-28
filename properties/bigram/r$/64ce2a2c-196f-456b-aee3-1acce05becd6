@@ -1,0 +1,12 @@
+{
+  "id": "64ce2a2c-196f-456b-aee3-1acce05becd6",
+  "data": {
+    "Instance": {
+      "name": "offer",
+      "back": {
+        "Text": "victim"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

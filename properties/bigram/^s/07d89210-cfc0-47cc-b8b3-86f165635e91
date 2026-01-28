@@ -1,0 +1,12 @@
+{
+  "id": "07d89210-cfc0-47cc-b8b3-86f165635e91",
+  "data": {
+    "Instance": {
+      "name": "Schöpfung",
+      "back": {
+        "Text": "creation"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

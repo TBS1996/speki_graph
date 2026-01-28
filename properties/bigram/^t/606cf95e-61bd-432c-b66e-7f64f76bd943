@@ -1,0 +1,12 @@
+{
+  "id": "606cf95e-61bd-432c-b66e-7f64f76bd943",
+  "data": {
+    "Instance": {
+      "name": "tjeneste",
+      "back": {
+        "Text": "favour/service"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "d2998c50-38b1-482e-9227-8d5c603b7518",
+  "data": {
+    "Instance": {
+      "name": "vann",
+      "back": {
+        "Text": "water"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

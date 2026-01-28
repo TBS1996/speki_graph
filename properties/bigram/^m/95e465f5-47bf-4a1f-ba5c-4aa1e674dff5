@@ -1,0 +1,12 @@
+{
+  "id": "95e465f5-47bf-4a1f-ba5c-4aa1e674dff5",
+  "data": {
+    "Instance": {
+      "name": "Material",
+      "back": {
+        "Text": "material"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

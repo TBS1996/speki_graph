@@ -1,0 +1,12 @@
+{
+  "id": "b6dce7cc-1fe4-409f-bdbb-bd55beb7fdca",
+  "data": {
+    "Instance": {
+      "name": "Unterschied",
+      "back": {
+        "Text": "difference"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

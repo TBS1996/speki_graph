@@ -1,0 +1,12 @@
+{
+  "id": "0b14be18-aff7-4889-a660-7795d839fcae",
+  "data": {
+    "Instance": {
+      "name": "sentimiento",
+      "back": {
+        "Text": "feeling"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "b40ed2bf-383b-4bdd-aa5b-45b6c5f82719",
+  "data": {
+    "Instance": {
+      "name": "Analyse",
+      "back": {
+        "Text": "analysis"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

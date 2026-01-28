@@ -1,0 +1,12 @@
+{
+  "id": "160b589a-bb5b-49ac-b953-42ca83dad801",
+  "data": {
+    "Instance": {
+      "name": "hobby",
+      "back": {
+        "Text": "hobby"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "a7c99dd3-cc54-405b-8532-1389dee06037",
+  "data": {
+    "Instance": {
+      "name": "kost",
+      "back": {
+        "Text": "diet/broom"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

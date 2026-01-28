@@ -1,0 +1,12 @@
+{
+  "id": "1621b1d1-26db-4e0f-b335-3d8973dc877f",
+  "data": {
+    "Instance": {
+      "name": "clasificación",
+      "back": {
+        "Text": "rating"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "f517dc7a-056c-43d6-90f9-7f14c28a13b6",
+  "data": {
+    "Instance": {
+      "name": "Lastwagen",
+      "back": {
+        "Text": "truck"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

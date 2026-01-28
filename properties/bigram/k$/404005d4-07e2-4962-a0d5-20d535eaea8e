@@ -1,0 +1,12 @@
+{
+  "id": "404005d4-07e2-4962-a0d5-20d535eaea8e",
+  "data": {
+    "Instance": {
+      "name": "språk",
+      "back": {
+        "Text": "language"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

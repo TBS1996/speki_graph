@@ -1,0 +1,12 @@
+{
+  "id": "68fd0c7b-59d8-405b-bb62-aaea401145ac",
+  "data": {
+    "Instance": {
+      "name": "Wissenschaftler",
+      "back": {
+        "Text": "scientist"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

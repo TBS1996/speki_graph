@@ -1,0 +1,12 @@
+{
+  "id": "76e220d0-d0fc-4275-9f09-ac688097f737",
+  "data": {
+    "Instance": {
+      "name": "ubicación",
+      "back": {
+        "Text": "location"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

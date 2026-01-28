@@ -1,0 +1,12 @@
+{
+  "id": "bd04cab3-776a-45bb-a82c-46e8ae460ac6",
+  "data": {
+    "Instance": {
+      "name": "henvendelse",
+      "back": {
+        "Text": "inquiry"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "26465f2a-81c3-44cb-82b6-bbbd514cb0be",
+  "data": {
+    "Instance": {
+      "name": "percepción",
+      "back": {
+        "Text": "perception"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

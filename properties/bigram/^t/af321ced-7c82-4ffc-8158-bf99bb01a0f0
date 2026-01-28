@@ -1,0 +1,12 @@
+{
+  "id": "af321ced-7c82-4ffc-8158-bf99bb01a0f0",
+  "data": {
+    "Instance": {
+      "name": "Tiefe",
+      "back": {
+        "Text": "depth"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

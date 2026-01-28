@@ -1,0 +1,12 @@
+{
+  "id": "16a5f261-670d-4fda-9ceb-2aa7e2dbbac0",
+  "data": {
+    "Instance": {
+      "name": "Fortschritt",
+      "back": {
+        "Text": "progress"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "e9967b94-cfe0-4642-9d3c-5b347b28b057",
+  "data": {
+    "Instance": {
+      "name": "Untersuchung",
+      "back": {
+        "Text": "investigation"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

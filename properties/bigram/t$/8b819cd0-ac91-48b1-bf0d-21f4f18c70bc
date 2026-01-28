@@ -1,0 +1,12 @@
+{
+  "id": "8b819cd0-ac91-48b1-bf0d-21f4f18c70bc",
+  "data": {
+    "Instance": {
+      "name": "Persönlichkeit",
+      "back": {
+        "Text": "personality"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

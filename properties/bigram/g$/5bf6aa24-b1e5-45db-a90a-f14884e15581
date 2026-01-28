@@ -1,0 +1,12 @@
+{
+  "id": "5bf6aa24-b1e5-45db-a90a-f14884e15581",
+  "data": {
+    "Instance": {
+      "name": "Abteilung",
+      "back": {
+        "Text": "department"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

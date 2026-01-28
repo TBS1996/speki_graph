@@ -1,0 +1,12 @@
+{
+  "id": "96e11e37-242f-4fc7-a4f2-e83d56c7c504",
+  "data": {
+    "Instance": {
+      "name": "cocina",
+      "back": {
+        "Text": "kitchen"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

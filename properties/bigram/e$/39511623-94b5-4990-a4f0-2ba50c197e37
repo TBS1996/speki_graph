@@ -1,0 +1,12 @@
+{
+  "id": "39511623-94b5-4990-a4f0-2ba50c197e37",
+  "data": {
+    "Instance": {
+      "name": "Katze",
+      "back": {
+        "Text": "cat"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

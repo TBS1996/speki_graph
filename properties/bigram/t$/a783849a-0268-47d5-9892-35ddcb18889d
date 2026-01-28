@@ -1,0 +1,12 @@
+{
+  "id": "a783849a-0268-47d5-9892-35ddcb18889d",
+  "data": {
+    "Instance": {
+      "name": "Brot",
+      "back": {
+        "Text": "bread"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

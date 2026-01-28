@@ -1,0 +1,12 @@
+{
+  "id": "d3569b44-24db-486e-8c5a-df98796a0a4c",
+  "data": {
+    "Instance": {
+      "name": "Bestandteil",
+      "back": {
+        "Text": "component"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

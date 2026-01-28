@@ -1,0 +1,12 @@
+{
+  "id": "c486fc1a-5737-4958-bc27-7243ae2549bf",
+  "data": {
+    "Instance": {
+      "name": "tela",
+      "back": {
+        "Text": "fabric"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

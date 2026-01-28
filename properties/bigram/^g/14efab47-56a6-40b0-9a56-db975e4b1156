@@ -1,0 +1,12 @@
+{
+  "id": "14efab47-56a6-40b0-9a56-db975e4b1156",
+  "data": {
+    "Instance": {
+      "name": "Gedanke",
+      "back": {
+        "Text": "thought"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

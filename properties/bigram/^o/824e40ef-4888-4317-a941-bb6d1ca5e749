@@ -1,0 +1,12 @@
+{
+  "id": "824e40ef-4888-4317-a941-bb6d1ca5e749",
+  "data": {
+    "Instance": {
+      "name": "oppgave",
+      "back": {
+        "Text": "task"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

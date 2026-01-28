@@ -1,0 +1,12 @@
+{
+  "id": "86dd07ed-3f2a-4a4f-a7d0-f5c944dd4176",
+  "data": {
+    "Instance": {
+      "name": "lue",
+      "back": {
+        "Text": "cap"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

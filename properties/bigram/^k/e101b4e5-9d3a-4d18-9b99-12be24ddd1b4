@@ -1,0 +1,12 @@
+{
+  "id": "e101b4e5-9d3a-4d18-9b99-12be24ddd1b4",
+  "data": {
+    "Instance": {
+      "name": "Katastrophe",
+      "back": {
+        "Text": "disaster"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

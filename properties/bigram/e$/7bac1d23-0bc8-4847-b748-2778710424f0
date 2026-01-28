@@ -1,0 +1,12 @@
+{
+  "id": "7bac1d23-0bc8-4847-b748-2778710424f0",
+  "data": {
+    "Instance": {
+      "name": "Perspektive",
+      "back": {
+        "Text": "perspective"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

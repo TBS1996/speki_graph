@@ -1,0 +1,12 @@
+{
+  "id": "501fccb7-dce8-4d1a-8f42-51a897a25612",
+  "data": {
+    "Instance": {
+      "name": "pc",
+      "back": {
+        "Text": "personal computer"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

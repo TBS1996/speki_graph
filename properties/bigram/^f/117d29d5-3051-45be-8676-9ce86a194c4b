@@ -1,0 +1,12 @@
+{
+  "id": "117d29d5-3051-45be-8676-9ce86a194c4b",
+  "data": {
+    "Instance": {
+      "name": "forslag",
+      "back": {
+        "Text": "proposal"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

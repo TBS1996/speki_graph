@@ -1,0 +1,12 @@
+{
+  "id": "27f8a8b2-b3be-487b-9e57-85f8949ac126",
+  "data": {
+    "Instance": {
+      "name": "barn",
+      "back": {
+        "Text": "child"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

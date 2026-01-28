@@ -1,0 +1,12 @@
+{
+  "id": "e0c4234c-5273-4630-8392-896db3199c43",
+  "data": {
+    "Instance": {
+      "name": "Teil",
+      "back": {
+        "Text": "part"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

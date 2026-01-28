@@ -1,0 +1,12 @@
+{
+  "id": "b460918c-794a-433f-bc78-5f3cdc0db197",
+  "data": {
+    "Instance": {
+      "name": "fenomen",
+      "back": {
+        "Text": "phenomenon"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "dba143b9-8896-4da7-a59f-d61d2051fa05",
+  "data": {
+    "Instance": {
+      "name": "dekning",
+      "back": {
+        "Text": "coverage/cover"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

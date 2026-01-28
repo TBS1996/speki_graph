@@ -1,0 +1,12 @@
+{
+  "id": "80fca5b6-cf99-4610-9778-446d70550d19",
+  "data": {
+    "Instance": {
+      "name": "industri",
+      "back": {
+        "Text": "industry"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

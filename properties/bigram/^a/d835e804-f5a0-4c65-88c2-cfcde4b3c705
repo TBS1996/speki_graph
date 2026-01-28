@@ -1,0 +1,12 @@
+{
+  "id": "d835e804-f5a0-4c65-88c2-cfcde4b3c705",
+  "data": {
+    "Instance": {
+      "name": "Arbeiter",
+      "back": {
+        "Text": "worker"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

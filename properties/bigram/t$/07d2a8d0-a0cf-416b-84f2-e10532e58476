@@ -1,0 +1,12 @@
+{
+  "id": "07d2a8d0-a0cf-416b-84f2-e10532e58476",
+  "data": {
+    "Instance": {
+      "name": "vestkant",
+      "back": {
+        "Text": "west side"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

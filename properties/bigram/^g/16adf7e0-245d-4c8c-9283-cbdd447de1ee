@@ -1,0 +1,12 @@
+{
+  "id": "16adf7e0-245d-4c8c-9283-cbdd447de1ee",
+  "data": {
+    "Instance": {
+      "name": "grunnskole",
+      "back": {
+        "Text": "primary school (1. to 7.-grade)"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

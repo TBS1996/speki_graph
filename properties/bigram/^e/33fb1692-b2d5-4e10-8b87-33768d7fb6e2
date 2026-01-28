@@ -1,0 +1,12 @@
+{
+  "id": "33fb1692-b2d5-4e10-8b87-33768d7fb6e2",
+  "data": {
+    "Instance": {
+      "name": "Eintrag",
+      "back": {
+        "Text": "entry"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "0bba4357-38ad-4544-844c-558446f537f1",
+  "data": {
+    "Instance": {
+      "name": "Kriterium",
+      "back": {
+        "Text": "criterion"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

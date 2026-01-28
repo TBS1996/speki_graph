@@ -1,0 +1,12 @@
+{
+  "id": "a18d5940-2c41-4c1a-af2a-17328fa830d9",
+  "data": {
+    "Instance": {
+      "name": "stue",
+      "back": {
+        "Text": "lounge"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

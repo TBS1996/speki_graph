@@ -1,0 +1,12 @@
+{
+  "id": "8141cad7-f524-40d9-8383-b34dcf14415f",
+  "data": {
+    "Instance": {
+      "name": "hilsen",
+      "back": {
+        "Text": "greeting"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

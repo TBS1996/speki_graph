@@ -1,0 +1,12 @@
+{
+  "id": "aa3bab27-34fe-4ecd-b860-f1ca612f69f3",
+  "data": {
+    "Instance": {
+      "name": "Unterhaltung",
+      "back": {
+        "Text": "conversation"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

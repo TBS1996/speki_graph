@@ -1,0 +1,12 @@
+{
+  "id": "dca3ef71-da49-470d-b742-68dc196fe413",
+  "data": {
+    "Instance": {
+      "name": "kebab",
+      "back": {
+        "Text": "kebab"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

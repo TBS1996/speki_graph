@@ -1,0 +1,12 @@
+{
+  "id": "e52251bf-2f8f-4cb0-b0ae-10511f52e9b3",
+  "data": {
+    "Instance": {
+      "name": "tillegg",
+      "back": {
+        "Text": "addition"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

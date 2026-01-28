@@ -1,0 +1,12 @@
+{
+  "id": "0126c4f1-ee62-4481-8460-6d23942614eb",
+  "data": {
+    "Instance": {
+      "name": "opphold",
+      "back": {
+        "Text": "stay"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

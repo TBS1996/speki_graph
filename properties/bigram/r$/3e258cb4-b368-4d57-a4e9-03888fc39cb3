@@ -1,0 +1,12 @@
+{
+  "id": "3e258cb4-b368-4d57-a4e9-03888fc39cb3",
+  "data": {
+    "Instance": {
+      "name": "speider",
+      "back": {
+        "Text": "scout"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

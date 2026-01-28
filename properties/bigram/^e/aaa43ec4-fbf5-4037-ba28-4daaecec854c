@@ -1,0 +1,12 @@
+{
+  "id": "aaa43ec4-fbf5-4037-ba28-4daaecec854c",
+  "data": {
+    "Instance": {
+      "name": "excepción",
+      "back": {
+        "Text": "exception"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

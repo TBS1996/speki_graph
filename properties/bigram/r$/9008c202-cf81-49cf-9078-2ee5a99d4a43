@@ -1,0 +1,12 @@
+{
+  "id": "9008c202-cf81-49cf-9078-2ee5a99d4a43",
+  "data": {
+    "Instance": {
+      "name": "editor",
+      "back": {
+        "Text": "editor"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

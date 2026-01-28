@@ -1,0 +1,12 @@
+{
+  "id": "4feabc6b-985e-4f37-a2a2-a51af8f42632",
+  "data": {
+    "Instance": {
+      "name": "deuda",
+      "back": {
+        "Text": "debt"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

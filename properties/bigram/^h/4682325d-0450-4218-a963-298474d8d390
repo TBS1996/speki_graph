@@ -1,0 +1,12 @@
+{
+  "id": "4682325d-0450-4218-a963-298474d8d390",
+  "data": {
+    "Instance": {
+      "name": "hombro",
+      "back": {
+        "Text": "shoulder"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

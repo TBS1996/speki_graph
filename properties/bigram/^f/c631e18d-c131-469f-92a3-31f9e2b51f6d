@@ -1,0 +1,12 @@
+{
+  "id": "c631e18d-c131-469f-92a3-31f9e2b51f6d",
+  "data": {
+    "Instance": {
+      "name": "Freitag",
+      "back": {
+        "Text": "friday"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

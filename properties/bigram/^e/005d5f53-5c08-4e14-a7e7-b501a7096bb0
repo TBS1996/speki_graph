@@ -1,0 +1,12 @@
+{
+  "id": "005d5f53-5c08-4e14-a7e7-b501a7096bb0",
+  "data": {
+    "Instance": {
+      "name": "escritorio",
+      "back": {
+        "Text": "desk"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

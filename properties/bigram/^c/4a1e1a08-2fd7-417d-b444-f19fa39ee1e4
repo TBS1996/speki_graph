@@ -1,0 +1,12 @@
+{
+  "id": "4a1e1a08-2fd7-417d-b444-f19fa39ee1e4",
+  "data": {
+    "Instance": {
+      "name": "Club",
+      "back": {
+        "Text": "club"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

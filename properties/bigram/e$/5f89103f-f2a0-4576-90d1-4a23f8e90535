@@ -1,0 +1,12 @@
+{
+  "id": "5f89103f-f2a0-4576-90d1-4a23f8e90535",
+  "data": {
+    "Instance": {
+      "name": "hjørne",
+      "back": {
+        "Text": "corner"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

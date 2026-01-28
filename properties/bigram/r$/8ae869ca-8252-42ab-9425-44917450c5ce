@@ -1,0 +1,12 @@
+{
+  "id": "8ae869ca-8252-42ab-9425-44917450c5ce",
+  "data": {
+    "Instance": {
+      "name": "Indikator",
+      "back": {
+        "Text": "indicator"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

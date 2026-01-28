@@ -1,0 +1,12 @@
+{
+  "id": "62b3dd10-1621-4336-bc08-c0bc31b7ed8d",
+  "data": {
+    "Instance": {
+      "name": "bosted",
+      "back": {
+        "Text": "homestead"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "98a9c891-7adb-42a7-8a43-f868237e98de",
+  "data": {
+    "Instance": {
+      "name": "utvikling",
+      "back": {
+        "Text": "development"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

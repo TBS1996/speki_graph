@@ -1,0 +1,12 @@
+{
+  "id": "724854c6-a935-48e7-8e50-2b158bfd3290",
+  "data": {
+    "Instance": {
+      "name": "Einkauf",
+      "back": {
+        "Text": "shopping"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

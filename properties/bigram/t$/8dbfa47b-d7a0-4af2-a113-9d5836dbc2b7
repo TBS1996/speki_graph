@@ -1,0 +1,12 @@
+{
+  "id": "8dbfa47b-d7a0-4af2-a113-9d5836dbc2b7",
+  "data": {
+    "Instance": {
+      "name": "nett",
+      "back": {
+        "Text": "net"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "629ba362-6577-4c31-8cb2-de70c5e226bb",
+  "data": {
+    "Instance": {
+      "name": "bokstav",
+      "back": {
+        "Text": "letter"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

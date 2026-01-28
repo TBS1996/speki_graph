@@ -1,0 +1,12 @@
+{
+  "id": "51874666-4eb0-469f-b06c-7cf748a804b7",
+  "data": {
+    "Instance": {
+      "name": "vind",
+      "back": {
+        "Text": "wind"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

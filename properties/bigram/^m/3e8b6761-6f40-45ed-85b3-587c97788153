@@ -1,0 +1,12 @@
+{
+  "id": "3e8b6761-6f40-45ed-85b3-587c97788153",
+  "data": {
+    "Instance": {
+      "name": "museum",
+      "back": {
+        "Text": "museum"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

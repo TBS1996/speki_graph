@@ -1,0 +1,12 @@
+{
+  "id": "4bd88f56-85b6-4f48-8718-1a222a505cfe",
+  "data": {
+    "Instance": {
+      "name": "religión",
+      "back": {
+        "Text": "religion"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

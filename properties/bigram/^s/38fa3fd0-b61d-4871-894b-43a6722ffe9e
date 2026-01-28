@@ -1,0 +1,12 @@
+{
+  "id": "38fa3fd0-b61d-4871-894b-43a6722ffe9e",
+  "data": {
+    "Instance": {
+      "name": "Sitzung",
+      "back": {
+        "Text": "session"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

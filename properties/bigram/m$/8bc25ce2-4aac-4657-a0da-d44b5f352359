@@ -1,0 +1,12 @@
+{
+  "id": "8bc25ce2-4aac-4657-a0da-d44b5f352359",
+  "data": {
+    "Instance": {
+      "name": "skjerm",
+      "back": {
+        "Text": "screen"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

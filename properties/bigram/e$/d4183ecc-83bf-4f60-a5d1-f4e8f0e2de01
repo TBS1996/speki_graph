@@ -1,0 +1,12 @@
+{
+  "id": "d4183ecc-83bf-4f60-a5d1-f4e8f0e2de01",
+  "data": {
+    "Instance": {
+      "name": "Sonne",
+      "back": {
+        "Text": "sun"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

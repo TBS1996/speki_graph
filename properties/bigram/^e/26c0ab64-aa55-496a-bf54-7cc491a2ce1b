@@ -1,0 +1,12 @@
+{
+  "id": "26c0ab64-aa55-496a-bf54-7cc491a2ce1b",
+  "data": {
+    "Instance": {
+      "name": "empresa",
+      "back": {
+        "Text": "firm"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

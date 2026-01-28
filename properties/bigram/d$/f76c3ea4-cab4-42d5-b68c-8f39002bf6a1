@@ -1,0 +1,12 @@
+{
+  "id": "f76c3ea4-cab4-42d5-b68c-8f39002bf6a1",
+  "data": {
+    "Instance": {
+      "name": "Bargeld",
+      "back": {
+        "Text": "cash"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

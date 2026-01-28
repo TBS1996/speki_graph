@@ -1,0 +1,12 @@
+{
+  "id": "1a8caed5-e5d9-43e2-96e2-178a326f8af5",
+  "data": {
+    "Instance": {
+      "name": "tilstand",
+      "back": {
+        "Text": "condition"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

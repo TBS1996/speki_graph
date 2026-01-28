@@ -1,0 +1,12 @@
+{
+  "id": "990ee672-a1b7-4c87-b038-d0c6ffa30adc",
+  "data": {
+    "Instance": {
+      "name": "condición",
+      "back": {
+        "Text": "condition"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "8124b036-459d-4f13-81e6-245ef0f29f9f",
+  "data": {
+    "Instance": {
+      "name": "bot",
+      "back": {
+        "Text": "penalty"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "9a80942a-8598-4a9e-b09e-0b8c8d4b45bb",
+  "data": {
+    "Instance": {
+      "name": "felt",
+      "back": {
+        "Text": "field"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

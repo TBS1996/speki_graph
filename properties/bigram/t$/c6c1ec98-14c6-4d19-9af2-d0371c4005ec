@@ -1,0 +1,12 @@
+{
+  "id": "c6c1ec98-14c6-4d19-9af2-d0371c4005ec",
+  "data": {
+    "Instance": {
+      "name": "konsert",
+      "back": {
+        "Text": "concert"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

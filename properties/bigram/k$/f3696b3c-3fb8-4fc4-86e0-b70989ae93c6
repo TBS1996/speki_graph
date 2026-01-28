@@ -1,0 +1,12 @@
+{
+  "id": "f3696b3c-3fb8-4fc4-86e0-b70989ae93c6",
+  "data": {
+    "Instance": {
+      "name": "vedtak",
+      "back": {
+        "Text": "decision"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

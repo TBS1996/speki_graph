@@ -1,0 +1,12 @@
+{
+  "id": "9caa379b-696f-4be2-806a-8d125370e1ad",
+  "data": {
+    "Instance": {
+      "name": "aviso",
+      "back": {
+        "Text": "notice"
+      },
+      "class": "b8125489-3654-4629-9fca-9e24a5652645"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "3d9223e6-3784-48e4-8ee8-cadafc068447",
+  "data": {
+    "Instance": {
+      "name": "galleri",
+      "back": {
+        "Text": "gallery"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

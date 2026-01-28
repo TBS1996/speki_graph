@@ -1,0 +1,12 @@
+{
+  "id": "d306680a-1365-4eca-a574-30edc60b7d6d",
+  "data": {
+    "Instance": {
+      "name": "Erfolg",
+      "back": {
+        "Text": "success"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

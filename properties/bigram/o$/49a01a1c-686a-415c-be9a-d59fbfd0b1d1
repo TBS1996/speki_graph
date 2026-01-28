@@ -1,0 +1,12 @@
+{
+  "id": "49a01a1c-686a-415c-be9a-d59fbfd0b1d1",
+  "data": {
+    "Instance": {
+      "name": "konto",
+      "back": {
+        "Text": "account"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

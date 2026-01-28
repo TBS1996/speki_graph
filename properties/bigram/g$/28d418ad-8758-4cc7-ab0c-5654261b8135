@@ -1,0 +1,12 @@
+{
+  "id": "28d418ad-8758-4cc7-ab0c-5654261b8135",
+  "data": {
+    "Instance": {
+      "name": "Besatzung",
+      "back": {
+        "Text": "crew"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

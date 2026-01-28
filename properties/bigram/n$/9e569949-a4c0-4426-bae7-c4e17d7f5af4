@@ -1,0 +1,12 @@
+{
+  "id": "9e569949-a4c0-4426-bae7-c4e17d7f5af4",
+  "data": {
+    "Instance": {
+      "name": "Einkommen",
+      "back": {
+        "Text": "income"
+      },
+      "class": "e2c847a3-e9ba-4912-ac90-735e47df4985"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "8fc967ef-2ab3-4f34-ba60-a199b609610a",
+  "data": {
+    "Instance": {
+      "name": "bolig",
+      "back": {
+        "Text": "dwelling"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}

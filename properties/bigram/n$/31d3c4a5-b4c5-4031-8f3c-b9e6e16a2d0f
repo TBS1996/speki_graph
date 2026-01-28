@@ -1,0 +1,12 @@
+{
+  "id": "31d3c4a5-b4c5-4031-8f3c-b9e6e16a2d0f",
+  "data": {
+    "Instance": {
+      "name": "barnevern",
+      "back": {
+        "Text": "child protection"
+      },
+      "class": "b086e6ff-7077-4fdc-9dec-f7b431245794"
+    }
+  }
+}
